@@ -1,4 +1,45 @@
 {
-  "generated_at": null,
-  "jobs": []
+  "generated_at": "2026-06-15T22:23:57.361930+00:00",
+  "jobs": [
+    {
+      "job_id": "greenhouse_pinterest_7958766",
+      "employer_name": "Pinterest",
+      "job_title": "Software Engineer II",
+      "location": "City, State, Country; Remote, CA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7958766",
+      "posted_at": "2026-06-15T18:16:16-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_5432095",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Software Engineer, Android",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=5432095",
+      "posted_at": "2026-06-15T15:16:13-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7782544",
+      "employer_name": "Pinterest",
+      "job_title": "SDET II, tvScientific",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7782544",
+      "posted_at": "2026-06-15T13:32:02-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_6922682",
+      "employer_name": "Pinterest",
+      "job_title": "Software Engineer, iOS",
+      "location": "Toronto, ON, CA",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
+      "posted_at": "2026-06-15T09:52:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    }
+  ]
 }
