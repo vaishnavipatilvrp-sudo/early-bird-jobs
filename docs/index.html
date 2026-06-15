@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Early Bird — Daily Job Feed</title>
+<style>
+  :root {
+    --bg: #FAF7F1;
+    --ink: #2E2A26;
+    --muted: #8A8278;
+    --line: #E7E0D6;
+    --accent: #7A8F6E;
+    --hot: #D98B5F;
+    --card-bg: #FFFFFF;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  header {
+    padding: 48px 24px 24px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .eyebrow {
+    font-size: 13px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 8px;
+  }
+
+  h1 {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: clamp(32px, 6vw, 48px);
+    font-weight: 600;
+    margin: 0 0 8px;
+    letter-spacing: -0.01em;
+  }
+
+  .subtitle {
+    color: var(--muted);
+    font-size: 15px;
+    line-height: 1.5;
+    max-width: 520px;
+  }
+
+  .meta-row {
+    margin-top: 20px;
+    padding-top: 16px;
+    border-top: 1px solid var(--line);
+    font-size: 13px;
+    color: var(--muted);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .filters {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 24px 16px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .filters select,
+  .filters input {
+    font-family: inherit;
+    font-size: 13px;
+    padding: 9px 12px;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    background: var(--card-bg);
+    color: var(--ink);
+  }
+
+  .filters input {
+    flex: 1;
+    min-width: 160px;
+  }
+
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 24px 64px;
+  }
+
+  .job-card {
+    background: var(--card-bg);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 20px 22px;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    transition: border-color 0.15s ease, transform 0.15s ease;
+  }
+
+  .job-card:hover {
+    border-color: var(--accent);
+    transform: translateY(-1px);
+  }
+
+  .freshness {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-top: 6px;
+    flex-shrink: 0;
+    background: var(--line);
+  }
+
+  .freshness.hot {
+    background: var(--hot);
+    box-shadow: 0 0 0 4px rgba(217, 139, 95, 0.15);
+  }
+
+  .freshness.fresh {
+    background: var(--accent);
+    box-shadow: 0 0 0 4px rgba(122, 143, 110, 0.12);
+  }
+
+  .job-content { flex: 1; min-width: 0; }
+
+  .job-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+
+  .company-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  .company {
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+
+  .category-tag {
+    font-size: 11px;
+    color: var(--muted);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 2px 8px;
+  }
+
+  .posted-time {
+    font-size: 12px;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+
+  .job-title {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 19px;
+    font-weight: 600;
+    margin: 4px 0 6px;
+    line-height: 1.3;
+  }
+
+  .job-location {
+    font-size: 13px;
+    color: var(--muted);
+    margin-bottom: 12px;
+  }
+
+  .apply-link {
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1.5px solid var(--accent);
+    padding-bottom: 2px;
+  }
+
+  .apply-link:hover { color: var(--accent); }
+
+  .empty-state {
+    text-align: center;
+    padding: 64px 20px;
+    color: var(--muted);
+  }
+
+  .empty-state .big {
+    font-family: Georgia, serif;
+    font-size: 22px;
+    color: var(--ink);
+    margin-bottom: 8px;
+  }
+
+  footer {
+    text-align: center;
+    font-size: 12px;
+    color: var(--muted);
+    padding: 24px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="eyebrow">Early Bird</div>
+  <h1>Today's fresh roles</h1>
+  <div class="subtitle">
+    Postings from your target companies, last 24 hours, matching your role
+    keywords. Sorted newest first — apply early.
+  </div>
+  <div class="meta-row">
+    <span id="last-updated">Loading...</span>
+    <span id="job-count"></span>
+  </div>
+</header>
+
+<div class="filters">
+  <input type="text" id="search-box" placeholder="Search company or title..." />
+  <select id="category-filter">
+    <option value="">All roles</option>
+  </select>
+  <select id="company-filter">
+    <option value="">All companies</option>
+  </select>
+</div>
+
+<main id="job-list">
+  <div class="empty-state">Loading today's postings...</div>
+</main>
+
+<footer>Refreshes daily. Built for early applications.</footer>
+
+<script>
+  let allJobs = [];
+
+  function timeAgo(isoString) {
+    const posted = new Date(isoString);
+    const now = new Date();
+    const diffMs = now - posted;
+    const diffMins = Math.floor(diffMs / 60000);
+    const diffHours = Math.floor(diffMins / 60);
+
+    if (diffMins < 60) return { label: `${diffMins}m ago`, hours: diffHours };
+    return { label: `${diffHours}h ago`, hours: diffHours };
+  }
+
+  function freshnessClass(hours) {
+    if (hours < 2) return 'hot';
+    if (hours < 8) return 'fresh';
+    return '';
+  }
+
+  function populateFilters(jobs) {
+    const categoryFilter = document.getElementById('category-filter');
+    const companyFilter = document.getElementById('company-filter');
+
+    const categories = [...new Set(jobs.map(j => j.category).filter(Boolean))].sort();
+    const companies = [...new Set(jobs.map(j => j.employer_name).filter(Boolean))].sort();
+
+    categories.forEach(c => {
+      const opt = document.createElement('option');
+      opt.value = c;
+      opt.textContent = c;
+      categoryFilter.appendChild(opt);
+    });
+
+    companies.forEach(c => {
+      const opt = document.createElement('option');
+      opt.value = c;
+      opt.textContent = c;
+      companyFilter.appendChild(opt);
+    });
+  }
+
+  function renderJobs(jobs) {
+    const listEl = document.getElementById('job-list');
+    const countEl = document.getElementById('job-count');
+
+    countEl.textContent = `${jobs.length} matching role${jobs.length === 1 ? '' : 's'}`;
+
+    if (jobs.length === 0) {
+      listEl.innerHTML = `
+        <div class="empty-state">
+          <div class="big">Nothing matches</div>
+          <div>No postings match your current filters. Try clearing them, or check back tomorrow morning.</div>
+        </div>`;
+      return;
+    }
+
+    listEl.innerHTML = jobs.map(job => {
+      const ago = timeAgo(job.posted_at);
+      return `
+        <div class="job-card">
+          <div class="freshness ${freshnessClass(ago.hours)}"></div>
+          <div class="job-content">
+            <div class="job-top">
+              <div class="company-row">
+                <span class="company">${job.employer_name || ''}</span>
+                <span class="category-tag">${job.category || ''}</span>
+              </div>
+              <span class="posted-time">${ago.label}</span>
+            </div>
+            <div class="job-title">${job.job_title || ''}</div>
+            <div class="job-location">${job.location || ''}</div>
+            <a class="apply-link" href="${job.apply_link}" target="_blank" rel="noopener">Apply now →</a>
+          </div>
+        </div>`;
+    }).join('');
+  }
+
+  function applyFilters() {
+    const search = document.getElementById('search-box').value.toLowerCase();
+    const category = document.getElementById('category-filter').value;
+    const company = document.getElementById('company-filter').value;
+
+    const filtered = allJobs.filter(job => {
+      if (category && job.category !== category) return false;
+      if (company && job.employer_name !== company) return false;
+      if (search) {
+        const haystack = `${job.employer_name} ${job.job_title}`.toLowerCase();
+        if (!haystack.includes(search)) return false;
+      }
+      return true;
+    });
+
+    renderJobs(filtered);
+  }
+
+  async function loadJobs() {
+    const updatedEl = document.getElementById('last-updated');
+
+    try {
+      const res = await fetch('data.json', { cache: 'no-store' });
+      const data = await res.json();
+      allJobs = data.jobs || [];
+
+      if (data.generated_at) {
+        const gen = new Date(data.generated_at);
+        updatedEl.textContent = `Last updated ${gen.toLocaleString()}`;
+      } else {
+        updatedEl.textContent = 'Not yet run';
+      }
+
+      populateFilters(allJobs);
+      renderJobs(allJobs);
+
+      document.getElementById('search-box').addEventListener('input', applyFilters);
+      document.getElementById('category-filter').addEventListener('change', applyFilters);
+      document.getElementById('company-filter').addEventListener('change', applyFilters);
+
+    } catch (err) {
+      document.getElementById('job-list').innerHTML = `<div class="empty-state">Couldn't load jobs. Try refreshing.</div>`;
+      updatedEl.textContent = '';
+    }
+  }
+
+  loadJobs();
+</script>
+
+</body>
+</html>
