@@ -1,0 +1,42 @@
+name: Daily Job Fetch
+
+on:
+  schedule:
+    # Runs at 12:00 UTC every day = 7:00 AM Central (Irving, TX) during CDT
+    # Adjust the hour if you want a different local time, or for CST vs CDT.
+    - cron: '0 12 * * *'
+  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-jobs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run job fetcher
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python fetch_jobs.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data.json seen_jobs.json
+          git diff --quiet --cached || git commit -m "Update job listings $(date -u +%Y-%m-%d)"
+          git push
