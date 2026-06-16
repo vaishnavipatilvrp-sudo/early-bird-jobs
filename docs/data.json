@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-06-15T22:23:57.361930+00:00",
+  "generated_at": "2026-06-16T21:49:46.891213+00:00",
   "jobs": [
+    {
+      "job_id": "nRL4-6C9oWAsGrMfAAAAAA==",
+      "employer_name": "Deloitte",
+      "job_title": "Full Stack Software Engineer III",
+      "location": "Washington, District of Columbia",
+      "apply_link": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-iii-at-deloitte-4429513561",
+      "posted_at": "2026-06-16T14:00:00.000Z",
+      "category": "Software Engineer",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_pinterest_5459622",
+      "employer_name": "Pinterest",
+      "job_title": "Software Engineer II, Full Stack",
+      "location": "Toronto, ON, CA",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=5459622",
+      "posted_at": "2026-06-16T10:59:56-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_5773689",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Software Engineer, Android",
+      "location": "Toronto, ON, CA",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=5773689",
+      "posted_at": "2026-06-16T10:59:21-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "jR_X5cmDFvuehlDPAAAAAA==",
+      "employer_name": "Intel",
+      "job_title": "Machine Learning Engineer",
+      "location": "Hillsboro, Oregon",
+      "apply_link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-intel-4428002052",
+      "posted_at": "2026-06-16T01:00:00.000Z",
+      "category": "ML / AI Engineer",
+      "source": "jsearch"
+    },
     {
       "job_id": "greenhouse_pinterest_7958766",
       "employer_name": "Pinterest",
@@ -8,36 +48,6 @@
       "location": "City, State, Country; Remote, CA, US",
       "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7958766",
       "posted_at": "2026-06-15T18:16:16-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_5432095",
-      "employer_name": "Pinterest",
-      "job_title": "Sr. Software Engineer, Android",
-      "location": "San Francisco, CA, US; Remote, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=5432095",
-      "posted_at": "2026-06-15T15:16:13-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_7782544",
-      "employer_name": "Pinterest",
-      "job_title": "SDET II, tvScientific",
-      "location": "San Francisco, CA, US; Remote, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7782544",
-      "posted_at": "2026-06-15T13:32:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_6922682",
-      "employer_name": "Pinterest",
-      "job_title": "Software Engineer, iOS",
-      "location": "Toronto, ON, CA",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
-      "posted_at": "2026-06-15T09:52:27-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
