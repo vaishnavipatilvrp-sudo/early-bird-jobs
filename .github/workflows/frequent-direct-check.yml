@@ -1,0 +1,42 @@
+name: Frequent Direct Source Check
+
+on:
+  schedule:
+    # Every 2 hours. This only checks direct_sources (Greenhouse/Lever/Ashby),
+    # which have no API key / rate limit - safe to run often.
+    - cron: '0 */2 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-direct:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run job fetcher (direct sources only)
+        env:
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python fetch_jobs.py --direct-only
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+          git add docs/data.json seen_jobs.json
+          git diff --quiet --cached || git commit -m "Direct source check $(date -u +%Y-%m-%dT%H:%M)"
+          git push
