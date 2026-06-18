@@ -25,6 +25,12 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Sync with latest before running
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+
       - name: Run job fetcher (direct sources only)
         env:
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
@@ -34,9 +40,18 @@ jobs:
 
       - name: Commit and push updated data
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase
           git add docs/data.json seen_jobs.json
-          git diff --quiet --cached || git commit -m "Direct source check $(date -u +%Y-%m-%dT%H:%M)"
-          git push
+          if git diff --quiet --cached; then
+            echo "No changes to commit."
+          else
+            git commit -m "Direct source check $(date -u +%Y-%m-%dT%H:%M)"
+            for i in 1 2 3 4 5; do
+              if git push; then
+                echo "Push succeeded."
+                break
+              fi
+              echo "Push failed, pulling and retrying..."
+              git pull --rebase
+              sleep 5
+            done
+          fi
