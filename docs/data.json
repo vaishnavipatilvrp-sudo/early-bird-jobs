@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T12:38:03.216185+00:00",
+  "generated_at": "2026-06-19T14:01:15.910531+00:00",
   "jobs": [
     {
       "job_id": "ashby_cohere_732c05f5-a9ec-43a3-9ae4-3ec7f7630fff",
@@ -20,6 +20,16 @@
       "posted_at": "2026-06-19T09:46:47.758+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_stripe_8018297",
+      "employer_name": "Stripe",
+      "job_title": "Data Scientist, Payments",
+      "location": "Dublin",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8018297",
+      "posted_at": "2026-06-19T08:40:40-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_databricks_8521090002",
