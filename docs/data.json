@@ -1,134 +1,14 @@
 {
-  "generated_at": "2026-06-19T22:18:23.505745+00:00",
+  "generated_at": "2026-06-20T08:36:02.223624+00:00",
   "jobs": [
     {
-      "job_id": "ashby_openai_e57d196b-4fa0-4463-bd33-d8189f0d3541",
-      "employer_name": "OpenAI",
-      "job_title": "Research Engineer / Research Scientist - RE / RS - Proactivity ",
-      "location": "San Francisco",
-      "apply_link": "https://jobs.ashbyhq.com/openai/e57d196b-4fa0-4463-bd33-d8189f0d3541",
-      "posted_at": "2026-06-19T21:44:14.662+00:00",
-      "category": "ML / AI Engineer",
-      "source": "ashby"
-    },
-    {
-      "job_id": "greenhouse_xai_5105096007",
-      "employer_name": "xAI",
-      "job_title": "Senior Data Analyst- Fraud & AML",
-      "location": "New York, NY; Palo Alto, CA",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5105096007",
-      "posted_at": "2026-06-19T17:23:07-04:00",
-      "category": "Data Analyst",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4640096005",
-      "employer_name": "Scale AI",
-      "job_title": "Machine Learning Solutions Engineer \u2013 Robotics ",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4640096005",
-      "posted_at": "2026-06-19T15:39:40-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8002300",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Data Scientist",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8002300?gh_jid=8002300",
-      "posted_at": "2026-06-19T14:39:05-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7581107",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Machine Learning Engineer",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7581107?gh_jid=7581107",
-      "posted_at": "2026-06-19T14:39:05-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7376838",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Principal Software Engineer",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7376838?gh_jid=7376838",
-      "posted_at": "2026-06-19T14:39:05-04:00",
+      "job_id": "greenhouse_databricks_7619811002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer - Observability",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619811002",
+      "posted_at": "2026-06-20T00:49:27-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8007032",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Data Engineer",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8007032?gh_jid=8007032",
-      "posted_at": "2026-06-19T14:39:05-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7896462",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Distributed Databases",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7896462?gh_jid=7896462",
-      "posted_at": "2026-06-19T14:39:05-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7463793",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer - Egress ",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7463793?gh_jid=7463793",
-      "posted_at": "2026-06-19T14:39:05-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7793013",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer - Network Connectivity",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7793013?gh_jid=7793013",
-      "posted_at": "2026-06-19T14:39:05-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7276690",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, R2 Metadata",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7276690?gh_jid=7276690",
-      "posted_at": "2026-06-19T14:39:05-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7446310",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Software Engineer, Network Performance & Reliability",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7446310?gh_jid=7446310",
-      "posted_at": "2026-06-19T14:39:05-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5271380008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Domain Scaling",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5271380008",
-      "posted_at": "2026-06-19T14:36:38-04:00",
-      "category": "Other",
       "source": "greenhouse"
     }
   ]
