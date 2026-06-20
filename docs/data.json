@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-06-20T20:09:28.035302+00:00",
+  "generated_at": "2026-06-20T20:52:17.890680+00:00",
   "jobs": [
-    {
-      "job_id": "mN0bAyaKR2MHCnh1AAAAAA==",
-      "employer_name": "Intel Corporation",
-      "job_title": "AI Software Engineer - Agentic AI System",
-      "location": "Folsom, California",
-      "apply_link": "https://www.theladders.com/job/ai-software-engineer-agentic-ai-system-intel-folsom-ca_87398124",
-      "posted_at": "2026-06-20T17:00:00.000Z",
-      "category": "Software Engineer",
-      "source": "jsearch"
-    },
     {
       "job_id": "greenhouse_anthropic_5271380008",
       "employer_name": "Anthropic",
@@ -20,16 +10,6 @@
       "posted_at": "2026-06-20T15:31:49-04:00",
       "category": "Other",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "wpSzQdW8_BfYSr9GAAAAAA==",
-      "employer_name": "Amazon Web Services (AWS)",
-      "job_title": "Applied Scientist, AWS Automated Reasoning",
-      "location": "New York, New York",
-      "apply_link": "https://www.linkedin.com/jobs/view/applied-scientist-aws-automated-reasoning-at-amazon-web-services-aws-4411879602",
-      "posted_at": "2026-06-20T15:00:00.000Z",
-      "category": "ML / AI Engineer",
-      "source": "jsearch"
     }
   ]
 }
