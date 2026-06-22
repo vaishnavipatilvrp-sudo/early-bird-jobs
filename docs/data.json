@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T23:06:26.912799+00:00",
+  "generated_at": "2026-06-22T23:56:47.938195+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_1f9c3666-82c8-45a7-8d4b-633a265ce996",
@@ -40,16 +40,6 @@
       "posted_at": "2026-06-22T17:41:22-04:00",
       "category": "Other",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "lever_spotify_1bbaf909-5ff3-4ed6-87ca-f7ff007a169c",
-      "employer_name": "Spotify",
-      "job_title": "Data Scientist - Discovery Mode",
-      "location": "New York, NY",
-      "apply_link": "https://jobs.lever.co/spotify/1bbaf909-5ff3-4ed6-87ca-f7ff007a169c",
-      "posted_at": "2026-06-22T17:14:00.858000+00:00",
-      "category": "Data Scientist",
-      "source": "lever"
     },
     {
       "job_id": "greenhouse_coinbase_8022077",
@@ -169,46 +159,6 @@
       "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4794532007",
       "posted_at": "2026-06-22T13:58:04-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7222566",
-      "employer_name": "Waymo",
-      "job_title": "Senior Software Engineer, Simulator Platform",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7222566",
-      "posted_at": "2026-06-22T13:51:54-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7655695",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Data Scientist",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7655695?gh_jid=7655695",
-      "posted_at": "2026-06-22T13:46:06-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4708221005",
-      "employer_name": "Scale AI",
-      "job_title": "Software Engineer, Data Infrastructure",
-      "location": "New York, NY; Washington, DC",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4708221005",
-      "posted_at": "2026-06-22T13:41:10-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5198102008",
-      "employer_name": "Block",
-      "job_title": "Senior Machine Learning Engineer, Risk Modeling",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5198102008?gh_jid=5198102008",
-      "posted_at": "2026-06-22T13:29:22-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
