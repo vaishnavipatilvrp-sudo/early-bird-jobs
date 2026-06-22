@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-06-22T18:21:11.380490+00:00",
+  "generated_at": "2026-06-22T20:29:29.862394+00:00",
   "jobs": [
+    {
+      "job_id": "lever_spotify_1bbaf909-5ff3-4ed6-87ca-f7ff007a169c",
+      "employer_name": "Spotify",
+      "job_title": "Data Scientist - Discovery Mode",
+      "location": "New York, NY",
+      "apply_link": "https://jobs.lever.co/spotify/1bbaf909-5ff3-4ed6-87ca-f7ff007a169c",
+      "posted_at": "2026-06-22T17:14:00.858000+00:00",
+      "category": "Data Scientist",
+      "source": "lever"
+    },
     {
       "job_id": "3KzgQmHJ37lZ7PjFAAAAAA==",
       "employer_name": "American Express",
@@ -12,14 +22,34 @@
       "source": "jsearch"
     },
     {
-      "job_id": "3KzgQmHJ37lZ7PjFAAAAAA==",
+      "job_id": "2MILTAFUxIQ4u915AAAAAA==",
+      "employer_name": "HealthDrive Corporation",
+      "job_title": "Senior Cloud Data and Analytics Engineer",
+      "location": "Framingham, Massachusetts",
+      "apply_link": "https://www.linkedin.com/jobs/view/senior-cloud-data-and-analytics-engineer-at-healthdrive-corporation-4431756065",
+      "posted_at": "2026-06-22T17:00:00.000Z",
+      "category": "Other",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "qgl1M8Nun9d70kZXAAAAAA==",
       "employer_name": "American Express",
       "job_title": "Agentic AI Engineer II - Cyber Analytics",
-      "location": "New York, New York",
-      "apply_link": "https://www.linkedin.com/jobs/view/agentic-ai-engineer-ii-cyber-analytics-at-american-express-4431732843",
+      "location": "Phoenix, Arizona",
+      "apply_link": "https://www.linkedin.com/jobs/view/agentic-ai-engineer-ii-cyber-analytics-at-american-express-4431742696",
       "posted_at": "2026-06-22T17:00:00.000Z",
       "category": "ML / AI Engineer",
       "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_lyft_8594124002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Software Engineer",
+      "location": "Mexico City, Mexico",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8594124002?gh_jid=8594124002",
+      "posted_at": "2026-06-22T16:26:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "ashby_openai_097b3559-d3a8-4c7b-b9e5-d891146d6b07",
@@ -32,6 +62,36 @@
       "source": "ashby"
     },
     {
+      "job_id": "hALsptKPBvOwmM_YAAAAAA==",
+      "employer_name": "Bank of America",
+      "job_title": "Assistant Vice President; Data Engineer",
+      "location": "Charlotte, North Carolina",
+      "apply_link": "https://www.linkedin.com/jobs/view/assistant-vice-president-data-engineer-at-bank-of-america-4431728525",
+      "posted_at": "2026-06-22T16:00:00.000Z",
+      "category": "Data Engineer",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_stripe_6786324",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Billing",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=6786324",
+      "posted_at": "2026-06-22T15:54:18-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7531466",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer, Multiverse",
+      "location": "San Francisco, CA, USA; Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7531466",
+      "posted_at": "2026-06-22T15:50:58-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "ashby_cohere_2d4d224f-94d4-40ce-88d5-5d340bc0da4e",
       "employer_name": "Cohere",
       "job_title": "Senior Research Engineer - Safety Tooling and Data",
@@ -40,6 +100,76 @@
       "posted_at": "2026-06-22T15:49:38.004+00:00",
       "category": "Other",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_databricks_8456277002",
+      "employer_name": "Databricks",
+      "job_title": "Principal Data Scientist",
+      "location": "Mountain View, California; San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8456277002",
+      "posted_at": "2026-06-22T15:18:15-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7985187",
+      "employer_name": "Coinbase",
+      "job_title": "Machine Learning Engineer",
+      "location": "Remote - India",
+      "apply_link": "https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187",
+      "posted_at": "2026-06-22T15:16:53-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_7991290",
+      "employer_name": "DoorDash",
+      "job_title": "Business Intelligence Engineer (GTM), In-Store Data & Analytics",
+      "location": "New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7991290",
+      "posted_at": "2026-06-22T15:16:08-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7558051",
+      "employer_name": "Coinbase",
+      "job_title": "Software Engineer, EAA Integrations",
+      "location": "Remote - India",
+      "apply_link": "https://www.coinbase.com/careers/positions/7558051?gh_jid=7558051",
+      "posted_at": "2026-06-22T15:08:18-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_7490348",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Software Engineer, Service Tools",
+      "location": "Brazil",
+      "apply_link": "https://careers.airbnb.com/positions/7490348?gh_jid=7490348",
+      "posted_at": "2026-06-22T14:57:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7188174",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L2)",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7188174",
+      "posted_at": "2026-06-22T14:54:20-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8011547",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Software Engineer, iOS",
+      "location": "Toronto, ON, CA",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8011547",
+      "posted_at": "2026-06-22T14:24:24-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_lyft_8544638002",
@@ -52,34 +182,14 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "ffAPFiq5-OeC9TPyAAAAAA==",
-      "employer_name": "Walmart",
-      "job_title": "(USA) Senior, Data Scientist - Applied AI",
-      "location": "Sunnyvale, California",
-      "apply_link": "https://www.linkedin.com/jobs/view/usa-senior-data-scientist-applied-ai-at-walmart-4428929209",
-      "posted_at": "2026-06-22T14:00:00.000Z",
-      "category": "Data Scientist",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "ffAPFiq5-OeC9TPyAAAAAA==",
-      "employer_name": "Walmart",
-      "job_title": "(USA) Senior, Data Scientist - Applied AI",
-      "location": "Sunnyvale, California",
-      "apply_link": "https://www.linkedin.com/jobs/view/usa-senior-data-scientist-applied-ai-at-walmart-4428929209",
-      "posted_at": "2026-06-22T14:00:00.000Z",
-      "category": "Data Scientist",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "ffAPFiq5-OeC9TPyAAAAAA==",
-      "employer_name": "Walmart",
-      "job_title": "(USA) Senior, Data Scientist - Applied AI",
-      "location": "Sunnyvale, California",
-      "apply_link": "https://www.linkedin.com/jobs/view/usa-senior-data-scientist-applied-ai-at-walmart-4428929209",
-      "posted_at": "2026-06-22T14:00:00.000Z",
-      "category": "Data Scientist",
-      "source": "jsearch"
+      "job_id": "greenhouse_xai_4946696007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Networking Software and Services",
+      "location": "Palo Alto, CA",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4946696007",
+      "posted_at": "2026-06-22T13:58:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_xai_4794532007",
@@ -87,16 +197,6 @@
       "job_title": "Software Engineer - Networking Software and Services",
       "location": "Dublin, IE",
       "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4794532007",
-      "posted_at": "2026-06-22T13:58:04-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_xai_4946696007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer - Networking Software and Services",
-      "location": "Palo Alto, CA",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4946696007",
       "posted_at": "2026-06-22T13:58:04-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -142,16 +242,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_waymo_8012269",
-      "employer_name": "Waymo",
-      "job_title": "Software Engineer, DUE Experience",
-      "location": "Mountain View, CA, United States ",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8012269",
-      "posted_at": "2026-06-22T13:20:34-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_coinbase_7739592",
       "employer_name": "Coinbase",
       "job_title": "Senior Machine Learning Engineer",
@@ -172,21 +262,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_twilio_8007455",
-      "employer_name": "Twilio",
-      "job_title": "Machine Learning Engineer",
-      "location": "Remote - Spain",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007455",
-      "posted_at": "2026-06-22T12:33:58-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_twilio_7996774",
       "employer_name": "Twilio",
       "job_title": "Machine Learning Engineer",
       "location": "Remote - Ireland",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996774",
+      "posted_at": "2026-06-22T12:33:58-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8007455",
+      "employer_name": "Twilio",
+      "job_title": "Machine Learning Engineer",
+      "location": "Remote - Spain",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007455",
       "posted_at": "2026-06-22T12:33:58-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -522,16 +612,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_twilio_7188174",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L2)",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7188174",
-      "posted_at": "2026-06-22T12:33:50-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_twilio_7520997",
       "employer_name": "Twilio",
       "job_title": "Staff Machine Learning Engineer (L4)",
@@ -602,16 +682,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_airbnb_7490348",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Software Engineer, Service Tools",
-      "location": "Brazil",
-      "apply_link": "https://careers.airbnb.com/positions/7490348?gh_jid=7490348",
-      "posted_at": "2026-06-22T12:16:33-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_cloudflare_7657028",
       "employer_name": "Cloudflare (bonus, not on your original list)",
       "job_title": "Business Development Representative - Danish, Norwegian or Swedish Speaking",
@@ -649,26 +719,6 @@
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7985945",
       "posted_at": "2026-06-22T10:42:44-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8602402002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer (L5) - MCE",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8602402002",
-      "posted_at": "2026-06-22T08:28:11-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8593107002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer (L6) - MCE",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593107002",
-      "posted_at": "2026-06-22T08:22:51-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
