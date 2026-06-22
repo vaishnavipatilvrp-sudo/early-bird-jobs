@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-06-22T17:57:53.024618+00:00",
+  "generated_at": "2026-06-22T18:21:11.380490+00:00",
   "jobs": [
+    {
+      "job_id": "3KzgQmHJ37lZ7PjFAAAAAA==",
+      "employer_name": "American Express",
+      "job_title": "Agentic AI Engineer II - Cyber Analytics",
+      "location": "New York, New York",
+      "apply_link": "https://www.linkedin.com/jobs/view/agentic-ai-engineer-ii-cyber-analytics-at-american-express-4431732843",
+      "posted_at": "2026-06-22T17:00:00.000Z",
+      "category": "ML / AI Engineer",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "3KzgQmHJ37lZ7PjFAAAAAA==",
+      "employer_name": "American Express",
+      "job_title": "Agentic AI Engineer II - Cyber Analytics",
+      "location": "New York, New York",
+      "apply_link": "https://www.linkedin.com/jobs/view/agentic-ai-engineer-ii-cyber-analytics-at-american-express-4431732843",
+      "posted_at": "2026-06-22T17:00:00.000Z",
+      "category": "ML / AI Engineer",
+      "source": "jsearch"
+    },
     {
       "job_id": "ashby_openai_097b3559-d3a8-4c7b-b9e5-d891146d6b07",
       "employer_name": "OpenAI",
@@ -20,6 +40,66 @@
       "posted_at": "2026-06-22T15:49:38.004+00:00",
       "category": "Other",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_lyft_8544638002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer, Scheduled Rides",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8544638002?gh_jid=8544638002",
+      "posted_at": "2026-06-22T14:11:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "ffAPFiq5-OeC9TPyAAAAAA==",
+      "employer_name": "Walmart",
+      "job_title": "(USA) Senior, Data Scientist - Applied AI",
+      "location": "Sunnyvale, California",
+      "apply_link": "https://www.linkedin.com/jobs/view/usa-senior-data-scientist-applied-ai-at-walmart-4428929209",
+      "posted_at": "2026-06-22T14:00:00.000Z",
+      "category": "Data Scientist",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "ffAPFiq5-OeC9TPyAAAAAA==",
+      "employer_name": "Walmart",
+      "job_title": "(USA) Senior, Data Scientist - Applied AI",
+      "location": "Sunnyvale, California",
+      "apply_link": "https://www.linkedin.com/jobs/view/usa-senior-data-scientist-applied-ai-at-walmart-4428929209",
+      "posted_at": "2026-06-22T14:00:00.000Z",
+      "category": "Data Scientist",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "ffAPFiq5-OeC9TPyAAAAAA==",
+      "employer_name": "Walmart",
+      "job_title": "(USA) Senior, Data Scientist - Applied AI",
+      "location": "Sunnyvale, California",
+      "apply_link": "https://www.linkedin.com/jobs/view/usa-senior-data-scientist-applied-ai-at-walmart-4428929209",
+      "posted_at": "2026-06-22T14:00:00.000Z",
+      "category": "Data Scientist",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_xai_4794532007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Networking Software and Services",
+      "location": "Dublin, IE",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4794532007",
+      "posted_at": "2026-06-22T13:58:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_4946696007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Networking Software and Services",
+      "location": "Palo Alto, CA",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4946696007",
+      "posted_at": "2026-06-22T13:58:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_waymo_7222566",
@@ -52,16 +132,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_xai_4794532007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer - Networking Software and Services",
-      "location": "Dublin, IE",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4794532007",
-      "posted_at": "2026-06-22T13:36:12-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_block_5198102008",
       "employer_name": "Block",
       "job_title": "Senior Machine Learning Engineer, Risk Modeling",
@@ -78,16 +148,6 @@
       "location": "Mountain View, CA, United States ",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8012269",
       "posted_at": "2026-06-22T13:20:34-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_xai_4946696007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer - Networking Software and Services",
-      "location": "Palo Alto, CA",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4946696007",
-      "posted_at": "2026-06-22T13:20:24-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -112,21 +172,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_twilio_7996774",
-      "employer_name": "Twilio",
-      "job_title": "Machine Learning Engineer",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996774",
-      "posted_at": "2026-06-22T12:33:58-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_twilio_8007455",
       "employer_name": "Twilio",
       "job_title": "Machine Learning Engineer",
       "location": "Remote - Spain",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007455",
+      "posted_at": "2026-06-22T12:33:58-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7996774",
+      "employer_name": "Twilio",
+      "job_title": "Machine Learning Engineer",
+      "location": "Remote - Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996774",
       "posted_at": "2026-06-22T12:33:58-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -382,21 +442,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_twilio_7605743",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7605743",
-      "posted_at": "2026-06-22T12:33:51-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_twilio_7647708",
       "employer_name": "Twilio",
       "job_title": "Software Engineer",
       "location": "Remote - Estonia",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7647708",
+      "posted_at": "2026-06-22T12:33:51-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7605743",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7605743",
       "posted_at": "2026-06-22T12:33:51-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
