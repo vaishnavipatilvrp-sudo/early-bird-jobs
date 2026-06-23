@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T22:58:18.538917+00:00",
+  "generated_at": "2026-06-23T23:38:44.846065+00:00",
   "jobs": [
     {
       "job_id": "ashby_notion_876c69a9-be0a-4a71-bf4a-04cbc9c6328e",
@@ -12,14 +12,164 @@
       "source": "ashby"
     },
     {
-      "job_id": "TuUWDK25YlxWUmYrAAAAAA==",
-      "employer_name": "Capgemini",
-      "job_title": "Snowflake Data Engineer (DBT)",
-      "location": "New York, New York",
-      "apply_link": "https://www.linkedin.com/jobs/view/snowflake-data-engineer-dbt-at-capgemini-4431402609",
-      "posted_at": "2026-06-23T19:00:00.000Z",
-      "category": "Data Engineer",
-      "source": "jsearch"
+      "job_id": "greenhouse_coinbase_7851231",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer - Data Platform ",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7851231?gh_jid=7851231",
+      "posted_at": "2026-06-23T19:23:14-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_7760003",
+      "employer_name": "DoorDash",
+      "job_title": "Principal Machine Learning Engineer, Ads & Promos Delivery",
+      "location": "Sunnyvale, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7760003",
+      "posted_at": "2026-06-23T19:22:12-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7812407",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer - Data Platform ",
+      "location": "Remote - Canada",
+      "apply_link": "https://www.coinbase.com/careers/positions/7812407?gh_jid=7812407",
+      "posted_at": "2026-06-23T19:21:37-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_6972250",
+      "employer_name": "DoorDash",
+      "job_title": "Embedded Software Engineer - Labs",
+      "location": "San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/6972250",
+      "posted_at": "2026-06-23T19:21:16-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_5575224",
+      "employer_name": "DoorDash",
+      "job_title": "Staff Software Engineer, Machine Learning - Personalization",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5575224",
+      "posted_at": "2026-06-23T19:19:06-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_7962110",
+      "employer_name": "DoorDash",
+      "job_title": "Staff Machine Learning Engineer, Fulfillment Planning",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7962110",
+      "posted_at": "2026-06-23T19:18:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_7488724",
+      "employer_name": "DoorDash",
+      "job_title": "Staff Machine Learning Engineer - DashPass",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7488724",
+      "posted_at": "2026-06-23T19:18:43-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_7932109",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Machine Learning - Credit & Refund Optimization",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7932109",
+      "posted_at": "2026-06-23T19:18:35-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_7580407",
+      "employer_name": "DoorDash",
+      "job_title": "Machine Learning Engineer, Marketplace Optimization",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7580407",
+      "posted_at": "2026-06-23T19:18:25-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_5630454",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, iOS (All Teams)",
+      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630454",
+      "posted_at": "2026-06-23T19:15:21-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_5516948",
+      "employer_name": "DoorDash",
+      "job_title": "Senior Software Engineer, iOS",
+      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5516948",
+      "posted_at": "2026-06-23T19:15:09-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_5630302",
+      "employer_name": "DoorDash",
+      "job_title": "Staff Software Engineer, Backend",
+      "location": "Sunnyvale, CA; San Francisco, CA; New York, NY; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630302",
+      "posted_at": "2026-06-23T19:12:56-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_5630445",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Backend (All Teams)",
+      "location": "Los Angeles, CA; Sunnyvale, CA; San Francisco, CA; New York, NY; Seattle, WA; Ann Arbor, MI",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630445",
+      "posted_at": "2026-06-23T19:12:46-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_6103225",
+      "employer_name": "DoorDash",
+      "job_title": "Data Scientist / Senior Data Scientist",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY; Los Angeles, CA; Chicago, IL; Austin, TX; Washington D.C.",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/6103225",
+      "posted_at": "2026-06-23T19:11:08-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7701645",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer,  Infrastructure - Compute Platform",
+      "location": "Remote - Canada",
+      "apply_link": "https://www.coinbase.com/careers/positions/7701645?gh_jid=7701645",
+      "posted_at": "2026-06-23T18:58:48-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8367942002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Forward Deployed Engineer (FDE, Full Stack)",
+      "location": "London, United Kingdom",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8367942002",
+      "posted_at": "2026-06-23T18:58:34-04:00",
+      "category": "Other",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_coinbase_7701651",
@@ -68,16 +218,6 @@
       "location": "Remote - USA",
       "apply_link": "https://www.coinbase.com/careers/positions/7964410?gh_jid=7964410",
       "posted_at": "2026-06-23T18:50:48-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7701645",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer,  Infrastructure - Compute Platform",
-      "location": "Remote - Canada",
-      "apply_link": "https://www.coinbase.com/careers/positions/7701645?gh_jid=7701645",
-      "posted_at": "2026-06-23T18:45:43-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -142,16 +282,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_coinbase_7812407",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer - Data Platform ",
-      "location": "Remote - Canada",
-      "apply_link": "https://www.coinbase.com/careers/positions/7812407?gh_jid=7812407",
-      "posted_at": "2026-06-23T17:08:37-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_airbnb_8024267",
       "employer_name": "Airbnb",
       "job_title": "Machine Learning Engineer, Community Support Engineering",
@@ -159,16 +289,6 @@
       "apply_link": "https://careers.airbnb.com/positions/8024267?gh_jid=8024267",
       "posted_at": "2026-06-23T17:05:19-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7851231",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer - Data Platform ",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7851231?gh_jid=7851231",
-      "posted_at": "2026-06-23T17:04:11-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
@@ -282,16 +402,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8367942002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Forward Deployed Engineer (FDE, Full Stack)",
-      "location": "London, United Kingdom",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8367942002",
-      "posted_at": "2026-06-23T14:45:59-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_airbnb_7565550",
       "employer_name": "Airbnb",
       "job_title": "Senior Software Engineer, Reliability Engineering",
@@ -329,36 +439,6 @@
       "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5167318007",
       "posted_at": "2026-06-23T13:59:38-04:00",
       "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_5802956004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Support AI Engineer",
-      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/5802956004?gh_jid=5802956004",
-      "posted_at": "2026-06-23T13:36:48-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5191785008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Safeguards Labs",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5191785008",
-      "posted_at": "2026-06-23T13:28:12-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8015792",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "New York City",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8015792",
-      "posted_at": "2026-06-23T13:05:51-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
