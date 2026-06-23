@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T11:44:20.163303+00:00",
+  "generated_at": "2026-06-23T12:29:03.794529+00:00",
   "jobs": [
     {
       "job_id": "ashby_cohere_582c4a60-14a2-49d5-b4d3-24c4ec50508d",
@@ -10,6 +10,36 @@
       "posted_at": "2026-06-23T10:03:12.072+00:00",
       "category": "ML / AI Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "hQfuJwYCIclmSYl0AAAAAA==",
+      "employer_name": "Berkeley Industrial Engineering & Operations Research",
+      "job_title": "Data Scientist I at TTX Company",
+      "location": "US",
+      "apply_link": "https://www.linkedin.com/jobs/view/data-scientist-i-at-ttx-company-at-berkeley-industrial-engineering-operations-research-4431205520",
+      "posted_at": "2026-06-23T10:00:00.000Z",
+      "category": "Data Scientist",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7963328",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer (Internal Query Engine Testing Tools), Query",
+      "location": "Cork",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7963328",
+      "posted_at": "2026-06-23T08:10:25-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7571473",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer (Internal Query Engine Testing Tools), Query",
+      "location": "Dublin; Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7571473",
+      "posted_at": "2026-06-23T08:10:24-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_databricks_8439078002",
@@ -28,26 +58,6 @@
       "location": "China",
       "apply_link": "https://careers.airbnb.com/positions/7945163?gh_jid=7945163",
       "posted_at": "2026-06-23T06:54:26-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_6972536",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Software Engineer - Platforms & Productivity",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/6972536?gh_jid=6972536",
-      "posted_at": "2026-06-23T01:55:42-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7948185",
-      "employer_name": "Waymo",
-      "job_title": "Senior Software Engineer, Perception Future Sensing Platforms",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7948185",
-      "posted_at": "2026-06-23T01:51:04-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
