@@ -1,6 +1,166 @@
 {
-  "generated_at": "2026-06-23T19:27:17.476253+00:00",
+  "generated_at": "2026-06-23T21:23:15.398104+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_pinterest_8001932",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Data Scientist, Forecasting",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8001932",
+      "posted_at": "2026-06-23T17:20:42-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7964410",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer, Developer Infrastructure",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7964410?gh_jid=7964410",
+      "posted_at": "2026-06-23T17:16:50-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7994887",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Atlas",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7994887",
+      "posted_at": "2026-06-23T17:13:44-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7812407",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer - Data Platform ",
+      "location": "Remote - Canada",
+      "apply_link": "https://www.coinbase.com/careers/positions/7812407?gh_jid=7812407",
+      "posted_at": "2026-06-23T17:08:37-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8024267",
+      "employer_name": "Airbnb",
+      "job_title": "Machine Learning Engineer, Community Support Engineering",
+      "location": "San Francisco, CA",
+      "apply_link": "https://careers.airbnb.com/positions/8024267?gh_jid=8024267",
+      "posted_at": "2026-06-23T17:05:19-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7851231",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer - Data Platform ",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7851231?gh_jid=7851231",
+      "posted_at": "2026-06-23T17:04:11-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7983456",
+      "employer_name": "Stripe",
+      "job_title": "Machine Learning Engineer, Payment Intelligence",
+      "location": "Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7983456",
+      "posted_at": "2026-06-23T17:00:25-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7701645",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer,  Infrastructure - Compute Platform",
+      "location": "Remote - Canada",
+      "apply_link": "https://www.coinbase.com/careers/positions/7701645?gh_jid=7701645",
+      "posted_at": "2026-06-23T17:00:06-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7701651",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Infrastructure - Compute Platform",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7701651?gh_jid=7701651",
+      "posted_at": "2026-06-23T16:59:25-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7602727",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer, (L2) CDP",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7602727",
+      "posted_at": "2026-06-23T16:24:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5248631008",
+      "employer_name": "Block",
+      "job_title": "Staff Applied Machine Learning Engineer - Intelligent Data, Signals & Systems",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5248631008?gh_jid=5248631008",
+      "posted_at": "2026-06-23T15:57:57-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_4969342008",
+      "employer_name": "Block",
+      "job_title": "Staff Applied Machine Learning Engineer - Fraud & Abuse",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/4969342008?gh_jid=4969342008",
+      "posted_at": "2026-06-23T15:57:14-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7895284",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Brazil",
+      "location": "Sao Paulo",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7895284",
+      "posted_at": "2026-06-23T15:56:52-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8024085",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Android Software Engineer, Quality Platform",
+      "location": "Brazil",
+      "apply_link": "https://careers.airbnb.com/positions/8024085?gh_jid=8024085",
+      "posted_at": "2026-06-23T15:49:42-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8560779002",
+      "employer_name": "Databricks",
+      "job_title": "Software Engineer, Web Products",
+      "location": "Mountain View, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002",
+      "posted_at": "2026-06-23T15:35:44-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8603660002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Software Engineer - Ad Infra, Lyft Ads",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8603660002?gh_jid=8603660002",
+      "posted_at": "2026-06-23T15:34:25-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_discord_8604768002",
       "employer_name": "Discord (bonus, not on your original list)",
@@ -72,16 +232,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8560779002",
-      "employer_name": "Databricks",
-      "job_title": "Software Engineer, Web Products",
-      "location": "Mountain View, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002",
-      "posted_at": "2026-06-23T14:22:46-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_airbnb_8014904",
       "employer_name": "Airbnb",
       "job_title": "Senior Machine Learning Engineer, Customer Support Engineering",
@@ -139,106 +289,6 @@
       "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=5691478",
       "posted_at": "2026-06-23T12:53:56-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7958901",
-      "employer_name": "Coinbase",
-      "job_title": "Software Engineer, Enterprise Apps",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7958901?gh_jid=7958901",
-      "posted_at": "2026-06-23T11:22:50-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8421650002",
-      "employer_name": "Lyft",
-      "job_title": "Senior ML Software Engineer, Mapping",
-      "location": "San Francisco, CA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8421650002?gh_jid=8421650002",
-      "posted_at": "2026-06-23T11:10:52-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_6849268",
-      "employer_name": "Twilio",
-      "job_title": "Manager, Software Engineering (L4)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/6849268",
-      "posted_at": "2026-06-23T10:32:07-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7520997",
-      "employer_name": "Twilio",
-      "job_title": "Staff Machine Learning Engineer (L4)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7520997",
-      "posted_at": "2026-06-23T10:30:59-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7972646",
-      "employer_name": "Twilio",
-      "job_title": "Staff Business Intelligence Engineer",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7972646",
-      "posted_at": "2026-06-23T10:28:53-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7946608",
-      "employer_name": "Twilio",
-      "job_title": "Frontend Software Engineer ",
-      "location": "Remote - United Kingdom",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7946608",
-      "posted_at": "2026-06-23T10:27:56-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7926889",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L2)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7926889",
-      "posted_at": "2026-06-23T10:27:48-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8015738",
-      "employer_name": "Twilio",
-      "job_title": "Staff, Software Engineer (L4)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8015738",
-      "posted_at": "2026-06-23T10:27:21-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7996770",
-      "employer_name": "Twilio",
-      "job_title": "Staff Software Engineer (L4)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996770",
-      "posted_at": "2026-06-23T10:26:48-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8007449",
-      "employer_name": "Twilio",
-      "job_title": "Senior/Staff Applied Research Software Engineer",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007449",
-      "posted_at": "2026-06-23T10:26:41-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
