@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-06-24T17:33:14.133571+00:00",
+  "generated_at": "2026-06-24T18:22:42.896467+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_anthropic_5277834008",
+      "employer_name": "Anthropic",
+      "job_title": "Manager, Applied AI Engineering,  Life Sciences (Beneficial Deployments)",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5277834008",
+      "posted_at": "2026-06-24T13:51:42-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8026511",
+      "employer_name": "Stripe",
+      "job_title": "Senior Software Engineer",
+      "location": "South San Francisco, CA ",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8026511",
+      "posted_at": "2026-06-24T13:38:20-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_airbnb_8021476",
       "employer_name": "Airbnb",
@@ -50,16 +70,6 @@
       "posted_at": "2026-06-24T12:33:10-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "crYP0P3IAMO4M2HxAAAAAA==",
-      "employer_name": "Applied Intuition",
-      "job_title": "Defense Software Engineer",
-      "location": "Arlington, Virginia",
-      "apply_link": "https://www.linkedin.com/jobs/view/defense-software-engineer-at-applied-intuition-4423961703",
-      "posted_at": "2026-06-24T12:00:00.000Z",
-      "category": "Software Engineer",
-      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_mongodb_7467701",
@@ -258,16 +268,6 @@
       "location": "Doha, Qatar ",
       "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4673314005",
       "posted_at": "2026-06-24T08:52:52-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_7902817",
-      "employer_name": "Airbnb",
-      "job_title": "Software Engineer, BizTech(Python, LLM, GenAI, MCP)",
-      "location": "Bangalore, India",
-      "apply_link": "https://careers.airbnb.com/positions/7902817?gh_jid=7902817",
-      "posted_at": "2026-06-24T07:33:12-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
