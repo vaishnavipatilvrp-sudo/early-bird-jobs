@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-06-24T10:37:14.434730+00:00",
+  "generated_at": "2026-06-24T12:08:51.553766+00:00",
   "jobs": [
+    {
+      "job_id": "sEscPwdDopV7W8SiAAAAAA==",
+      "employer_name": "CNH Industrial",
+      "job_title": "Senior Research Engineer",
+      "location": "Oak Brook, Illinois",
+      "apply_link": "https://www.indeed.com/viewjob?jk=18881c72174cef90",
+      "posted_at": "2026-06-24T09:00:00.000Z",
+      "category": "Other",
+      "source": "jsearch"
+    },
     {
       "job_id": "ashby_notion_49bdf081-6e20-4323-8c73-6d6b19544ff5",
       "employer_name": "Notion (bonus, not on your original list)",
@@ -12,6 +22,36 @@
       "source": "ashby"
     },
     {
+      "job_id": "greenhouse_airbnb_7902817",
+      "employer_name": "Airbnb",
+      "job_title": "Software Engineer, BizTech(Python, LLM, GenAI, MCP)",
+      "location": "Bangalore, India",
+      "apply_link": "https://careers.airbnb.com/positions/7902817?gh_jid=7902817",
+      "posted_at": "2026-06-24T07:33:12-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8024057",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Software Engineer, Service Tools   ",
+      "location": "Brazil",
+      "apply_link": "https://careers.airbnb.com/positions/8024057?gh_jid=8024057",
+      "posted_at": "2026-06-24T07:09:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_7556182",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Software Engineer, (Python, GenAI, MCP)",
+      "location": "Remote - Bangalore, India",
+      "apply_link": "https://careers.airbnb.com/positions/7556182?gh_jid=7556182",
+      "posted_at": "2026-06-24T06:43:10-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "greenhouse_coinbase_8022077",
       "employer_name": "Coinbase",
       "job_title": "Senior Software Engineer, Backend - Payments Platform",
@@ -19,16 +59,6 @@
       "apply_link": "https://www.coinbase.com/careers/positions/8022077?gh_jid=8022077",
       "posted_at": "2026-06-24T02:32:13-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8021303",
-      "employer_name": "Twilio",
-      "job_title": "Product Data Analyst (L3)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8021303",
-      "posted_at": "2026-06-24T00:44:43-04:00",
-      "category": "Data Analyst",
       "source": "greenhouse"
     }
   ]
