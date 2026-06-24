@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T22:59:47.376161+00:00",
+  "generated_at": "2026-06-24T23:53:06.100055+00:00",
   "jobs": [
     {
       "job_id": "lever_palantir_75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
@@ -20,36 +20,6 @@
       "posted_at": "2026-06-24T18:28:58-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "K6nKdaSmJfz9UpzBAAAAAA==",
-      "employer_name": "HDR",
-      "job_title": "Applied Data Scientist - AI Enablement (Transportation)",
-      "location": "Vienna, Virginia",
-      "apply_link": "https://www.linkedin.com/jobs/view/applied-data-scientist-ai-enablement-transportation-at-hdr-4431884133",
-      "posted_at": "2026-06-24T18:00:00.000Z",
-      "category": "Data Scientist",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "V_FW8kMaTL_g_mr-AAAAAA==",
-      "employer_name": "HDR",
-      "job_title": "Applied Data Scientist - AI Enablement (Transportation)",
-      "location": "Pennington, New Jersey",
-      "apply_link": "https://www.linkedin.com/jobs/view/applied-data-scientist-ai-enablement-transportation-at-hdr-4431867979",
-      "posted_at": "2026-06-24T18:00:00.000Z",
-      "category": "Data Scientist",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "WhArJdMrOUOUe-07AAAAAA==",
-      "employer_name": "HDR",
-      "job_title": "Applied Data Scientist - AI Enablement (Transportation)",
-      "location": "Washington, District of Columbia",
-      "apply_link": "https://www.linkedin.com/jobs/view/applied-data-scientist-ai-enablement-transportation-at-hdr-4431878830",
-      "posted_at": "2026-06-24T18:00:00.000Z",
-      "category": "Data Scientist",
-      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_waymo_8027386",
@@ -728,26 +698,6 @@
       "location": "Remote - Canada",
       "apply_link": "https://www.coinbase.com/careers/positions/7812407?gh_jid=7812407",
       "posted_at": "2026-06-24T14:32:58-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5277834008",
-      "employer_name": "Anthropic",
-      "job_title": "Manager, Applied AI Engineering,  Life Sciences (Beneficial Deployments)",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5277834008",
-      "posted_at": "2026-06-24T13:51:42-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8026511",
-      "employer_name": "Stripe",
-      "job_title": "Senior Software Engineer",
-      "location": "South San Francisco, CA ",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8026511",
-      "posted_at": "2026-06-24T13:38:20-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
