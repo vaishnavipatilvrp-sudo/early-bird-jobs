@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T17:39:56.207485+00:00",
+  "generated_at": "2026-06-25T19:21:55.897260+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_66288824-8b77-4774-bc57-6825d3e6221e",
@@ -10,6 +10,86 @@
       "posted_at": "2026-06-25T17:02:07.525+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_discord_8468440002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Data Scientist, Analytics",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8468440002",
+      "posted_at": "2026-06-25T15:21:51-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8024408",
+      "employer_name": "DoorDash",
+      "job_title": "Revenue Data Analyst",
+      "location": "United States - Remote",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8024408",
+      "posted_at": "2026-06-25T15:21:20-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8299493002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Staff Data Engineer, Ads",
+      "location": "Remote (U.S.)",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8299493002",
+      "posted_at": "2026-06-25T15:19:14-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_7990832",
+      "employer_name": "DoorDash",
+      "job_title": "Data Analyst, In-Store",
+      "location": "United States - Remote",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7990832",
+      "posted_at": "2026-06-25T15:15:11-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_7905285",
+      "employer_name": "DoorDash",
+      "job_title": "Sr. Business Intelligence Engineer",
+      "location": "United States - Remote",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7905285",
+      "posted_at": "2026-06-25T15:15:08-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8029035",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Frontend (Consumer - Payments)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8029035?gh_jid=8029035",
+      "posted_at": "2026-06-25T15:02:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7991763",
+      "employer_name": "Coinbase",
+      "job_title": "Software Engineer, Backend (Consumer - Risk)",
+      "location": "Remote - Canada",
+      "apply_link": "https://www.coinbase.com/careers/positions/7991763?gh_jid=7991763",
+      "posted_at": "2026-06-25T14:49:15-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8028985",
+      "employer_name": "Coinbase",
+      "job_title": "Software Engineer, Frontend (Consumer - Card)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8028985?gh_jid=8028985",
+      "posted_at": "2026-06-25T14:47:56-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_pinterest_7832348",
