@@ -1,15 +1,75 @@
 {
-  "generated_at": "2026-06-25T21:19:47.393764+00:00",
+  "generated_at": "2026-06-25T23:59:02.050559+00:00",
   "jobs": [
     {
-      "job_id": "7YIyFN5ZjivKwifsAAAAAA==",
-      "employer_name": "Snap Inc.",
-      "job_title": "Software Engineer, Full Stack, Level 5",
-      "location": "Bellevue, Washington",
-      "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-level-5-at-snap-inc-4433358698",
-      "posted_at": "2026-06-25T18:00:00.000Z",
-      "category": "Software Engineer",
+      "job_id": "DhasyyCLiKAbNJVEAAAAAA==",
+      "employer_name": "Google",
+      "job_title": "Research Data Scientist, Cybersecurity, Google Cloud",
+      "location": "Reston, Virginia",
+      "apply_link": "https://www.linkedin.com/jobs/view/research-data-scientist-cybersecurity-google-cloud-at-google-4432694797",
+      "posted_at": "2026-06-25T22:00:00.000Z",
+      "category": "Data Scientist",
       "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_figma_6100023004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer, iOS",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/6100023004?gh_jid=6100023004",
+      "posted_at": "2026-06-25T19:54:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8024880",
+      "employer_name": "Coinbase",
+      "job_title": "Analytics Engineer, GFCO Analytics",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
+      "posted_at": "2026-06-25T19:35:31-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8029497",
+      "employer_name": "Airbnb",
+      "job_title": "Staff Software Engineer, Events Logging ",
+      "location": "United States",
+      "apply_link": "https://careers.airbnb.com/positions/8029497?gh_jid=8029497",
+      "posted_at": "2026-06-25T18:43:10-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5052038007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Internal Tools",
+      "location": "Palo Alto, CA",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5052038007",
+      "posted_at": "2026-06-25T18:39:18-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_7988010",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Data Engineer, People Analytics",
+      "location": "United States",
+      "apply_link": "https://careers.airbnb.com/positions/7988010?gh_jid=7988010",
+      "posted_at": "2026-06-25T18:27:03-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7467701",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Inference Platform",
+      "location": "Palo Alto",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7467701",
+      "posted_at": "2026-06-25T18:20:25-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_lyft_8582910002",
@@ -20,16 +80,6 @@
       "posted_at": "2026-06-25T17:10:36-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "ashby_openai_66288824-8b77-4774-bc57-6825d3e6221e",
-      "employer_name": "OpenAI",
-      "job_title": "Full Stack Software Engineer, API Experience ",
-      "location": "New York City",
-      "apply_link": "https://jobs.ashbyhq.com/openai/66288824-8b77-4774-bc57-6825d3e6221e",
-      "posted_at": "2026-06-25T17:02:07.525+00:00",
-      "category": "Software Engineer",
-      "source": "ashby"
     },
     {
       "job_id": "greenhouse_anthropic_5271426008",
@@ -738,86 +788,6 @@
       "location": "Remote - USA",
       "apply_link": "https://www.coinbase.com/careers/positions/8028985?gh_jid=8028985",
       "posted_at": "2026-06-25T14:47:56-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_7832348",
-      "employer_name": "Pinterest",
-      "job_title": "Staff Software Engineer, Batch Processing Platform",
-      "location": "Seattle, WA, US; Remote, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7832348",
-      "posted_at": "2026-06-25T13:33:46-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_5552549004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Software Engineer, Distributed Systems",
-      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/5552549004?gh_jid=5552549004",
-      "posted_at": "2026-06-25T12:33:36-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5232055008",
-      "employer_name": "Anthropic",
-      "job_title": "Data Scientist, Policy",
-      "location": "New York City, NY; San Francisco, CA | New York City, NY; Washington, DC",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5232055008",
-      "posted_at": "2026-06-25T12:30:17-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5161402008",
-      "employer_name": "Anthropic",
-      "job_title": "Data Scientist, Marketing",
-      "location": "New York City, NY | Seattle, WA; San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008",
-      "posted_at": "2026-06-25T12:29:59-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8026735",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Software Engineer, Reliability Experience Team",
-      "location": "Brazil",
-      "apply_link": "https://careers.airbnb.com/positions/8026735?gh_jid=8026735",
-      "posted_at": "2026-06-25T12:18:46-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8026696",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Software Engineer, Reliability Engineering Team",
-      "location": "Brazil",
-      "apply_link": "https://careers.airbnb.com/positions/8026696?gh_jid=8026696",
-      "posted_at": "2026-06-25T12:16:07-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5281592008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Caching",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5281592008",
-      "posted_at": "2026-06-25T11:37:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7773776",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer (Platform - FinEng)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7773776?gh_jid=7773776",
-      "posted_at": "2026-06-25T11:33:24-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
