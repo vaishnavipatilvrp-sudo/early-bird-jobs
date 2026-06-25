@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-06-25T10:30:01.814860+00:00",
+  "generated_at": "2026-06-25T12:04:30.947399+00:00",
   "jobs": [
+    {
+      "job_id": "Tjqqg_UvF-rqQWzeAAAAAA==",
+      "employer_name": "Google",
+      "job_title": "Lead GenAI Forward Deployed Engineer, YouTube",
+      "location": "San Bruno, California",
+      "apply_link": "https://www.linkedin.com/jobs/view/lead-genai-forward-deployed-engineer-youtube-at-google-4432630008",
+      "posted_at": "2026-06-25T10:00:00.000Z",
+      "category": "Other",
+      "source": "jsearch"
+    },
     {
       "job_id": "greenhouse_pinterest_8001932",
       "employer_name": "Pinterest",
@@ -9,36 +19,6 @@
       "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8001932",
       "posted_at": "2026-06-25T06:00:41-04:00",
       "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "ashby_openai_e57d196b-4fa0-4463-bd33-d8189f0d3541",
-      "employer_name": "OpenAI",
-      "job_title": "Research Engineer / Research Scientist -Personal AGI, Proactivity ",
-      "location": "San Francisco",
-      "apply_link": "https://jobs.ashbyhq.com/openai/e57d196b-4fa0-4463-bd33-d8189f0d3541",
-      "posted_at": "2026-06-25T05:25:53.586+00:00",
-      "category": "ML / AI Engineer",
-      "source": "ashby"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5212119008",
-      "employer_name": "Anthropic",
-      "job_title": "Data Scientist, Supply",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5212119008",
-      "posted_at": "2026-06-25T01:00:19-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5281592008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Caching",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5281592008",
-      "posted_at": "2026-06-25T00:32:14-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
