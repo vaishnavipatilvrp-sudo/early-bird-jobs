@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T21:09:29.449046+00:00",
+  "generated_at": "2026-06-26T21:57:29.710810+00:00",
   "jobs": [
     {
       "job_id": "ashby_notion_53fb4637-d1d6-4411-8a87-52865db5a11c",
@@ -10,6 +10,36 @@
       "posted_at": "2026-06-26T19:29:53.967+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8026678",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Infrastructure - Core Infra Systems",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8026678?gh_jid=8026678",
+      "posted_at": "2026-06-26T17:38:58-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5209711008",
+      "employer_name": "Anthropic",
+      "job_title": "Manager, Applied AI Engineering",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5209711008",
+      "posted_at": "2026-06-26T17:38:05-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8027348",
+      "employer_name": "Waymo",
+      "job_title": "Senior/Staff Machine Learning Engineer, Simulation Realism ",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8027348",
+      "posted_at": "2026-06-26T17:37:46-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_stripe_8018297",
@@ -282,21 +312,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_7921649",
-      "employer_name": "Stripe",
-      "job_title": "Staff Data Analyst",
-      "location": "US",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7921649",
-      "posted_at": "2026-06-26T17:05:36-04:00",
-      "category": "Data Analyst",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_stripe_7801457",
       "employer_name": "Stripe",
       "job_title": "Staff Data Analyst",
       "location": "US",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=7801457",
+      "posted_at": "2026-06-26T17:05:36-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7921649",
+      "employer_name": "Stripe",
+      "job_title": "Staff Data Analyst",
+      "location": "US",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7921649",
       "posted_at": "2026-06-26T17:05:36-04:00",
       "category": "Data Analyst",
       "source": "greenhouse"
@@ -662,16 +692,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_block_5284345008",
-      "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Square Financial Services",
-      "location": "Vancouver, British Columbia, Canada",
-      "apply_link": "http://block.xyz/careers/jobs/5284345008?gh_jid=5284345008",
-      "posted_at": "2026-06-26T16:58:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_block_5284783008",
       "employer_name": "Block",
       "job_title": "Senior Software Engineer, Square Financial Services ",
@@ -710,16 +730,6 @@
       "posted_at": "2026-06-26T16:16:28-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "DXnnONcixmUXTfVJAAAAAA==",
-      "employer_name": "Google",
-      "job_title": "Staff Developer Relations Engineer, Cloud and Generative AI",
-      "location": "New York, New York",
-      "apply_link": "https://www.linkedin.com/jobs/view/staff-developer-relations-engineer-cloud-and-generative-ai-at-google-4433248623",
-      "posted_at": "2026-06-26T16:00:00.000Z",
-      "category": "Other",
-      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_pinterest_7985294",
@@ -969,16 +979,6 @@
       "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7908998",
       "posted_at": "2026-06-26T11:57:32-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_fetch_4299553009",
-      "employer_name": "Fetch",
-      "job_title": "Actuarial Data Scientist",
-      "location": "Remote",
-      "apply_link": "https://job-boards.greenhouse.io/fetch/jobs/4299553009",
-      "posted_at": "2026-06-26T11:52:08-04:00",
-      "category": "Data Scientist",
       "source": "greenhouse"
     }
   ]
