@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-06-26T08:37:02.197196+00:00",
+  "generated_at": "2026-06-26T12:01:04.677597+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_doordashusa_8010827",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Cloud Infrastructure",
+      "location": "San Francisco, CA; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8010827",
+      "posted_at": "2026-06-26T08:00:41-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7208537",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Money Movement ",
+      "location": "London",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7208537",
+      "posted_at": "2026-06-26T06:01:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7334481",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Post-Training & RL Frameworks",
+      "location": "Mountain View, California",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7334481",
+      "posted_at": "2026-06-26T05:40:52-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_pinterest_7999050",
       "employer_name": "Pinterest",
@@ -18,116 +48,6 @@
       "location": "Remote - India",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996779",
       "posted_at": "2026-06-26T02:53:56-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8345074002",
-      "employer_name": "Databricks",
-      "job_title": "Software Engineer- Fullstack- Tokyo",
-      "location": "Tokyo, Japan",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8345074002",
-      "posted_at": "2026-06-26T01:24:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8341810002",
-      "employer_name": "Databricks",
-      "job_title": "Software Engineer- Fullstack- Singapore",
-      "location": "Singapore",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8341810002",
-      "posted_at": "2026-06-26T01:24:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8350959002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer- Tokyo",
-      "location": "Tokyo, Japan",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8350959002",
-      "posted_at": "2026-06-26T01:24:24-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8350956002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer- Singapore",
-      "location": "Singapore",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8350956002",
-      "posted_at": "2026-06-26T01:24:22-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7967649",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer - Blockchain Network",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7967649?gh_jid=7967649",
-      "posted_at": "2026-06-26T01:05:36-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7997420",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer - AI Platform Team",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7997420?gh_jid=7997420",
-      "posted_at": "2026-06-26T01:05:16-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8025505",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer - AI Platform Team",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8025505?gh_jid=8025505",
-      "posted_at": "2026-06-26T01:00:57-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_7985294",
-      "employer_name": "Pinterest",
-      "job_title": "Staff Data Scientist, Ads Delivery",
-      "location": "Seattle , WA, US; Remote, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7985294",
-      "posted_at": "2026-06-25T23:21:01-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8029497",
-      "employer_name": "Airbnb",
-      "job_title": "Staff Software Engineer, Event Logging ",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/8029497?gh_jid=8029497",
-      "posted_at": "2026-06-25T23:18:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8029198",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Full Stack Engineer, Event Logging",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/8029198?gh_jid=8029198",
-      "posted_at": "2026-06-25T23:18:02-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8582910002",
-      "employer_name": "Lyft",
-      "job_title": "Staff Software Engineer, Rider",
-      "location": "New York, NY",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8582910002?gh_jid=8582910002",
-      "posted_at": "2026-06-25T23:10:41-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
