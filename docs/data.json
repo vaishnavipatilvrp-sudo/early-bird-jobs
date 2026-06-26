@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T21:57:29.710810+00:00",
+  "generated_at": "2026-06-26T22:59:18.435330+00:00",
   "jobs": [
     {
       "job_id": "ashby_notion_53fb4637-d1d6-4411-8a87-52865db5a11c",
@@ -10,6 +10,76 @@
       "posted_at": "2026-06-26T19:29:53.967+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_databricks_8099343002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer - Fullstack",
+      "location": "Vancouver, Canada",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099343002",
+      "posted_at": "2026-06-26T18:39:51-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8093293002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer - Backend ",
+      "location": "Vancouver, Canada",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8093293002",
+      "posted_at": "2026-06-26T18:35:26-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8014770",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Data Scientist, Performance Marketing",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8014770",
+      "posted_at": "2026-06-26T18:31:31-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7997840",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer, Backend (Consumer - Prediction Markets)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7997840?gh_jid=7997840",
+      "posted_at": "2026-06-26T18:29:44-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7997836",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Backend (Consumer - Prediction Markets)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7997836?gh_jid=7997836",
+      "posted_at": "2026-06-26T18:26:37-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8604954002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Research Engineer, Data Agents",
+      "location": "San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604954002",
+      "posted_at": "2026-06-26T18:22:54-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_4951844008",
+      "employer_name": "Anthropic",
+      "job_title": "Software Engineer, Safeguards",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4951844008",
+      "posted_at": "2026-06-26T18:13:45-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_coinbase_8026678",
@@ -858,126 +928,6 @@
       "location": "Dublin",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8030945",
       "posted_at": "2026-06-26T13:02:16-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_6102379004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Software Engineer, Traffic",
-      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/6102379004?gh_jid=6102379004",
-      "posted_at": "2026-06-26T12:43:35-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8028985",
-      "employer_name": "Coinbase",
-      "job_title": "Software Engineer, Frontend (Consumer - Card)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8028985?gh_jid=8028985",
-      "posted_at": "2026-06-26T12:32:38-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7793013",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer - Network Connectivity (Go/Rust)",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7793013?gh_jid=7793013",
-      "posted_at": "2026-06-26T12:31:48-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7463793",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer - Egress (Go/Rust)",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7463793?gh_jid=7463793",
-      "posted_at": "2026-06-26T12:31:31-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7773776",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer (Platform - FinEng)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7773776?gh_jid=7773776",
-      "posted_at": "2026-06-26T12:23:59-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7991011",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer (Tech Lead, Backend - Platform (Overseer)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7991011?gh_jid=7991011",
-      "posted_at": "2026-06-26T12:23:56-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7684298",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer, Solana Staking Protocol ",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7684298?gh_jid=7684298",
-      "posted_at": "2026-06-26T12:23:54-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7736521",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Analytics Engineer (Platform - Financial Analytics)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521",
-      "posted_at": "2026-06-26T12:23:50-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7580292",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Staff Software Engineer, Core Automation",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7580292?gh_jid=7580292",
-      "posted_at": "2026-06-26T12:23:42-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_7902817",
-      "employer_name": "Airbnb",
-      "job_title": "Software Engineer, BizTech(Python, LLM, GenAI, MCP)",
-      "location": "Bangalore, India",
-      "apply_link": "https://careers.airbnb.com/positions/7902817?gh_jid=7902817",
-      "posted_at": "2026-06-26T12:09:11-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_7556182",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Software Engineer, (Python, GenAI, MCP)",
-      "location": "Remote - Bangalore, India",
-      "apply_link": "https://careers.airbnb.com/positions/7556182?gh_jid=7556182",
-      "posted_at": "2026-06-26T12:07:12-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_7908998",
-      "employer_name": "Pinterest",
-      "job_title": "Staff Software Engineer, Ads Manager Platform",
-      "location": "San Francisco, CA, US; Palo Alto, CA, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7908998",
-      "posted_at": "2026-06-26T11:57:32-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
