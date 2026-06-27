@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T08:11:52.071508+00:00",
+  "generated_at": "2026-06-27T09:55:54.772782+00:00",
   "jobs": [
     {
       "job_id": "greenhouse_mongodb_7816135",
@@ -79,16 +79,6 @@
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5179882008",
       "posted_at": "2026-06-27T00:31:57-04:00",
       "category": "Database Administrator",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7843511",
-      "employer_name": "Waymo",
-      "job_title": "Staff Software Engineer, Data-Driven Behaviors",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7843511",
-      "posted_at": "2026-06-26T22:17:30-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
