@@ -1,4 +1,25 @@
 {
-  "generated_at": "2026-06-28T15:05:58.422310+00:00",
-  "jobs": []
+  "generated_at": "2026-06-28T18:58:42.015519+00:00",
+  "jobs": [
+    {
+      "job_id": "greenhouse_airbnb_8031907",
+      "employer_name": "Airbnb",
+      "job_title": "Data Scientist - Inference, Community Support",
+      "location": "Remote - USA",
+      "apply_link": "https://careers.airbnb.com/positions/8031907?gh_jid=8031907",
+      "posted_at": "2026-06-28T13:01:42-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8031901",
+      "employer_name": "Airbnb",
+      "job_title": "Data Scientist - Algorithms, Community Support",
+      "location": "Remote - USA",
+      "apply_link": "https://careers.airbnb.com/positions/8031901?gh_jid=8031901",
+      "posted_at": "2026-06-28T13:01:24-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    }
+  ]
 }
