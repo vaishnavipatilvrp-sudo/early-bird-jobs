@@ -1,15 +1,245 @@
 {
-  "generated_at": "2026-06-29T13:56:13.243262+00:00",
+  "generated_at": "2026-06-29T15:07:30.458580+00:00",
   "jobs": [
+    {
+      "job_id": "lever_palantir_e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
+      "employer_name": "Palantir",
+      "job_title": "Forward Deployed Software Engineer, New Grad - Commercial",
+      "location": "Chicago, IL",
+      "apply_link": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
+      "posted_at": "2026-06-29T14:44:20.702000+00:00",
+      "category": "Software Engineer",
+      "source": "lever"
+    },
+    {
+      "job_id": "rIFY26JedwsE1bcrAAAAAA==",
+      "employer_name": "Google",
+      "job_title": "Field Solutions Architect III, Generative AI, Google Public Sector",
+      "location": "Atlanta, Georgia",
+      "apply_link": "https://www.linkedin.com/jobs/view/field-solutions-architect-iii-generative-ai-google-public-sector-at-google-4434122079",
+      "posted_at": "2026-06-29T13:00:00.000Z",
+      "category": "Other",
+      "source": "jsearch"
+    },
     {
       "job_id": "lever_palantir_53fb4c05-f949-4146-a046-5c063c36a628",
       "employer_name": "Palantir",
-      "job_title": "Forward Deployed Software Engineer - Spanish Government",
+      "job_title": "Forward Deployed Software Engineer - Spain",
       "location": "Madrid, Spain",
       "apply_link": "https://jobs.lever.co/palantir/53fb4c05-f949-4146-a046-5c063c36a628",
       "posted_at": "2026-06-29T11:38:59.235000+00:00",
       "category": "Software Engineer",
       "source": "lever"
+    },
+    {
+      "job_id": "greenhouse_twilio_7066029",
+      "employer_name": "Twilio",
+      "job_title": "Senior Manager, Machine Learning",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7066029",
+      "posted_at": "2026-06-29T10:49:05-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7061880",
+      "employer_name": "Twilio",
+      "job_title": "Staff Machine Learning Engineer",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7061880",
+      "posted_at": "2026-06-29T10:49:03-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7851920",
+      "employer_name": "Twilio",
+      "job_title": "Staff, Data Scientist ",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7851920",
+      "posted_at": "2026-06-29T10:48:57-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_6849268",
+      "employer_name": "Twilio",
+      "job_title": "Manager, Software Engineering (L4)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/6849268",
+      "posted_at": "2026-06-29T10:36:30-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7394811",
+      "employer_name": "Twilio",
+      "job_title": "Senior Software Engineer- Video Signalling ",
+      "location": "Remote - Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7394811",
+      "posted_at": "2026-06-29T10:36:11-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7647708",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer",
+      "location": "Remote - Estonia",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7647708",
+      "posted_at": "2026-06-29T10:34:47-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7807419",
+      "employer_name": "Twilio",
+      "job_title": "Senior Cloud Software Engineer",
+      "location": "Remote - Spain",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7807419",
+      "posted_at": "2026-06-29T10:33:59-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5285557008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff + Senior Software Engineer, Inference Deployment",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5285557008",
+      "posted_at": "2026-06-29T10:33:21-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5245851008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff + Senior Software Engineer, Inference",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5245851008",
+      "posted_at": "2026-06-29T10:32:25-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7785202",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer ",
+      "location": "Remote - Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7785202",
+      "posted_at": "2026-06-29T10:31:15-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7716279",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer (L4)",
+      "location": "Remote - Colombia",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7716279",
+      "posted_at": "2026-06-29T10:30:26-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7972646",
+      "employer_name": "Twilio",
+      "job_title": "Staff Business Intelligence Engineer",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7972646",
+      "posted_at": "2026-06-29T10:28:51-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7946608",
+      "employer_name": "Twilio",
+      "job_title": "Frontend Software Engineer ",
+      "location": "Remote - United Kingdom",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7946608",
+      "posted_at": "2026-06-29T10:27:43-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8015738",
+      "employer_name": "Twilio",
+      "job_title": "Staff, Software Engineer (L4)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8015738",
+      "posted_at": "2026-06-29T10:26:26-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8021303",
+      "employer_name": "Twilio",
+      "job_title": "Product Data Analyst (L3)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8021303",
+      "posted_at": "2026-06-29T10:25:55-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7996774",
+      "employer_name": "Twilio",
+      "job_title": "Machine Learning Engineer",
+      "location": "Remote - Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996774",
+      "posted_at": "2026-06-29T10:25:25-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7996770",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer (L4)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996770",
+      "posted_at": "2026-06-29T10:25:07-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7993530",
+      "employer_name": "Twilio",
+      "job_title": "Senior Software Engineer",
+      "location": "Remote - Estonia",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7993530",
+      "posted_at": "2026-06-29T10:25:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8007455",
+      "employer_name": "Twilio",
+      "job_title": "Machine Learning Engineer",
+      "location": "Remote - Spain",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007455",
+      "posted_at": "2026-06-29T10:25:01-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8007449",
+      "employer_name": "Twilio",
+      "job_title": "Senior/Staff Applied Research Software Engineer",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007449",
+      "posted_at": "2026-06-29T10:24:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8546365002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
+      "location": "Maryland; Virginia; Washington, D.C.",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546365002",
+      "posted_at": "2026-06-29T10:14:32-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_doordashusa_5516948",
@@ -39,16 +269,6 @@
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8035228",
       "posted_at": "2026-06-29T08:40:06-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8546365002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
-      "location": "Maryland; Virginia; Washington, D.C.",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546365002",
-      "posted_at": "2026-06-29T07:12:50-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     },
     {
