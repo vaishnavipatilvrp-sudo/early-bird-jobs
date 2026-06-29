@@ -1,34 +1,64 @@
 {
-  "generated_at": "2026-06-28T22:46:39.038429+00:00",
+  "generated_at": "2026-06-29T13:56:13.243262+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_cloudflare_8034796",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Software Engineer, People Ops and AI Tools",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8034796?gh_jid=8034796",
-      "posted_at": "2026-06-28T15:02:19-04:00",
+      "job_id": "lever_palantir_53fb4c05-f949-4146-a046-5c063c36a628",
+      "employer_name": "Palantir",
+      "job_title": "Forward Deployed Software Engineer - Spanish Government",
+      "location": "Madrid, Spain",
+      "apply_link": "https://jobs.lever.co/palantir/53fb4c05-f949-4146-a046-5c063c36a628",
+      "posted_at": "2026-06-29T11:38:59.235000+00:00",
+      "category": "Software Engineer",
+      "source": "lever"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_5516948",
+      "employer_name": "DoorDash",
+      "job_title": "Senior Software Engineer, iOS",
+      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5516948",
+      "posted_at": "2026-06-29T09:24:53-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_airbnb_8031907",
-      "employer_name": "Airbnb",
-      "job_title": "Data Scientist - Inference, Community Support",
-      "location": "Remote - USA",
-      "apply_link": "https://careers.airbnb.com/positions/8031907?gh_jid=8031907",
-      "posted_at": "2026-06-28T13:01:42-04:00",
-      "category": "Data Scientist",
+      "job_id": "greenhouse_doordashusa_5630454",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, iOS (All Teams)",
+      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630454",
+      "posted_at": "2026-06-29T09:24:43-04:00",
+      "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_airbnb_8031901",
-      "employer_name": "Airbnb",
-      "job_title": "Data Scientist - Algorithms, Community Support",
-      "location": "Remote - USA",
-      "apply_link": "https://careers.airbnb.com/positions/8031901?gh_jid=8031901",
-      "posted_at": "2026-06-28T13:01:24-04:00",
-      "category": "Data Scientist",
+      "job_id": "greenhouse_mongodb_8035228",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Atlas API Experience",
+      "location": "Dublin",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8035228",
+      "posted_at": "2026-06-29T08:40:06-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8546365002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
+      "location": "Maryland; Virginia; Washington, D.C.",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546365002",
+      "posted_at": "2026-06-29T07:12:50-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8439078002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Manager, Forward Deployed Engineering (Full Stack) x 2 New roles",
+      "location": "Remote - France",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8439078002",
+      "posted_at": "2026-06-29T05:41:40-04:00",
+      "category": "Other",
       "source": "greenhouse"
     }
   ]
