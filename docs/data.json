@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-06-29T21:14:07.328079+00:00",
+  "generated_at": "2026-06-29T22:44:44.741605+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_pinterest_7958766",
+      "employer_name": "Pinterest",
+      "job_title": "Software Engineer II",
+      "location": "Palo Alto, CA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7958766",
+      "posted_at": "2026-06-29T18:39:46-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8031883",
+      "employer_name": "Waymo",
+      "job_title": "Foundation Model Data, Software Engineer",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York City, NY, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8031883",
+      "posted_at": "2026-06-29T18:25:50-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5179882008",
+      "employer_name": "Anthropic",
+      "job_title": "Product Operations Manager, Feedback Loops",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5179882008",
+      "posted_at": "2026-06-29T18:17:22-04:00",
+      "category": "Database Administrator",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8027424",
+      "employer_name": "Waymo",
+      "job_title": "Staff ML Engineer, Generative Model Performance & Efficiency",
+      "location": "Mountain View, California, United States, New York City, New York, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8027424",
+      "posted_at": "2026-06-29T18:09:11-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "1oewplCQLu97hQr6AAAAAA==",
       "employer_name": "CVS Health",
@@ -10,6 +50,26 @@
       "posted_at": "2026-06-29T18:00:00.000Z",
       "category": "ML / AI Engineer",
       "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_databricks_8568122002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. Specialist Solutions Architect - Data Engineering & Warehousing",
+      "location": "United States",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568122002",
+      "posted_at": "2026-06-29T17:38:51-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8032339",
+      "employer_name": "Waymo",
+      "job_title": "Senior Business Intelligence Analyst, Growth",
+      "location": "Mountain View, CA, US; San Francisco, CA, US",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8032339",
+      "posted_at": "2026-06-29T17:27:53-04:00",
+      "category": "Other",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_stripe_8030628",
@@ -29,46 +89,6 @@
       "apply_link": "https://stripe.com/jobs/search?gh_jid=5895430",
       "posted_at": "2026-06-29T16:36:42-04:00",
       "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "jpnm9PTdwxXEMBd5AAAAAA==",
-      "employer_name": "Google",
-      "job_title": "Senior Product Data Scientist, Google Ads",
-      "location": "Kirkland, Washington",
-      "apply_link": "https://www.linkedin.com/jobs/view/senior-product-data-scientist-google-ads-at-google-4434135275",
-      "posted_at": "2026-06-29T16:00:00.000Z",
-      "category": "Data Scientist",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "TUqdG5K6bcWllF5PAAAAAA==",
-      "employer_name": "T-Mobile",
-      "job_title": "Principal Architect, Data Engineer - Pursuit and Capture",
-      "location": "Frisco, Texas",
-      "apply_link": "https://www.linkedin.com/jobs/view/principal-architect-data-engineer-pursuit-and-capture-at-t-mobile-4433577299",
-      "posted_at": "2026-06-29T16:00:00.000Z",
-      "category": "Data Engineer",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "jpnm9PTdwxXEMBd5AAAAAA==",
-      "employer_name": "Google",
-      "job_title": "Senior Product Data Scientist, Google Ads",
-      "location": "Kirkland, Washington",
-      "apply_link": "https://www.linkedin.com/jobs/view/senior-product-data-scientist-google-ads-at-google-4434135275",
-      "posted_at": "2026-06-29T16:00:00.000Z",
-      "category": "Data Scientist",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "greenhouse_waymo_7901969",
-      "employer_name": "Waymo",
-      "job_title": "Software Engineer, Chassis",
-      "location": "Warsaw, Poland ",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7901969",
-      "posted_at": "2026-06-29T15:57:08-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
@@ -108,16 +128,6 @@
       "location": "In-Office",
       "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8035679?gh_jid=8035679",
       "posted_at": "2026-06-29T15:42:42-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8031883",
-      "employer_name": "Waymo",
-      "job_title": "Foundation Model Data, Software Engineer",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York City, NY, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8031883",
-      "posted_at": "2026-06-29T14:49:55-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -322,21 +332,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_xai_4946696007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer - Networking Software and Services",
-      "location": "Palo Alto, CA",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4946696007",
-      "posted_at": "2026-06-29T13:48:33-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_xai_4794532007",
       "employer_name": "xAI",
       "job_title": "Software Engineer - Networking Software and Services",
       "location": "Dublin, IE",
       "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4794532007",
+      "posted_at": "2026-06-29T13:48:33-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_4946696007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Networking Software and Services",
+      "location": "Palo Alto, CA",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4946696007",
       "posted_at": "2026-06-29T13:48:33-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -368,36 +378,6 @@
       "location": "Mountain View, CA, US; San Francisco, CA, US",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8034894",
       "posted_at": "2026-06-29T12:51:51-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4676608005",
-      "employer_name": "Scale AI",
-      "job_title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
-      "location": "Dubai, UAE",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4676608005",
-      "posted_at": "2026-06-29T12:43:03-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8378473002",
-      "employer_name": "Lyft",
-      "job_title": "Data Scientist, Decisions - Central Market Management",
-      "location": "New York, NY",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8378473002?gh_jid=8378473002",
-      "posted_at": "2026-06-29T11:54:50-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8376875002",
-      "employer_name": "Lyft",
-      "job_title": "Data Scientist, Decisions - Central Market Management",
-      "location": "San Francisco, CA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8376875002?gh_jid=8376875002",
-      "posted_at": "2026-06-29T11:54:45-04:00",
       "category": "Data Scientist",
       "source": "greenhouse"
     }
