@@ -1,25 +1,115 @@
 {
-  "generated_at": "2026-07-02T16:32:50.418627+00:00",
+  "generated_at": "2026-07-02T18:17:38.248263+00:00",
   "jobs": [
     {
-      "job_id": "h_NN-a_n_8WxjQQ7AAAAAA==",
-      "employer_name": "T-Mobile",
-      "job_title": "Business Intelligence Analyst",
-      "location": "Bethesda, Maryland",
-      "apply_link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-t-mobile-4436371201",
-      "posted_at": "2026-07-02T15:00:00.000Z",
-      "category": "Other",
-      "source": "jsearch"
+      "job_id": "greenhouse_doordashusa_8044246",
+      "employer_name": "DoorDash",
+      "job_title": "Senior Software Engineer, Machine Learning Infrastructure - Generative AI",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8044246",
+      "posted_at": "2026-07-02T14:10:05-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
     },
     {
-      "job_id": "Zpv7QmCPbd9f9hqtAAAAAA==",
-      "employer_name": "Amazon",
-      "job_title": "Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)",
-      "location": "Bellevue, Washington",
-      "apply_link": "https://www.linkedin.com/jobs/view/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more-at-amazon-4386795195",
-      "posted_at": "2026-07-02T15:00:00.000Z",
+      "job_id": "greenhouse_doordashusa_8013249",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Machine Learning Infrastructure - Generative AI",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8013249",
+      "posted_at": "2026-07-02T14:10:04-04:00",
       "category": "ML / AI Engineer",
-      "source": "jsearch"
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7605743",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7605743",
+      "posted_at": "2026-07-02T14:03:38-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7926883",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L3)",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7926883",
+      "posted_at": "2026-07-02T14:03:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5290360008",
+      "employer_name": "Anthropic",
+      "job_title": "[Pipeline] Staff+ Software Engineer, Developer Acceleration",
+      "location": "San Francisco, CA | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5290360008",
+      "posted_at": "2026-07-02T13:52:12-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_6105734004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Manager, Software Engineering - Figma Weave (Tel Aviv, Israel)",
+      "location": "Tel Aviv, Israel",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/6105734004?gh_jid=6105734004",
+      "posted_at": "2026-07-02T13:40:31-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5281312008",
+      "employer_name": "Block",
+      "job_title": "Senior Data Engineer, Risk",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008",
+      "posted_at": "2026-07-02T13:34:01-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7595407",
+      "employer_name": "Twilio",
+      "job_title": "Senior Software Engineer ",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7595407",
+      "posted_at": "2026-07-02T13:32:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8041664",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3, Voyage Control Plane",
+      "location": "Palo Alto; Seattle",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8041664",
+      "posted_at": "2026-07-02T13:10:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5052040007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Kernels C++/CUDA",
+      "location": "Palo Alto, CA; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5052040007",
+      "posted_at": "2026-07-02T13:04:51-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8003571",
+      "employer_name": "DoorDash",
+      "job_title": "Director of Vertical Data Engineering",
+      "location": "San Francisco, CA; New York, NY; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8003571",
+      "posted_at": "2026-07-02T12:54:35-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_scaleai_4711544005",
