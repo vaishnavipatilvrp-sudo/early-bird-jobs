@@ -1,6 +1,86 @@
 {
-  "generated_at": "2026-07-02T18:17:38.248263+00:00",
+  "generated_at": "2026-07-02T20:12:17.661944+00:00",
   "jobs": [
+    {
+      "job_id": "h_NN-a_n_8WxjQQ7AAAAAA==",
+      "employer_name": "T-Mobile",
+      "job_title": "Business Intelligence Analyst",
+      "location": "Bethesda, Maryland",
+      "apply_link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-t-mobile-4436371201",
+      "posted_at": "2026-07-02T16:00:00.000Z",
+      "category": "Other",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_block_5281312008",
+      "employer_name": "Block",
+      "job_title": "Senior Data Engineer, Risk",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008",
+      "posted_at": "2026-07-02T15:26:23-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8044371",
+      "employer_name": "DoorDash",
+      "job_title": "Senior Software Engineer, Spark Platform",
+      "location": "San Francisco, CA; Seattle, WA; Sunnyvale, CA; New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8044371",
+      "posted_at": "2026-07-02T15:22:53-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8044370",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Spark Platform",
+      "location": "San Francisco, CA; Seattle, WA; Sunnyvale, CA; New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8044370",
+      "posted_at": "2026-07-02T15:22:51-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "wHmxu6J5S_y8WwZoAAAAAA==",
+      "employer_name": "Amazon",
+      "job_title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
+      "location": "Illinois",
+      "apply_link": "https://www.linkedin.com/jobs/view/2026-applied-scientist-intern-amazon-university-talent-acquisition-at-amazon-4331396257",
+      "posted_at": "2026-07-02T15:00:00.000Z",
+      "category": "ML / AI Engineer",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5290468008",
+      "employer_name": "Anthropic",
+      "job_title": "[Pipeline] Staff+ Software Engineer, Experimentation",
+      "location": "San Francisco, CA | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5290468008",
+      "posted_at": "2026-07-02T14:49:44-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8021476",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Software Engineer, Dev Tools",
+      "location": "Remote - USA",
+      "apply_link": "https://careers.airbnb.com/positions/8021476?gh_jid=8021476",
+      "posted_at": "2026-07-02T14:42:34-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5691886004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer, AI Platforms",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5691886004?gh_jid=5691886004",
+      "posted_at": "2026-07-02T14:34:52-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_doordashusa_8044246",
       "employer_name": "DoorDash",
@@ -59,16 +139,6 @@
       "apply_link": "https://boards.greenhouse.io/figma/jobs/6105734004?gh_jid=6105734004",
       "posted_at": "2026-07-02T13:40:31-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5281312008",
-      "employer_name": "Block",
-      "job_title": "Senior Data Engineer, Risk",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008",
-      "posted_at": "2026-07-02T13:34:01-04:00",
-      "category": "Data Engineer",
       "source": "greenhouse"
     },
     {
@@ -268,36 +338,6 @@
       "location": "Remote - India",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007449",
       "posted_at": "2026-07-02T10:28:52-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8042034",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Machine Learning Engineer",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8042034?gh_jid=8042034",
-      "posted_at": "2026-07-02T09:49:51-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5251671008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Safeguards Evals ",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5251671008",
-      "posted_at": "2026-07-02T09:25:13-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4951844008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Safeguards",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4951844008",
-      "posted_at": "2026-07-02T09:23:27-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
