@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T17:03:15.471048+00:00",
+  "generated_at": "2026-07-03T18:57:31.560952+00:00",
   "jobs": [
     {
       "job_id": "greenhouse_block_4969342008",
@@ -708,26 +708,6 @@
       "location": "Hybrid",
       "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7463793?gh_jid=7463793",
       "posted_at": "2026-07-03T09:00:47-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8044460",
-      "employer_name": "Stripe",
-      "job_title": "AI Engineer",
-      "location": "Chicago",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8044460",
-      "posted_at": "2026-07-03T08:14:53-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7053411",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Staff Software Engineer - Security Platform",
-      "location": "Distributed; Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7053411?gh_jid=7053411",
-      "posted_at": "2026-07-03T07:33:16-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
