@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T20:58:30.515174+00:00",
+  "generated_at": "2026-07-06T21:18:30.720437+00:00",
   "jobs": [
     {
       "job_id": "ashby_notion_85947779-6b87-466a-98bc-30a640448c28",
@@ -20,6 +20,26 @@
       "posted_at": "2026-07-06T18:37:35.161+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "IPZ1KH6TgwLDcrpAAAAAAA==",
+      "employer_name": "Nexify Infosystems",
+      "job_title": ".Net/DotNet Fullstack Developer || Full Time Role",
+      "location": "Princeton, New Jersey",
+      "apply_link": "https://www.linkedin.com/jobs/view/net-dotnet-fullstack-developer-full-time-role-at-nexify-infosystems-4437417968",
+      "posted_at": "2026-07-06T17:00:00.000Z",
+      "category": "Other",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "IPZ1KH6TgwLDcrpAAAAAAA==",
+      "employer_name": "Nexify Infosystems",
+      "job_title": ".Net/DotNet Fullstack Developer || Full Time Role",
+      "location": "Princeton, New Jersey",
+      "apply_link": "https://www.linkedin.com/jobs/view/net-dotnet-fullstack-developer-full-time-role-at-nexify-infosystems-4437417968",
+      "posted_at": "2026-07-06T17:00:00.000Z",
+      "category": "Other",
+      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_instacart_7872483",
@@ -252,11 +272,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7985996",
+      "job_id": "greenhouse_mongodb_7590644",
       "employer_name": "MongoDB",
       "job_title": "Senior Software Engineer",
-      "location": "Mexico City",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7985996",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7590644",
       "posted_at": "2026-07-06T12:17:28-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -272,11 +292,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7590644",
+      "job_id": "greenhouse_mongodb_7985996",
       "employer_name": "MongoDB",
       "job_title": "Senior Software Engineer",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7590644",
+      "location": "Mexico City",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7985996",
       "posted_at": "2026-07-06T12:17:28-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -372,21 +392,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7392902",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Forward Deployed AI Engineer",
-      "location": "Dublin",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7392902",
-      "posted_at": "2026-07-06T12:17:28-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_7590735",
       "employer_name": "MongoDB",
       "job_title": "Senior Software Engineer, Forward Deployed AI Engineer",
       "location": "Ireland",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7590735",
+      "posted_at": "2026-07-06T12:17:28-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7392902",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Forward Deployed AI Engineer",
+      "location": "Dublin",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7392902",
       "posted_at": "2026-07-06T12:17:28-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -482,11 +502,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7908785",
+      "job_id": "greenhouse_mongodb_8015792",
       "employer_name": "MongoDB",
       "job_title": "Software Engineer 3",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7908785",
+      "location": "New York City",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8015792",
       "posted_at": "2026-07-06T12:17:28-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -502,11 +522,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_8015792",
+      "job_id": "greenhouse_mongodb_7939397",
       "employer_name": "MongoDB",
       "job_title": "Software Engineer 3",
-      "location": "New York City",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8015792",
+      "location": "Dublin",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7939397",
+      "posted_at": "2026-07-06T12:17:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7908785",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7908785",
       "posted_at": "2026-07-06T12:17:28-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -527,16 +557,6 @@
       "job_title": "Software Engineer 3",
       "location": "Sydney",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7744404",
-      "posted_at": "2026-07-06T12:17:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7939397",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Dublin",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7939397",
       "posted_at": "2026-07-06T12:17:28-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -762,21 +782,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7602834",
-      "employer_name": "MongoDB",
-      "job_title": "Staff Software Engineer, Query (Optimization)",
-      "location": "United States",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7602834",
-      "posted_at": "2026-07-06T12:17:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_7646261",
       "employer_name": "MongoDB",
       "job_title": "Staff Software Engineer, Query (Optimization)",
       "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7646261",
+      "posted_at": "2026-07-06T12:17:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7602834",
+      "employer_name": "MongoDB",
+      "job_title": "Staff Software Engineer, Query (Optimization)",
+      "location": "United States",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7602834",
       "posted_at": "2026-07-06T12:17:28-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -902,16 +922,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_lyft_8503999002",
-      "employer_name": "Lyft",
-      "job_title": "Data Science Manager, Machine Learning - Lyft Ads",
-      "location": "San Francisco, CA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8503999002?gh_jid=8503999002",
-      "posted_at": "2026-07-06T11:46:25-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_lyft_8504137002",
       "employer_name": "Lyft",
       "job_title": "Data Science Manager, Machine Learning - Lyft Ads",
@@ -922,13 +932,13 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_lyft_8536085002",
+      "job_id": "greenhouse_lyft_8503999002",
       "employer_name": "Lyft",
-      "job_title": "Data Scientist, Algorithms, Optimization - Fulfillment",
+      "job_title": "Data Science Manager, Machine Learning - Lyft Ads",
       "location": "San Francisco, CA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8536085002?gh_jid=8536085002",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8503999002?gh_jid=8503999002",
       "posted_at": "2026-07-06T11:46:25-04:00",
-      "category": "Data Scientist",
+      "category": "ML / AI Engineer",
       "source": "greenhouse"
     },
     {
@@ -947,6 +957,16 @@
       "job_title": "Data Scientist, Algorithms, Optimization - Fulfillment",
       "location": "Seattle, WA",
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8335715002?gh_jid=8335715002",
+      "posted_at": "2026-07-06T11:46:25-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8536085002",
+      "employer_name": "Lyft",
+      "job_title": "Data Scientist, Algorithms, Optimization - Fulfillment",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8536085002?gh_jid=8536085002",
       "posted_at": "2026-07-06T11:46:25-04:00",
       "category": "Data Scientist",
       "source": "greenhouse"
@@ -972,16 +992,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_lyft_8508346002",
-      "employer_name": "Lyft",
-      "job_title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
-      "location": "San Francisco, CA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8508346002?gh_jid=8508346002",
-      "posted_at": "2026-07-06T11:46:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_lyft_8508372002",
       "employer_name": "Lyft",
       "job_title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
@@ -992,11 +1002,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_lyft_8584688002",
+      "job_id": "greenhouse_lyft_8508346002",
+      "employer_name": "Lyft",
+      "job_title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8508346002?gh_jid=8508346002",
+      "posted_at": "2026-07-06T11:46:25-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8584695002",
       "employer_name": "Lyft",
       "job_title": "Senior Data Scientist, Causal Inference",
-      "location": "New York, NY",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8584688002?gh_jid=8584688002",
+      "location": "Seattle, WA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8584695002?gh_jid=8584695002",
       "posted_at": "2026-07-06T11:46:25-04:00",
       "category": "Data Scientist",
       "source": "greenhouse"
@@ -1012,21 +1032,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_lyft_8584695002",
+      "job_id": "greenhouse_lyft_8584688002",
       "employer_name": "Lyft",
       "job_title": "Senior Data Scientist, Causal Inference",
-      "location": "Seattle, WA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8584695002?gh_jid=8584695002",
-      "posted_at": "2026-07-06T11:46:25-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8477773002",
-      "employer_name": "Lyft",
-      "job_title": "Senior Data Scientist, Decisions - Risk",
       "location": "New York, NY",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8477773002?gh_jid=8477773002",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8584688002?gh_jid=8584688002",
       "posted_at": "2026-07-06T11:46:25-04:00",
       "category": "Data Scientist",
       "source": "greenhouse"
@@ -1042,11 +1052,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_lyft_8483708002",
+      "job_id": "greenhouse_lyft_8477773002",
       "employer_name": "Lyft",
-      "job_title": "Senior Data Scientist - Optimization, Central Market Management & AI",
-      "location": "San Francisco, CA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8483708002?gh_jid=8483708002",
+      "job_title": "Senior Data Scientist, Decisions - Risk",
+      "location": "New York, NY",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8477773002?gh_jid=8477773002",
       "posted_at": "2026-07-06T11:46:25-04:00",
       "category": "Data Scientist",
       "source": "greenhouse"
@@ -1057,6 +1067,16 @@
       "job_title": "Senior Data Scientist - Optimization, Central Market Management & AI",
       "location": "New York, NY",
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8483867002?gh_jid=8483867002",
+      "posted_at": "2026-07-06T11:46:25-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8483708002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Data Scientist - Optimization, Central Market Management & AI",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8483708002?gh_jid=8483708002",
       "posted_at": "2026-07-06T11:46:25-04:00",
       "category": "Data Scientist",
       "source": "greenhouse"
@@ -1132,21 +1152,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_lyft_8586469002",
-      "employer_name": "Lyft",
-      "job_title": "Senior Software Engineer, Growth Platforms",
-      "location": "New York, NY",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8586469002?gh_jid=8586469002",
-      "posted_at": "2026-07-06T11:46:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_lyft_8586322002",
       "employer_name": "Lyft",
       "job_title": "Senior Software Engineer, Growth Platforms",
       "location": "San Francisco, CA",
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8586322002?gh_jid=8586322002",
+      "posted_at": "2026-07-06T11:46:25-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8586469002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Software Engineer, Growth Platforms",
+      "location": "New York, NY",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8586469002?gh_jid=8586469002",
       "posted_at": "2026-07-06T11:46:25-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -1288,26 +1308,6 @@
       "location": "San Francisco, CA",
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/6972250",
       "posted_at": "2026-07-06T11:45:22-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8007032",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Data Engineer",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8007032?gh_jid=8007032",
-      "posted_at": "2026-07-06T11:14:41-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7416895",
-      "employer_name": "Waymo",
-      "job_title": "Software Engineer, Labeling Infrastructure",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7416895",
-      "posted_at": "2026-07-06T11:09:00-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
