@@ -1,15 +1,55 @@
 {
-  "generated_at": "2026-07-07T21:06:00.814097+00:00",
+  "generated_at": "2026-07-07T22:47:56.869946+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_stripe_7235875",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Privy",
+      "location": "NYC-Privy",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7235875",
+      "posted_at": "2026-07-07T18:44:49-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7767263",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L2) Segment Team",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7767263",
+      "posted_at": "2026-07-07T18:17:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "Y_mLt73C95r80zPaAAAAAA==",
       "employer_name": "Braintrust",
       "job_title": "Senior AWS Redshift Data Engineer (Contract | 1099)",
       "location": "Seattle, Washington",
       "apply_link": "https://www.ziprecruiter.com/c/Braintrust/Job/Senior-AWS-Redshift-Data-Engineer-(Contract-%7C-1099)/-in-Seattle,WA?jid=5e7ad52928e85ad1",
-      "posted_at": "2026-07-07T19:00:00.000Z",
+      "posted_at": "2026-07-07T18:00:00.000Z",
       "category": "Data Engineer",
       "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_block_4888459008",
+      "employer_name": "Block",
+      "job_title": "Software Engineer, Finance Applications",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/4888459008?gh_jid=4888459008",
+      "posted_at": "2026-07-07T17:55:11-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8031521",
+      "employer_name": "Waymo",
+      "job_title": "Staff Product Data Scientist, Digital Media",
+      "location": "Mountain View, CA; San Francisco, CA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8031521",
+      "posted_at": "2026-07-07T17:44:55-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_pinterest_8001913",
@@ -259,66 +299,6 @@
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8044839",
       "posted_at": "2026-07-07T12:48:11-04:00",
       "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_6784618",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer, EAA CX",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/6784618?gh_jid=6784618",
-      "posted_at": "2026-07-07T12:35:56-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8045339",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior BI/Data Analyst",
-      "location": "Austin or Remote US",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8045339?gh_jid=8045339",
-      "posted_at": "2026-07-07T12:26:59-04:00",
-      "category": "Data Analyst",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_6510646",
-      "employer_name": "Pinterest",
-      "job_title": "Sr. Software Engineer - Full Stack",
-      "location": "Toronto, ON, CA",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=6510646",
-      "posted_at": "2026-07-07T12:18:30-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4591300005",
-      "employer_name": "Scale AI",
-      "job_title": "Software Engineer, Gen AI",
-      "location": "San Francisco, CA; New York, NY",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4591300005",
-      "posted_at": "2026-07-07T11:54:45-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8037090",
-      "employer_name": "Airbnb",
-      "job_title": "Software Engineer, Cloud Networking",
-      "location": "Remote - USA or Canada",
-      "apply_link": "https://careers.airbnb.com/positions/8037090?gh_jid=8037090",
-      "posted_at": "2026-07-07T11:46:43-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7947052",
-      "employer_name": "Waymo",
-      "job_title": "Senior Software Engineer, Depot UX",
-      "location": "Warsaw, Poland",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7947052",
-      "posted_at": "2026-07-07T11:34:35-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
