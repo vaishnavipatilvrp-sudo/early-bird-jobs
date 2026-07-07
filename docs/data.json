@@ -1,6 +1,96 @@
 {
-  "generated_at": "2026-07-07T17:39:20.014016+00:00",
+  "generated_at": "2026-07-07T19:17:10.246057+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_anthropic_5197529008",
+      "employer_name": "Anthropic",
+      "job_title": "Data Scientist, Developer Productivity",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5197529008",
+      "posted_at": "2026-07-07T14:52:28-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7926984",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer, ML Tools",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7926984",
+      "posted_at": "2026-07-07T14:50:13-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5209711008",
+      "employer_name": "Anthropic",
+      "job_title": "Manager, Applied AI Engineering",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5209711008",
+      "posted_at": "2026-07-07T14:47:20-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8026735",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Software Engineer, Infrastructure ",
+      "location": "Brazil",
+      "apply_link": "https://careers.airbnb.com/positions/8026735?gh_jid=8026735",
+      "posted_at": "2026-07-07T14:31:01-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_6717520",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Payments, Risk, & Premium Merchant Experiences",
+      "location": "Dublin, Ireland",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=6717520",
+      "posted_at": "2026-07-07T14:18:51-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8046982",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Planning & Controls - Autonomy & Robotics",
+      "location": "San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8046982",
+      "posted_at": "2026-07-07T14:17:39-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7276690",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, R2 Metadata",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7276690?gh_jid=7276690",
+      "posted_at": "2026-07-07T14:13:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7629805",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Storage Infrastructure",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7629805?gh_jid=7629805",
+      "posted_at": "2026-07-07T14:12:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7896462",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Distributed Databases",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7896462?gh_jid=7896462",
+      "posted_at": "2026-07-07T14:10:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_waymo_7843511",
       "employer_name": "Waymo",
@@ -59,16 +149,6 @@
       "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8045339?gh_jid=8045339",
       "posted_at": "2026-07-07T12:26:59-04:00",
       "category": "Data Analyst",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_6717520",
-      "employer_name": "Stripe",
-      "job_title": "Full Stack Engineer, Payments, Risk, & Premium Merchant Experiences",
-      "location": "Dublin, Ireland",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=6717520",
-      "posted_at": "2026-07-07T12:18:42-04:00",
-      "category": "Other",
       "source": "greenhouse"
     },
     {
@@ -219,36 +299,6 @@
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8615368002?gh_jid=8615368002",
       "posted_at": "2026-07-07T09:58:34-04:00",
       "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8042034",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Machine Learning Engineer",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8042034?gh_jid=8042034",
-      "posted_at": "2026-07-07T08:47:26-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8023813",
-      "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer - Service Platform",
-      "location": "Dublin",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8023813",
-      "posted_at": "2026-07-07T07:54:59-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_7716032",
-      "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer - API Platform",
-      "location": "Dublin",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7716032",
-      "posted_at": "2026-07-07T07:54:47-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
