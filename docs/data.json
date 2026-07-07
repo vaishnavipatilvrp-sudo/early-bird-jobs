@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-07-07T10:33:56.781217+00:00",
+  "generated_at": "2026-07-07T12:20:05.144499+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_stripe_8023813",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer - Service Platform",
+      "location": "Dublin",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8023813",
+      "posted_at": "2026-07-07T07:54:59-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7716032",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer - API Platform",
+      "location": "Dublin",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7716032",
+      "posted_at": "2026-07-07T07:54:47-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8044460",
+      "employer_name": "Stripe",
+      "job_title": "AI Engineer",
+      "location": "Chicago",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8044460",
+      "posted_at": "2026-07-07T07:31:51-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "fcgUNQOQj4re-O0FAAAAAA==",
+      "employer_name": "Intel",
+      "job_title": "Senior AI Software Engineer \u2013 Agentic AI System",
+      "location": "Hillsboro, Oregon",
+      "apply_link": "https://www.linkedin.com/jobs/view/senior-ai-software-engineer-%E2%80%93-agentic-ai-system-at-intel-4436521639",
+      "posted_at": "2026-07-07T07:00:00.000Z",
+      "category": "Software Engineer",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4712145005",
+      "employer_name": "Scale AI",
+      "job_title": "Sr Staff ML Forward Deployed Engineer, Enterprise GenAI",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4712145005",
+      "posted_at": "2026-07-07T06:39:54-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_mongodb_7993984",
       "employer_name": "MongoDB",
@@ -9,36 +59,6 @@
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7993984",
       "posted_at": "2026-07-07T06:13:40-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "ashby_openai_eefeb527-4e36-432e-a787-88e4672e29e1",
-      "employer_name": "OpenAI",
-      "job_title": "Software Engineer, Codex Security",
-      "location": "San Francisco",
-      "apply_link": "https://jobs.ashbyhq.com/openai/eefeb527-4e36-432e-a787-88e4672e29e1",
-      "posted_at": "2026-07-07T05:36:29.100+00:00",
-      "category": "Software Engineer",
-      "source": "ashby"
-    },
-    {
-      "job_id": "greenhouse_databricks_8488399002",
-      "employer_name": "Databricks",
-      "job_title": "Forward Deployed Engineer - FDE (Fullstack) - Digital Native Business ",
-      "location": "San Francisco, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8488399002",
-      "posted_at": "2026-07-07T01:29:43-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5209196008",
-      "employer_name": "Anthropic",
-      "job_title": "Data Scientist, Safeguards",
-      "location": "New York City, NY; San Francisco, CA; Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
-      "posted_at": "2026-07-07T00:36:51-04:00",
-      "category": "Data Scientist",
       "source": "greenhouse"
     }
   ]
