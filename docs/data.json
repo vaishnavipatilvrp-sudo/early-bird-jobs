@@ -1,234 +1,44 @@
 {
-  "generated_at": "2026-07-06T22:51:32.869225+00:00",
+  "generated_at": "2026-07-07T10:33:56.781217+00:00",
   "jobs": [
     {
-      "job_id": "9SA5TDPwdYItC6KXAAAAAA==",
-      "employer_name": "Walmart",
-      "job_title": "Staff, Data Engineer - Customer Insights & GenAI",
-      "location": "Bentonville, Arkansas",
-      "apply_link": "https://www.linkedin.com/jobs/view/staff-data-engineer-customer-insights-genai-at-walmart-4433986674",
-      "posted_at": "2026-07-06T22:00:00.000Z",
-      "category": "Data Engineer",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "9SA5TDPwdYItC6KXAAAAAA==",
-      "employer_name": "Walmart",
-      "job_title": "Staff, Data Engineer - Customer Insights & GenAI",
-      "location": "Bentonville, Arkansas",
-      "apply_link": "https://www.linkedin.com/jobs/view/staff-data-engineer-customer-insights-genai-at-walmart-4433986674",
-      "posted_at": "2026-07-06T22:00:00.000Z",
-      "category": "Data Engineer",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "greenhouse_databricks_8604598002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Data and AI Engineer, Finance",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604598002",
-      "posted_at": "2026-07-06T18:45:31-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8604579002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Data and AI Engineer - Finance",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604579002",
-      "posted_at": "2026-07-06T18:45:01-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "ashby_notion_85947779-6b87-466a-98bc-30a640448c28",
-      "employer_name": "Notion (bonus, not on your original list)",
-      "job_title": "Software Engineer, Early Career (AI)",
-      "location": "San Francisco, California",
-      "apply_link": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28",
-      "posted_at": "2026-07-06T18:37:42.434+00:00",
-      "category": "Software Engineer",
-      "source": "ashby"
-    },
-    {
-      "job_id": "ashby_notion_297b4ece-765f-4eea-b1b8-46057cb6501f",
-      "employer_name": "Notion (bonus, not on your original list)",
-      "job_title": "Software Engineer, Early Career",
-      "location": "San Francisco, California",
-      "apply_link": "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f",
-      "posted_at": "2026-07-06T18:37:35.161+00:00",
-      "category": "Software Engineer",
-      "source": "ashby"
-    },
-    {
-      "job_id": "greenhouse_xai_4533894007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer - Training/Inference (C++)",
-      "location": "Palo Alto, CA",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4533894007",
-      "posted_at": "2026-07-06T17:51:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_xai_5052040007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer - Kernels/CUDA (C++)",
-      "location": "Palo Alto, CA; Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5052040007",
-      "posted_at": "2026-07-06T17:49:03-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_xai_4794532007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer - Networking Software and Services",
-      "location": "Dublin, IE",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4794532007",
-      "posted_at": "2026-07-06T17:34:11-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "IPZ1KH6TgwLDcrpAAAAAAA==",
-      "employer_name": "Nexify Infosystems",
-      "job_title": ".Net/DotNet Fullstack Developer || Full Time Role",
-      "location": "Princeton, New Jersey",
-      "apply_link": "https://www.linkedin.com/jobs/view/net-dotnet-fullstack-developer-full-time-role-at-nexify-infosystems-4437417968",
-      "posted_at": "2026-07-06T17:00:00.000Z",
-      "category": "Other",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "IPZ1KH6TgwLDcrpAAAAAAA==",
-      "employer_name": "Nexify Infosystems",
-      "job_title": ".Net/DotNet Fullstack Developer || Full Time Role",
-      "location": "Princeton, New Jersey",
-      "apply_link": "https://www.linkedin.com/jobs/view/net-dotnet-fullstack-developer-full-time-role-at-nexify-infosystems-4437417968",
-      "posted_at": "2026-07-06T17:00:00.000Z",
-      "category": "Other",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "greenhouse_instacart_7872483",
-      "employer_name": "Instacart",
-      "job_title": "Staff Software Engineer, Home & Cross-Retailer Search",
-      "location": "United States - Remote",
-      "apply_link": "https://instacart.careers/job/?gh_jid=7872483",
-      "posted_at": "2026-07-06T16:48:45-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8047201",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Data Engineer Intern (Fall 2026)",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8047201?gh_jid=8047201",
-      "posted_at": "2026-07-06T16:27:31-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7997420",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer - AI Platform Team",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7997420?gh_jid=7997420",
-      "posted_at": "2026-07-06T16:20:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8031401",
-      "employer_name": "Waymo",
-      "job_title": "Staff Data Scientist, Weather",
-      "location": "Mountain View, California, USA; San Francisco, California, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8031401",
-      "posted_at": "2026-07-06T16:12:15-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7053411",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Staff Software Engineer - Security Platform",
-      "location": "Distributed; Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7053411?gh_jid=7053411",
-      "posted_at": "2026-07-06T15:33:52-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8047083",
-      "employer_name": "Stripe",
-      "job_title": "Backend Engineer, Financial Connections",
-      "location": "NYC, Toronto, Remote in Canada",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8047083",
-      "posted_at": "2026-07-06T15:24:30-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7523920",
+      "job_id": "greenhouse_mongodb_7993984",
       "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3, Atlas Search Systems",
+      "job_title": "Software Engineer 3",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7993984",
+      "posted_at": "2026-07-07T06:13:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "ashby_openai_eefeb527-4e36-432e-a787-88e4672e29e1",
+      "employer_name": "OpenAI",
+      "job_title": "Software Engineer, Codex Security",
       "location": "San Francisco",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7523920",
-      "posted_at": "2026-07-06T14:22:56-04:00",
+      "apply_link": "https://jobs.ashbyhq.com/openai/eefeb527-4e36-432e-a787-88e4672e29e1",
+      "posted_at": "2026-07-07T05:36:29.100+00:00",
       "category": "Software Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_databricks_8488399002",
+      "employer_name": "Databricks",
+      "job_title": "Forward Deployed Engineer - FDE (Fullstack) - Digital Native Business ",
+      "location": "San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8488399002",
+      "posted_at": "2026-07-07T01:29:43-04:00",
+      "category": "Other",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_discord_8344197002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Staff Software Engineer - Safety Experience",
-      "location": "San Francisco Bay Area or Los Angeles Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8344197002",
-      "posted_at": "2026-07-06T14:21:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_7990090",
-      "employer_name": "Pinterest",
-      "job_title": "Staff Software Engineer, Edge",
-      "location": "US; Remote, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7990090",
-      "posted_at": "2026-07-06T14:08:45-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_7990086",
-      "employer_name": "Pinterest",
-      "job_title": "Staff Software Engineer, Service Communications",
-      "location": "San Francisco, CA, US; Remote, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7990086",
-      "posted_at": "2026-07-06T14:08:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_4969342008",
-      "employer_name": "Block",
-      "job_title": "Staff Applied Machine Learning Engineer - Fraud & Abuse",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/4969342008?gh_jid=4969342008",
-      "posted_at": "2026-07-06T13:31:04-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5248631008",
-      "employer_name": "Block",
-      "job_title": "Staff Applied Machine Learning Engineer - Intelligent Data, Signals & Systems",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5248631008?gh_jid=5248631008",
-      "posted_at": "2026-07-06T13:31:04-04:00",
-      "category": "ML / AI Engineer",
+      "job_id": "greenhouse_anthropic_5209196008",
+      "employer_name": "Anthropic",
+      "job_title": "Data Scientist, Safeguards",
+      "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
+      "posted_at": "2026-07-07T00:36:51-04:00",
+      "category": "Data Scientist",
       "source": "greenhouse"
     }
   ]
