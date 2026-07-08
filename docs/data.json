@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-07-08T21:49:28.294669+00:00",
+  "generated_at": "2026-07-08T22:46:16.112299+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_anthropic_5251671008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Safeguards Evals ",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5251671008",
+      "posted_at": "2026-07-08T18:08:51-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_4951844008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Safeguards",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4951844008",
+      "posted_at": "2026-07-08T18:08:07-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "85TW-xQ1kC5tcGXTAAAAAA==",
+      "employer_name": "Amazon.com Services LLC",
+      "job_title": "Senior Applied Scientist , Prime Video Ads",
+      "location": "Alexandria, Virginia",
+      "apply_link": "https://jobs.womenforhire.com/job/usa/alexandria-va/senior-applied-scientist-prime-video-ads-287749/",
+      "posted_at": "2026-07-08T18:00:00.000Z",
+      "category": "ML / AI Engineer",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "5iiOVDRY5ngCtimvAAAAAA==",
+      "employer_name": "Amazon.com Services LLC",
+      "job_title": "Applied Scientist, Prime Video - Title Lifecycle Presentation",
+      "location": "Sammamish, Washington",
+      "apply_link": "https://jobs.womenforhire.com/job/usa/sammamish-wa/applied-scientist-prime-video-title-lifecycle-presentation-995160/",
+      "posted_at": "2026-07-08T18:00:00.000Z",
+      "category": "ML / AI Engineer",
+      "source": "jsearch"
+    },
     {
       "job_id": "greenhouse_databricks_8546365002",
       "employer_name": "Databricks",
@@ -129,56 +169,6 @@
       "apply_link": "https://careers.airbnb.com/positions/8024316?gh_jid=8024316",
       "posted_at": "2026-07-08T12:52:49-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_7732971",
-      "employer_name": "Pinterest",
-      "job_title": "Security Software Engineer II, Corporate Security",
-      "location": "San Francisco, CA, US; Remote, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7732971",
-      "posted_at": "2026-07-08T12:35:39-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5157847008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Platform",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5157847008",
-      "posted_at": "2026-07-08T12:33:35-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8099751002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Remote - India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002",
-      "posted_at": "2026-07-08T12:17:12-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8013843",
-      "employer_name": "Waymo",
-      "job_title": "Staff Software Engineer/ Tech Lead - Onboard Model Consolidation",
-      "location": "Mountain View, California",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8013843",
-      "posted_at": "2026-07-08T12:11:44-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_7925073",
-      "employer_name": "Stripe",
-      "job_title": "Staff Full Stack Engineer - Premium Merchant Experiences",
-      "location": "Dublin",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7925073",
-      "posted_at": "2026-07-08T12:10:36-04:00",
-      "category": "Other",
       "source": "greenhouse"
     }
   ]
