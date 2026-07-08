@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-07-08T09:15:53.809060+00:00",
+  "generated_at": "2026-07-08T10:35:00.579969+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_lyft_8623323002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8623323002?gh_jid=8623323002",
+      "posted_at": "2026-07-08T06:07:48-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_airbnb_7725256",
       "employer_name": "Airbnb",
@@ -29,36 +39,6 @@
       "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=5432095",
       "posted_at": "2026-07-08T00:42:32-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8623323002",
-      "employer_name": "Lyft",
-      "job_title": "Software Engineer",
-      "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8623323002?gh_jid=8623323002",
-      "posted_at": "2026-07-08T00:37:30-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7859378",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Dublin",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7859378",
-      "posted_at": "2026-07-08T00:33:06-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7483051",
-      "employer_name": "Waymo",
-      "job_title": "Staff Technical Lead Manager, Simulation, Machine Learning ",
-      "location": "New York, NY, USA; Mountain View, CA, USA; San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7483051",
-      "posted_at": "2026-07-07T23:50:30-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
