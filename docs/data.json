@@ -1,6 +1,126 @@
 {
-  "generated_at": "2026-07-08T16:16:21.481582+00:00",
+  "generated_at": "2026-07-08T19:03:53.594828+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_scaleai_4710484005",
+      "employer_name": "Scale AI",
+      "job_title": "Software Engineer, Identity",
+      "location": "San Francisco, CA; New York, NY; Washington, DC",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4710484005",
+      "posted_at": "2026-07-08T14:57:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4711898005",
+      "employer_name": "Scale AI",
+      "job_title": "Senior Software Engineer, Identity",
+      "location": "San Francisco, CA; New York, NY; Washington, DC",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4711898005",
+      "posted_at": "2026-07-08T14:56:44-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7309174",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Threat Intelligence Software Engineer, Cloudforce One",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7309174?gh_jid=7309174",
+      "posted_at": "2026-07-08T14:53:13-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7053411",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Staff Software Engineer - Security Platform",
+      "location": "Distributed; Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7053411?gh_jid=7053411",
+      "posted_at": "2026-07-08T14:40:47-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8623252002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Software Engineer, Marketplace",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8623252002?gh_jid=8623252002",
+      "posted_at": "2026-07-08T13:41:06-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8621789002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Data Scientist, Algorithms, Forecasting and Realtime Optimization Platform",
+      "location": "Seattle, WA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8621789002?gh_jid=8621789002",
+      "posted_at": "2026-07-08T13:05:24-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8620998002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Data Scientist, Algorithms, Forecasting and Realtime Optimization Platform",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8620998002?gh_jid=8620998002",
+      "posted_at": "2026-07-08T13:05:10-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_7783175",
+      "employer_name": "Airbnb",
+      "job_title": "Software Engineer Guest & Host ",
+      "location": "Remote, USA ",
+      "apply_link": "https://careers.airbnb.com/positions/7783175?gh_jid=7783175",
+      "posted_at": "2026-07-08T13:03:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8024316",
+      "employer_name": "Airbnb",
+      "job_title": "Staff Machine Learning Engineer, Community Support Engineering",
+      "location": "San Francisco, CA",
+      "apply_link": "https://careers.airbnb.com/positions/8024316?gh_jid=8024316",
+      "posted_at": "2026-07-08T12:52:49-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7732971",
+      "employer_name": "Pinterest",
+      "job_title": "Security Software Engineer II, Corporate Security",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7732971",
+      "posted_at": "2026-07-08T12:35:39-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5157847008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Platform",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5157847008",
+      "posted_at": "2026-07-08T12:33:35-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8099751002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Remote - India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002",
+      "posted_at": "2026-07-08T12:17:12-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_waymo_8013843",
       "employer_name": "Waymo",
@@ -229,36 +349,6 @@
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5245851008",
       "posted_at": "2026-07-08T09:34:20-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7613695",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 2",
-      "location": "Dublin",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7613695",
-      "posted_at": "2026-07-08T08:40:16-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7309174",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Threat Intelligence Software Engineer, Cloudforce One",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7309174?gh_jid=7309174",
-      "posted_at": "2026-07-08T07:36:36-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_7902034",
-      "employer_name": "Pinterest",
-      "job_title": "Staff Machine Learning Engineer, Ads Advanced Conversion Modeling",
-      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7902034",
-      "posted_at": "2026-07-08T06:35:19-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
