@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-07-09T18:27:20.799583+00:00",
+  "generated_at": "2026-07-09T21:03:13.732490+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_86450337-b12a-48c1-836e-cc0c5766eb8e",
+      "employer_name": "OpenAI",
+      "job_title": "Principal Software Engineer, Agent Harness Bridge",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/86450337-b12a-48c1-836e-cc0c5766eb8e",
+      "posted_at": "2026-07-09T19:05:39.562+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_airbnb_7867435",
+      "employer_name": "Airbnb",
+      "job_title": "Staff Software Engineer, Unified Data Store",
+      "location": "Brazil",
+      "apply_link": "https://careers.airbnb.com/positions/7867435?gh_jid=7867435",
+      "posted_at": "2026-07-09T16:56:50-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "ashby_openai_ca54cd23-2bcc-4327-bcb6-46d81ed414a8",
       "employer_name": "OpenAI",
@@ -10,6 +30,136 @@
       "posted_at": "2026-07-09T16:33:16.935+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_xai_4835611007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Platform Security",
+      "location": "Palo Alto, CA",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4835611007",
+      "posted_at": "2026-07-09T16:27:41-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7517535",
+      "employer_name": "Stripe",
+      "job_title": "Staff Product Manager, ML Foundations and GenAI",
+      "location": "Seattle, San Francisco, New York, US - Remote",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7517535",
+      "posted_at": "2026-07-09T16:16:43-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "lm45Es1JwWmTHnbfAAAAAA==",
+      "employer_name": "Infosys",
+      "job_title": "Java Full stack Developer with React",
+      "location": "Chicago, Illinois",
+      "apply_link": "https://www.linkedin.com/jobs/view/java-full-stack-developer-with-react-at-infosys-4435697177",
+      "posted_at": "2026-07-09T16:00:00.000Z",
+      "category": "Other",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8043974",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Machine Learning Engineer",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8043974?gh_jid=8043974",
+      "posted_at": "2026-07-09T15:53:44-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8052746",
+      "employer_name": "Waymo",
+      "job_title": "Staff Engineer, Agentic AI Engineering",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8052746",
+      "posted_at": "2026-07-09T15:32:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8054153",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer, Customer Administration",
+      "location": "Remote - India",
+      "apply_link": "https://www.coinbase.com/careers/positions/8054153?gh_jid=8054153",
+      "posted_at": "2026-07-09T15:05:42-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4713608005",
+      "employer_name": "Scale AI",
+      "job_title": "Staff Software Engineer",
+      "location": "New York, NY; San Francisco, CA; Seattle, WA; New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4713608005",
+      "posted_at": "2026-07-09T14:54:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5191785008",
+      "employer_name": "Anthropic",
+      "job_title": "Research Engineer (Senior Staff+), Safeguards Labs",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5191785008",
+      "posted_at": "2026-07-09T14:36:32-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7661919",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer - Video",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7661919",
+      "posted_at": "2026-07-09T14:29:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7782805",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer (L4) Data Platform",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7782805",
+      "posted_at": "2026-07-09T14:29:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7954715",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L3) Data Substrate",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7954715",
+      "posted_at": "2026-07-09T14:29:13-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7967685",
+      "employer_name": "Twilio",
+      "job_title": "Staff, Software Engineer (L4) - Email",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7967685",
+      "posted_at": "2026-07-09T14:29:02-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8009057",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer L3",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8009057",
+      "posted_at": "2026-07-09T14:28:56-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_pinterest_7963755",
@@ -28,56 +178,6 @@
       "location": "Remote - US",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7188174",
       "posted_at": "2026-07-09T14:11:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7661919",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer - Video",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7661919",
-      "posted_at": "2026-07-09T14:11:21-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7782805",
-      "employer_name": "Twilio",
-      "job_title": "Staff Software Engineer (L4) Data Platform",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7782805",
-      "posted_at": "2026-07-09T14:11:11-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7954715",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L3) Data Substrate",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7954715",
-      "posted_at": "2026-07-09T14:11:09-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7967685",
-      "employer_name": "Twilio",
-      "job_title": "Staff, Software Engineer (L4) - Email",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7967685",
-      "posted_at": "2026-07-09T14:11:04-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8009057",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer L3",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8009057",
-      "posted_at": "2026-07-09T14:10:59-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -949,46 +1049,6 @@
       "apply_link": "https://boards.greenhouse.io/figma/jobs/5552549004?gh_jid=5552549004",
       "posted_at": "2026-07-09T11:35:37-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8625462002",
-      "employer_name": "Databricks",
-      "job_title": "Applied AI Engineer, Learning Intelligence",
-      "location": "United States",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8625462002",
-      "posted_at": "2026-07-09T11:00:34-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7483221",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer (EAA)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7483221?gh_jid=7483221",
-      "posted_at": "2026-07-09T10:13:16-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7736191",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Atlas Clusters Fleet Management",
-      "location": "New York City",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7736191",
-      "posted_at": "2026-07-09T10:00:13-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7696633",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Data Analyst",
-      "location": "United States",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7696633",
-      "posted_at": "2026-07-09T09:39:39-04:00",
-      "category": "Data Analyst",
       "source": "greenhouse"
     }
   ]
