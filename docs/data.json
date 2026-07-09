@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-07-09T10:33:29.014354+00:00",
+  "generated_at": "2026-07-09T12:24:18.866650+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_mongodb_7833628",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer - Query Integration",
+      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7833628",
+      "posted_at": "2026-07-09T07:40:11-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7833626",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer - Query Integration",
+      "location": "United States",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7833626",
+      "posted_at": "2026-07-09T07:40:10-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8002300",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Data Scientist",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8002300?gh_jid=8002300",
+      "posted_at": "2026-07-09T06:48:19-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8546365002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
+      "location": "Maryland; Virginia; Washington, D.C.",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546365002",
+      "posted_at": "2026-07-09T06:35:38-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_anthropic_5074908008",
       "employer_name": "Anthropic",
