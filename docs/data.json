@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T23:49:23.881555+00:00",
+  "generated_at": "2026-07-09T23:53:56.899549+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_f8b84ae5-743b-41c9-8432-02dff9993d6b",
@@ -30,16 +30,6 @@
       "posted_at": "2026-07-09T21:41:46.386+00:00",
       "category": "Software Engineer",
       "source": "ashby"
-    },
-    {
-      "job_id": "NwBVzwxrFic6IqKVAAAAAA==",
-      "employer_name": "Amazon Development Center U.S., Inc. - B02",
-      "job_title": "Applied Scientist III - AMZ27579.1",
-      "location": "New York, New York",
-      "apply_link": "https://www.indeed.com/viewjob?jk=c6139081b9c43aee",
-      "posted_at": "2026-07-09T21:00:00.000Z",
-      "category": "ML / AI Engineer",
-      "source": "jsearch"
     },
     {
       "job_id": "ashby_openai_86450337-b12a-48c1-836e-cc0c5766eb8e",
@@ -508,16 +498,6 @@
       "location": "Remote - India",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7699243",
       "posted_at": "2026-07-09T14:09:22-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7819951",
-      "employer_name": "Waymo",
-      "job_title": "Senior Machine Learning Engineer (Infra), Driver Understanding and Evaluation",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7819951",
-      "posted_at": "2026-07-09T13:53:14-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
