@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-07-10T22:41:32.997967+00:00",
+  "generated_at": "2026-07-10T23:32:23.723532+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_scaleai_4711544005",
+      "employer_name": "Scale AI",
+      "job_title": "Machine Learning Engineer, Platform",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4711544005",
+      "posted_at": "2026-07-10T19:23:46-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7249525",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Computer Vision/VLM",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7249525",
+      "posted_at": "2026-07-10T19:02:12-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_doordashusa_8046909",
       "employer_name": "DoorDash",
@@ -99,16 +119,6 @@
       "apply_link": "https://careers.airbnb.com/positions/7592146?gh_jid=7592146",
       "posted_at": "2026-07-10T14:06:12-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_7775622",
-      "employer_name": "Stripe",
-      "job_title": "Full Stack Engineer, Expansion",
-      "location": "N/A",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7775622",
-      "posted_at": "2026-07-10T13:06:11-04:00",
-      "category": "Other",
       "source": "greenhouse"
     }
   ]
