@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-07-10T17:15:34.715284+00:00",
+  "generated_at": "2026-07-10T18:08:29.411736+00:00",
   "jobs": [
-    {
-      "job_id": "vhIBBYCWjK11tmwNAAAAAA==",
-      "employer_name": "Amazon Web Services (AWS)",
-      "job_title": "Senior Applied Scientist, Agentic Automated Reasoning Group",
-      "location": "New York, New York",
-      "apply_link": "https://www.linkedin.com/jobs/view/senior-applied-scientist-agentic-automated-reasoning-group-at-amazon-web-services-aws-4420650150",
-      "posted_at": "2026-07-10T16:00:00.000Z",
-      "category": "ML / AI Engineer",
-      "source": "jsearch"
-    },
     {
       "job_id": "lever_spotify_308d127c-e765-4895-9264-3765ddbfc620",
       "employer_name": "Spotify",
@@ -22,6 +12,16 @@
       "source": "lever"
     },
     {
+      "job_id": "greenhouse_airbnb_7592146",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Staff Machine Learning Engineer, Trust",
+      "location": "Remote - USA",
+      "apply_link": "https://careers.airbnb.com/positions/7592146?gh_jid=7592146",
+      "posted_at": "2026-07-10T14:06:12-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "greenhouse_stripe_7775622",
       "employer_name": "Stripe",
       "job_title": "Full Stack Engineer, Expansion",
@@ -30,16 +30,6 @@
       "posted_at": "2026-07-10T13:06:11-04:00",
       "category": "Other",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "rCwLONHJ6PNM23fJAAAAAA==",
-      "employer_name": "The Walt Disney Company",
-      "job_title": "Product Software Engineer I",
-      "location": "Bristol, Connecticut",
-      "apply_link": "https://www.linkedin.com/jobs/view/product-software-engineer-i-at-the-walt-disney-company-4437984832",
-      "posted_at": "2026-07-10T12:00:00.000Z",
-      "category": "Software Engineer",
-      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_pinterest_8036273",
@@ -348,16 +338,6 @@
       "location": "San Francisco, CA",
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4778843008",
       "posted_at": "2026-07-10T08:21:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7976352",
-      "employer_name": "Waymo",
-      "job_title": "Senior Software Engineer, In-field Behavior Response",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA)",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7976352",
-      "posted_at": "2026-07-10T08:03:19-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
