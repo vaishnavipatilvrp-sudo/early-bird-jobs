@@ -1,15 +1,25 @@
 {
-  "generated_at": "2026-07-10T11:23:15.126659+00:00",
+  "generated_at": "2026-07-10T12:17:11.296969+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_stripe_8031833",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Intern",
-      "location": "Bengaluru",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "posted_at": "2026-07-10T01:33:52-04:00",
+      "job_id": "greenhouse_waymo_7976352",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, In-field Behavior Response",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA)",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7976352",
+      "posted_at": "2026-07-10T08:03:19-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
+    },
+    {
+      "job_id": "wwLQqMy4MXPuI6GfAAAAAA==",
+      "employer_name": "Chesapeake Bay Seed Capital Fund (CBSCF)",
+      "job_title": "Backend Developer Intern",
+      "location": "Ellicott City, Maryland",
+      "apply_link": "https://www.linkedin.com/jobs/view/backend-developer-intern-at-chesapeake-bay-seed-capital-fund-cbscf-4437972319",
+      "posted_at": "2026-07-10T07:00:00.000Z",
+      "category": "Other",
+      "source": "jsearch"
     }
   ]
 }
