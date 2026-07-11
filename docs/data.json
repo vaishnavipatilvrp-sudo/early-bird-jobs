@@ -1,124 +1,24 @@
 {
-  "generated_at": "2026-07-10T23:32:23.723532+00:00",
+  "generated_at": "2026-07-11T07:22:38.240714+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_scaleai_4711544005",
+      "job_id": "greenhouse_scaleai_4713597005",
       "employer_name": "Scale AI",
-      "job_title": "Machine Learning Engineer, Platform",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4711544005",
-      "posted_at": "2026-07-10T19:23:46-04:00",
-      "category": "ML / AI Engineer",
+      "job_title": "Senior Data Engineer, Public Sector",
+      "location": "Washington, DC",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4713597005",
+      "posted_at": "2026-07-10T22:29:34-04:00",
+      "category": "Data Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_waymo_7249525",
-      "employer_name": "Waymo",
-      "job_title": "Senior Machine Learning Engineer, Computer Vision/VLM",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7249525",
-      "posted_at": "2026-07-10T19:02:12-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8046909",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Robotics Infrastructure - Autonomy & Robotics",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8046909",
-      "posted_at": "2026-07-10T17:33:45-04:00",
+      "job_id": "greenhouse_pinterest_7746946",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Staff Software Engineer, Data Product Platform",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7746946",
+      "posted_at": "2026-07-10T22:17:11-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8014859",
-      "employer_name": "Stripe",
-      "job_title": "Machine Learning Engineer",
-      "location": "Toronto",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8014859",
-      "posted_at": "2026-07-10T17:00:11-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8055701",
-      "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer, API Platform",
-      "location": "San Francisco, Seattle",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8055701",
-      "posted_at": "2026-07-10T17:00:09-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5325909008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Financial Fraud",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5325909008",
-      "posted_at": "2026-07-10T16:42:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_7421419",
-      "employer_name": "Airbnb",
-      "job_title": "Staff Software Engineer, Communication & Connectivity",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/7421419?gh_jid=7421419",
-      "posted_at": "2026-07-10T16:08:16-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_6717520",
-      "employer_name": "Stripe",
-      "job_title": "Fullstack Engineer, Payments and Risk",
-      "location": "Dublin, Ireland",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=6717520",
-      "posted_at": "2026-07-10T15:24:45-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_6956069",
-      "employer_name": "DoorDash",
-      "job_title": "Shift Lead - Roswell",
-      "location": "Roswell, GA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/6956069",
-      "posted_at": "2026-07-10T15:23:58-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7188174",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L2)",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7188174",
-      "posted_at": "2026-07-10T15:03:52-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7493959",
-      "employer_name": "Waymo",
-      "job_title": "Staff Machine Learning Engineer",
-      "location": "London, England, United Kingdom",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7493959",
-      "posted_at": "2026-07-10T14:27:14-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_7592146",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Staff Machine Learning Engineer, Trust",
-      "location": "Remote - USA",
-      "apply_link": "https://careers.airbnb.com/positions/7592146?gh_jid=7592146",
-      "posted_at": "2026-07-10T14:06:12-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
