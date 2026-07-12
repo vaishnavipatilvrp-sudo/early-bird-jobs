@@ -1,4 +1,25 @@
 {
-  "generated_at": "2026-07-11T22:33:02.998510+00:00",
-  "jobs": []
+  "generated_at": "2026-07-12T07:50:25.527855+00:00",
+  "jobs": [
+    {
+      "job_id": "greenhouse_stripe_6717520",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Payments, Risk, & Premium Merchant Experiences",
+      "location": "Dublin, Ireland",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=6717520",
+      "posted_at": "2026-07-12T02:54:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8018436",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer, Post-Silicon Testing ",
+      "location": "Bangalore, Karnataka, India",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8018436",
+      "posted_at": "2026-07-11T22:43:58-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    }
+  ]
 }
