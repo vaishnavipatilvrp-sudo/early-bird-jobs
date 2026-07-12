@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-07-12T07:50:25.527855+00:00",
+  "generated_at": "2026-07-12T09:32:45.683893+00:00",
   "jobs": [
+    {
+      "job_id": "10XvyOKAjVTDYLhMAAAAAA==",
+      "employer_name": "Cognizant Technology Solutions",
+      "job_title": "Data Scientist with strong Algorithm experience",
+      "location": "Columbus, Georgia",
+      "apply_link": "https://www.theladders.com/job/data-scientist-with-strong-algorithm-experience-cognizant-columbus-ga_87702074",
+      "posted_at": "2026-07-12T05:00:00.000Z",
+      "category": "Data Scientist",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_xai_5182183007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - X Data",
+      "location": "Palo Alto, CA",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5182183007",
+      "posted_at": "2026-07-12T03:53:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_stripe_6717520",
       "employer_name": "Stripe",
@@ -8,16 +28,6 @@
       "location": "Dublin, Ireland",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=6717520",
       "posted_at": "2026-07-12T02:54:27-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8018436",
-      "employer_name": "Waymo",
-      "job_title": "Software Engineer, Post-Silicon Testing ",
-      "location": "Bangalore, Karnataka, India",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8018436",
-      "posted_at": "2026-07-11T22:43:58-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
