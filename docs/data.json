@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-07-13T17:36:40.487076+00:00",
+  "generated_at": "2026-07-13T18:19:20.719899+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_twilio_7954715",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L3) Data Substrate",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7954715",
+      "posted_at": "2026-07-13T14:18:14-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8031521",
+      "employer_name": "Waymo",
+      "job_title": "Staff Data Scientist, Paid Media",
+      "location": "Mountain View, CA; San Francisco, CA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8031521",
+      "posted_at": "2026-07-13T14:18:08-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5270442008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Identity & Access Controls",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5270442008",
+      "posted_at": "2026-07-13T14:03:52-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7782805",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer (L4) Data Platform",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7782805",
+      "posted_at": "2026-07-13T14:03:24-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8015537",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Machine Learning Engineer, Computer Vision",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8015537",
+      "posted_at": "2026-07-13T13:51:37-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_xai_5063490007",
       "employer_name": "xAI",
@@ -152,21 +202,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_xai_4946696007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer - Networking Software and Services",
-      "location": "Palo Alto, CA",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4946696007",
-      "posted_at": "2026-07-13T13:26:22-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_xai_4794532007",
       "employer_name": "xAI",
       "job_title": "Software Engineer - Networking Software and Services",
       "location": "Dublin, IE",
       "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4794532007",
+      "posted_at": "2026-07-13T13:26:22-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_4946696007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Networking Software and Services",
+      "location": "Palo Alto, CA",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4946696007",
       "posted_at": "2026-07-13T13:26:22-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -232,16 +282,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "Zv6G7dYi1hkZ7JVyAAAAAA==",
-      "employer_name": "Google",
-      "job_title": "Senior Staff Software Engineer, AI Infrastructure, Google Cloud, Applied AI",
-      "location": "Irvine, California",
-      "apply_link": "https://www.linkedin.com/jobs/view/senior-staff-software-engineer-ai-infrastructure-google-cloud-applied-ai-at-google-4439401739",
-      "posted_at": "2026-07-13T13:00:00.000Z",
-      "category": "Software Engineer",
-      "source": "jsearch"
-    },
-    {
       "job_id": "greenhouse_anthropic_5290468008",
       "employer_name": "Anthropic",
       "job_title": "Staff+ Software Engineer, Experimentation",
@@ -300,16 +340,6 @@
       "posted_at": "2026-07-13T12:05:35-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "hGnllNTZ9Yfm537HAAAAAA==",
-      "employer_name": "Amazon",
-      "job_title": "Sr. Applied Scientist, Alexa AI",
-      "location": "Boston, Massachusetts",
-      "apply_link": "https://www.linkedin.com/jobs/view/sr-applied-scientist-alexa-ai-at-amazon-4440025314",
-      "posted_at": "2026-07-13T12:00:00.000Z",
-      "category": "ML / AI Engineer",
-      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_waymo_7896159",
