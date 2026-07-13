@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-07-13T11:42:37.749169+00:00",
+  "generated_at": "2026-07-13T12:25:10.561149+00:00",
   "jobs": [
+    {
+      "job_id": "z3-VzkO9aQ6xj0cIAAAAAA==",
+      "employer_name": "Visa",
+      "job_title": "Data Engineer - Senior Consultant level | Foster City, CA, USA",
+      "location": "Foster City, California",
+      "apply_link": "https://www.efinancialcareers.com/jobs-United_States-Foster_City-Data_Engineer_-_Senior_Consultant_level.id24516615",
+      "posted_at": "2026-07-13T09:00:00.000Z",
+      "category": "Data Engineer",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7541032",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer - Network Platforms",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7541032?gh_jid=7541032",
+      "posted_at": "2026-07-13T08:22:14-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7699243",
+      "employer_name": "Twilio",
+      "job_title": "Staff, Machine Learning Engineer (L4)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7699243",
+      "posted_at": "2026-07-13T08:17:46-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "aLHkp0vaEvFSoQOkAAAAAA==",
+      "employer_name": "Google",
+      "job_title": "Senior Research Data Scientist, AI Systems",
+      "location": "New York, New York",
+      "apply_link": "https://www.indeed.com/viewjob?jk=a9d3565aff253869",
+      "posted_at": "2026-07-13T08:00:00.000Z",
+      "category": "Data Scientist",
+      "source": "jsearch"
+    },
     {
       "job_id": "greenhouse_stripe_8044924",
       "employer_name": "Stripe",
