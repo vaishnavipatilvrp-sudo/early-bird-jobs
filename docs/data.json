@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-14T09:27:25.856387+00:00",
+  "generated_at": "2026-07-14T12:49:46.196400+00:00",
   "jobs": [
     {
-      "job_id": "SUeuBaW-XxSXTHvdAAAAAA==",
-      "employer_name": "Bank of America",
-      "job_title": "Software Engineer III \u00e2\u20ac\u201c Generative AI Platform Engineering",
-      "location": "Addison, Texas",
-      "apply_link": "https://www.indeed.com/viewjob?jk=ad3cc9f58fae8c25",
-      "posted_at": "2026-07-14T06:00:00.000Z",
+      "job_id": "greenhouse_cloudflare_7541032",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer - Network Platforms",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7541032?gh_jid=7541032",
+      "posted_at": "2026-07-14T05:32:59-04:00",
       "category": "Software Engineer",
-      "source": "jsearch"
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_mongodb_8055471",
@@ -22,16 +22,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "3btSL1z8rUPlA9iMAAAAAA==",
-      "employer_name": "Walmart",
-      "job_title": "(USA) Principal, Data Analyst",
-      "location": "Sunnyvale, California",
-      "apply_link": "https://www.linkedin.com/jobs/view/usa-principal-data-analyst-at-walmart-4437637535",
-      "posted_at": "2026-07-14T04:00:00.000Z",
-      "category": "Data Analyst",
-      "source": "jsearch"
-    },
-    {
       "job_id": "greenhouse_airbnb_7556182",
       "employer_name": "Airbnb",
       "job_title": "Senior Software Engineer, (Python, GenAI, MCP)",
@@ -39,26 +29,6 @@
       "apply_link": "https://careers.airbnb.com/positions/7556182?gh_jid=7556182",
       "posted_at": "2026-07-14T03:46:44-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_7794729",
-      "employer_name": "Stripe",
-      "job_title": "Data Analyst",
-      "location": "Bengaluru",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7794729",
-      "posted_at": "2026-07-14T01:03:47-04:00",
-      "category": "Data Analyst",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5071132008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Economic Research Data Platform",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5071132008",
-      "posted_at": "2026-07-13T23:56:43-04:00",
-      "category": "Other",
       "source": "greenhouse"
     }
   ]
