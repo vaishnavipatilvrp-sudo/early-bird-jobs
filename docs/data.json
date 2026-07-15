@@ -1,23 +1,43 @@
 {
-  "generated_at": "2026-07-15T09:34:49.101898+00:00",
+  "generated_at": "2026-07-15T12:54:36.570142+00:00",
   "jobs": [
     {
-      "job_id": "BGvx7DP076ShwDgHAAAAAA==",
-      "employer_name": "Google DeepMind",
-      "job_title": "Staff Software Engineer, Gemini App, Data Engineering, DeepMind",
-      "location": "New York, New York",
-      "apply_link": "https://www.linkedin.com/jobs/view/staff-software-engineer-gemini-app-data-engineering-deepmind-at-google-deepmind-4439983607",
-      "posted_at": "2026-07-15T07:00:00.000Z",
-      "category": "Data Engineer",
-      "source": "jsearch"
+      "job_id": "greenhouse_databricks_8546367002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "United States",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
+      "posted_at": "2026-07-15T07:34:33-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7392902",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Forward Deployed AI Engineer",
+      "location": "Cork, Ireland; Dublin, Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7392902",
+      "posted_at": "2026-07-15T07:05:39-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7581876",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Cork, Ireland; Dublin, Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7581876",
+      "posted_at": "2026-07-15T06:59:48-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_mongodb_7859378",
       "employer_name": "MongoDB",
       "job_title": "Software Engineer 3",
-      "location": "Cork, Ireland; Dublin",
+      "location": "Cork, Ireland; Dublin, Ireland",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7859378",
-      "posted_at": "2026-07-15T05:18:09-04:00",
+      "posted_at": "2026-07-15T06:30:10-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -25,10 +45,70 @@
       "job_id": "greenhouse_mongodb_7699932",
       "employer_name": "MongoDB",
       "job_title": "Software Engineer 3, Query Execution",
-      "location": "Cork, Ireland; Dublin",
+      "location": "Cork, Ireland; Dublin, Ireland",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7699932",
-      "posted_at": "2026-07-15T05:16:16-04:00",
+      "posted_at": "2026-07-15T06:29:03-04:00",
       "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7960501",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, C2C Services",
+      "location": "Cork, Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7960501",
+      "posted_at": "2026-07-15T06:24:48-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7378959",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, C2C Services",
+      "location": "Dublin, Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7378959",
+      "posted_at": "2026-07-15T06:24:39-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8556371002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Forward Deployed Engineer - Full stack",
+      "location": "Paris, France",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8556371002",
+      "posted_at": "2026-07-15T06:16:16-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7696228",
+      "employer_name": "MongoDB",
+      "job_title": "Staff Software Engineer, Server Networking Security (Rust)",
+      "location": "Cork, Ireland; Dublin, Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7696228",
+      "posted_at": "2026-07-15T06:13:35-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7653008",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Server Networking Security (Rust)",
+      "location": "Cork, Ireland; Dublin, Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7653008",
+      "posted_at": "2026-07-15T06:11:12-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8036273",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Data Scientist, Finance & Business Ops",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8036273",
+      "posted_at": "2026-07-15T06:02:31-04:00",
+      "category": "Data Scientist",
       "source": "greenhouse"
     },
     {
@@ -59,16 +139,6 @@
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8611391002",
       "posted_at": "2026-07-15T02:57:47-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5161402008",
-      "employer_name": "Anthropic",
-      "job_title": "Data Scientist, Marketing",
-      "location": "New York City, NY | Seattle, WA; San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008",
-      "posted_at": "2026-07-15T01:52:26-04:00",
-      "category": "Data Scientist",
       "source": "greenhouse"
     }
   ]
