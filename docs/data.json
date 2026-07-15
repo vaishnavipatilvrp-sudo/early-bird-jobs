@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-07-15T18:00:11.210016+00:00",
+  "generated_at": "2026-07-15T18:48:49.231959+00:00",
   "jobs": [
+    {
+      "job_id": "dZJBZc08dNyeyIUNAAAAAA==",
+      "employer_name": "Cisco",
+      "job_title": "Software Engineer - AI",
+      "location": "Durham, North Carolina",
+      "apply_link": "https://www.theladders.com/job/software-engineer-ai-cisco-research-triangle-park-nc_87831497",
+      "posted_at": "2026-07-15T15:00:00.000Z",
+      "category": "Software Engineer",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7494904",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer, Ads Measurement Signal ",
+      "location": "Seattle, WA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7494904",
+      "posted_at": "2026-07-15T14:46:52-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "ashby_openai_07153f7c-7e8b-4283-a879-cb07a224e083",
       "employer_name": "OpenAI",
@@ -10,6 +30,16 @@
       "posted_at": "2026-07-15T14:28:42.801+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8049133",
+      "employer_name": "DoorDash",
+      "job_title": "Staff Software Engineer, Event Streaming Systems",
+      "location": "New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8049133",
+      "posted_at": "2026-07-15T14:22:01-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_block_5243440008",
@@ -560,6 +590,26 @@
       "posted_at": "2026-07-15T13:20:49-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
+    },
+    {
+      "job_id": "hHYW0kgeih4cWTAmAAAAAA==",
+      "employer_name": "Google",
+      "job_title": "[T] Software Engineer III, AI/ML GenAI, Google Cloud",
+      "location": "New York, New York",
+      "apply_link": "https://www.linkedin.com/jobs/view/t-software-engineer-iii-ai-ml-genai-google-cloud-at-google-4440218636",
+      "posted_at": "2026-07-15T13:00:00.000Z",
+      "category": "Software Engineer",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "hHYW0kgeih4cWTAmAAAAAA==",
+      "employer_name": "Google",
+      "job_title": "[T] Software Engineer III, AI/ML GenAI, Google Cloud",
+      "location": "New York, New York",
+      "apply_link": "https://www.linkedin.com/jobs/view/t-software-engineer-iii-ai-ml-genai-google-cloud-at-google-4440218636",
+      "posted_at": "2026-07-15T13:00:00.000Z",
+      "category": "Software Engineer",
+      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_doordashusa_8024408",
