@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-07-15T06:29:42.160740+00:00",
+  "generated_at": "2026-07-15T09:34:49.101898+00:00",
   "jobs": [
+    {
+      "job_id": "BGvx7DP076ShwDgHAAAAAA==",
+      "employer_name": "Google DeepMind",
+      "job_title": "Staff Software Engineer, Gemini App, Data Engineering, DeepMind",
+      "location": "New York, New York",
+      "apply_link": "https://www.linkedin.com/jobs/view/staff-software-engineer-gemini-app-data-engineering-deepmind-at-google-deepmind-4439983607",
+      "posted_at": "2026-07-15T07:00:00.000Z",
+      "category": "Data Engineer",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7859378",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Cork, Ireland; Dublin",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7859378",
+      "posted_at": "2026-07-15T05:18:09-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7699932",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3, Query Execution",
+      "location": "Cork, Ireland; Dublin",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7699932",
+      "posted_at": "2026-07-15T05:16:16-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_7525479",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Staff Software Engineer, Payments",
+      "location": "Remote - Bangalore, India",
+      "apply_link": "https://careers.airbnb.com/positions/7525479?gh_jid=7525479",
+      "posted_at": "2026-07-15T04:57:39-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5211498008",
+      "employer_name": "Anthropic",
+      "job_title": "Senior Staff+ Software Engineer, Node Infra",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5211498008",
+      "posted_at": "2026-07-15T04:12:53-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8611391002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Tokyo, Japan",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8611391002",
+      "posted_at": "2026-07-15T02:57:47-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_anthropic_5161402008",
       "employer_name": "Anthropic",
@@ -9,76 +69,6 @@
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008",
       "posted_at": "2026-07-15T01:52:26-04:00",
       "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8052785",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Software Engineer Intern (Fall 2026) - Austin, TX",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785",
-      "posted_at": "2026-07-14T22:36:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8060884",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Staff Software Engineer, Legal Automation",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8060884?gh_jid=8060884",
-      "posted_at": "2026-07-14T21:59:57-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8052726",
-      "employer_name": "Waymo",
-      "job_title": "Machine Learning Engineer, GPU Kernel and Runtime",
-      "location": "Mountain View, California",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8052726",
-      "posted_at": "2026-07-14T21:09:51-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8062303",
-      "employer_name": "Waymo",
-      "job_title": "Technical Lead Manager, Machine Learning Runtime & Serving",
-      "location": "Mountain View, California",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8062303",
-      "posted_at": "2026-07-14T21:09:13-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4715325005",
-      "employer_name": "Scale AI",
-      "job_title": "Software Engineering Manager, Public Sector ",
-      "location": "San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4715325005",
-      "posted_at": "2026-07-14T21:05:55-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8042547",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Data Scientist, Detection",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8042547?gh_jid=8042547",
-      "posted_at": "2026-07-14T20:45:56-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_7263610",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
-      "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Seattle, WA; Sunnyvale, CA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610",
-      "posted_at": "2026-07-14T20:29:41-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
