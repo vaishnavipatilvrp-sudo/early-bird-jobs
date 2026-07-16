@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-07-16T10:09:17.073137+00:00",
+  "generated_at": "2026-07-16T13:52:06.788247+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_twilio_8065032",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer (L4)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8065032",
+      "posted_at": "2026-07-16T07:41:18-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_scaleai_4715352005",
       "employer_name": "Scale AI",
@@ -19,26 +29,6 @@
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8015771",
       "posted_at": "2026-07-16T04:15:30-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_7679640",
-      "employer_name": "Pinterest",
-      "job_title": "Senior Staff Software Engineer, Configuration & Coordination",
-      "location": "San Francisco, CA, US; Remote, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7679640",
-      "posted_at": "2026-07-16T03:01:56-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_6815910",
-      "employer_name": "Waymo",
-      "job_title": "Staff Machine Learning Engineer, DUE ",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=6815910",
-      "posted_at": "2026-07-16T01:31:10-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
