@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-07-17T16:17:01.511212+00:00",
+  "generated_at": "2026-07-17T17:12:58.849685+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_block_4969342008",
+      "employer_name": "Block",
+      "job_title": "Staff Applied Machine Learning Engineer - Fraud & Abuse",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/4969342008?gh_jid=4969342008",
+      "posted_at": "2026-07-17T13:02:52-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5248631008",
+      "employer_name": "Block",
+      "job_title": "Staff Applied Machine Learning Engineer - Intelligent Data, Signals & Systems",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5248631008?gh_jid=5248631008",
+      "posted_at": "2026-07-17T13:02:52-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_waymo_7905643",
       "employer_name": "Waymo",
@@ -40,16 +60,6 @@
       "posted_at": "2026-07-17T11:29:29-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "vW_3BG7gzsEMYlwAAAAAAA==",
-      "employer_name": "Berkeley Industrial Engineering & Operations Research",
-      "job_title": "Backend AI Engineer at BrightEdge",
-      "location": "US",
-      "apply_link": "https://www.linkedin.com/jobs/view/backend-ai-engineer-at-brightedge-at-berkeley-industrial-engineering-operations-research-4441178684",
-      "posted_at": "2026-07-17T11:00:00.000Z",
-      "category": "ML / AI Engineer",
-      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_anthropic_5342935008",
@@ -182,21 +192,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_twilio_8007455",
-      "employer_name": "Twilio",
-      "job_title": "Machine Learning Engineer",
-      "location": "Remote - Spain",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007455",
-      "posted_at": "2026-07-17T10:28:18-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_twilio_7996774",
       "employer_name": "Twilio",
       "job_title": "Machine Learning Engineer",
       "location": "Remote - Ireland",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996774",
+      "posted_at": "2026-07-17T10:28:18-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8007455",
+      "employer_name": "Twilio",
+      "job_title": "Machine Learning Engineer",
+      "location": "Remote - Spain",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007455",
       "posted_at": "2026-07-17T10:28:18-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -378,16 +388,6 @@
       "location": "Remote - Canada",
       "apply_link": "https://www.coinbase.com/careers/positions/7991763?gh_jid=7991763",
       "posted_at": "2026-07-17T10:26:51-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7859378",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Cork, Ireland; Dublin, Ireland",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7859378",
-      "posted_at": "2026-07-17T06:50:11-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
