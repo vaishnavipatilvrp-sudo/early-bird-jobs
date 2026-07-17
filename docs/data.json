@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-17T09:57:49.470154+00:00",
+  "generated_at": "2026-07-17T11:26:28.631061+00:00",
   "jobs": [
     {
-      "job_id": "ashby_openai_d0956b18-4f80-4c67-b94b-313181a16be6",
-      "employer_name": "OpenAI",
-      "job_title": "Backend Software Engineer, API Enterprise Controls",
-      "location": "San Francisco",
-      "apply_link": "https://jobs.ashbyhq.com/openai/d0956b18-4f80-4c67-b94b-313181a16be6",
-      "posted_at": "2026-07-17T04:25:42.731+00:00",
+      "job_id": "greenhouse_mongodb_7859378",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Cork, Ireland; Dublin, Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7859378",
+      "posted_at": "2026-07-17T06:50:11-04:00",
       "category": "Software Engineer",
-      "source": "ashby"
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_mongodb_8055471",
@@ -28,76 +28,6 @@
       "location": "Hybrid",
       "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7276690?gh_jid=7276690",
       "posted_at": "2026-07-17T01:33:23-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8043974",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Machine Learning Engineer",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8043974?gh_jid=8043974",
-      "posted_at": "2026-07-17T01:08:51-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8055320",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Principal Software Engineer, Workers Deploy & Config",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8055320?gh_jid=8055320",
-      "posted_at": "2026-07-17T01:06:50-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7377424",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Software Engineer, Workers Deploy & Config",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7377424?gh_jid=7377424",
-      "posted_at": "2026-07-17T01:06:50-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_6578726",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Workers Runtime",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/6578726?gh_jid=6578726",
-      "posted_at": "2026-07-17T00:32:10-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_5390243",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Durable Objects (DO)",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/5390243?gh_jid=5390243",
-      "posted_at": "2026-07-17T00:28:26-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8070597",
-      "employer_name": "Airbnb",
-      "job_title": "Software Engineer, Tax Experience, BizTech",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/8070597?gh_jid=8070597",
-      "posted_at": "2026-07-17T00:01:49-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_7867435",
-      "employer_name": "Airbnb",
-      "job_title": "Staff Software Engineer, Unified Data Store",
-      "location": "Brazil",
-      "apply_link": "https://careers.airbnb.com/positions/7867435?gh_jid=7867435",
-      "posted_at": "2026-07-17T00:01:29-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
