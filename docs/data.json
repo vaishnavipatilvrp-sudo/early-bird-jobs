@@ -1,13 +1,103 @@
 {
-  "generated_at": "2026-07-17T20:56:20.596396+00:00",
+  "generated_at": "2026-07-17T22:51:49.584872+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_airbnb_8070678",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Machine Learning Engineer, Price Modeling",
+      "location": "United States",
+      "apply_link": "https://careers.airbnb.com/positions/8070678?gh_jid=8070678",
+      "posted_at": "2026-07-17T18:28:54-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8639477002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer, Technical Lead, Lakebase Manager (LBM)",
+      "location": "Bellevue, Washington",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8639477002",
+      "posted_at": "2026-07-17T18:05:41-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_6937001002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer - Distributed Data Systems",
+      "location": "Bellevue, Washington",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6937001002",
+      "posted_at": "2026-07-17T18:04:47-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5174755008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Backend",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5174755008",
+      "posted_at": "2026-07-17T17:46:06-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5157847008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Platform",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5157847008",
+      "posted_at": "2026-07-17T17:43:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_4951844008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Safeguards",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4951844008",
+      "posted_at": "2026-07-17T17:29:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7773776",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer (Platform - Identity IDV)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7773776?gh_jid=7773776",
+      "posted_at": "2026-07-17T17:26:51-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_5630302",
+      "employer_name": "DoorDash",
+      "job_title": "Staff Software Engineer, Backend",
+      "location": "New York, NY; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630302",
+      "posted_at": "2026-07-17T17:10:09-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_5630445",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Backend (All Teams)",
+      "location": "Sunnyvale, CA; San Francisco, CA; New York, NY; Seattle, WA; Ann Arbor, MI",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630445",
+      "posted_at": "2026-07-17T17:09:47-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_twilio_8067270",
       "employer_name": "Twilio",
       "job_title": "Principal Software Engineer - Identity Graph",
       "location": "Remote - US",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8067270",
-      "posted_at": "2026-07-17T16:48:21-04:00",
+      "posted_at": "2026-07-17T16:59:04-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -22,51 +112,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8593713002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Remote - United Kingdom",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8298792002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Sydney, Australia",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8298792002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8611391002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Tokyo, Japan",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8611391002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_databricks_8099751002",
       "employer_name": "Databricks",
       "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
       "location": "Remote - India",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8569390002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Singapore",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569390002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -87,6 +137,46 @@
       "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
       "location": "Melbourne, Australia",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8330188002",
+      "posted_at": "2026-07-17T16:19:40-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8298792002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Sydney, Australia",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8298792002",
+      "posted_at": "2026-07-17T16:19:40-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8569390002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Singapore",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569390002",
+      "posted_at": "2026-07-17T16:19:40-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8593713002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Remote - United Kingdom",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002",
+      "posted_at": "2026-07-17T16:19:40-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8611391002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Tokyo, Japan",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8611391002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -232,41 +322,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_4799387002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer - Backend",
-      "location": "San Francisco, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_databricks_8012803002",
       "employer_name": "Databricks",
       "job_title": "Senior Software Engineer - Backend",
       "location": "Belgrade, Serbia",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012803002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_7477087002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer - Backend",
-      "location": "Berlin, Germany",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7477087002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_6779084002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer - Backend",
-      "location": "Bellevue, Washington",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -282,11 +342,31 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8029671002",
+      "job_id": "greenhouse_databricks_4799387002",
       "employer_name": "Databricks",
       "job_title": "Senior Software Engineer - Backend",
-      "location": "Amsterdam, Netherlands",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029671002",
+      "location": "San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002",
+      "posted_at": "2026-07-17T16:19:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_6779084002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer - Backend",
+      "location": "Bellevue, Washington",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002",
+      "posted_at": "2026-07-17T16:19:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7477087002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer - Backend",
+      "location": "Berlin, Germany",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7477087002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -297,6 +377,16 @@
       "job_title": "Senior Software Engineer - Backend",
       "location": "Vancouver, Canada",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8093295002",
+      "posted_at": "2026-07-17T16:19:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8029671002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer - Backend",
+      "location": "Amsterdam, Netherlands",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029671002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -322,21 +412,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8012809002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer - Database Engine Internals",
-      "location": "Belgrade, Serbia",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012809002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_databricks_6544383002",
       "employer_name": "Databricks",
       "job_title": "Senior Software Engineer - Database Engine Internals",
       "location": "Mountain View, California",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002",
+      "posted_at": "2026-07-17T16:19:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8012809002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer - Database Engine Internals",
+      "location": "Belgrade, Serbia",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012809002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -362,11 +452,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8012800002",
+      "job_id": "greenhouse_databricks_6544325002",
       "employer_name": "Databricks",
       "job_title": "Senior Software Engineer - Distributed Data Systems",
-      "location": "Belgrade, Serbia",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012800002",
+      "location": "Mountain View, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -382,21 +472,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_6544325002",
+      "job_id": "greenhouse_databricks_8012800002",
       "employer_name": "Databricks",
       "job_title": "Senior Software Engineer - Distributed Data Systems",
-      "location": "Mountain View, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002",
+      "location": "Belgrade, Serbia",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012800002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8099342002",
+      "job_id": "greenhouse_databricks_6544403002",
       "employer_name": "Databricks",
       "job_title": "Senior Software Engineer - Fullstack",
-      "location": "Vancouver, Canada",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099342002",
+      "location": "Seattle, Washington",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -412,21 +502,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8029679002",
+      "job_id": "greenhouse_databricks_8099342002",
       "employer_name": "Databricks",
       "job_title": "Senior Software Engineer - Fullstack",
-      "location": "Amsterdam, Netherlands",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002",
+      "location": "Vancouver, Canada",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099342002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_6544403002",
+      "job_id": "greenhouse_databricks_8029679002",
       "employer_name": "Databricks",
       "job_title": "Senior Software Engineer - Fullstack",
-      "location": "Seattle, Washington",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002",
+      "location": "Amsterdam, Netherlands",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -602,21 +692,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_7651326002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Staff Software Engineer (Backend)",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7651326002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_databricks_7651345002",
       "employer_name": "Databricks",
       "job_title": "Senior Staff Software Engineer (Backend)",
       "location": "Bengaluru, India",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7651345002",
+      "posted_at": "2026-07-17T16:19:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7651326002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Staff Software Engineer (Backend)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7651326002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -632,21 +722,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8303017002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Staff Software Engineer - Delta",
-      "location": "Z\u00fcrich, Switzerland",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303017002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_databricks_8303015002",
       "employer_name": "Databricks",
       "job_title": "Senior Staff Software Engineer - Delta",
       "location": "Amsterdam, Netherlands",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303015002",
+      "posted_at": "2026-07-17T16:19:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8303017002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Staff Software Engineer - Delta",
+      "location": "Z\u00fcrich, Switzerland",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303017002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -682,21 +772,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_7274557002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Staff Software Engineer - IAM",
-      "location": "Seattle, Washington",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_databricks_7274563002",
       "employer_name": "Databricks",
       "job_title": "Senior Staff Software Engineer - IAM",
       "location": "Mountain View, California",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274563002",
+      "posted_at": "2026-07-17T16:19:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7274557002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Staff Software Engineer - IAM",
+      "location": "Seattle, Washington",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -732,16 +822,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_7274908002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Staff Software Engineer - Security Infrastructure",
-      "location": "Mountain View, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_databricks_7274902002",
       "employer_name": "Databricks",
       "job_title": "Senior Staff Software Engineer - Security Infrastructure",
@@ -752,21 +832,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8407527002",
+      "job_id": "greenhouse_databricks_7274908002",
       "employer_name": "Databricks",
-      "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
-      "location": "Berlin, Germany",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407527002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8422477002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
-      "location": "Amsterdam, Netherlands",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422477002",
+      "job_title": "Senior Staff Software Engineer - Security Infrastructure",
+      "location": "Mountain View, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -782,16 +852,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8422484002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
-      "location": "Aarhus, Denmark",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422484002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_databricks_8422483002",
       "employer_name": "Databricks",
       "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
@@ -802,11 +862,31 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8029666002",
+      "job_id": "greenhouse_databricks_8407527002",
       "employer_name": "Databricks",
-      "job_title": "Software Engineer - Backend",
+      "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
+      "location": "Berlin, Germany",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407527002",
+      "posted_at": "2026-07-17T16:19:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8422484002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
+      "location": "Aarhus, Denmark",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422484002",
+      "posted_at": "2026-07-17T16:19:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8422477002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
       "location": "Amsterdam, Netherlands",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029666002",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422477002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -817,6 +897,16 @@
       "job_title": "Software Engineer - Backend",
       "location": "Belgrade, Serbia",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012650002",
+      "posted_at": "2026-07-17T16:19:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8029666002",
+      "employer_name": "Databricks",
+      "job_title": "Software Engineer - Backend",
+      "location": "Amsterdam, Netherlands",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029666002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -992,21 +1082,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8211452002",
-      "employer_name": "Databricks",
-      "job_title": "Sr Software Engineer-Networking",
-      "location": "Mountain View, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211452002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_databricks_8211450002",
       "employer_name": "Databricks",
       "job_title": "Sr Software Engineer-Networking",
       "location": "Bellevue, Washington",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211450002",
+      "posted_at": "2026-07-17T16:19:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8211452002",
+      "employer_name": "Databricks",
+      "job_title": "Sr Software Engineer-Networking",
+      "location": "Mountain View, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211452002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -1412,31 +1502,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8320187002",
+      "job_id": "greenhouse_databricks_6779233002",
       "employer_name": "Databricks",
       "job_title": "Staff Software Engineer - Backend",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8320187002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_5408888002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer - Backend",
-      "location": "San Francisco, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_6544443002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer - Backend",
-      "location": "Mountain View, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002",
+      "location": "Bellevue, Washington",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -1452,21 +1522,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8012814002",
+      "job_id": "greenhouse_databricks_5408888002",
       "employer_name": "Databricks",
       "job_title": "Staff Software Engineer - Backend",
-      "location": "Belgrade, Serbia",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012814002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_6779233002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer - Backend",
-      "location": "Bellevue, Washington",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002",
+      "location": "San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -1482,11 +1542,31 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8093293002",
+      "job_id": "greenhouse_databricks_6544443002",
       "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer - Backend ",
-      "location": "Vancouver, Canada",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8093293002",
+      "job_title": "Staff Software Engineer - Backend",
+      "location": "Mountain View, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002",
+      "posted_at": "2026-07-17T16:19:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8320187002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer - Backend",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8320187002",
+      "posted_at": "2026-07-17T16:19:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8012814002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer - Backend",
+      "location": "Belgrade, Serbia",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012814002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -1497,6 +1577,16 @@
       "job_title": "Staff Software Engineer - Backend ",
       "location": "London, United Kingdom",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8374611002",
+      "posted_at": "2026-07-17T16:19:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8093293002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer - Backend ",
+      "location": "Vancouver, Canada",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8093293002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -1572,21 +1662,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8012818002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer - Database Engine Internals",
-      "location": "Belgrade, Serbia",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012818002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_databricks_5646866002",
       "employer_name": "Databricks",
       "job_title": "Staff Software Engineer - Database Engine Internals",
       "location": "San Francisco, California",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=5646866002",
+      "posted_at": "2026-07-17T16:19:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8012818002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer - Database Engine Internals",
+      "location": "Belgrade, Serbia",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012818002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -1632,11 +1722,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_6937001002",
+      "job_id": "greenhouse_databricks_6544364002",
       "employer_name": "Databricks",
       "job_title": "Staff Software Engineer - Distributed Data Systems",
-      "location": "Bellevue, Washington",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6937001002",
+      "location": "Mountain View, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -1647,16 +1737,6 @@
       "job_title": "Staff Software Engineer - Distributed Data Systems",
       "location": "Belgrade, Serbia",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012831002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_6544364002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer - Distributed Data Systems",
-      "location": "Mountain View, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -1912,21 +1992,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_7994759002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer - Security Infrastructure",
-      "location": "Bellevue, Washington",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002",
-      "posted_at": "2026-07-17T16:19:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_databricks_7994770002",
       "employer_name": "Databricks",
       "job_title": "Staff Software Engineer - Security Infrastructure",
       "location": "Mountain View, California",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002",
+      "posted_at": "2026-07-17T16:19:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7994759002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer - Security Infrastructure",
+      "location": "Bellevue, Washington",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002",
       "posted_at": "2026-07-17T16:19:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -2132,21 +2212,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_pinterest_7958766",
-      "employer_name": "Pinterest",
-      "job_title": "Software Engineer II",
-      "location": "Palo Alto, CA, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7958766",
-      "posted_at": "2026-07-17T15:57:11-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_pinterest_7786418",
       "employer_name": "Pinterest",
       "job_title": "Software Engineer II",
       "location": "Dublin, IE",
       "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7786418",
+      "posted_at": "2026-07-17T15:57:11-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7958766",
+      "employer_name": "Pinterest",
+      "job_title": "Software Engineer II",
+      "location": "Palo Alto, CA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7958766",
       "posted_at": "2026-07-17T15:57:11-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -3139,46 +3219,6 @@
       "apply_link": "http://block.xyz/careers/jobs/5248631008?gh_jid=5248631008",
       "posted_at": "2026-07-17T13:02:52-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7905643",
-      "employer_name": "Waymo",
-      "job_title": "Machine Learning Engineer, Marketplace Pricing",
-      "location": "MountainView, CA, United States  ",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7905643",
-      "posted_at": "2026-07-17T12:03:37-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_instacart_7728839",
-      "employer_name": "Instacart",
-      "job_title": "Staff Software Engineer, Ads Data Platform",
-      "location": "United States - Remote",
-      "apply_link": "https://instacart.careers/job/?gh_jid=7728839",
-      "posted_at": "2026-07-17T11:53:04-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8071710",
-      "employer_name": "Twilio",
-      "job_title": "Staff Software Engineer",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8071710",
-      "posted_at": "2026-07-17T11:43:58-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5310731008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Capacity Engineering",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5310731008",
-      "posted_at": "2026-07-17T11:29:29-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
