@@ -1,6 +1,346 @@
 {
-  "generated_at": "2026-07-17T17:12:58.849685+00:00",
+  "generated_at": "2026-07-17T19:10:24.506866+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_waymo_8031521",
+      "employer_name": "Waymo",
+      "job_title": "Staff Product Data Scientist, Paid Media",
+      "location": "Mountain View, CA; San Francisco, CA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8031521",
+      "posted_at": "2026-07-17T13:36:55-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5707966004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "AI Applied Scientist",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5220003004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Data Engineer",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5552580004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Data Scientist  ",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5552580004?gh_jid=5552580004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5976930004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Data Scientist, Core Data -  PhD (2026)",
+      "location": "San Francisco, CA \u2022 New York, NY",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_6013304004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Data Scientist, Finance",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/6013304004?gh_jid=6013304004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_6013303004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Data Scientist, Marketing",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/6013303004?gh_jid=6013303004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5838098004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Manager, Software Engineering - AI Product ",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5838098004?gh_jid=5838098004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_6099616004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Manager, Software Engineering - AI Product (London, United Kingdom)",
+      "location": "London, England",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/6099616004?gh_jid=6099616004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5722244004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Manager, Software Engineering - Billing",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5722244004?gh_jid=5722244004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_6008752004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Manager, Software Engineering - DevEx AI Tools",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/6008752004?gh_jid=6008752004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_6105734004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Manager, Software Engineering - Figma Weave (Tel Aviv, Israel)",
+      "location": "Tel Aviv, Israel",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/6105734004?gh_jid=6105734004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_6010279004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Manager, Software Engineering - Growth Platform ",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/6010279004?gh_jid=6010279004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5778796004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Manager, Software Engineering - Interaction Design",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5778796004?gh_jid=5778796004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5807963004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Manager, Software Engineering - Observability",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5807963004?gh_jid=5807963004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_6092906004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Manager, Software Engineering - Payload",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/6092906004?gh_jid=6092906004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_6084344004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Manager, Software Engineering - Storage Platform",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/6084344004?gh_jid=6084344004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5691886004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer, AI Platforms",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5691886004?gh_jid=5691886004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5551730004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer, AI Product",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5551730004?gh_jid=5551730004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5551697004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer, AI Product (London, United Kingdom)",
+      "location": "London, England",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5551697004?gh_jid=5551697004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5552530004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer, C++",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5552530004?gh_jid=5552530004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5551686004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer, Data Infrastructure",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5551686004?gh_jid=5551686004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5790627004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer, Developer Experience",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5790627004?gh_jid=5790627004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5552549004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer, Distributed Systems",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5552549004?gh_jid=5552549004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_6073106004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer - Figma Weave (Tel Aviv, Israel) ",
+      "location": "Tel Aviv, Israel",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/6073106004?gh_jid=6073106004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5691911004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer, Full Stack",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5691911004?gh_jid=5691911004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5552522004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer, Graphics & Media",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5552522004?gh_jid=5552522004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5552560004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer, Growth & Monetization",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5552560004?gh_jid=5552560004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5551532004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer, Machine Learning",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_6100023004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer, Mobile Web",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/6100023004?gh_jid=6100023004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5551649004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer, Production Engineering",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5551649004?gh_jid=5551649004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5781928004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer, Production Engineering  (London, United Kingdom)",
+      "location": "London, England",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5781928004?gh_jid=5781928004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_6102379004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer, Traffic",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/6102379004?gh_jid=6102379004",
+      "posted_at": "2026-07-17T13:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7944328",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7944328",
+      "posted_at": "2026-07-17T13:15:36-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_block_4969342008",
       "employer_name": "Block",
