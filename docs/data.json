@@ -1,14 +1,314 @@
 {
-  "generated_at": "2026-07-18T02:33:00.299388+00:00",
+  "generated_at": "2026-07-18T04:56:55.408995+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_databricks_8574655002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Seoul, South Korea",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8574655002",
+      "posted_at": "2026-07-18T00:55:25-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8570023002",
+      "employer_name": "Databricks",
+      "job_title": "Specialist Solutions Architect - Data Engineering & Warehousing",
+      "location": "United States",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8570023002",
+      "posted_at": "2026-07-18T00:54:59-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8569390002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Singapore",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569390002",
+      "posted_at": "2026-07-18T00:48:28-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8568122002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. Specialist Solutions Architect - Data Engineering & Warehousing",
+      "location": "United States",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568122002",
+      "posted_at": "2026-07-18T00:48:21-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8560783002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer, AI Native Web Platform",
+      "location": "Mountain View, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560783002",
+      "posted_at": "2026-07-18T00:45:14-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8560779002",
+      "employer_name": "Databricks",
+      "job_title": "Software Engineer, Web Products",
+      "location": "Mountain View, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002",
+      "posted_at": "2026-07-18T00:45:11-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8556371002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Forward Deployed Engineer - Full stack",
+      "location": "Paris, France",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8556371002",
+      "posted_at": "2026-07-18T00:44:28-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8554531002",
+      "employer_name": "Databricks",
+      "job_title": "Forward Deployed Engineer - FDE (Fullstack)",
+      "location": "Munich, Germany",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8554531002",
+      "posted_at": "2026-07-18T00:44:06-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8546367002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "United States",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
+      "posted_at": "2026-07-18T00:42:51-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8546365002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
+      "location": "Maryland; Virginia; Washington, D.C.",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546365002",
+      "posted_at": "2026-07-18T00:42:48-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8506063002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Specialist Solutions Architect - AI & ML Engineer",
+      "location": "Finland; Remote - Denmark; Stockholm, Sweden",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8506063002",
+      "posted_at": "2026-07-18T00:38:10-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8493170002",
+      "employer_name": "Databricks",
+      "job_title": "Sr Software Engineer, Infrastructure",
+      "location": "San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002",
+      "posted_at": "2026-07-18T00:36:31-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8493168002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. IT Site Reliability Software Engineer",
+      "location": "Costa Rica",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8493168002",
+      "posted_at": "2026-07-18T00:36:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_databricks_8456277002",
       "employer_name": "Databricks",
       "job_title": "Principal Data Scientist",
       "location": "Mountain View, California; San Francisco, California",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8456277002",
-      "posted_at": "2026-07-17T22:23:32-04:00",
+      "posted_at": "2026-07-18T00:31:44-04:00",
       "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8527117002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer, Compute Infrastructure",
+      "location": "Mountain View, California; San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002",
+      "posted_at": "2026-07-18T00:30:18-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8579135002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer, Compute Infrastructure",
+      "location": "Bellevue, Washington",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8579135002",
+      "posted_at": "2026-07-18T00:30:18-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8439078002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Manager, Forward Deployed Engineering (Full Stack) x 2 New roles",
+      "location": "Remote - France",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8439078002",
+      "posted_at": "2026-07-18T00:28:50-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8422481002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
+      "location": "London, United Kingdom",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422481002",
+      "posted_at": "2026-07-18T00:22:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8422483002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
+      "location": "Z\u00fcrich, Switzerland",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422483002",
+      "posted_at": "2026-07-18T00:22:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8407527002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
+      "location": "Berlin, Germany",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407527002",
+      "posted_at": "2026-07-18T00:22:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8422484002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
+      "location": "Aarhus, Denmark",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422484002",
+      "posted_at": "2026-07-18T00:22:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8422477002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
+      "location": "Amsterdam, Netherlands",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422477002",
+      "posted_at": "2026-07-18T00:22:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8396801002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Forward Deployed Engineer, Full Stack",
+      "location": "London, United Kingdom",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8396801002",
+      "posted_at": "2026-07-18T00:20:35-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8340837002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Solutions Architect (DS/ML/GenAI/LLM)",
+      "location": "London, United Kingdom",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8340837002",
+      "posted_at": "2026-07-18T00:16:26-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8330188002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Melbourne, Australia",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8330188002",
+      "posted_at": "2026-07-18T00:14:34-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8298792002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Sydney, Australia",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8298792002",
+      "posted_at": "2026-07-18T00:14:34-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8391889002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. Staff Software Engineer, Observability ",
+      "location": "Mountain View, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8391889002",
+      "posted_at": "2026-07-18T00:14:29-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8298247002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer, Metrics and Logging",
+      "location": "Mountain View, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8298247002",
+      "posted_at": "2026-07-18T00:14:29-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8328675002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer, Observability ",
+      "location": "Mountain View, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8328675002",
+      "posted_at": "2026-07-18T00:14:29-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8285949002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. Staff Software Engineer - Money Team",
+      "location": "Bellevue, Washington",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8285949002",
+      "posted_at": "2026-07-18T00:14:08-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8614863002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Machine Learning Engineer, CustomerLake (ML/LLM)",
+      "location": "New York City, New York",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8614863002",
+      "posted_at": "2026-07-17T23:57:25-04:00",
+      "category": "ML / AI Engineer",
       "source": "greenhouse"
     },
     {
@@ -17,9 +317,69 @@
       "job_title": "Staff Security Software Engineer, AI Security",
       "location": "Remote - California",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8026634002",
-      "posted_at": "2026-07-17T22:23:22-04:00",
+      "posted_at": "2026-07-17T23:53:56-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7882009002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Security Software Engineer, AI Security Engineering ",
+      "location": "Remote - California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002",
+      "posted_at": "2026-07-17T23:46:02-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8099751002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Remote - India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002",
+      "posted_at": "2026-07-17T23:40:52-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7807722002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Staff Software Engineer - App and Partner Ecosystem",
+      "location": "Seattle, Washington",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7807722002",
+      "posted_at": "2026-07-17T23:39:02-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8575251002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. Staff Software Engineer \u2014 Observability, Insights & Governance",
+      "location": "Bellevue, Washington; Seattle, Washington",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575251002",
+      "posted_at": "2026-07-17T23:39:02-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8575248002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. Staff Software Engineer \u2014 Observability, Insights & Governance",
+      "location": "Mountain View, California; San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575248002",
+      "posted_at": "2026-07-17T23:39:02-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "bCEbhtQezY8GFLnoAAAAAA==",
+      "employer_name": "Shaw Industries",
+      "job_title": "Industrial Automation & Machine Learning Engineer",
+      "location": "Cartersville, Alabama",
+      "apply_link": "https://www.recruit.net/job/industrial-automation-machine-learning-engineer-jobs/02A82EC96BA66B85",
+      "posted_at": "2026-07-17T23:00:00.000Z",
+      "category": "ML / AI Engineer",
+      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_twilio_8056276",
@@ -32,26 +392,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8527117002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer, Compute Infrastructure",
-      "location": "Mountain View, California; San Francisco, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002",
-      "posted_at": "2026-07-17T22:19:10-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8579135002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer, Compute Infrastructure",
-      "location": "Bellevue, Washington",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8579135002",
-      "posted_at": "2026-07-17T22:19:10-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_twilio_8067270",
       "employer_name": "Twilio",
       "job_title": "Principal Software Engineer - Identity Graph",
@@ -59,156 +399,6 @@
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8067270",
       "posted_at": "2026-07-17T22:18:43-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8439078002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Manager, Forward Deployed Engineering (Full Stack) x 2 New roles",
-      "location": "Remote - France",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8439078002",
-      "posted_at": "2026-07-17T22:14:22-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_7882009002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Security Software Engineer, AI Security Engineering ",
-      "location": "Remote - California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002",
-      "posted_at": "2026-07-17T22:11:42-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_7807722002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Staff Software Engineer - App and Partner Ecosystem",
-      "location": "Seattle, Washington",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7807722002",
-      "posted_at": "2026-07-17T22:05:51-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8575251002",
-      "employer_name": "Databricks",
-      "job_title": "Sr. Staff Software Engineer \u2014 Observability, Insights & Governance",
-      "location": "Bellevue, Washington; Seattle, Washington",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575251002",
-      "posted_at": "2026-07-17T22:05:51-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8575248002",
-      "employer_name": "Databricks",
-      "job_title": "Sr. Staff Software Engineer \u2014 Observability, Insights & Governance",
-      "location": "Mountain View, California; San Francisco, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575248002",
-      "posted_at": "2026-07-17T22:05:51-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8099751002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Remote - India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002",
-      "posted_at": "2026-07-17T21:59:12-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8422481002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
-      "location": "London, United Kingdom",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422481002",
-      "posted_at": "2026-07-17T21:51:03-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8422483002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
-      "location": "Z\u00fcrich, Switzerland",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422483002",
-      "posted_at": "2026-07-17T21:51:03-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8407527002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
-      "location": "Berlin, Germany",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407527002",
-      "posted_at": "2026-07-17T21:51:03-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8422484002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
-      "location": "Aarhus, Denmark",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422484002",
-      "posted_at": "2026-07-17T21:51:03-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8422477002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
-      "location": "Amsterdam, Netherlands",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422477002",
-      "posted_at": "2026-07-17T21:51:03-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8546367002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "United States",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
-      "posted_at": "2026-07-17T21:48:11-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8546365002",
-      "employer_name": "Databricks",
-      "job_title": "Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
-      "location": "Maryland; Virginia; Washington, D.C.",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546365002",
-      "posted_at": "2026-07-17T21:48:02-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8396801002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Forward Deployed Engineer, Full Stack",
-      "location": "London, United Kingdom",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8396801002",
-      "posted_at": "2026-07-17T21:45:21-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8340837002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Solutions Architect (DS/ML/GenAI/LLM)",
-      "location": "London, United Kingdom",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8340837002",
-      "posted_at": "2026-07-17T21:31:31-04:00",
-      "category": "Other",
       "source": "greenhouse"
     },
     {
@@ -242,86 +432,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8330188002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Melbourne, Australia",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8330188002",
-      "posted_at": "2026-07-17T21:25:31-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8298792002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Sydney, Australia",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8298792002",
-      "posted_at": "2026-07-17T21:25:31-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8391889002",
-      "employer_name": "Databricks",
-      "job_title": "Sr. Staff Software Engineer, Observability ",
-      "location": "Mountain View, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8391889002",
-      "posted_at": "2026-07-17T21:25:13-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8298247002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer, Metrics and Logging",
-      "location": "Mountain View, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8298247002",
-      "posted_at": "2026-07-17T21:25:13-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8328675002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer, Observability ",
-      "location": "Mountain View, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8328675002",
-      "posted_at": "2026-07-17T21:25:13-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8285949002",
-      "employer_name": "Databricks",
-      "job_title": "Sr. Staff Software Engineer - Money Team",
-      "location": "Bellevue, Washington",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8285949002",
-      "posted_at": "2026-07-17T21:23:52-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8574655002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Seoul, South Korea",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8574655002",
-      "posted_at": "2026-07-17T21:20:42-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8569390002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Singapore",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569390002",
-      "posted_at": "2026-07-17T21:16:52-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_waymo_7510368",
       "employer_name": "Waymo",
       "job_title": "Senior Software Engineer, Inertial Navigation",
@@ -349,106 +459,6 @@
       "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8485797002",
       "posted_at": "2026-07-17T19:06:45-04:00",
       "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5250091008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, GRC Platform",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5250091008",
-      "posted_at": "2026-07-17T18:56:38-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8070678",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Machine Learning Engineer, Price Modeling",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/8070678?gh_jid=8070678",
-      "posted_at": "2026-07-17T18:28:54-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8639477002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer, Technical Lead, Lakebase Manager (LBM)",
-      "location": "Bellevue, Washington",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8639477002",
-      "posted_at": "2026-07-17T18:05:41-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_6937001002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer - Distributed Data Systems",
-      "location": "Bellevue, Washington",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6937001002",
-      "posted_at": "2026-07-17T18:04:47-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5174755008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Backend",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5174755008",
-      "posted_at": "2026-07-17T17:46:06-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5157847008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Platform",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5157847008",
-      "posted_at": "2026-07-17T17:43:00-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4951844008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Safeguards",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4951844008",
-      "posted_at": "2026-07-17T17:29:55-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7773776",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer (Platform - Identity IDV)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7773776?gh_jid=7773776",
-      "posted_at": "2026-07-17T17:26:51-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_5630302",
-      "employer_name": "DoorDash",
-      "job_title": "Staff Software Engineer, Backend",
-      "location": "New York, NY; Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630302",
-      "posted_at": "2026-07-17T17:10:09-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_5630445",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Backend (All Teams)",
-      "location": "Sunnyvale, CA; San Francisco, CA; New York, NY; Seattle, WA; Ann Arbor, MI",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630445",
-      "posted_at": "2026-07-17T17:09:47-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
