@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-07-18T04:56:55.408995+00:00",
+  "generated_at": "2026-07-18T06:05:42.592332+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_databricks_8614863002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Machine Learning Engineer, CustomerLake (ML/LLM)",
+      "location": "New York City, New York",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8614863002",
+      "posted_at": "2026-07-18T01:06:52-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8611391002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Tokyo, Japan",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8611391002",
+      "posted_at": "2026-07-18T01:05:58-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8604598002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Data and AI Engineer, Finance",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604598002",
+      "posted_at": "2026-07-18T01:03:40-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8604579002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Data and AI Engineer - Finance",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604579002",
+      "posted_at": "2026-07-18T01:03:12-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8598430002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Forward Deployed Engineer - Full stack",
+      "location": "London, United Kingdom",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8598430002",
+      "posted_at": "2026-07-18T01:01:13-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8593713002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Remote - United Kingdom",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002",
+      "posted_at": "2026-07-18T01:00:05-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_databricks_8574655002",
       "employer_name": "Databricks",
@@ -302,16 +362,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8614863002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Machine Learning Engineer, CustomerLake (ML/LLM)",
-      "location": "New York City, New York",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8614863002",
-      "posted_at": "2026-07-17T23:57:25-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_databricks_8026634002",
       "employer_name": "Databricks",
       "job_title": "Staff Security Software Engineer, AI Security",
@@ -372,16 +422,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "bCEbhtQezY8GFLnoAAAAAA==",
-      "employer_name": "Shaw Industries",
-      "job_title": "Industrial Automation & Machine Learning Engineer",
-      "location": "Cartersville, Alabama",
-      "apply_link": "https://www.recruit.net/job/industrial-automation-machine-learning-engineer-jobs/02A82EC96BA66B85",
-      "posted_at": "2026-07-17T23:00:00.000Z",
-      "category": "ML / AI Engineer",
-      "source": "jsearch"
-    },
-    {
       "job_id": "greenhouse_twilio_8056276",
       "employer_name": "Twilio",
       "job_title": "Senior Software Engineer, Identity",
@@ -402,36 +442,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8611391002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Tokyo, Japan",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8611391002",
-      "posted_at": "2026-07-17T21:28:12-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8604598002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Data and AI Engineer, Finance",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604598002",
-      "posted_at": "2026-07-17T21:27:11-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8604579002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Data and AI Engineer - Finance",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604579002",
-      "posted_at": "2026-07-17T21:26:22-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_waymo_7510368",
       "employer_name": "Waymo",
       "job_title": "Senior Software Engineer, Inertial Navigation",
@@ -439,26 +449,6 @@
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7510368",
       "posted_at": "2026-07-17T20:14:00-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_7988010",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Data Engineer, People Analytics",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/7988010?gh_jid=7988010",
-      "posted_at": "2026-07-17T19:47:14-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8485797002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Data Scientist, Analytics",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8485797002",
-      "posted_at": "2026-07-17T19:06:45-04:00",
-      "category": "Data Scientist",
       "source": "greenhouse"
     }
   ]
