@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T06:05:42.592332+00:00",
+  "generated_at": "2026-07-18T09:26:28.119562+00:00",
   "jobs": [
     {
       "job_id": "greenhouse_databricks_8614863002",
@@ -242,21 +242,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8422483002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
-      "location": "Z\u00fcrich, Switzerland",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422483002",
-      "posted_at": "2026-07-18T00:22:04-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_databricks_8407527002",
       "employer_name": "Databricks",
       "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
       "location": "Berlin, Germany",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407527002",
+      "posted_at": "2026-07-18T00:22:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8422477002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
+      "location": "Amsterdam, Netherlands",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422477002",
       "posted_at": "2026-07-18T00:22:04-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -272,11 +272,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8422477002",
+      "job_id": "greenhouse_databricks_8422483002",
       "employer_name": "Databricks",
       "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
-      "location": "Amsterdam, Netherlands",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422477002",
+      "location": "Z\u00fcrich, Switzerland",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422483002",
       "posted_at": "2026-07-18T00:22:04-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -418,36 +418,6 @@
       "location": "Mountain View, California; San Francisco, California",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575248002",
       "posted_at": "2026-07-17T23:39:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8056276",
-      "employer_name": "Twilio",
-      "job_title": "Senior Software Engineer, Identity",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8056276",
-      "posted_at": "2026-07-17T22:21:41-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8067270",
-      "employer_name": "Twilio",
-      "job_title": "Principal Software Engineer - Identity Graph",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8067270",
-      "posted_at": "2026-07-17T22:18:43-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7510368",
-      "employer_name": "Waymo",
-      "job_title": "Senior Software Engineer, Inertial Navigation",
-      "location": "Mountain View, California, US",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7510368",
-      "posted_at": "2026-07-17T20:14:00-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
