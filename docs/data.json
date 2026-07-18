@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-07-18T11:04:21.781790+00:00",
+  "generated_at": "2026-07-18T11:09:15.690982+00:00",
   "jobs": [
+    {
+      "job_id": "-xIft4zhP7tIb4V9AAAAAA==",
+      "employer_name": "Oracle",
+      "job_title": "Lead Principal Applied Scientist",
+      "location": "Seattle, Washington",
+      "apply_link": "https://www.linkedin.com/jobs/view/lead-principal-applied-scientist-at-oracle-4430643410",
+      "posted_at": "2026-07-18T10:00:00.000Z",
+      "category": "ML / AI Engineer",
+      "source": "jsearch"
+    },
     {
       "job_id": "greenhouse_lyft_8631837002",
       "employer_name": "Lyft",
@@ -9,26 +19,6 @@
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8631837002?gh_jid=8631837002",
       "posted_at": "2026-07-18T06:10:49-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8614863002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Machine Learning Engineer, CustomerLake (ML/LLM)",
-      "location": "New York City, New York",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8614863002",
-      "posted_at": "2026-07-18T01:06:52-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8611391002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Tokyo, Japan",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8611391002",
-      "posted_at": "2026-07-18T01:05:58-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
