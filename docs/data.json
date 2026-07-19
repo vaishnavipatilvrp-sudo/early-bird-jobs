@@ -1,4 +1,45 @@
 {
-  "generated_at": "2026-07-19T14:56:23.607740+00:00",
-  "jobs": []
+  "generated_at": "2026-07-19T15:58:03.140796+00:00",
+  "jobs": [
+    {
+      "job_id": "greenhouse_anthropic_5305402008",
+      "employer_name": "Anthropic",
+      "job_title": "Software Engineer, Web Platform",
+      "location": "San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5305402008",
+      "posted_at": "2026-07-19T10:58:02-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "VZ7V72nW7E_TQnYBAAAAAA==",
+      "employer_name": "Berkeley Industrial Engineering & Operations Research",
+      "job_title": "Data Scientist at Lutron Electronics Company, Inc.",
+      "location": "US",
+      "apply_link": "https://www.linkedin.com/jobs/view/data-scientist-at-lutron-electronics-company-inc-at-berkeley-industrial-engineering-operations-research-4441785114",
+      "posted_at": "2026-07-19T10:00:00.000Z",
+      "category": "Data Scientist",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "QLRLBiZfV3ccBkqiAAAAAA==",
+      "employer_name": "Berkeley Industrial Engineering & Operations Research",
+      "job_title": "Lead Data Engineer at Lutron Electronics Company, Inc.",
+      "location": "US",
+      "apply_link": "https://www.linkedin.com/jobs/view/lead-data-engineer-at-lutron-electronics-company-inc-at-berkeley-industrial-engineering-operations-research-4441788007",
+      "posted_at": "2026-07-19T10:00:00.000Z",
+      "category": "Data Engineer",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "VZ7V72nW7E_TQnYBAAAAAA==",
+      "employer_name": "Berkeley Industrial Engineering & Operations Research",
+      "job_title": "Data Scientist at Lutron Electronics Company, Inc.",
+      "location": "US",
+      "apply_link": "https://www.linkedin.com/jobs/view/data-scientist-at-lutron-electronics-company-inc-at-berkeley-industrial-engineering-operations-research-4441785114",
+      "posted_at": "2026-07-19T10:00:00.000Z",
+      "category": "Data Scientist",
+      "source": "jsearch"
+    }
+  ]
 }
