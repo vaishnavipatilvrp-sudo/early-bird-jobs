@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-07-21T10:26:02.980771+00:00",
+  "generated_at": "2026-07-21T11:51:24.213271+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_stripe_7548037",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Data Engineering Solutions",
+      "location": "Bengaluru",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7548037",
+      "posted_at": "2026-07-21T07:31:52-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_lyft_8639319002",
       "employer_name": "Lyft",
@@ -28,16 +38,6 @@
       "location": "Seattle, WA",
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8631837002?gh_jid=8631837002",
       "posted_at": "2026-07-21T03:10:48-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_7702714",
-      "employer_name": "Airbnb",
-      "job_title": "Staff Software Engineer, Infrastructure",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/7702714?gh_jid=7702714",
-      "posted_at": "2026-07-21T01:06:30-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
