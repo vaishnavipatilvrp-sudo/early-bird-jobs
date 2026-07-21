@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T05:30:24.914722+00:00",
+  "generated_at": "2026-07-21T06:28:43.624847+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_596e543a-0ab9-471e-a1ff-40fd55c74fce",
@@ -32,56 +32,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "ojmMtZzBnma2SleqAAAAAA==",
-      "employer_name": "Capgemini",
-      "job_title": "Full Stack Developer ( React)",
-      "location": "New York, New York",
-      "apply_link": "https://www.indeed.com/viewjob?jk=e9e1d57cbfe09f5d",
-      "posted_at": "2026-07-21T00:00:00.000Z",
-      "category": "Other",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "gh2farGQXfqnH2dtAAAAAA==",
-      "employer_name": "Amazon",
-      "job_title": "Business Intelligence Engineer, Supply Chain Innovation, Bulk Fulfillment",
-      "location": "Bellevue, Washington",
-      "apply_link": "https://www.linkedin.com/jobs/view/business-intelligence-engineer-supply-chain-innovation-bulk-fulfillment-at-amazon-4443041331",
-      "posted_at": "2026-07-21T00:00:00.000Z",
-      "category": "Other",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "li0GTYTXdQfzrC0uAAAAAA==",
-      "employer_name": "Amazon",
-      "job_title": "Senior Applied Scientist, AGI Customization",
-      "location": "Bellevue, Washington",
-      "apply_link": "https://www.linkedin.com/jobs/view/senior-applied-scientist-agi-customization-at-amazon-4443028844",
-      "posted_at": "2026-07-21T00:00:00.000Z",
-      "category": "ML / AI Engineer",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "eTpvAobY9YPCYb7VAAAAAA==",
-      "employer_name": "Amazon",
-      "job_title": "Senior Applied Scientist, Catalog System Services Science",
-      "location": "Seattle, Washington",
-      "apply_link": "https://www.linkedin.com/jobs/view/senior-applied-scientist-catalog-system-services-science-at-amazon-4443018630",
-      "posted_at": "2026-07-21T00:00:00.000Z",
-      "category": "ML / AI Engineer",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "ashby_replit_07c4c890-0dd4-4022-bba4-8dfba6ff16ee",
-      "employer_name": "Replit (bonus, not on your original list)",
-      "job_title": "Data Scientist, Trust & Safety",
-      "location": "Foster City, CA",
-      "apply_link": "https://jobs.ashbyhq.com/replit/07c4c890-0dd4-4022-bba4-8dfba6ff16ee",
-      "posted_at": "2026-07-20T23:41:31.565+00:00",
-      "category": "Data Scientist",
-      "source": "ashby"
-    },
-    {
       "job_id": "greenhouse_anthropic_5363469008",
       "employer_name": "Anthropic",
       "job_title": "Staff Software Engineer, Growth ",
@@ -108,26 +58,6 @@
       "location": "Remote - India",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7699243",
       "posted_at": "2026-07-20T20:33:13-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7944201",
-      "employer_name": "Waymo",
-      "job_title": "Senior Software Engineer, Planner Evaluation ",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7944201",
-      "posted_at": "2026-07-20T20:10:12-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8051390",
-      "employer_name": "Waymo",
-      "job_title": "Machine Learning Engineer, Sensor Pipelines",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8051390",
-      "posted_at": "2026-07-20T20:00:28-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
