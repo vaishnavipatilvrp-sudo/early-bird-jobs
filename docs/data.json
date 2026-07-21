@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-07-21T16:24:05.161219+00:00",
+  "generated_at": "2026-07-21T17:20:48.210695+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_770d5c3f-4e72-4b49-aec4-d444e8ad7a64",
+      "employer_name": "OpenAI",
+      "job_title": "Software Engineer, Compute Foundations Systems",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/770d5c3f-4e72-4b49-aec4-d444e8ad7a64",
+      "posted_at": "2026-07-21T16:47:15.711+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_waymo_8070602",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, ICX Graphics",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8070602",
+      "posted_at": "2026-07-21T13:17:37-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7719332",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer, Tech Lead, Labeling Automation",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7719332",
+      "posted_at": "2026-07-21T13:01:38-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_databricks_8468436002",
       "employer_name": "Databricks",
@@ -72,21 +102,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7727896",
-      "employer_name": "MongoDB",
-      "job_title": "Security Software Engineer, Infrastructure Security (Staff or Senior)",
-      "location": "Austin; New York City; San Francisco; Seattle; United States",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7727896",
-      "posted_at": "2026-07-21T10:26:00-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_7727899",
       "employer_name": "MongoDB",
       "job_title": "Security Software Engineer, Infrastructure Security (Staff or Senior)",
       "location": "Dublin; Ireland",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7727899",
+      "posted_at": "2026-07-21T10:26:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7727896",
+      "employer_name": "MongoDB",
+      "job_title": "Security Software Engineer, Infrastructure Security (Staff or Senior)",
+      "location": "Austin; New York City; San Francisco; Seattle; United States",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7727896",
       "posted_at": "2026-07-21T10:26:00-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -202,21 +232,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7590735",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Forward Deployed AI Engineer",
-      "location": "Ireland",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7590735",
-      "posted_at": "2026-07-21T10:26:00-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_7392902",
       "employer_name": "MongoDB",
       "job_title": "Senior Software Engineer, Forward Deployed AI Engineer",
       "location": "Cork, Ireland; Dublin, Ireland",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7392902",
+      "posted_at": "2026-07-21T10:26:00-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7590735",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Forward Deployed AI Engineer",
+      "location": "Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7590735",
       "posted_at": "2026-07-21T10:26:00-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -262,21 +292,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7815679",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Server Security",
-      "location": "Toronto",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7815679",
-      "posted_at": "2026-07-21T10:26:00-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_7815677",
       "employer_name": "MongoDB",
       "job_title": "Senior Software Engineer, Server Security",
       "location": "New York City",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7815677",
+      "posted_at": "2026-07-21T10:26:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7815679",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Server Security",
+      "location": "Toronto",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7815679",
       "posted_at": "2026-07-21T10:26:00-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -297,6 +327,36 @@
       "job_title": "Software Engineer 2",
       "location": "Dublin",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7613695",
+      "posted_at": "2026-07-21T10:26:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8064448",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Cork, Ireland; Dublin, Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8064448",
+      "posted_at": "2026-07-21T10:26:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7744404",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Sydney",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7744404",
+      "posted_at": "2026-07-21T10:26:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7859378",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Cork, Ireland; Dublin, Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7859378",
       "posted_at": "2026-07-21T10:26:00-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -337,36 +397,6 @@
       "job_title": "Software Engineer 3",
       "location": "Dublin",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7939397",
-      "posted_at": "2026-07-21T10:26:00-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8064448",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Cork, Ireland; Dublin, Ireland",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8064448",
-      "posted_at": "2026-07-21T10:26:00-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7744404",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Sydney",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7744404",
-      "posted_at": "2026-07-21T10:26:00-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7859378",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Cork, Ireland; Dublin, Ireland",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7859378",
       "posted_at": "2026-07-21T10:26:00-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -512,21 +542,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7311666",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer, Code Generation",
-      "location": "California; Colorado; Montana; Nevada; New Mexico; Oregon; Utah; Washington",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7311666",
-      "posted_at": "2026-07-21T10:26:00-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_7311708",
       "employer_name": "MongoDB",
       "job_title": "Software Engineer, Code Generation",
       "location": "British Columbia; Calgary",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7311708",
+      "posted_at": "2026-07-21T10:26:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7311666",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer, Code Generation",
+      "location": "California; Colorado; Montana; Nevada; New Mexico; Oregon; Utah; Washington",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7311666",
       "posted_at": "2026-07-21T10:26:00-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -562,21 +592,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7602834",
-      "employer_name": "MongoDB",
-      "job_title": "Staff Software Engineer, Query (Optimization)",
-      "location": "United States",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7602834",
-      "posted_at": "2026-07-21T10:26:00-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_7646261",
       "employer_name": "MongoDB",
       "job_title": "Staff Software Engineer, Query (Optimization)",
       "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7646261",
+      "posted_at": "2026-07-21T10:26:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7602834",
+      "employer_name": "MongoDB",
+      "job_title": "Staff Software Engineer, Query (Optimization)",
+      "location": "United States",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7602834",
       "posted_at": "2026-07-21T10:26:00-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
