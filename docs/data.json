@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-07-21T11:51:24.213271+00:00",
+  "generated_at": "2026-07-21T13:51:45.851290+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_stripe_8044924",
+      "employer_name": "Stripe",
+      "job_title": "Financial Data Analyst",
+      "location": "Singapore",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8044924",
+      "posted_at": "2026-07-21T09:48:40-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7716279",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer (L4)",
+      "location": "Remote - Canada",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7716279",
+      "posted_at": "2026-07-21T09:46:10-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8060884",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Staff Software Engineer, Legal Automation",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8060884?gh_jid=8060884",
+      "posted_at": "2026-07-21T09:45:38-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_7902817",
+      "employer_name": "Airbnb",
+      "job_title": "Software Engineer, BizTech(Python, Java, GenAI)",
+      "location": "Bangalore, India",
+      "apply_link": "https://careers.airbnb.com/positions/7902817?gh_jid=7902817",
+      "posted_at": "2026-07-21T08:05:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_7556182",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Software Engineer, (Python, Java,  GenAI)",
+      "location": "Remote - Bangalore, India",
+      "apply_link": "https://careers.airbnb.com/positions/7556182?gh_jid=7556182",
+      "posted_at": "2026-07-21T08:04:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_stripe_7548037",
       "employer_name": "Stripe",
@@ -28,16 +78,6 @@
       "location": "Hybrid",
       "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7302931?gh_jid=7302931",
       "posted_at": "2026-07-21T05:24:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8631837002",
-      "employer_name": "Lyft",
-      "job_title": "Software Engineer, Async Platform",
-      "location": "Seattle, WA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8631837002?gh_jid=8631837002",
-      "posted_at": "2026-07-21T03:10:48-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
