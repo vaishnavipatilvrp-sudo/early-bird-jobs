@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-07-21T15:44:39.437691+00:00",
+  "generated_at": "2026-07-21T16:24:05.161219+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_databricks_8468436002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Backend Software Engineer",
+      "location": "New York",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8468436002",
+      "posted_at": "2026-07-21T11:59:46-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4715352005",
+      "employer_name": "Scale AI",
+      "job_title": "Senior Software Engineer, Identity",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4715352005",
+      "posted_at": "2026-07-21T11:55:31-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_pinterest_8049465",
       "employer_name": "Pinterest",
@@ -639,16 +659,6 @@
       "apply_link": "https://stripe.com/jobs/search?gh_jid=7548037",
       "posted_at": "2026-07-21T07:31:52-04:00",
       "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8639319002",
-      "employer_name": "Lyft",
-      "job_title": "Staff Software Engineer",
-      "location": "Ukraine Anywhere",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8639319002?gh_jid=8639319002",
-      "posted_at": "2026-07-21T05:53:07-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
