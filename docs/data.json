@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T05:30:22.769531+00:00",
+  "generated_at": "2026-07-22T06:28:49.309408+00:00",
   "jobs": [
     {
       "job_id": "greenhouse_doordashusa_7967918",
@@ -32,16 +32,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "Zbz7VtGMDnrPU1eKAAAAAA==",
-      "employer_name": "Amazon",
-      "job_title": "Applied Scientist II, Selling Partner Selection Success",
-      "location": "Seattle, Washington",
-      "apply_link": "https://www.linkedin.com/jobs/view/applied-scientist-ii-selling-partner-selection-success-at-amazon-4443589736",
-      "posted_at": "2026-07-22T00:00:00.000Z",
-      "category": "ML / AI Engineer",
-      "source": "jsearch"
-    },
-    {
       "job_id": "greenhouse_twilio_8065028",
       "employer_name": "Twilio",
       "job_title": "Senior Software Engineer",
@@ -59,26 +49,6 @@
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8065043",
       "posted_at": "2026-07-21T21:50:36-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8377248002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer - Safety Processing",
-      "location": "San Francisco Bay Area or Los Angeles Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8377248002",
-      "posted_at": "2026-07-21T19:35:46-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8077995",
-      "employer_name": "Airbnb",
-      "job_title": "Staff Backend Engineer, Host Serving and Access",
-      "location": "Remote - USA",
-      "apply_link": "https://careers.airbnb.com/positions/8077995?gh_jid=8077995",
-      "posted_at": "2026-07-21T19:33:46-04:00",
-      "category": "Other",
       "source": "greenhouse"
     }
   ]
