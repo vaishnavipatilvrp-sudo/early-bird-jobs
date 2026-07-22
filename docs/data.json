@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-07-21T22:57:40.287132+00:00",
+  "generated_at": "2026-07-22T02:42:26.049561+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_twilio_8065028",
+      "employer_name": "Twilio",
+      "job_title": "Senior Software Engineer",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8065028",
+      "posted_at": "2026-07-21T21:50:58-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8065043",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8065043",
+      "posted_at": "2026-07-21T21:50:36-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8377248002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - Safety Processing",
+      "location": "San Francisco Bay Area or Los Angeles Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8377248002",
+      "posted_at": "2026-07-21T19:35:46-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8077995",
+      "employer_name": "Airbnb",
+      "job_title": "Staff Backend Engineer, Host Serving and Access",
+      "location": "Remote - USA",
+      "apply_link": "https://careers.airbnb.com/positions/8077995?gh_jid=8077995",
+      "posted_at": "2026-07-21T19:33:46-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5247446008",
+      "employer_name": "Anthropic",
+      "job_title": "[C] Data Engineer, Safeguards",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5247446008",
+      "posted_at": "2026-07-21T19:25:56-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_discord_8642085002",
       "employer_name": "Discord (bonus, not on your original list)",
@@ -748,186 +798,6 @@
       "location": "San Francisco, CA | New York City, NY",
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5364804008",
       "posted_at": "2026-07-21T17:13:51-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5366284008",
-      "employer_name": "Block",
-      "job_title": "Staff Product Data Scientist, Lending",
-      "location": "San Francisco, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5366284008?gh_jid=5366284008",
-      "posted_at": "2026-07-21T16:23:01-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5366281008",
-      "employer_name": "Block",
-      "job_title": "Staff Product Data Scientist, Lending",
-      "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008",
-      "posted_at": "2026-07-21T16:22:34-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5192640008",
-      "employer_name": "Block",
-      "job_title": "Staff Product Data Scientist, Lending",
-      "location": "Seattle, WA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008",
-      "posted_at": "2026-07-21T16:22:33-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8077787",
-      "employer_name": "Airbnb",
-      "job_title": "Software Engineer, Dev Tools",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/8077787?gh_jid=8077787",
-      "posted_at": "2026-07-21T15:55:44-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8070602",
-      "employer_name": "Waymo",
-      "job_title": "Senior Software Engineer, ICX Graphics",
-      "location": "Mountain View, California, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8070602",
-      "posted_at": "2026-07-21T15:50:46-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_7960984",
-      "employer_name": "Pinterest",
-      "job_title": "Staff Software Engineer, Trends Engineering ",
-      "location": "San Francisco, CA, US; Remote, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7960984",
-      "posted_at": "2026-07-21T14:53:21-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8077612",
-      "employer_name": "Airbnb",
-      "job_title": "Software Engineer, CI Platform Infrastructure",
-      "location": "Remote - USA",
-      "apply_link": "https://careers.airbnb.com/positions/8077612?gh_jid=8077612",
-      "posted_at": "2026-07-21T14:49:31-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8021476",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Software Engineer, Dev Tools",
-      "location": "Remote - USA",
-      "apply_link": "https://careers.airbnb.com/positions/8021476?gh_jid=8021476",
-      "posted_at": "2026-07-21T14:47:35-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8077506",
-      "employer_name": "Airbnb",
-      "job_title": "Software Engineer, Quality Platform",
-      "location": "Brazil",
-      "apply_link": "https://careers.airbnb.com/positions/8077506?gh_jid=8077506",
-      "posted_at": "2026-07-21T14:46:33-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5366105008",
-      "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Ledgering",
-      "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5366105008?gh_jid=5366105008",
-      "posted_at": "2026-07-21T14:34:06-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5281196008",
-      "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Ledgering",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5281196008?gh_jid=5281196008",
-      "posted_at": "2026-07-21T14:33:12-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8051871",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Backend - Platform (Core AI Automation)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8051871?gh_jid=8051871",
-      "posted_at": "2026-07-21T14:04:21-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8643108002",
-      "employer_name": "Lyft",
-      "job_title": "Senior Financial Data Analyst",
-      "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8643108002?gh_jid=8643108002",
-      "posted_at": "2026-07-21T13:45:45-04:00",
-      "category": "Data Analyst",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8597656002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Full-Stack Software Engineer, Game Records",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8597656002",
-      "posted_at": "2026-07-21T13:36:48-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7993959",
-      "employer_name": "Twilio",
-      "job_title": "Senior / Staff Applied Research Software Engineer - Emerging Tech",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7993959",
-      "posted_at": "2026-07-21T13:32:13-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4481921005",
-      "employer_name": "Scale AI",
-      "job_title": "Forward Deployed Software Engineer, Public Sector",
-      "location": "Austin, TX; St. Louis, MO; Washington, DC",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4481921005",
-      "posted_at": "2026-07-21T13:29:09-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8593713002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Remote - United Kingdom",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002",
-      "posted_at": "2026-07-21T13:21:54-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7719332",
-      "employer_name": "Waymo",
-      "job_title": "Staff Machine Learning Engineer, Tech Lead, Labeling Automation",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7719332",
-      "posted_at": "2026-07-21T13:01:38-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
