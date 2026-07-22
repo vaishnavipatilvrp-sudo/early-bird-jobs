@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-07-22T19:20:58.525838+00:00",
+  "generated_at": "2026-07-22T20:14:48.890281+00:00",
   "jobs": [
+    {
+      "job_id": "lever_palantir_d7030550-f80f-422c-965f-3120db433dea",
+      "employer_name": "Palantir",
+      "job_title": "Senior Software Engineer - Autonomous Systems",
+      "location": "Palo Alto, CA",
+      "apply_link": "https://jobs.lever.co/palantir/d7030550-f80f-422c-965f-3120db433dea",
+      "posted_at": "2026-07-22T19:46:17.199000+00:00",
+      "category": "Software Engineer",
+      "source": "lever"
+    },
+    {
+      "job_id": "lever_palantir_d40d5d19-8f9e-4e6b-b4d3-b7457c90adec",
+      "employer_name": "Palantir",
+      "job_title": "Senior Software Engineer - Autonomous Systems",
+      "location": "Washington, D.C.",
+      "apply_link": "https://jobs.lever.co/palantir/d40d5d19-8f9e-4e6b-b4d3-b7457c90adec",
+      "posted_at": "2026-07-22T19:45:57.785000+00:00",
+      "category": "Software Engineer",
+      "source": "lever"
+    },
     {
       "job_id": "ashby_openai_872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9",
       "employer_name": "OpenAI",
@@ -10,6 +30,36 @@
       "posted_at": "2026-07-22T15:54:35.536+00:00",
       "category": "ML / AI Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8074897",
+      "employer_name": "Airbnb",
+      "job_title": "Staff Backend Engineer - Ads Platform",
+      "location": "Remote - USA",
+      "apply_link": "https://careers.airbnb.com/positions/8074897?gh_jid=8074897",
+      "posted_at": "2026-07-22T15:52:40-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_5432095",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Software Engineer, Android",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=5432095",
+      "posted_at": "2026-07-22T15:48:08-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7947243",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Fleet Response Infrastructure",
+      "location": "Mountain View, California, United States of America",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7947243",
+      "posted_at": "2026-07-22T15:38:33-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_twilio_7716279",
@@ -372,21 +422,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_waymo_7961706",
-      "employer_name": "Waymo",
-      "job_title": "Senior Machine Learning Engineer / London (UK-LON-40BR) / Simulation (7XW)   ",
-      "location": "London, UK",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7961706",
-      "posted_at": "2026-07-22T14:30:08-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_waymo_7961704",
       "employer_name": "Waymo",
       "job_title": "Senior Machine Learning Engineer / London (UK-LON-40BR) / Simulation (7XW)   ",
       "location": "London, UK",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7961704",
+      "posted_at": "2026-07-22T14:30:08-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7961706",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer / London (UK-LON-40BR) / Simulation (7XW)   ",
+      "location": "London, UK",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7961706",
       "posted_at": "2026-07-22T14:30:08-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -1232,21 +1282,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_waymo_7493959",
-      "employer_name": "Waymo",
-      "job_title": "Staff Machine Learning Engineer",
-      "location": "London, England, United Kingdom",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7493959",
-      "posted_at": "2026-07-22T14:30:08-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_waymo_7985945",
       "employer_name": "Waymo",
       "job_title": "Staff Machine Learning Engineer",
       "location": "London, UK",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7985945",
+      "posted_at": "2026-07-22T14:30:08-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7493959",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer",
+      "location": "London, England, United Kingdom",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7493959",
       "posted_at": "2026-07-22T14:30:08-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -1302,6 +1352,16 @@
       "source": "greenhouse"
     },
     {
+      "job_id": "greenhouse_waymo_7942779",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer, Simulation",
+      "location": "London, UK",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7942779",
+      "posted_at": "2026-07-22T14:30:08-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "greenhouse_waymo_7947253",
       "employer_name": "Waymo",
       "job_title": "Staff Machine Learning Engineer, Simulation",
@@ -1317,16 +1377,6 @@
       "job_title": "Staff Machine Learning Engineer, Simulation",
       "location": "London, UK",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=6563711",
-      "posted_at": "2026-07-22T14:30:08-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7942779",
-      "employer_name": "Waymo",
-      "job_title": "Staff Machine Learning Engineer, Simulation",
-      "location": "London, UK",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7942779",
       "posted_at": "2026-07-22T14:30:08-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -1812,21 +1862,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_7978488",
-      "employer_name": "Stripe",
-      "job_title": "Data Analyst",
-      "location": "Mexico City",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7978488",
-      "posted_at": "2026-07-22T13:25:41-04:00",
-      "category": "Data Analyst",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_stripe_5416444",
       "employer_name": "Stripe",
       "job_title": "Data Analyst",
       "location": "Canada",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=5416444",
+      "posted_at": "2026-07-22T13:25:41-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7978488",
+      "employer_name": "Stripe",
+      "job_title": "Data Analyst",
+      "location": "Mexico City",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7978488",
       "posted_at": "2026-07-22T13:25:41-04:00",
       "category": "Data Analyst",
       "source": "greenhouse"
@@ -2022,16 +2072,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8026416",
-      "employer_name": "Stripe",
-      "job_title": "Senior Software Engineer",
-      "location": "San Francisco",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8026416",
-      "posted_at": "2026-07-22T13:25:41-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_stripe_8026511",
       "employer_name": "Stripe",
       "job_title": "Senior Software Engineer",
@@ -2042,21 +2082,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_7922832",
+      "job_id": "greenhouse_stripe_8026416",
       "employer_name": "Stripe",
-      "job_title": "Software Engineer",
-      "location": "Seattle, WA",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7922832",
+      "job_title": "Senior Software Engineer",
+      "location": "San Francisco",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8026416",
       "posted_at": "2026-07-22T13:25:41-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8009143",
+      "job_id": "greenhouse_stripe_7922832",
       "employer_name": "Stripe",
       "job_title": "Software Engineer",
-      "location": "New York, NY",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8009143",
+      "location": "Seattle, WA",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7922832",
       "posted_at": "2026-07-22T13:25:41-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -2077,6 +2117,16 @@
       "job_title": "Software Engineer",
       "location": "New York, NY",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=7926966",
+      "posted_at": "2026-07-22T13:25:41-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8009143",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer",
+      "location": "New York, NY",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8009143",
       "posted_at": "2026-07-22T13:25:41-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -2212,21 +2262,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8039800",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Product Security Data Platforms",
-      "location": "Seattle",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8039800",
-      "posted_at": "2026-07-22T13:25:41-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_stripe_7761694",
       "employer_name": "Stripe",
       "job_title": "Software Engineer, Product Security Data Platforms",
       "location": "Seattle",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=7761694",
+      "posted_at": "2026-07-22T13:25:41-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8039800",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Product Security Data Platforms",
+      "location": "Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8039800",
       "posted_at": "2026-07-22T13:25:41-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -2649,16 +2699,6 @@
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8071710",
       "posted_at": "2026-07-22T10:25:46-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8644780002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Machine Learning (Ads)",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8644780002",
-      "posted_at": "2026-07-22T09:37:26-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
