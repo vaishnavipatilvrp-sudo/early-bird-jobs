@@ -1,6 +1,126 @@
 {
-  "generated_at": "2026-07-23T17:23:26.999654+00:00",
+  "generated_at": "2026-07-23T19:18:56.071660+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3",
+      "employer_name": "OpenAI",
+      "job_title": "Software Engineer, Privacy Engineering (Lawful Access) ",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3",
+      "posted_at": "2026-07-23T18:43:09.820+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7991691",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer, Core AI Infrastructure",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7991691?gh_jid=7991691",
+      "posted_at": "2026-07-23T15:17:22-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7847431",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Core AI Infrastructure",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7847431?gh_jid=7847431",
+      "posted_at": "2026-07-23T15:17:15-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5240422008",
+      "employer_name": "Anthropic",
+      "job_title": "Data Engineer, Safeguards",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
+      "posted_at": "2026-07-23T15:15:13-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7188174",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L2)",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7188174",
+      "posted_at": "2026-07-23T15:02:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8080614",
+      "employer_name": "Stripe",
+      "job_title": "Data Scientist, Core Infrastructure",
+      "location": "Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8080614",
+      "posted_at": "2026-07-23T14:35:35-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8081719",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Driving Behaviors",
+      "location": "Mountain View, CA, US; San Francisco, CA, US; New York, NY, US",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8081719",
+      "posted_at": "2026-07-23T14:22:36-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5807963004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Manager, Software Engineering - Observability",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5807963004?gh_jid=5807963004",
+      "posted_at": "2026-07-23T14:13:49-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5364922008",
+      "employer_name": "Block",
+      "job_title": "Staff Data Scientist, Pricing",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5364922008?gh_jid=5364922008",
+      "posted_at": "2026-07-23T14:11:38-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7896332",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Software Engineer",
+      "location": "Dublin, IE",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7896332",
+      "posted_at": "2026-07-23T13:57:46-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8071670",
+      "employer_name": "Pinterest",
+      "job_title": "Data Scientist II, ML Infrastructure",
+      "location": "Palo Alto, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8071670",
+      "posted_at": "2026-07-23T13:52:41-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5368166008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff Software Engineer, GTM Systems",
+      "location": "San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5368166008",
+      "posted_at": "2026-07-23T13:41:31-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_doordashusa_5630438",
       "employer_name": "DoorDash",
@@ -22,26 +142,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_coinbase_7991691",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer, Core AI Infrastructure",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7991691?gh_jid=7991691",
-      "posted_at": "2026-07-23T13:18:54-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7847431",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Core AI Infrastructure",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7847431?gh_jid=7847431",
-      "posted_at": "2026-07-23T13:18:45-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_waymo_7773177",
       "employer_name": "Waymo",
       "job_title": "Principal Software Engineer, ML System Architect",
@@ -50,16 +150,6 @@
       "posted_at": "2026-07-23T12:56:49-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "lever_palantir_73d1a90c-162d-4cb6-9e0c-4c8de9561ad0",
-      "employer_name": "Palantir",
-      "job_title": "Forward Deployed Software Engineer - NATO",
-      "location": "London, United Kingdom",
-      "apply_link": "https://jobs.lever.co/palantir/73d1a90c-162d-4cb6-9e0c-4c8de9561ad0",
-      "posted_at": "2026-07-23T12:53:46.989000+00:00",
-      "category": "Software Engineer",
-      "source": "lever"
     },
     {
       "job_id": "greenhouse_coinbase_8021650",
@@ -129,16 +219,6 @@
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8001059",
       "posted_at": "2026-07-23T11:14:03-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8080614",
-      "employer_name": "Stripe",
-      "job_title": "Data Scientist, Core Infrastructure",
-      "location": "San Francisco",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8080614",
-      "posted_at": "2026-07-23T10:52:37-04:00",
-      "category": "Data Scientist",
       "source": "greenhouse"
     },
     {
