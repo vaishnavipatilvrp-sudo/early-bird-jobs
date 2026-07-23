@@ -1,15 +1,55 @@
 {
-  "generated_at": "2026-07-23T02:48:03.841083+00:00",
+  "generated_at": "2026-07-23T05:35:29.110931+00:00",
   "jobs": [
     {
-      "job_id": "lever_palantir_67110929-adea-41c3-851a-8882e222d9e4",
-      "employer_name": "Palantir",
-      "job_title": "Software Engineer - Edge AI Systems",
-      "location": "Seattle, WA",
-      "apply_link": "https://jobs.lever.co/palantir/67110929-adea-41c3-851a-8882e222d9e4",
-      "posted_at": "2026-07-22T22:12:20.264000+00:00",
+      "job_id": "hmHg6-fPa3cJ4nMwAAAAAA==",
+      "employer_name": "Accenture Federal Services",
+      "job_title": "AI/ML Full Stack Engineer",
+      "location": "Columbia, Maryland",
+      "apply_link": "https://www.linkedin.com/jobs/view/ai-ml-full-stack-engineer-at-accenture-federal-services-4444253839",
+      "posted_at": "2026-07-23T03:00:00.000Z",
+      "category": "Other",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8064916",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer, Backend - FinHub (Ledger)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8064916?gh_jid=8064916",
+      "posted_at": "2026-07-23T01:13:37-04:00",
       "category": "Software Engineer",
-      "source": "lever"
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "rtYDDzCF8yIYAX_fAAAAAA==",
+      "employer_name": "Capital One",
+      "job_title": "Senior Associate, Data Scientist -  Commercial Bank Strategy & Analytics",
+      "location": "New York, New York",
+      "apply_link": "https://www.linkedin.com/jobs/view/senior-associate-data-scientist-commercial-bank-strategy-analytics-at-capital-one-4443443142",
+      "posted_at": "2026-07-23T01:00:00.000Z",
+      "category": "Data Scientist",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_waymo_8080909",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer - Vision-Language Foundation Models",
+      "location": "Mountain View, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8080909",
+      "posted_at": "2026-07-23T00:04:42-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7249525",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Computer Vision/VLM",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7249525",
+      "posted_at": "2026-07-22T23:57:08-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_coinbase_7991691",
@@ -49,86 +89,6 @@
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8044246",
       "posted_at": "2026-07-22T20:00:00-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8080614",
-      "employer_name": "Stripe",
-      "job_title": "Data Scientist, Core Infrastructure",
-      "location": "San Francisco",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8080614",
-      "posted_at": "2026-07-22T19:30:10-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_4989505008",
-      "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Data Enablement",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/4989505008?gh_jid=4989505008",
-      "posted_at": "2026-07-22T17:48:05-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5368040008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Claude Science",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5368040008",
-      "posted_at": "2026-07-22T17:47:23-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5364922008",
-      "employer_name": "Block",
-      "job_title": "Staff Data Scientist AI and Pricing",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5364922008?gh_jid=5364922008",
-      "posted_at": "2026-07-22T17:46:27-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5368034008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Enterprise AI Products",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5368034008",
-      "posted_at": "2026-07-22T17:36:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8070121",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Manager, Machine Learning Engineering - Communication & Connectivity",
-      "location": "Remote - US",
-      "apply_link": "https://careers.airbnb.com/positions/8070121?gh_jid=8070121",
-      "posted_at": "2026-07-22T17:32:00-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8064875",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer",
-      "location": "Remote - Singapore",
-      "apply_link": "https://www.coinbase.com/careers/positions/8064875?gh_jid=8064875",
-      "posted_at": "2026-07-22T17:15:39-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8077451",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Software Engineer, Content Platform",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/8077451?gh_jid=8077451",
-      "posted_at": "2026-07-22T16:50:38-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
