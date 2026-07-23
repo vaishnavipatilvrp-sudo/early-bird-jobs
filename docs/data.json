@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-07-23T05:35:29.110931+00:00",
+  "generated_at": "2026-07-23T06:30:36.157010+00:00",
   "jobs": [
-    {
-      "job_id": "hmHg6-fPa3cJ4nMwAAAAAA==",
-      "employer_name": "Accenture Federal Services",
-      "job_title": "AI/ML Full Stack Engineer",
-      "location": "Columbia, Maryland",
-      "apply_link": "https://www.linkedin.com/jobs/view/ai-ml-full-stack-engineer-at-accenture-federal-services-4444253839",
-      "posted_at": "2026-07-23T03:00:00.000Z",
-      "category": "Other",
-      "source": "jsearch"
-    },
     {
       "job_id": "greenhouse_coinbase_8064916",
       "employer_name": "Coinbase",
@@ -20,16 +10,6 @@
       "posted_at": "2026-07-23T01:13:37-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "rtYDDzCF8yIYAX_fAAAAAA==",
-      "employer_name": "Capital One",
-      "job_title": "Senior Associate, Data Scientist -  Commercial Bank Strategy & Analytics",
-      "location": "New York, New York",
-      "apply_link": "https://www.linkedin.com/jobs/view/senior-associate-data-scientist-commercial-bank-strategy-analytics-at-capital-one-4443443142",
-      "posted_at": "2026-07-23T01:00:00.000Z",
-      "category": "Data Scientist",
-      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_waymo_8080909",
@@ -48,46 +28,6 @@
       "location": "Mountain View, CA, USA; San Francisco, CA, USA",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7249525",
       "posted_at": "2026-07-22T23:57:08-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7991691",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer, Core AI Infrastructure",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7991691?gh_jid=7991691",
-      "posted_at": "2026-07-22T20:10:38-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7847431",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Core AI Infrastructure",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7847431?gh_jid=7847431",
-      "posted_at": "2026-07-22T20:09:13-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8013249",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Machine Learning Infrastructure - Generative AI",
-      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8013249",
-      "posted_at": "2026-07-22T20:00:11-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8044246",
-      "employer_name": "DoorDash",
-      "job_title": "Senior Software Engineer, Machine Learning Infrastructure - Generative AI",
-      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8044246",
-      "posted_at": "2026-07-22T20:00:00-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
