@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-07-23T06:30:36.157010+00:00",
+  "generated_at": "2026-07-23T10:23:24.292919+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_cohere_e4603bb7-5bbe-4f73-9556-02c93f78b2af",
+      "employer_name": "Cohere",
+      "job_title": "Data Scientist, North Insights",
+      "location": "United States",
+      "apply_link": "https://jobs.ashbyhq.com/cohere/e4603bb7-5bbe-4f73-9556-02c93f78b2af",
+      "posted_at": "2026-07-23T10:00:27.920+00:00",
+      "category": "Data Scientist",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_airbnb_7672101",
+      "employer_name": "Airbnb",
+      "job_title": "Manager, Machine Learning, Customer Support Engineering (Gen AI Products)",
+      "location": "China",
+      "apply_link": "https://careers.airbnb.com/positions/7672101?gh_jid=7672101",
+      "posted_at": "2026-07-23T02:40:35-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_coinbase_8064916",
       "employer_name": "Coinbase",
@@ -9,26 +29,6 @@
       "apply_link": "https://www.coinbase.com/careers/positions/8064916?gh_jid=8064916",
       "posted_at": "2026-07-23T01:13:37-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8080909",
-      "employer_name": "Waymo",
-      "job_title": "Staff Machine Learning Engineer - Vision-Language Foundation Models",
-      "location": "Mountain View, California, United States",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8080909",
-      "posted_at": "2026-07-23T00:04:42-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7249525",
-      "employer_name": "Waymo",
-      "job_title": "Senior Machine Learning Engineer, Computer Vision/VLM",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7249525",
-      "posted_at": "2026-07-22T23:57:08-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
