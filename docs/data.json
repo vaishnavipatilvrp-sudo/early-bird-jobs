@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T21:05:35.011638+00:00",
+  "generated_at": "2026-07-23T22:57:40.197126+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_e99105f1-0a15-4f25-9538-60312568f835",
@@ -32,6 +32,76 @@
       "source": "ashby"
     },
     {
+      "job_id": "greenhouse_block_5196175008",
+      "employer_name": "Block",
+      "job_title": "Software Engineer, Cash App - Lending Products",
+      "location": "Vancouver, British Columbia, Canada",
+      "apply_link": "http://block.xyz/careers/jobs/5196175008?gh_jid=5196175008",
+      "posted_at": "2026-07-23T18:32:58-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5201726008",
+      "employer_name": "Block",
+      "job_title": "Software Engineer, Cash App - Lending Products",
+      "location": "New York, NY, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5201726008?gh_jid=5201726008",
+      "posted_at": "2026-07-23T18:32:58-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5196173008",
+      "employer_name": "Block",
+      "job_title": "Software Engineer, Cash App - Lending Products",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5196173008?gh_jid=5196173008",
+      "posted_at": "2026-07-23T18:32:58-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8177757002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Full-Stack Software Engineer, Ads",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8177757002",
+      "posted_at": "2026-07-23T18:24:39-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5239527008",
+      "employer_name": "Block",
+      "job_title": "Senior Data Scientist, AI & Model Risk ",
+      "location": "New York, NY, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5239527008?gh_jid=5239527008",
+      "posted_at": "2026-07-23T18:02:43-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5221040008",
+      "employer_name": "Block",
+      "job_title": "Senior Data Scientist, AI & Model Risk - Remote, US",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5221040008?gh_jid=5221040008",
+      "posted_at": "2026-07-23T18:02:43-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_4899511008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff Software Engineer, Android",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4899511008",
+      "posted_at": "2026-07-23T17:33:42-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "greenhouse_stripe_8080614",
       "employer_name": "Stripe",
       "job_title": "Data Scientist, Core Infrastructure",
@@ -39,16 +109,6 @@
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8080614",
       "posted_at": "2026-07-23T17:00:00-04:00",
       "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8540239002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Data Engineer, Analytics",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8540239002",
-      "posted_at": "2026-07-23T16:59:51-04:00",
-      "category": "Data Engineer",
       "source": "greenhouse"
     },
     {
@@ -208,86 +268,6 @@
       "location": "Remote - USA",
       "apply_link": "https://www.coinbase.com/careers/positions/8064873?gh_jid=8064873",
       "posted_at": "2026-07-23T13:19:18-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7773177",
-      "employer_name": "Waymo",
-      "job_title": "Principal Software Engineer, ML System Architect",
-      "location": "Mountain View, San Francisco",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7773177",
-      "posted_at": "2026-07-23T12:56:49-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8021650",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer",
-      "location": "Remote - Israel",
-      "apply_link": "https://www.coinbase.com/careers/positions/8021650?gh_jid=8021650",
-      "posted_at": "2026-07-23T12:48:14-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8021647",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8021647?gh_jid=8021647",
-      "posted_at": "2026-07-23T12:48:11-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7967649",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer - Blockchain Network",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7967649?gh_jid=7967649",
-      "posted_at": "2026-07-23T12:48:07-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8024880",
-      "employer_name": "Coinbase",
-      "job_title": "Analytics Engineer, GFCO Analytics",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
-      "posted_at": "2026-07-23T12:32:42-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7456936",
-      "employer_name": "Waymo",
-      "job_title": "Senior Software Engineer, Planner",
-      "location": "Mountain View, California; San Francisco, California; Pittsburgh, Pennsylvania",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7456936",
-      "posted_at": "2026-07-23T11:29:57-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8039191",
-      "employer_name": "Waymo",
-      "job_title": " Software Engineer, Planner",
-      "location": "Mountain View, California; San Francisco, California; Pittsburgh, Pennsylvania",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8039191",
-      "posted_at": "2026-07-23T11:23:09-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8001059",
-      "employer_name": "Waymo",
-      "job_title": "Staff Software Engineer, Planner",
-      "location": "Mountain View, California; San Francisco, California; Pittsburgh, Pennsylvania",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8001059",
-      "posted_at": "2026-07-23T11:14:03-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
