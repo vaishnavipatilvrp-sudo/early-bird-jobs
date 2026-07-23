@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-07-23T11:54:44.193236+00:00",
+  "generated_at": "2026-07-23T14:01:35.235053+00:00",
   "jobs": [
+    {
+      "job_id": "lever_palantir_73d1a90c-162d-4cb6-9e0c-4c8de9561ad0",
+      "employer_name": "Palantir",
+      "job_title": "Forward Deployed Software Engineer - NATO",
+      "location": "London, United Kingdom",
+      "apply_link": "https://jobs.lever.co/palantir/73d1a90c-162d-4cb6-9e0c-4c8de9561ad0",
+      "posted_at": "2026-07-23T12:53:46.989000+00:00",
+      "category": "Software Engineer",
+      "source": "lever"
+    },
     {
       "job_id": "ashby_cohere_e4603bb7-5bbe-4f73-9556-02c93f78b2af",
       "employer_name": "Cohere",
@@ -10,16 +20,6 @@
       "posted_at": "2026-07-23T10:00:27.920+00:00",
       "category": "Data Scientist",
       "source": "ashby"
-    },
-    {
-      "job_id": "greenhouse_airbnb_7672101",
-      "employer_name": "Airbnb",
-      "job_title": "Manager, Machine Learning, Customer Support Engineering (Gen AI Products)",
-      "location": "China",
-      "apply_link": "https://careers.airbnb.com/positions/7672101?gh_jid=7672101",
-      "posted_at": "2026-07-23T02:40:35-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
     }
   ]
 }
