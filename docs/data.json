@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-07-24T19:26:00.524117+00:00",
+  "generated_at": "2026-07-24T20:24:02.503078+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_scaleai_4631848005",
+      "employer_name": "Scale AI",
+      "job_title": "Senior Machine Learning Engineer, Public Sector",
+      "location": "Washington, DC",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4631848005",
+      "posted_at": "2026-07-24T16:12:38-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8508372002",
+      "employer_name": "Lyft",
+      "job_title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
+      "location": "Seattle, WA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8508372002?gh_jid=8508372002",
+      "posted_at": "2026-07-24T16:10:42-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8508346002",
+      "employer_name": "Lyft",
+      "job_title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8508346002?gh_jid=8508346002",
+      "posted_at": "2026-07-24T16:10:42-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8084195",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Credit Decisions ",
+      "location": "Chicago, IL ",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8084195",
+      "posted_at": "2026-07-24T16:10:18-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8084193",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer - Full Stack",
+      "location": "South San Francisco, California",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8084193",
+      "posted_at": "2026-07-24T16:10:08-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7602321",
+      "employer_name": "Waymo",
+      "job_title": "Staff Tech Lead Manager, Machine Learning, Simulator Evaluation",
+      "location": "Mountain View, California, United States; San Francisco, California, United States. ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7602321",
+      "posted_at": "2026-07-24T15:45:46-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8082199",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Data Engineering Platform",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199",
+      "posted_at": "2026-07-24T15:33:43-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_waymo_7858779",
       "employer_name": "Waymo",
