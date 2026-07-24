@@ -1,35 +1,25 @@
 {
-  "generated_at": "2026-07-23T22:57:40.197126+00:00",
+  "generated_at": "2026-07-24T02:43:08.394365+00:00",
   "jobs": [
     {
-      "job_id": "ashby_openai_e99105f1-0a15-4f25-9538-60312568f835",
-      "employer_name": "OpenAI",
-      "job_title": "Software Engineer, Privacy Engineering (Lawful Access) ",
-      "location": "Dublin, Ireland",
-      "apply_link": "https://jobs.ashbyhq.com/openai/e99105f1-0a15-4f25-9538-60312568f835",
-      "posted_at": "2026-07-23T20:33:49.718+00:00",
+      "job_id": "greenhouse_coinbase_8082787",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer, Core Reliability ",
+      "location": "Remote - Canada",
+      "apply_link": "https://www.coinbase.com/careers/positions/8082787?gh_jid=8082787",
+      "posted_at": "2026-07-23T20:48:30-04:00",
       "category": "Software Engineer",
-      "source": "ashby"
+      "source": "greenhouse"
     },
     {
-      "job_id": "ashby_openai_118b71ad-0daa-497d-9061-68e90ea03368",
-      "employer_name": "OpenAI",
-      "job_title": "Software Engineer, Privacy Engineering (Lawful Access) ",
-      "location": "London, UK",
-      "apply_link": "https://jobs.ashbyhq.com/openai/118b71ad-0daa-497d-9061-68e90ea03368",
-      "posted_at": "2026-07-23T20:31:24.454+00:00",
+      "job_id": "greenhouse_waymo_8067489",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer (TLM), Field Response",
+      "location": "Tokyo, Japan",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8067489",
+      "posted_at": "2026-07-23T19:52:53-04:00",
       "category": "Software Engineer",
-      "source": "ashby"
-    },
-    {
-      "job_id": "ashby_openai_a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3",
-      "employer_name": "OpenAI",
-      "job_title": "Software Engineer, Privacy Engineering (Lawful Access) ",
-      "location": "San Francisco",
-      "apply_link": "https://jobs.ashbyhq.com/openai/a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3",
-      "posted_at": "2026-07-23T18:43:09.820+00:00",
-      "category": "Software Engineer",
-      "source": "ashby"
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_block_5196175008",
@@ -128,146 +118,6 @@
       "location": "Mountain View, CA, USA",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7531466",
       "posted_at": "2026-07-23T16:43:12-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5229345008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Claude Design",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5229345008",
-      "posted_at": "2026-07-23T15:41:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7702644",
-      "employer_name": "Twilio",
-      "job_title": "Machine Learning Engineer",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7702644",
-      "posted_at": "2026-07-23T15:25:35-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7991691",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer, Core AI Infrastructure",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7991691?gh_jid=7991691",
-      "posted_at": "2026-07-23T15:17:22-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7847431",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Core AI Infrastructure",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7847431?gh_jid=7847431",
-      "posted_at": "2026-07-23T15:17:15-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5240422008",
-      "employer_name": "Anthropic",
-      "job_title": "Data Engineer, Safeguards",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
-      "posted_at": "2026-07-23T15:15:13-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7188174",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L2)",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7188174",
-      "posted_at": "2026-07-23T15:02:55-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8081719",
-      "employer_name": "Waymo",
-      "job_title": "Senior Machine Learning Engineer, Driving Behaviors",
-      "location": "Mountain View, CA, US; San Francisco, CA, US; New York, NY, US",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8081719",
-      "posted_at": "2026-07-23T14:22:36-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_5807963004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Manager, Software Engineering - Observability",
-      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/5807963004?gh_jid=5807963004",
-      "posted_at": "2026-07-23T14:13:49-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5364922008",
-      "employer_name": "Block",
-      "job_title": "Staff Data Scientist, Pricing",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5364922008?gh_jid=5364922008",
-      "posted_at": "2026-07-23T14:11:38-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_7896332",
-      "employer_name": "Pinterest",
-      "job_title": "Sr. Software Engineer",
-      "location": "Dublin, IE",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7896332",
-      "posted_at": "2026-07-23T13:57:46-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8071670",
-      "employer_name": "Pinterest",
-      "job_title": "Data Scientist II, ML Infrastructure",
-      "location": "Palo Alto, CA, US; Remote, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8071670",
-      "posted_at": "2026-07-23T13:52:41-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5368166008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, GTM Systems",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5368166008",
-      "posted_at": "2026-07-23T13:41:31-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_5630438",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Android (All Teams)",
-      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630438",
-      "posted_at": "2026-07-23T13:23:08-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8064873",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Data Layer",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8064873?gh_jid=8064873",
-      "posted_at": "2026-07-23T13:19:18-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
