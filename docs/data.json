@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-07-24T02:43:08.394365+00:00",
+  "generated_at": "2026-07-24T05:29:38.475490+00:00",
   "jobs": [
+    {
+      "job_id": "i5_VTFKaKH8gtII9AAAAAA==",
+      "employer_name": "Capgemini",
+      "job_title": "React / Full Stack Developer (Java + React)",
+      "location": "Jersey City, New Jersey",
+      "apply_link": "https://www.monster.com/job-openings/react-full-stack-developer-java-react-jersey-city-nj--bb45da6f-8bd6-49f4-a979-b6a7096d2785",
+      "posted_at": "2026-07-24T00:00:00.000Z",
+      "category": "Other",
+      "source": "jsearch"
+    },
     {
       "job_id": "greenhouse_coinbase_8082787",
       "employer_name": "Coinbase",
@@ -18,106 +28,6 @@
       "location": "Tokyo, Japan",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8067489",
       "posted_at": "2026-07-23T19:52:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5196175008",
-      "employer_name": "Block",
-      "job_title": "Software Engineer, Cash App - Lending Products",
-      "location": "Vancouver, British Columbia, Canada",
-      "apply_link": "http://block.xyz/careers/jobs/5196175008?gh_jid=5196175008",
-      "posted_at": "2026-07-23T18:32:58-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5201726008",
-      "employer_name": "Block",
-      "job_title": "Software Engineer, Cash App - Lending Products",
-      "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5201726008?gh_jid=5201726008",
-      "posted_at": "2026-07-23T18:32:58-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5196173008",
-      "employer_name": "Block",
-      "job_title": "Software Engineer, Cash App - Lending Products",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5196173008?gh_jid=5196173008",
-      "posted_at": "2026-07-23T18:32:58-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8177757002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Full-Stack Software Engineer, Ads",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8177757002",
-      "posted_at": "2026-07-23T18:24:39-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5239527008",
-      "employer_name": "Block",
-      "job_title": "Senior Data Scientist, AI & Model Risk ",
-      "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5239527008?gh_jid=5239527008",
-      "posted_at": "2026-07-23T18:02:43-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5221040008",
-      "employer_name": "Block",
-      "job_title": "Senior Data Scientist, AI & Model Risk - Remote, US",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5221040008?gh_jid=5221040008",
-      "posted_at": "2026-07-23T18:02:43-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4899511008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Android",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4899511008",
-      "posted_at": "2026-07-23T17:33:42-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8080614",
-      "employer_name": "Stripe",
-      "job_title": "Data Scientist, Core Infrastructure",
-      "location": "Seattle",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8080614",
-      "posted_at": "2026-07-23T17:00:00-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7689461",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L2) Email",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7689461",
-      "posted_at": "2026-07-23T16:53:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7531466",
-      "employer_name": "Waymo",
-      "job_title": "Staff Software Engineer (TLM), Multiverse",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7531466",
-      "posted_at": "2026-07-23T16:43:12-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
