@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-07-24T17:38:28.673039+00:00",
+  "generated_at": "2026-07-24T19:26:00.524117+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_waymo_7858779",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer, Post-Silicon Testing ",
+      "location": "Bangalore, Karnataka, India",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7858779",
+      "posted_at": "2026-07-24T15:12:30-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8649345002",
+      "employer_name": "Lyft",
+      "job_title": "Junior Software Engineer, Luxury",
+      "location": "Mexico City, Mexico",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8649345002?gh_jid=8649345002",
+      "posted_at": "2026-07-24T15:04:31-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5167318007",
+      "employer_name": "xAI",
+      "job_title": "Sr. IT Data Engineer",
+      "location": "Palo Alto, California, United States",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5167318007",
+      "posted_at": "2026-07-24T14:49:08-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7991718",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad, Developer & End User Experience Platform",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7991718",
+      "posted_at": "2026-07-24T14:38:10-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8506063002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Specialist Solutions Architect - AI & ML Engineer",
+      "location": "Finland; Remote - Denmark; Stockholm, Sweden",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8506063002",
+      "posted_at": "2026-07-24T14:01:40-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_lyft_8621789002",
       "employer_name": "Lyft",
@@ -472,16 +522,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_twilio_7188174",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L2)",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7188174",
-      "posted_at": "2026-07-24T10:24:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_twilio_7602727",
       "employer_name": "Twilio",
       "job_title": "Software Engineer, (L2) CDP",
@@ -528,16 +568,6 @@
       "location": "Remote - US",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7782805",
       "posted_at": "2026-07-24T10:24:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5251671008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Safeguards Evals ",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5251671008",
-      "posted_at": "2026-07-24T07:40:21-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
