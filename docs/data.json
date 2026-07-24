@@ -1,6 +1,96 @@
 {
-  "generated_at": "2026-07-24T16:33:14.072003+00:00",
+  "generated_at": "2026-07-24T17:38:28.673039+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_lyft_8621789002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Data Scientist, Algorithms, Lyft Ads",
+      "location": "New York, NY",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8621789002?gh_jid=8621789002",
+      "posted_at": "2026-07-24T13:16:12-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8620998002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Data Scientist, Algorithm Lyft Ads",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8620998002?gh_jid=8620998002",
+      "posted_at": "2026-07-24T13:16:11-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8018436",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer, Post-Silicon Testing ",
+      "location": "Bangalore, Karnataka, India",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8018436",
+      "posted_at": "2026-07-24T13:14:33-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_7453202",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Software Engineer, Infrastructure",
+      "location": "Brazil - Remote",
+      "apply_link": "https://careers.airbnb.com/positions/7453202?gh_jid=7453202",
+      "posted_at": "2026-07-24T13:09:38-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7782535",
+      "employer_name": "Pinterest",
+      "job_title": "Software Engineer II, tvScientific",
+      "location": "Toronto, ON, CA",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7782535",
+      "posted_at": "2026-07-24T13:07:53-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5097186008",
+      "employer_name": "Anthropic",
+      "job_title": "Full Stack Engineer, Education Labs",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5097186008",
+      "posted_at": "2026-07-24T13:07:50-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8024408",
+      "employer_name": "DoorDash",
+      "job_title": "Revenue Data Analyst",
+      "location": "United States - Remote",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8024408",
+      "posted_at": "2026-07-24T12:51:53-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8649279002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer- Foundation Model Inference",
+      "location": "San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8649279002",
+      "posted_at": "2026-07-24T12:50:38-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8637143002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer, Foundation Model Inference ",
+      "location": "San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8637143002",
+      "posted_at": "2026-07-24T12:50:30-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_cloudflare_8035679",
       "employer_name": "Cloudflare (bonus, not on your original list)",
@@ -10,16 +100,6 @@
       "posted_at": "2026-07-24T12:24:57-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "MXJSeVQ1TXh2UXRFaWF5YUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM2x4VmxwdWVsZFlOazV6YzJSblNsaEVka1ZqZUV0TmVuTXpRa2hNZVRscmEzVjBVM0ZrTUU4d2RrWkdVR0p1Ym0wMlQyaE5aVlYxWHpkTGQxVmFaams1U2pSemVHRnpWamN0TVVwT1ZWa3ljekZUVW5oT056UkRXV2hPU1dsTVZYWjZSR2RIY0RBNFNYTlZlalowZFdaWGVtOVdXalZWUlhkTkxXbzRjbUpaU0RJNVZVOFNGMHR3VG1waGNtRklTR0ZEU0RkT1dWQmZURFk1YzBGSkdpSkJSSE55T1daVE4yTmFSVWhzV0dKeFJ6bGZkVjgwVVU1UmN6YzRkbWxwWmtwQg",
-      "employer_name": "UST",
-      "job_title": "Junior Full Stack Developer",
-      "location": "Frisco, Texas",
-      "apply_link": "https://www.theladders.com/job/junior-full-stack-developer-ust-frisco-tx_87983892",
-      "posted_at": "2026-07-24T12:00:00.000Z",
-      "category": "Other",
-      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_stripe_8076626",
@@ -39,26 +119,6 @@
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7890652",
       "posted_at": "2026-07-24T11:20:26-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8621789002",
-      "employer_name": "Lyft",
-      "job_title": "Senior Data Scientist, Algorithms, Forecasting and Realtime Optimization Platform",
-      "location": "Seattle, WA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8621789002?gh_jid=8621789002",
-      "posted_at": "2026-07-24T11:10:46-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8620998002",
-      "employer_name": "Lyft",
-      "job_title": "Senior Data Scientist, Algorithms, Forecasting and Realtime Optimization Platform",
-      "location": "San Francisco, CA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8620998002?gh_jid=8620998002",
-      "posted_at": "2026-07-24T11:10:46-04:00",
-      "category": "Data Scientist",
       "source": "greenhouse"
     },
     {
@@ -252,21 +312,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_twilio_8076802",
-      "employer_name": "Twilio",
-      "job_title": "Staff, Business Intelligence Engineer",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8076802",
-      "posted_at": "2026-07-24T10:24:32-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_twilio_8074762",
       "employer_name": "Twilio",
       "job_title": "Staff, Business Intelligence Engineer",
       "location": "Remote - US",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8074762",
+      "posted_at": "2026-07-24T10:24:32-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8076802",
+      "employer_name": "Twilio",
+      "job_title": "Staff, Business Intelligence Engineer",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8076802",
       "posted_at": "2026-07-24T10:24:32-04:00",
       "category": "Other",
       "source": "greenhouse"
@@ -478,16 +538,6 @@
       "location": "San Francisco, CA | New York City, NY",
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5251671008",
       "posted_at": "2026-07-24T07:40:21-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_7896332",
-      "employer_name": "Pinterest",
-      "job_title": "Sr. Software Engineer",
-      "location": "Dublin, IE",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7896332",
-      "posted_at": "2026-07-24T06:53:45-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
