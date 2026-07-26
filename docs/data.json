@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-07-26T20:58:26.698434+00:00",
+  "generated_at": "2026-07-26T22:59:04.678893+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_waymo_7449712",
-      "employer_name": "Waymo",
-      "job_title": "Software Engineer, Perception Scaling Evaluation",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7449712",
-      "posted_at": "2026-07-26T11:42:52-04:00",
+      "job_id": "greenhouse_lyft_8649343002",
+      "employer_name": "Lyft",
+      "job_title": "Staff Applied Scientist",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8649343002?gh_jid=8649343002",
+      "posted_at": "2026-07-26T17:36:13-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8035679",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, People Ops and AI Tools",
+      "location": "Austin, TX, United States",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8035679?gh_jid=8035679",
+      "posted_at": "2026-07-26T17:16:32-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
