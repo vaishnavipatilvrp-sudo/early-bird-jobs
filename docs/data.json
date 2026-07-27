@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T16:58:30.201781+00:00",
+  "generated_at": "2026-07-27T17:43:05.270295+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_4948533f-1df6-49f7-af9e-a2da0e02ebca",
@@ -10,6 +10,16 @@
       "posted_at": "2026-07-27T13:57:42.767+00:00",
       "category": "Data Scientist",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8080780",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Cloudflare Queues",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8080780?gh_jid=8080780",
+      "posted_at": "2026-07-27T13:32:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_stripe_8044460",
@@ -92,21 +102,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_6163230",
-      "employer_name": "Stripe",
-      "job_title": "Backend Engineer, Payments and Risk",
-      "location": "US",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=6163230",
-      "posted_at": "2026-07-27T11:17:30-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_stripe_7232592",
       "employer_name": "Stripe",
       "job_title": "Backend Engineer, Payments and Risk",
       "location": "US",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=7232592",
+      "posted_at": "2026-07-27T11:17:30-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_6163230",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Payments and Risk",
+      "location": "US",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=6163230",
       "posted_at": "2026-07-27T11:17:30-04:00",
       "category": "Other",
       "source": "greenhouse"
@@ -122,21 +132,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_5416444",
-      "employer_name": "Stripe",
-      "job_title": "Data Analyst",
-      "location": "Canada",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=5416444",
-      "posted_at": "2026-07-27T11:17:30-04:00",
-      "category": "Data Analyst",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_stripe_7978488",
       "employer_name": "Stripe",
       "job_title": "Data Analyst",
       "location": "Mexico City",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=7978488",
+      "posted_at": "2026-07-27T11:17:30-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_5416444",
+      "employer_name": "Stripe",
+      "job_title": "Data Analyst",
+      "location": "Canada",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=5416444",
       "posted_at": "2026-07-27T11:17:30-04:00",
       "category": "Data Analyst",
       "source": "greenhouse"
@@ -372,21 +382,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_7922832",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer",
-      "location": "Seattle, WA",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7922832",
-      "posted_at": "2026-07-27T11:17:30-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_stripe_7926966",
       "employer_name": "Stripe",
       "job_title": "Software Engineer",
       "location": "New York, NY",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=7926966",
+      "posted_at": "2026-07-27T11:17:30-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7922832",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer",
+      "location": "Seattle, WA",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7922832",
       "posted_at": "2026-07-27T11:17:30-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -642,21 +652,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8013220",
-      "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer, Data Engineering Solutions",
-      "location": "Seattle",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8013220",
-      "posted_at": "2026-07-27T11:17:30-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_stripe_7548037",
       "employer_name": "Stripe",
       "job_title": "Staff Software Engineer, Data Engineering Solutions",
       "location": "Bengaluru",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=7548037",
+      "posted_at": "2026-07-27T11:17:30-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8013220",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Data Engineering Solutions",
+      "location": "Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8013220",
       "posted_at": "2026-07-27T11:17:30-04:00",
       "category": "Data Engineer",
       "source": "greenhouse"
@@ -672,21 +682,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_7712852",
-      "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer, Machine Learning Platform",
-      "location": "Toronto",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7712852",
-      "posted_at": "2026-07-27T11:17:30-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_stripe_7939868",
       "employer_name": "Stripe",
       "job_title": "Staff Software Engineer, Machine Learning Platform",
       "location": "San Francisco, Seattle",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=7939868",
+      "posted_at": "2026-07-27T11:17:30-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7712852",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Machine Learning Platform",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7712852",
       "posted_at": "2026-07-27T11:17:30-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -892,16 +902,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_cloudflare_8080780",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Cloudflare Queues",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8080780?gh_jid=8080780",
-      "posted_at": "2026-07-27T09:16:05-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_airbnb_7640881",
       "employer_name": "Airbnb",
       "job_title": "Senior Data Engineer, BizTech",
@@ -909,16 +909,6 @@
       "apply_link": "https://careers.airbnb.com/positions/7640881?gh_jid=7640881",
       "posted_at": "2026-07-27T08:36:27-04:00",
       "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8029035",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Frontend (Consumer - Payments)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8029035?gh_jid=8029035",
-      "posted_at": "2026-07-27T07:33:14-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
