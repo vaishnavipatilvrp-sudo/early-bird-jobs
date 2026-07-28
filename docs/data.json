@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-07-28T19:24:55.677000+00:00",
+  "generated_at": "2026-07-28T20:19:17.507489+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_621bb104-9daa-4c9e-949a-03d5730334e8",
+      "employer_name": "OpenAI",
+      "job_title": "Software Engineer, ChatGPT Infrastructure",
+      "location": "London, UK",
+      "apply_link": "https://jobs.ashbyhq.com/openai/621bb104-9daa-4c9e-949a-03d5730334e8",
+      "posted_at": "2026-07-28T19:48:03.864+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "NVFIWkNqZldEOWtZS1piekFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURmxoUWxoaFRUSlFSSFF5VkhVeFZuRlhjVVF4VkVOR1MyTkhVRWRDTkZGVGIxVkxOVXhHZERKR2QxWXlSR1kyVWtsc1ltWmlaMFpTTUdvelVXbHFka1Z5VGxWdk5FTTJjbFJFY2xCRE1XMTNYMmx2TWtOVlJGcG5jbWxZV0hkRGIwaEhPV2RZUVVaUVlVeGpMVFpVWjFGRWRrMDRVRlZsUjB0VFZHbE9iRmM1TkVSeGQySVNGM0ZuTlhCaGNrdFVTRTE1ZW5GMGMxQjFOVXQxTmxGTkdpSkJSSE55T1daU2QzTkxSSEUwU1haTFYxQmtPRGxtZEcwMGFIYzFSazlzV25SQg",
+      "employer_name": "Capgemini",
+      "job_title": "Snowflake Data/Analytics Engineer 1",
+      "location": "Sunnyvale, California",
+      "apply_link": "https://www.indeed.com/viewjob?jk=e9cdd4e37c40ed99",
+      "posted_at": "2026-07-28T19:00:00.000Z",
+      "category": "Other",
+      "source": "jsearch"
+    },
     {
       "job_id": "ashby_openai_3229b152-015f-49ad-9921-9c9de95570c8",
       "employer_name": "OpenAI",
@@ -10,6 +30,56 @@
       "posted_at": "2026-07-28T16:57:21.964+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8046909",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Robotics Infrastructure - Autonomy & Robotics, DoorDash Air",
+      "location": "San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8046909",
+      "posted_at": "2026-07-28T15:43:33-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8046982",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Planning & Controls - Autonomy & Robotics, DoorDash Air",
+      "location": "San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8046982",
+      "posted_at": "2026-07-28T15:42:48-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_6682078",
+      "employer_name": "DoorDash",
+      "job_title": "Robotics Software Engineer - Labs, DoorDash Air",
+      "location": "San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/6682078",
+      "posted_at": "2026-07-28T15:42:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_7763162",
+      "employer_name": "DoorDash",
+      "job_title": "Senior Software Engineer, Motion Planning \u2013 DoorDash Labs, DoorDash Air",
+      "location": "San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7763162",
+      "posted_at": "2026-07-28T15:34:15-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8092651",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Backend (Consumer - Growth Foundations)",
+      "location": "Remote - Canada",
+      "apply_link": "https://www.coinbase.com/careers/positions/8092651?gh_jid=8092651",
+      "posted_at": "2026-07-28T15:33:16-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_doordashusa_8049133",
@@ -418,26 +488,6 @@
       "location": "Remote - India",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007449",
       "posted_at": "2026-07-28T10:25:42-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_5551697004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Software Engineer, AI Product (London, United Kingdom)",
-      "location": "London, England",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/5551697004?gh_jid=5551697004",
-      "posted_at": "2026-07-28T09:42:27-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_5630445",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Backend (All Teams)",
-      "location": "Sunnyvale, CA; San Francisco, CA; New York, NY; Seattle, WA; Ann Arbor, MI",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630445",
-      "posted_at": "2026-07-28T09:34:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
