@@ -1,74 +1,14 @@
 {
-  "generated_at": "2026-07-28T06:27:42.659614+00:00",
+  "generated_at": "2026-07-28T10:35:53.174741+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_databricks_8330188002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Melbourne, Australia",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8330188002",
-      "posted_at": "2026-07-28T00:17:41-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8298792002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Sydney, Australia",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8298792002",
-      "posted_at": "2026-07-28T00:17:41-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_instacart_7793391",
-      "employer_name": "Instacart",
-      "job_title": "Senior Applied Scientist II, Ads Optimization",
-      "location": "United States - Remote",
-      "apply_link": "https://instacart.careers/job/?gh_jid=7793391",
-      "posted_at": "2026-07-27T22:39:09-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_instacart_7793089",
-      "employer_name": "Instacart",
-      "job_title": "Senior Machine Learning Engineer, Operations Research",
-      "location": "United States - Remote",
-      "apply_link": "https://instacart.careers/job/?gh_jid=7793089",
-      "posted_at": "2026-07-27T22:29:46-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_instacart_7963838",
-      "employer_name": "Instacart",
-      "job_title": "Senior Machine Learning Engineer II, Ads Response Prediction",
-      "location": "United States - Remote",
-      "apply_link": "https://instacart.careers/job/?gh_jid=7963838",
-      "posted_at": "2026-07-27T22:26:54-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_instacart_7996528",
-      "employer_name": "Instacart",
-      "job_title": "Senior Machine Learning Engineer, Search & Recommendations",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "apply_link": "https://instacart.careers/job/?gh_jid=7996528",
-      "posted_at": "2026-07-27T22:25:10-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_instacart_7565508",
-      "employer_name": "Instacart",
-      "job_title": "Senior Machine Learning Engineer II, Search & Recommendations Ranking",
-      "location": "US - Remote",
-      "apply_link": "https://instacart.careers/job/?gh_jid=7565508",
-      "posted_at": "2026-07-27T22:24:49-04:00",
-      "category": "ML / AI Engineer",
+      "job_id": "greenhouse_mongodb_8064448",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3, Atlas Growth 2",
+      "location": "Cork, Ireland; Dublin, Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8064448",
+      "posted_at": "2026-07-28T05:08:09-04:00",
+      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
