@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-07-29T06:31:29.626668+00:00",
+  "generated_at": "2026-07-29T10:39:33.487212+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_twilio_7605743",
+      "job_id": "greenhouse_databricks_8645052002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
+      "location": "Berlin, Germany; Munich, Germany",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8645052002",
+      "posted_at": "2026-07-29T06:01:05-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8026201",
       "employer_name": "Twilio",
-      "job_title": "Software Engineer, Identity",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7605743",
-      "posted_at": "2026-07-28T20:32:55-04:00",
+      "job_title": "Software Engineer (L1)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8026201",
+      "posted_at": "2026-07-29T03:30:04-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
