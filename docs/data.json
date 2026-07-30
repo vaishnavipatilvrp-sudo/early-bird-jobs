@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-07-30T19:26:54.278065+00:00",
+  "generated_at": "2026-07-30T20:18:37.876656+00:00",
   "jobs": [
+    {
+      "job_id": "lever_spotify_aca5697a-a87a-415e-8d58-627bb782cce8",
+      "employer_name": "Spotify",
+      "job_title": "Machine Learning Engineering Manager, Personalization",
+      "location": "New York, NY",
+      "apply_link": "https://jobs.lever.co/spotify/aca5697a-a87a-415e-8d58-627bb782cce8",
+      "posted_at": "2026-07-30T18:31:15.095000+00:00",
+      "category": "ML / AI Engineer",
+      "source": "lever"
+    },
     {
       "job_id": "ashby_openai_f5dfd3aa-3bf6-49e2-b780-0da281a21533",
       "employer_name": "OpenAI",
@@ -268,36 +278,6 @@
       "location": "Remote - India",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8079801",
       "posted_at": "2026-07-30T10:25:16-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8024880",
-      "employer_name": "Coinbase",
-      "job_title": "Analytics Engineer, GFCO Analytics",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
-      "posted_at": "2026-07-30T10:17:36-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8657497002",
-      "employer_name": "Lyft",
-      "job_title": "Senior Software Engineer, AI Entries",
-      "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8657497002?gh_jid=8657497002",
-      "posted_at": "2026-07-30T10:16:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8065028",
-      "employer_name": "Twilio",
-      "job_title": "Senior Software Engineer",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8065028",
-      "posted_at": "2026-07-30T10:02:04-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
