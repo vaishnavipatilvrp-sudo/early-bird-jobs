@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-07-30T06:29:02.029619+00:00",
+  "generated_at": "2026-07-30T10:25:05.241053+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_lyft_8656826002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer, Core Maps",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8656826002?gh_jid=8656826002",
+      "posted_at": "2026-07-30T03:19:43-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8632126002",
+      "employer_name": "Databricks",
+      "job_title": "Full Stack Developer (AI Agents)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002",
+      "posted_at": "2026-07-30T02:47:09-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_databricks_8569390002",
       "employer_name": "Databricks",
@@ -9,26 +29,6 @@
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569390002",
       "posted_at": "2026-07-30T00:47:41-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7584885",
-      "employer_name": "Waymo",
-      "job_title": "Software Engineer, Machine Learning/AI Accelerator",
-      "location": "Taipei, Taiwan; Hsinchu, Taiwan",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7584885",
-      "posted_at": "2026-07-29T22:25:25-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8545675002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Safety Backend",
-      "location": "San Francisco Bay Area or Los Angeles Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8545675002",
-      "posted_at": "2026-07-29T21:24:17-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
