@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-07-30T21:10:57.597742+00:00",
+  "generated_at": "2026-07-30T23:08:14.872051+00:00",
   "jobs": [
+    {
+      "job_id": "lever_spotify_9761af44-be41-43ca-8c01-79cdbb2aef93",
+      "employer_name": "Spotify",
+      "job_title": "Staff Machine Learning Engineer, Personalization",
+      "location": "New York, NY",
+      "apply_link": "https://jobs.lever.co/spotify/9761af44-be41-43ca-8c01-79cdbb2aef93",
+      "posted_at": "2026-07-30T20:55:39.455000+00:00",
+      "category": "ML / AI Engineer",
+      "source": "lever"
+    },
+    {
+      "job_id": "greenhouse_discord_8299493002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Data Engineer, Ads",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8299493002",
+      "posted_at": "2026-07-30T18:58:55-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8614971002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Data Engineer",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8614971002",
+      "posted_at": "2026-07-30T18:53:02-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "lever_spotify_aca5697a-a87a-415e-8d58-627bb782cce8",
       "employer_name": "Spotify",
@@ -30,6 +60,36 @@
       "posted_at": "2026-07-30T18:22:51.171+00:00",
       "category": "Data Scientist",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7613695",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 2",
+      "location": "Dublin",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7613695",
+      "posted_at": "2026-07-30T18:13:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8024408",
+      "employer_name": "DoorDash",
+      "job_title": "Revenue Data Analyst",
+      "location": "United States - Remote",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8024408",
+      "posted_at": "2026-07-30T18:12:22-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4720050005",
+      "employer_name": "Scale AI",
+      "job_title": "Staff Applied AI Engineer",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4720050005",
+      "posted_at": "2026-07-30T17:32:20-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_twilio_8097672",
@@ -79,46 +139,6 @@
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8658624002?gh_jid=8658624002",
       "posted_at": "2026-07-30T13:12:29-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8078337",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Connect Tax Reporting",
-      "location": "Bucharest, Romania",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8078337",
-      "posted_at": "2026-07-30T13:07:19-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7985187",
-      "employer_name": "Coinbase",
-      "job_title": "Machine Learning Engineer",
-      "location": "Remote - India",
-      "apply_link": "https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187",
-      "posted_at": "2026-07-30T12:40:45-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8545663002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Software Engineer, Distributed Systems",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8545663002",
-      "posted_at": "2026-07-30T12:34:13-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8070678",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Machine Learning Engineer, Price Modeling",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/8070678?gh_jid=8070678",
-      "posted_at": "2026-07-30T12:26:26-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
