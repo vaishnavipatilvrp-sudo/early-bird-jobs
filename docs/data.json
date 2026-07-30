@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-07-30T02:27:07.012429+00:00",
+  "generated_at": "2026-07-30T05:17:56.945467+00:00",
   "jobs": [
+    {
+      "job_id": "eE9ZNjdiR3hkOW1OWkNxYkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTVmhxTW5Ca2VTMXNUbEJaWjJOVWNteGpjV2MyY0RCT1UxUnRSRkIyZEdSNWVVMVlWR1IzTVdJNVJWSnpWVk0zUTJwVE0yZFdVV3BqY1hSNGRVcElhR1pGVWtvNGNFZGtXWGxxZDBsSlZXVnJibFkzVVVGTExXaFJPV0UxVkdJM1pHTnlabU5QV21aaWMzQm9ZbnBTU2tONmFXWnBXVlZRY1VoT2JscGZhRVozYjJwcFlqY1NGa1ZPTlhGaGRFZExTamxwZEhGMGMxQTFOekp5U1ZFYUlrRkVjM0k1WmxORlpIZEdjbFZOYTFSWllYRTRlR2R1ZUVNMFRIZHdkMjVaZW1j",
+      "employer_name": "Sanford Health",
+      "job_title": "Human Resources Data Analyst",
+      "location": "Sioux Falls, South Dakota",
+      "apply_link": "https://sanfordcareers.com/sioux-falls-sd/human-resources-data-analyst/DED62988B3154F589F3449D19A033D0A/job/",
+      "posted_at": "2026-07-30T01:00:00.000Z",
+      "category": "Data Analyst",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_databricks_8569390002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Singapore",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569390002",
+      "posted_at": "2026-07-30T00:47:41-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "NjQ3a0lINTh2QWhBTUR4NkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVlZXUVZGRlYycDRlREZrZFc1bk1FdGZOMFJ3YVVkbWIwazNSWHBEY0RSWmJUTXdPRFZETTJZM1NrODNaQzFOZVVGWWR5MTBSM2RhWXpsUloySXlXSEpYU0dKUVdXNVdWRzlNZVhSU1FUQmpORTVaUmtWNVpHUllNbmxKUzNoVU4wUkRjV1YxUlRSRVpHTnViVEptYURKdGJsVlZTbXBLYkVkeE9EWjFaalJRWTBsSGJERVNGMUJPTlhGaGRtRmtRVzlMZDNWeU9GQnZXblZDYlZGUkdpSkJSSE55T1daUk9HcFdWVUZ4UTIxUlNEZHJRVkpPTW1wZlFsRTFYMFJDWDBWQg",
+      "employer_name": "CVS Health",
+      "job_title": "Staff Software Engineer - Applied AI",
+      "location": "Columbus, Ohio",
+      "apply_link": "https://jobs.cvshealth.com/us/en/job/R0979042/Staff-Software-Engineer-Applied-AI",
+      "posted_at": "2026-07-30T00:00:00.000Z",
+      "category": "Software Engineer",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "a1dYdmkxOUZ3eXBRa3NvdUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTelk1TkhWMVNFWlNiM0ZMWVhkalFrZDFXV00xTUdWRFZuZE5ZbXhrUmtWMmVEZ3RlVE0wTmxSZk5tUlVWMnMyV0ZwT00xRlZaV2R1Y1RKUWMxaHdTM2xZWmxRdGEybHJlVWw2ZUZJME5WcE9SM0pCVG5sRlltcFRVbFZpUkdOeWNuWlVOSGhXU1UxMFNGbEtZekIxWXpSNGEwMDBjMWMwZDBsSU56TXRSMk40TlRaWlJFc1NGMU5PTlhGaGNWODFSamQxY25GMGMxQTVkWFZXTkZGckdpSkJSSE55T1daVE4zWkJXa05XVjFob09GVTBRbVpHWDBaUFUwZGFlbnBWUXpWbg",
+      "employer_name": "Capital One",
+      "job_title": "Senior Associate, Data Scientist - NLP",
+      "location": "San Jose, California",
+      "apply_link": "https://jobs.digitalhire.com/job-listing/opening/35j9WLwNfw2xCP2xE7gJJL",
+      "posted_at": "2026-07-30T00:00:00.000Z",
+      "category": "Data Scientist",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "NjQ3a0lINTh2QWhBTUR4NkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM1IzVTFWMGMyNHhTbTFaTUd0ck1EVkVWaTFyTmxCZmNuTkpTM0Z5WWpWWGVHbFhUa2w1ZVhKU1NFbDVhMmRGTUc5NlgybE5PRTFFTkVSdVRVNVNaMUJuUkdjNE0waHVkbFJ2T1dWM2MwWmtTWFZaY21ZeGFtUnphRmR5WjNoNlJHVkVXR0pFVDJOSU1rbFFSMVo2V1hkWlZuZFZWRk5UUW1GWmNVMDRiWEJ0WDBNd056WVNGMk5rTlhGaGNYWnNTbkpJVm5kUVFWQmZUWHBGZFVFNEdpSkJSSE55T1daU1RtVXRVRFZ5VkhKR1kweERURGhEUlhsaVMyczFSVFpwZDNaUg",
+      "employer_name": "CVS Health",
+      "job_title": "Staff Software Engineer - Applied AI",
+      "location": "Columbus, Ohio",
+      "apply_link": "https://jobs.cvshealth.com/us/en/job/R0979042/Staff-Software-Engineer-Applied-AI",
+      "posted_at": "2026-07-30T00:00:00.000Z",
+      "category": "Software Engineer",
+      "source": "jsearch"
+    },
     {
       "job_id": "greenhouse_waymo_7584885",
       "employer_name": "Waymo",
@@ -39,36 +89,6 @@
       "apply_link": "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199",
       "posted_at": "2026-07-29T20:01:58-04:00",
       "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8030628",
-      "employer_name": "Stripe",
-      "job_title": "Staff Fullstack Engineer, User Auth Experience",
-      "location": "Toronto, Chicago, Atlanta",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8030628",
-      "posted_at": "2026-07-29T18:58:35-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8095365",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Staff Software Engineer, Marketing Technology",
-      "location": "Remote, USA",
-      "apply_link": "https://careers.airbnb.com/positions/8095365?gh_jid=8095365",
-      "posted_at": "2026-07-29T18:14:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8088751",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Software Engineer, Cloudflare Network Interconnect",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8088751?gh_jid=8088751",
-      "posted_at": "2026-07-29T16:31:31-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
