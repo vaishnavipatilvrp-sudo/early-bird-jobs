@@ -1,44 +1,34 @@
 {
-  "generated_at": "2026-07-30T11:57:54.833968+00:00",
+  "generated_at": "2026-07-30T14:03:02.163519+00:00",
   "jobs": [
     {
-      "job_id": "Q1BJZHZabmZ5VXBLRFoxREFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbnBXZEhwVGFXdHljMEl4VUVSNFZXdFZRbTgxVmpWd2RYb3RTMnBKT1habWEwNHpUMVV5ZGtGS1ZuQTNZekZ6WmtsWWNHZDFVSE5aVVRWWlJsQlNjRVZGTjNoWFlsbDZNa2hvYWxKdFNXeEJXbTVaTlV0MU5uWnJaVlkzU2xSWmFuVTBlVjh3Um10aGJEUnhiRmc1TW1Ob1FUZzFRV05PVjJkdlNWQklhVk5mY2pFNGVqSVNGMnA2ZEhKaGMwUkRTbk0yZW5GMGMxQnNTVVJITkZGakdpSkJSSE55T1daU09WRXRUakpuTTBoa01VSlJSVTFsWWxaRk9VcFlVSE13VWxCMw",
-      "employer_name": "Fiserv, Inc.",
-      "job_title": "Data Scientist | Sunnyvale, CA, USA",
-      "location": "Sunnyvale, California",
-      "apply_link": "https://www.efinancialcareers.com/jobs-United_States-Sunnyvale-Data_Scientist.id24604166",
-      "posted_at": "2026-07-30T08:00:00.000Z",
-      "category": "Data Scientist",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "UnpwTTlmTzhiQVR6cHVDX0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbFoyY0d4ak1HRnBhVWRCTldWRGVtVkxiV2Q2UTFOYVNFeEljbUo1VFhoWFNEVnhSR04xZW0xSVZsWXdVbTkyV1dKNE9ETklVWGs0WVV4SVVIVm1Sbk5vYkUwelZtTnZXREk0VTNOdllWTm1WRVpXU21KemMyVjFYMVZxVEVkbVpqTjRWbE40Y1VwdGJISlZTVmN6UmxWVGVWWnRRbTFWWjNGTExVeHJZa1ZSUW1zNWMyb1NGMGw2ZUhKaGRYRTVRWEZVWTJ0UVNWQjNYM3B4T0ZGRkdpSkJSSE55T1daVGNVb3RkV2RTZW1kdVRVaDFSREJWZVdZd1kzRm1jRTlEZGpoMw",
-      "employer_name": "Capital One Financial Corporation",
-      "job_title": "Lead Software Engineer, Full Stack (Python/GO/Java, Typescript, AI/LLM) | Richmond, VA, USA",
-      "location": "Richmond, Virginia",
-      "apply_link": "https://www.efinancialcareers.com/jobs-United_States-Richmond-Lead_Software_Engineer_Full_Stack_PythonGOJava_Typescript_AILLM.id24603358",
-      "posted_at": "2026-07-30T07:00:00.000Z",
-      "category": "Software Engineer",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "greenhouse_lyft_8656826002",
-      "employer_name": "Lyft",
-      "job_title": "Software Engineer, Core Maps",
-      "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8656826002?gh_jid=8656826002",
-      "posted_at": "2026-07-30T03:19:43-04:00",
+      "job_id": "greenhouse_twilio_8065028",
+      "employer_name": "Twilio",
+      "job_title": "Senior Software Engineer",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8065028",
+      "posted_at": "2026-07-30T10:02:04-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8632126002",
-      "employer_name": "Databricks",
-      "job_title": "Full Stack Developer (AI Agents)",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002",
-      "posted_at": "2026-07-30T02:47:09-04:00",
-      "category": "Other",
+      "job_id": "greenhouse_coinbase_8095252",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8095252?gh_jid=8095252",
+      "posted_at": "2026-07-30T09:25:46-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7309174",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Threat Intelligence Software Engineer, Cloudforce One",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7309174?gh_jid=7309174",
+      "posted_at": "2026-07-30T08:21:55-04:00",
+      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
