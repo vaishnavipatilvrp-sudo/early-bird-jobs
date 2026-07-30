@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-07-30T16:28:00.117657+00:00",
+  "generated_at": "2026-07-30T17:27:52.740734+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_lyft_8658624002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer, Privacy",
+      "location": "Mexico City, Mexico",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8658624002?gh_jid=8658624002",
+      "posted_at": "2026-07-30T13:12:29-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8078337",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Connect Tax Reporting",
+      "location": "Bucharest, Romania",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8078337",
+      "posted_at": "2026-07-30T13:07:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7985187",
+      "employer_name": "Coinbase",
+      "job_title": "Machine Learning Engineer",
+      "location": "Remote - India",
+      "apply_link": "https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187",
+      "posted_at": "2026-07-30T12:40:45-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8545663002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Software Engineer, Distributed Systems",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8545663002",
+      "posted_at": "2026-07-30T12:34:13-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_airbnb_8070678",
       "employer_name": "Airbnb",
@@ -10,16 +50,6 @@
       "posted_at": "2026-07-30T12:26:26-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "dHRxaFptNUpzMFotc3ZqWEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVkF0Y1ZreE5FdHFNbFp6VG01RFozSjViMEZ6UTBoa09VTmlaVXRRVkV0NVkyazNNRlZqVFhKMFRERkJUMUZaTmxwZk5VdEJSSGRZWDJwTVRHNXRPV1V4Tlc0MGNEUnZZbFZzU1VsWFdXNWhiakpYVGxkbmNtSk9lRzlrYVhaTWVGOTBNMFkyY2pnd2JVUktjM1JGY0hKQlZHMHhTbU5aVVdGNFEyTnFiSGhVVDFKT1lXc1NGMUp1ZEhKaGMxUnNTUzFMZVhCMFVWQjRkbXA0Y1VGakdpSkJSSE55T1daU09WRmFRMEl0VkZKVWFrMTRhWFJvV1RKR2FGUkNjR0pzT0ZsMw",
-      "employer_name": "Apple",
-      "job_title": "Staff Applied Scientist, UI Control Models",
-      "location": "Cupertino, California",
-      "apply_link": "https://www.indeed.com/viewjob?jk=400afb8da55ca142",
-      "posted_at": "2026-07-30T12:00:00.000Z",
-      "category": "ML / AI Engineer",
-      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_twilio_6849268",
