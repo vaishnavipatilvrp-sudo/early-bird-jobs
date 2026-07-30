@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-07-29T22:59:13.296130+00:00",
+  "generated_at": "2026-07-30T02:27:07.012429+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_waymo_7584885",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer, Machine Learning/AI Accelerator",
+      "location": "Taipei, Taiwan; Hsinchu, Taiwan",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7584885",
+      "posted_at": "2026-07-29T22:25:25-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8545675002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Safety Backend",
+      "location": "San Francisco Bay Area or Los Angeles Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8545675002",
+      "posted_at": "2026-07-29T21:24:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8070574",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Frontend (Coinbase Advisor - Agentic Trading)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8070574?gh_jid=8070574",
+      "posted_at": "2026-07-29T20:17:48-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8082199",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Data Engineering Platform",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199",
+      "posted_at": "2026-07-29T20:01:58-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_stripe_8030628",
       "employer_name": "Stripe",
@@ -29,76 +69,6 @@
       "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8088751?gh_jid=8088751",
       "posted_at": "2026-07-29T16:31:31-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8010102",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3, Query Integration",
-      "location": "Austin; New York; New York City; San Francisco; United States",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8010102",
-      "posted_at": "2026-07-29T15:40:14-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8545663002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Software Engineer, Distributed Systems",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8545663002",
-      "posted_at": "2026-07-29T14:48:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8078337",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Connect Tax Reporting",
-      "location": "Bucharest, Romania",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8078337",
-      "posted_at": "2026-07-29T14:08:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8546367002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "United States",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
-      "posted_at": "2026-07-29T13:51:25-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8546365002",
-      "employer_name": "Databricks",
-      "job_title": "Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
-      "location": "Maryland; Virginia; Washington, D.C.",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546365002",
-      "posted_at": "2026-07-29T13:51:21-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_instacart_7963661",
-      "employer_name": "Instacart",
-      "job_title": "Software Engineer II, Technical Search Visibility",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "apply_link": "https://instacart.careers/job/?gh_jid=7963661",
-      "posted_at": "2026-07-29T13:26:10-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8089407",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Research Engineer Intern (Fall 2026)",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
-      "posted_at": "2026-07-29T13:13:54-04:00",
-      "category": "Other",
       "source": "greenhouse"
     }
   ]
