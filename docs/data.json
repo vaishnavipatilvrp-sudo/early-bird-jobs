@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-07-30T05:17:56.945467+00:00",
+  "generated_at": "2026-07-30T06:29:02.029619+00:00",
   "jobs": [
-    {
-      "job_id": "eE9ZNjdiR3hkOW1OWkNxYkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTVmhxTW5Ca2VTMXNUbEJaWjJOVWNteGpjV2MyY0RCT1UxUnRSRkIyZEdSNWVVMVlWR1IzTVdJNVJWSnpWVk0zUTJwVE0yZFdVV3BqY1hSNGRVcElhR1pGVWtvNGNFZGtXWGxxZDBsSlZXVnJibFkzVVVGTExXaFJPV0UxVkdJM1pHTnlabU5QV21aaWMzQm9ZbnBTU2tONmFXWnBXVlZRY1VoT2JscGZhRVozYjJwcFlqY1NGa1ZPTlhGaGRFZExTamxwZEhGMGMxQTFOekp5U1ZFYUlrRkVjM0k1WmxORlpIZEdjbFZOYTFSWllYRTRlR2R1ZUVNMFRIZHdkMjVaZW1j",
-      "employer_name": "Sanford Health",
-      "job_title": "Human Resources Data Analyst",
-      "location": "Sioux Falls, South Dakota",
-      "apply_link": "https://sanfordcareers.com/sioux-falls-sd/human-resources-data-analyst/DED62988B3154F589F3449D19A033D0A/job/",
-      "posted_at": "2026-07-30T01:00:00.000Z",
-      "category": "Data Analyst",
-      "source": "jsearch"
-    },
     {
       "job_id": "greenhouse_databricks_8569390002",
       "employer_name": "Databricks",
@@ -20,36 +10,6 @@
       "posted_at": "2026-07-30T00:47:41-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "NjQ3a0lINTh2QWhBTUR4NkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVlZXUVZGRlYycDRlREZrZFc1bk1FdGZOMFJ3YVVkbWIwazNSWHBEY0RSWmJUTXdPRFZETTJZM1NrODNaQzFOZVVGWWR5MTBSM2RhWXpsUloySXlXSEpYU0dKUVdXNVdWRzlNZVhSU1FUQmpORTVaUmtWNVpHUllNbmxKUzNoVU4wUkRjV1YxUlRSRVpHTnViVEptYURKdGJsVlZTbXBLYkVkeE9EWjFaalJRWTBsSGJERVNGMUJPTlhGaGRtRmtRVzlMZDNWeU9GQnZXblZDYlZGUkdpSkJSSE55T1daUk9HcFdWVUZ4UTIxUlNEZHJRVkpPTW1wZlFsRTFYMFJDWDBWQg",
-      "employer_name": "CVS Health",
-      "job_title": "Staff Software Engineer - Applied AI",
-      "location": "Columbus, Ohio",
-      "apply_link": "https://jobs.cvshealth.com/us/en/job/R0979042/Staff-Software-Engineer-Applied-AI",
-      "posted_at": "2026-07-30T00:00:00.000Z",
-      "category": "Software Engineer",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "a1dYdmkxOUZ3eXBRa3NvdUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTelk1TkhWMVNFWlNiM0ZMWVhkalFrZDFXV00xTUdWRFZuZE5ZbXhrUmtWMmVEZ3RlVE0wTmxSZk5tUlVWMnMyV0ZwT00xRlZaV2R1Y1RKUWMxaHdTM2xZWmxRdGEybHJlVWw2ZUZJME5WcE9SM0pCVG5sRlltcFRVbFZpUkdOeWNuWlVOSGhXU1UxMFNGbEtZekIxWXpSNGEwMDBjMWMwZDBsSU56TXRSMk40TlRaWlJFc1NGMU5PTlhGaGNWODFSamQxY25GMGMxQTVkWFZXTkZGckdpSkJSSE55T1daVE4zWkJXa05XVjFob09GVTBRbVpHWDBaUFUwZGFlbnBWUXpWbg",
-      "employer_name": "Capital One",
-      "job_title": "Senior Associate, Data Scientist - NLP",
-      "location": "San Jose, California",
-      "apply_link": "https://jobs.digitalhire.com/job-listing/opening/35j9WLwNfw2xCP2xE7gJJL",
-      "posted_at": "2026-07-30T00:00:00.000Z",
-      "category": "Data Scientist",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "NjQ3a0lINTh2QWhBTUR4NkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM1IzVTFWMGMyNHhTbTFaTUd0ck1EVkVWaTFyTmxCZmNuTkpTM0Z5WWpWWGVHbFhUa2w1ZVhKU1NFbDVhMmRGTUc5NlgybE5PRTFFTkVSdVRVNVNaMUJuUkdjNE0waHVkbFJ2T1dWM2MwWmtTWFZaY21ZeGFtUnphRmR5WjNoNlJHVkVXR0pFVDJOSU1rbFFSMVo2V1hkWlZuZFZWRk5UUW1GWmNVMDRiWEJ0WDBNd056WVNGMk5rTlhGaGNYWnNTbkpJVm5kUVFWQmZUWHBGZFVFNEdpSkJSSE55T1daU1RtVXRVRFZ5VkhKR1kweERURGhEUlhsaVMyczFSVFpwZDNaUg",
-      "employer_name": "CVS Health",
-      "job_title": "Staff Software Engineer - Applied AI",
-      "location": "Columbus, Ohio",
-      "apply_link": "https://jobs.cvshealth.com/us/en/job/R0979042/Staff-Software-Engineer-Applied-AI",
-      "posted_at": "2026-07-30T00:00:00.000Z",
-      "category": "Software Engineer",
-      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_waymo_7584885",
@@ -69,26 +29,6 @@
       "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8545675002",
       "posted_at": "2026-07-29T21:24:17-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8070574",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Frontend (Coinbase Advisor - Agentic Trading)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8070574?gh_jid=8070574",
-      "posted_at": "2026-07-29T20:17:48-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8082199",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Data Engineering Platform",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199",
-      "posted_at": "2026-07-29T20:01:58-04:00",
-      "category": "Data Engineer",
       "source": "greenhouse"
     }
   ]
