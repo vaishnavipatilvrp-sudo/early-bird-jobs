@@ -1,15 +1,45 @@
 {
-  "generated_at": "2026-07-31T12:04:00.967470+00:00",
+  "generated_at": "2026-07-31T14:07:55.135163+00:00",
   "jobs": [
     {
-      "job_id": "SFpxS0o4V3c4YmNPNFh4aUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMEpFYzBVNVVVaDVSR3hHYnpkb1RYWkhhelY1YkVaMk1VWXlZaTFzZFRaeU1tSnVja0Z6U3pWS2JFeG1UbmczY1hkVVkxY3hjbmQ0Ym14T1RsOVNlRkp5WkVvNFlVdEtZMDB6WTFJek1HeERjbWhUYnpoS1RsVXhhR3hMV0VobE1USnlVVzgyZVUxRVJDMDNRMWN3VDJKelprUktTMWhZY0dNeVJuRjZabWt0VFZGRlNrUVNGelp2TlhOaGNFOWtTbUl0ZUhGMGMxQnljbDlwYTFGM0dpSkJSSE55T1daVWJtZHpUbWhrWm5neGJIbzBRVVJ6VFc5elluaHRlblJJTTFaMw",
-      "employer_name": "JPMorgan Chase & Co.",
-      "job_title": "Machine Learning Engineer, GenAI/ML - Vice President | Plano, TX, USA",
-      "location": "Plano, Texas",
-      "apply_link": "https://www.efinancialcareers.com/jobs-United_States-Plano-Machine_Learning_Engineer_GenAIML_-_Vice_President.id24608632",
-      "posted_at": "2026-07-31T08:00:00.000Z",
+      "job_id": "greenhouse_twilio_8097672",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L2)",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8097672",
+      "posted_at": "2026-07-31T10:02:49-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7946610",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L2)",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7946610",
+      "posted_at": "2026-07-31T10:02:49-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7905693",
+      "employer_name": "Waymo",
+      "job_title": "Sr. Machine Learning Engineer, Marketplace ML Platform",
+      "location": "Mountain View, CA, United States ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7905693",
+      "posted_at": "2026-07-31T09:10:58-04:00",
       "category": "ML / AI Engineer",
-      "source": "jsearch"
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8067033",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Consumer",
+      "location": "Remote - Singapore",
+      "apply_link": "https://www.coinbase.com/careers/positions/8067033?gh_jid=8067033",
+      "posted_at": "2026-07-31T09:00:09-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_block_5369941008",
@@ -299,16 +329,6 @@
       "apply_link": "https://careers.airbnb.com/positions/7640881?gh_jid=7640881",
       "posted_at": "2026-07-31T05:14:45-04:00",
       "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8099751002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Remote - India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002",
-      "posted_at": "2026-07-31T02:13:14-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
