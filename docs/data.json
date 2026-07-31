@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-07-31T02:51:50.297953+00:00",
+  "generated_at": "2026-07-31T05:44:46.940690+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_twilio_8097672",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L2)",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8097672",
+      "posted_at": "2026-07-31T00:57:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7946610",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L2)",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7946610",
+      "posted_at": "2026-07-31T00:57:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_cloudflare_8092731",
       "employer_name": "Cloudflare (bonus, not on your original list)",
@@ -10,16 +30,6 @@
       "posted_at": "2026-07-30T21:41:30-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "lever_spotify_9761af44-be41-43ca-8c01-79cdbb2aef93",
-      "employer_name": "Spotify",
-      "job_title": "Staff Machine Learning Engineer, Personalization",
-      "location": "New York, NY",
-      "apply_link": "https://jobs.lever.co/spotify/9761af44-be41-43ca-8c01-79cdbb2aef93",
-      "posted_at": "2026-07-30T20:55:39.455000+00:00",
-      "category": "ML / AI Engineer",
-      "source": "lever"
     },
     {
       "job_id": "greenhouse_coinbase_8022068",
@@ -68,86 +78,6 @@
       "location": "Remote - Canada",
       "apply_link": "https://www.coinbase.com/careers/positions/8097944?gh_jid=8097944",
       "posted_at": "2026-07-30T20:09:18-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8082787",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer, Core Reliability ",
-      "location": "Remote - Canada",
-      "apply_link": "https://www.coinbase.com/careers/positions/8082787?gh_jid=8082787",
-      "posted_at": "2026-07-30T19:32:42-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8299493002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Data Engineer, Ads",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8299493002",
-      "posted_at": "2026-07-30T18:58:55-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8614971002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Data Engineer",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8614971002",
-      "posted_at": "2026-07-30T18:53:02-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7613695",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 2",
-      "location": "Dublin",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7613695",
-      "posted_at": "2026-07-30T18:13:23-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8024408",
-      "employer_name": "DoorDash",
-      "job_title": "Revenue Data Analyst",
-      "location": "United States - Remote",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8024408",
-      "posted_at": "2026-07-30T18:12:22-04:00",
-      "category": "Data Analyst",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4720050005",
-      "employer_name": "Scale AI",
-      "job_title": "Staff Applied AI Engineer",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4720050005",
-      "posted_at": "2026-07-30T17:32:20-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8097672",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L2)",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8097672",
-      "posted_at": "2026-07-30T17:08:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8031883",
-      "employer_name": "Waymo",
-      "job_title": "Foundation Model Data, Software Engineer",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York City, NY, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8031883",
-      "posted_at": "2026-07-30T17:06:27-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
