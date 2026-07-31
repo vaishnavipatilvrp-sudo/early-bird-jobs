@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-07-31T05:44:46.940690+00:00",
+  "generated_at": "2026-07-31T06:44:17.899242+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_databricks_8099751002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Remote - India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002",
+      "posted_at": "2026-07-31T02:13:14-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_twilio_8097672",
       "employer_name": "Twilio",
@@ -28,56 +38,6 @@
       "location": "Hybrid",
       "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8092731?gh_jid=8092731",
       "posted_at": "2026-07-30T21:41:30-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8022068",
-      "employer_name": "Coinbase",
-      "job_title": "Software Engineer, Developer Infrastructure",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8022068?gh_jid=8022068",
-      "posted_at": "2026-07-30T20:37:11-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7701645",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Compute Platform",
-      "location": "Remote - Canada",
-      "apply_link": "https://www.coinbase.com/careers/positions/7701645?gh_jid=7701645",
-      "posted_at": "2026-07-30T20:23:46-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7701651",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Compute Platform",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7701651?gh_jid=7701651",
-      "posted_at": "2026-07-30T20:22:03-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8026678",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Core Infra Systems",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8026678?gh_jid=8026678",
-      "posted_at": "2026-07-30T20:21:08-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8097944",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Core Reliability",
-      "location": "Remote - Canada",
-      "apply_link": "https://www.coinbase.com/careers/positions/8097944?gh_jid=8097944",
-      "posted_at": "2026-07-30T20:09:18-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
