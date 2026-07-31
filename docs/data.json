@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-07-31T06:44:17.899242+00:00",
+  "generated_at": "2026-07-31T10:39:53.673655+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_airbnb_7640881",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Data Engineer, BizTech",
+      "location": "Bangalore, India",
+      "apply_link": "https://careers.airbnb.com/positions/7640881?gh_jid=7640881",
+      "posted_at": "2026-07-31T05:14:45-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_databricks_8099751002",
       "employer_name": "Databricks",
@@ -28,16 +38,6 @@
       "location": "Remote - US",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7946610",
       "posted_at": "2026-07-31T00:57:03-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8092731",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Software Engineer, Registrar",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8092731?gh_jid=8092731",
-      "posted_at": "2026-07-30T21:41:30-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
