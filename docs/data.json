@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-07-31T19:25:57.185235+00:00",
+  "generated_at": "2026-07-31T20:23:49.985234+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_databricks_8546367002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "United States",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
+      "posted_at": "2026-07-31T16:13:17-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8099304",
+      "employer_name": "Stripe",
+      "job_title": "Senior Data Scientist",
+      "location": "Seattle, WA",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8099304",
+      "posted_at": "2026-07-31T15:45:34-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7466529",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Bulk/Interactive Inference",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7466529",
+      "posted_at": "2026-07-31T15:45:08-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8100066",
+      "employer_name": "Coinbase",
+      "job_title": "Software Engineer, EAA ",
+      "location": "Remote - Brazil",
+      "apply_link": "https://www.coinbase.com/careers/positions/8100066?gh_jid=8100066",
+      "posted_at": "2026-07-31T15:42:34-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_scaleai_4591300005",
       "employer_name": "Scale AI",
@@ -362,21 +402,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_waymo_7961706",
-      "employer_name": "Waymo",
-      "job_title": "Senior Machine Learning Engineer / London (UK-LON-40BR) / Simulation (7XW)   ",
-      "location": "London, UK",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7961706",
-      "posted_at": "2026-07-31T14:19:16-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_waymo_7961704",
       "employer_name": "Waymo",
       "job_title": "Senior Machine Learning Engineer / London (UK-LON-40BR) / Simulation (7XW)   ",
       "location": "London, UK",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7961704",
+      "posted_at": "2026-07-31T14:19:16-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7961706",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer / London (UK-LON-40BR) / Simulation (7XW)   ",
+      "location": "London, UK",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7961706",
       "posted_at": "2026-07-31T14:19:16-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -412,21 +452,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_waymo_7430187",
-      "employer_name": "Waymo",
-      "job_title": "Senior Machine Learning Engineer, Simulation",
-      "location": "Mountain View, CA, USA; New York, NY, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7430187",
-      "posted_at": "2026-07-31T14:19:16-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_waymo_6563602",
       "employer_name": "Waymo",
       "job_title": "Senior Machine Learning Engineer, Simulation",
       "location": "London, UK",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=6563602",
+      "posted_at": "2026-07-31T14:19:16-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7430187",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Simulation",
+      "location": "Mountain View, CA, USA; New York, NY, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7430187",
       "posted_at": "2026-07-31T14:19:16-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -867,16 +907,6 @@
       "job_title": "Software Engineer Backend - Simulation",
       "location": "Mountain View",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7307289",
-      "posted_at": "2026-07-31T14:19:16-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7466529",
-      "employer_name": "Waymo",
-      "job_title": "Software Engineer, Bulk/Interactive Inference",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7466529",
       "posted_at": "2026-07-31T14:19:16-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -1632,16 +1662,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8099304",
-      "employer_name": "Stripe",
-      "job_title": "Senior Data Scientist",
-      "location": "Seattle, WA",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8099304",
-      "posted_at": "2026-07-31T13:31:57-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_doordashusa_8024408",
       "employer_name": "DoorDash",
       "job_title": "Revenue Data Analyst",
@@ -1852,21 +1872,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_twilio_7946610",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L2)",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7946610",
-      "posted_at": "2026-07-31T11:33:15-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_twilio_8097672",
       "employer_name": "Twilio",
       "job_title": "Software Engineer (L2)",
       "location": "Remote - US",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8097672",
+      "posted_at": "2026-07-31T11:33:15-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7946610",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L2)",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7946610",
       "posted_at": "2026-07-31T11:33:15-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
