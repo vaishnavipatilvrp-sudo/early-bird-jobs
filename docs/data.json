@@ -1,14 +1,54 @@
 {
-  "generated_at": "2026-07-31T16:45:37.052052+00:00",
+  "generated_at": "2026-07-31T17:39:58.465742+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_scaleai_4481921005",
+      "employer_name": "Scale AI",
+      "job_title": "Forward Deployed Software Engineer, Public Sector",
+      "location": "Austin, TX; Honolulu, HI; St. Louis, MO; Washington, DC",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4481921005",
+      "posted_at": "2026-07-31T13:37:58-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_stripe_8099304",
       "employer_name": "Stripe",
       "job_title": "Senior Data Scientist",
       "location": "Seattle, WA",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8099304",
-      "posted_at": "2026-07-31T12:35:55-04:00",
+      "posted_at": "2026-07-31T13:31:57-04:00",
       "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8024408",
+      "employer_name": "DoorDash",
+      "job_title": "Revenue Data Analyst",
+      "location": "United States - Remote",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8024408",
+      "posted_at": "2026-07-31T13:26:02-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8614971002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Data Engineer",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8614971002",
+      "posted_at": "2026-07-31T13:17:05-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8299493002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Data Engineer, Ads",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8299493002",
+      "posted_at": "2026-07-31T13:17:05-04:00",
+      "category": "Data Engineer",
       "source": "greenhouse"
     },
     {
@@ -17,7 +57,147 @@
       "job_title": "Senior Full-Stack Software Engineer, Ads",
       "location": "San Francisco Bay Area",
       "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8659978002",
-      "posted_at": "2026-07-31T12:23:32-04:00",
+      "posted_at": "2026-07-31T13:17:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8597656002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Full-Stack Software Engineer, Game Records",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8597656002",
+      "posted_at": "2026-07-31T13:17:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8642085002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Full-Stack Software Engineer, Growth ",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8642085002",
+      "posted_at": "2026-07-31T13:17:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8604768002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Full-Stack Software Engineer, Social Commerce",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8604768002",
+      "posted_at": "2026-07-31T13:17:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8460791002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Consumer Revenue",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8460791002",
+      "posted_at": "2026-07-31T13:17:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8644780002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Machine Learning (Ads)",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8644780002",
+      "posted_at": "2026-07-31T13:17:05-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8545675002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Safety Backend",
+      "location": "San Francisco Bay Area or Los Angeles Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8545675002",
+      "posted_at": "2026-07-31T13:17:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8396927002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Software Engineer, Data Platform",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8396927002",
+      "posted_at": "2026-07-31T13:17:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8609250002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Software Engineer, Developer Success",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8609250002",
+      "posted_at": "2026-07-31T13:17:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8545663002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Software Engineer, Distributed Systems",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8545663002",
+      "posted_at": "2026-07-31T13:17:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8642220002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Software Engineer, Notifications",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8642220002",
+      "posted_at": "2026-07-31T13:17:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8460867002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Staff Software Engineer - Consumer Revenue",
+      "location": "Remote (U.S.)",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8460867002",
+      "posted_at": "2026-07-31T13:17:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8498984002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Staff Software Engineer, Data Platform",
+      "location": "San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8498984002",
+      "posted_at": "2026-07-31T13:17:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8344197002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Staff Software Engineer - Safety Experience",
+      "location": "San Francisco Bay Area or Los Angeles Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8344197002",
+      "posted_at": "2026-07-31T13:17:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8214127002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Staff Software Engineer, Safety Processing",
+      "location": "San Francisco Bay Area or Los Angeles Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8214127002",
+      "posted_at": "2026-07-31T13:17:05-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -258,286 +438,6 @@
       "location": "Remote - Singapore",
       "apply_link": "https://www.coinbase.com/careers/positions/8067033?gh_jid=8067033",
       "posted_at": "2026-07-31T09:00:09-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5369941008",
-      "employer_name": "Block",
-      "job_title": "Software Engineer, Reconciliation & Reporting",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5369941008?gh_jid=5369941008",
-      "posted_at": "2026-07-31T07:14:37-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5284343008",
-      "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Square Financial Services ",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5284343008?gh_jid=5284343008",
-      "posted_at": "2026-07-31T07:12:54-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5284783008",
-      "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Square Financial Services ",
-      "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5284783008?gh_jid=5284783008",
-      "posted_at": "2026-07-31T07:12:54-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5366105008",
-      "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Ledgering",
-      "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5366105008?gh_jid=5366105008",
-      "posted_at": "2026-07-31T07:12:01-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5281196008",
-      "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Ledgering",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5281196008?gh_jid=5281196008",
-      "posted_at": "2026-07-31T07:12:01-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5281312008",
-      "employer_name": "Block",
-      "job_title": "Senior Data Engineer, Risk",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008",
-      "posted_at": "2026-07-31T07:10:57-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5243440008",
-      "employer_name": "Block",
-      "job_title": "Senior Machine Learning Engineer, Applied AI Quality",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5243440008?gh_jid=5243440008",
-      "posted_at": "2026-07-31T07:06:04-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5196175008",
-      "employer_name": "Block",
-      "job_title": "Software Engineer, Cash App - Lending Products",
-      "location": "Vancouver, British Columbia, Canada",
-      "apply_link": "http://block.xyz/careers/jobs/5196175008?gh_jid=5196175008",
-      "posted_at": "2026-07-31T07:02:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5196173008",
-      "employer_name": "Block",
-      "job_title": "Software Engineer, Cash App - Lending Products",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5196173008?gh_jid=5196173008",
-      "posted_at": "2026-07-31T07:02:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5201726008",
-      "employer_name": "Block",
-      "job_title": "Software Engineer, Cash App - Lending Products",
-      "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5201726008?gh_jid=5201726008",
-      "posted_at": "2026-07-31T07:02:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5196187008",
-      "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Cash App Taxes",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5196187008?gh_jid=5196187008",
-      "posted_at": "2026-07-31T07:02:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5207134008",
-      "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Cash App Taxes",
-      "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5207134008?gh_jid=5207134008",
-      "posted_at": "2026-07-31T07:02:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5196189008",
-      "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Cash App Taxes",
-      "location": "Toronto, Ontario, Canada",
-      "apply_link": "http://block.xyz/careers/jobs/5196189008?gh_jid=5196189008",
-      "posted_at": "2026-07-31T07:02:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5196196008",
-      "employer_name": "Block",
-      "job_title": "Staff Software Engineer, Cash App Banking",
-      "location": "Toronto, Ontario, Canada",
-      "apply_link": "http://block.xyz/careers/jobs/5196196008?gh_jid=5196196008",
-      "posted_at": "2026-07-31T07:02:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5196194008",
-      "employer_name": "Block",
-      "job_title": "Staff Software Engineer, Cash App Banking",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5196194008?gh_jid=5196194008",
-      "posted_at": "2026-07-31T07:02:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5207148008",
-      "employer_name": "Block",
-      "job_title": "Staff Software Engineer, Cash App Banking",
-      "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5207148008?gh_jid=5207148008",
-      "posted_at": "2026-07-31T07:02:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5366284008",
-      "employer_name": "Block",
-      "job_title": "Staff Product Data Scientist, Lending",
-      "location": "San Francisco, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5366284008?gh_jid=5366284008",
-      "posted_at": "2026-07-31T07:01:50-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5366281008",
-      "employer_name": "Block",
-      "job_title": "Staff Product Data Scientist, Lending",
-      "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008",
-      "posted_at": "2026-07-31T07:01:50-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5192640008",
-      "employer_name": "Block",
-      "job_title": "Staff Product Data Scientist, Lending",
-      "location": "Seattle, WA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008",
-      "posted_at": "2026-07-31T07:01:50-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5364922008",
-      "employer_name": "Block",
-      "job_title": "Staff Data Scientist, Pricing",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5364922008?gh_jid=5364922008",
-      "posted_at": "2026-07-31T06:59:14-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5114747008",
-      "employer_name": "Block",
-      "job_title": "Staff Data Analyst, Block Compliance",
-      "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5114747008?gh_jid=5114747008",
-      "posted_at": "2026-07-31T06:57:07-04:00",
-      "category": "Data Analyst",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5098519008",
-      "employer_name": "Block",
-      "job_title": "Staff Data Analyst, Block Compliance",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5098519008?gh_jid=5098519008",
-      "posted_at": "2026-07-31T06:57:07-04:00",
-      "category": "Data Analyst",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5114793008",
-      "employer_name": "Block",
-      "job_title": "Staff Data Analyst, Block Compliance",
-      "location": "Denver, CO, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5114793008?gh_jid=5114793008",
-      "posted_at": "2026-07-31T06:57:07-04:00",
-      "category": "Data Analyst",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_4989505008",
-      "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Data Enablement",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/4989505008?gh_jid=4989505008",
-      "posted_at": "2026-07-31T06:55:34-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_4969342008",
-      "employer_name": "Block",
-      "job_title": "Staff Applied Machine Learning Engineer - Fraud & Abuse",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/4969342008?gh_jid=4969342008",
-      "posted_at": "2026-07-31T06:55:02-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5248631008",
-      "employer_name": "Block",
-      "job_title": "Staff Applied Machine Learning Engineer - Intelligent Data, Signals & Systems",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5248631008?gh_jid=5248631008",
-      "posted_at": "2026-07-31T06:55:02-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5238423008",
-      "employer_name": "Block",
-      "job_title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5238423008?gh_jid=5238423008",
-      "posted_at": "2026-07-31T06:54:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_4884159008",
-      "employer_name": "Block",
-      "job_title": "Staff Android Software Engineer, Cash App Consumer Platform",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/4884159008?gh_jid=4884159008",
-      "posted_at": "2026-07-31T06:54:28-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
