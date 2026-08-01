@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T11:24:59.658865+00:00",
+  "generated_at": "2026-08-01T13:22:11.900346+00:00",
   "jobs": [
     {
       "job_id": "greenhouse_block_5369941008",
@@ -12,21 +12,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_block_5284783008",
-      "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Square Financial Services ",
-      "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5284783008?gh_jid=5284783008",
-      "posted_at": "2026-08-01T04:26:16-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_block_5284343008",
       "employer_name": "Block",
       "job_title": "Senior Software Engineer, Square Financial Services ",
       "location": "Bay Area, CA, United States of America",
       "apply_link": "http://block.xyz/careers/jobs/5284343008?gh_jid=5284343008",
+      "posted_at": "2026-08-01T04:26:16-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5284783008",
+      "employer_name": "Block",
+      "job_title": "Senior Software Engineer, Square Financial Services ",
+      "location": "New York, NY, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5284783008?gh_jid=5284783008",
       "posted_at": "2026-08-01T04:26:16-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -82,16 +82,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_block_5201726008",
-      "employer_name": "Block",
-      "job_title": "Software Engineer, Cash App - Lending Products",
-      "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5201726008?gh_jid=5201726008",
-      "posted_at": "2026-08-01T04:19:13-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_block_5196173008",
       "employer_name": "Block",
       "job_title": "Software Engineer, Cash App - Lending Products",
@@ -102,12 +92,12 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_block_5207134008",
+      "job_id": "greenhouse_block_5201726008",
       "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Cash App Taxes",
+      "job_title": "Software Engineer, Cash App - Lending Products",
       "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5207134008?gh_jid=5207134008",
-      "posted_at": "2026-08-01T04:19:10-04:00",
+      "apply_link": "http://block.xyz/careers/jobs/5201726008?gh_jid=5201726008",
+      "posted_at": "2026-08-01T04:19:13-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -117,6 +107,16 @@
       "job_title": "Senior Software Engineer, Cash App Taxes",
       "location": "Bay Area, CA, United States of America",
       "apply_link": "http://block.xyz/careers/jobs/5196187008?gh_jid=5196187008",
+      "posted_at": "2026-08-01T04:19:10-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5207134008",
+      "employer_name": "Block",
+      "job_title": "Senior Software Engineer, Cash App Taxes",
+      "location": "New York, NY, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5207134008?gh_jid=5207134008",
       "posted_at": "2026-08-01T04:19:10-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -132,11 +132,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_block_5196194008",
+      "job_id": "greenhouse_block_5196196008",
       "employer_name": "Block",
       "job_title": "Staff Software Engineer, Cash App Banking",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5196194008?gh_jid=5196194008",
+      "location": "Toronto, Ontario, Canada",
+      "apply_link": "http://block.xyz/careers/jobs/5196196008?gh_jid=5196196008",
       "posted_at": "2026-08-01T04:18:48-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -152,11 +152,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_block_5196196008",
+      "job_id": "greenhouse_block_5196194008",
       "employer_name": "Block",
       "job_title": "Staff Software Engineer, Cash App Banking",
-      "location": "Toronto, Ontario, Canada",
-      "apply_link": "http://block.xyz/careers/jobs/5196196008?gh_jid=5196196008",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5196194008?gh_jid=5196194008",
       "posted_at": "2026-08-01T04:18:48-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -172,21 +172,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_block_5192640008",
-      "employer_name": "Block",
-      "job_title": "Staff Product Data Scientist, Lending",
-      "location": "Seattle, WA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008",
-      "posted_at": "2026-08-01T04:18:37-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_block_5366281008",
       "employer_name": "Block",
       "job_title": "Staff Product Data Scientist, Lending",
       "location": "New York, NY, United States of America",
       "apply_link": "http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008",
+      "posted_at": "2026-08-01T04:18:37-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5192640008",
+      "employer_name": "Block",
+      "job_title": "Staff Product Data Scientist, Lending",
+      "location": "Seattle, WA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008",
       "posted_at": "2026-08-01T04:18:37-04:00",
       "category": "Data Scientist",
       "source": "greenhouse"
@@ -202,11 +202,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_block_5114793008",
+      "job_id": "greenhouse_block_5114747008",
       "employer_name": "Block",
       "job_title": "Staff Data Analyst, Block Compliance",
-      "location": "Denver, CO, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5114793008?gh_jid=5114793008",
+      "location": "New York, NY, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5114747008?gh_jid=5114747008",
       "posted_at": "2026-08-01T04:14:12-04:00",
       "category": "Data Analyst",
       "source": "greenhouse"
@@ -222,11 +222,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_block_5114747008",
+      "job_id": "greenhouse_block_5114793008",
       "employer_name": "Block",
       "job_title": "Staff Data Analyst, Block Compliance",
-      "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5114747008?gh_jid=5114747008",
+      "location": "Denver, CO, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5114793008?gh_jid=5114793008",
       "posted_at": "2026-08-01T04:14:12-04:00",
       "category": "Data Analyst",
       "source": "greenhouse"
