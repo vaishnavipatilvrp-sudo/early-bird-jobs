@@ -1,4 +1,25 @@
 {
-  "generated_at": "2026-08-02T22:57:01.351993+00:00",
-  "jobs": []
+  "generated_at": "2026-08-03T02:51:08.646462+00:00",
+  "jobs": [
+    {
+      "job_id": "greenhouse_waymo_7584885",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer, Compute Systems",
+      "location": "Taipei, Taiwan; Hsinchu, Taiwan",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7584885",
+      "posted_at": "2026-08-02T20:40:58-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8018436",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer, System-on-Chip (SoC) Testing",
+      "location": "Bangalore, Karnataka, India",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8018436",
+      "posted_at": "2026-08-02T20:38:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    }
+  ]
 }
