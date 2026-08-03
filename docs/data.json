@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-08-03T12:59:13.064826+00:00",
+  "generated_at": "2026-08-03T14:39:46.100446+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_databricks_8546367002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "United States",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
+      "posted_at": "2026-08-03T09:55:13-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_databricks_8569392002",
       "employer_name": "Databricks",
@@ -42,32 +52,12 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8546367002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "United States",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
-      "posted_at": "2026-08-03T08:23:24-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_8083366",
       "employer_name": "MongoDB",
       "job_title": "Software Engineer 3",
       "location": "Gurugram",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8083366",
       "posted_at": "2026-08-03T05:19:20-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7975692",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Public Backup",
-      "location": "New York City",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7975692",
-      "posted_at": "2026-08-03T03:14:54-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
