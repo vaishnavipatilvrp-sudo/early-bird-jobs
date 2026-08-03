@@ -1,13 +1,53 @@
 {
-  "generated_at": "2026-08-03T11:23:25.185970+00:00",
+  "generated_at": "2026-08-03T12:59:13.064826+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_databricks_8569392002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Tokyo, Japan",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569392002",
+      "posted_at": "2026-08-03T08:53:32-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8069776",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3, Atlas Identity and Access Management",
+      "location": "New York City",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8069776",
+      "posted_at": "2026-08-03T08:39:30-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8067253",
+      "employer_name": "MongoDB",
+      "job_title": "Answer Engine Optimization (AEO) Lead",
+      "location": "United States",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8067253",
+      "posted_at": "2026-08-03T08:28:02-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8546365002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
+      "location": "Maryland; Virginia; Washington, D.C.",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546365002",
+      "posted_at": "2026-08-03T08:26:14-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_databricks_8546367002",
       "employer_name": "Databricks",
       "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
       "location": "United States",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
-      "posted_at": "2026-08-03T06:07:30-04:00",
+      "posted_at": "2026-08-03T08:23:24-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
     },
