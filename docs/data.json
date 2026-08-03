@@ -1,6 +1,106 @@
 {
-  "generated_at": "2026-08-03T14:39:46.100446+00:00",
+  "generated_at": "2026-08-03T17:09:57.254436+00:00",
   "jobs": [
+    {
+      "job_id": "VG93WVFWZW1CaENUNzZTcUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVEpVZFZOVlMzWnBUVjkwYmkxeWNDMVVNemxqYldaNFJtUktSblJUVlRsZlFXOWlaM1JyT0VSS1NFOXBPVzgyV1RKM1EwVk1PR3hWUmtOck0yeGZibVZVVVZoWVoyRmZObFUwVlV3MVNHWnZSSFZYYjFGaVZUTjVUMDU0UW01d2IwcFpTemhPUkdORFgwUjVXVkJQZUc5dVVVTXhNMTlEYkZscVN6Vm5kMXBSTWxCSlZXd1NGMEpOZEhkaGNuVmhURnB4VEdrdFoxQTFZblYyWjBGbkdpSkJSSE55T1daVVpFbFlkRkYyV21Sb1dtcG9SRmhKY25OT2VrODNObFIzVUhSUg",
+      "employer_name": "Snap Inc.",
+      "job_title": "Machine Learning Engineer, 5+ Years Experience",
+      "location": "Seattle, Washington",
+      "apply_link": "https://jobmesh.io/job/ec057eb5-3a47-44a0-832a-53cecae86e32",
+      "posted_at": "2026-08-03T15:00:00.000Z",
+      "category": "ML / AI Engineer",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_twilio_8102950",
+      "employer_name": "Twilio",
+      "job_title": "Software Development Engineer (L3)",
+      "location": "Remote - Colombia",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8102950",
+      "posted_at": "2026-08-03T12:41:53-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8656854002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Application Security",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8656854002",
+      "posted_at": "2026-08-03T12:36:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_4949335",
+      "employer_name": "Instacart",
+      "job_title": "Senior Data Scientist (I & II)",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=4949335",
+      "posted_at": "2026-08-03T12:27:09-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7653008",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Server Networking Security (Rust)",
+      "location": "Cork, Ireland; Dublin, Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7653008",
+      "posted_at": "2026-08-03T12:26:43-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_4949339",
+      "employer_name": "Instacart",
+      "job_title": "Senior Data Scientist (I & II)",
+      "location": "United States - Remote",
+      "apply_link": "https://instacart.careers/job/?gh_jid=4949339",
+      "posted_at": "2026-08-03T12:26:00-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8099304",
+      "employer_name": "Stripe",
+      "job_title": "Senior Data Scientist",
+      "location": "Seattle, WA",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8099304",
+      "posted_at": "2026-08-03T12:18:58-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8656900002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Applied ML Engineer - ML4Sys ",
+      "location": "San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8656900002",
+      "posted_at": "2026-08-03T12:11:51-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8638849002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Go-To-Market (GTM) Analytics Engineer (AI & Pipelines)",
+      "location": "Belgrade, Serbia",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8638849002",
+      "posted_at": "2026-08-03T11:18:49-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4720050005",
+      "employer_name": "Scale AI",
+      "job_title": "Staff Applied AI Engineer",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4720050005",
+      "posted_at": "2026-08-03T10:52:45-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_databricks_8546367002",
       "employer_name": "Databricks",
@@ -49,16 +149,6 @@
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546365002",
       "posted_at": "2026-08-03T08:26:14-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8083366",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8083366",
-      "posted_at": "2026-08-03T05:19:20-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
