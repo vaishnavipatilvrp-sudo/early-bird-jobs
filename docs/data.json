@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-08-03T07:26:45.940963+00:00",
+  "generated_at": "2026-08-03T11:23:25.185970+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_databricks_8546367002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "United States",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
+      "posted_at": "2026-08-03T06:07:30-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8083366",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8083366",
+      "posted_at": "2026-08-03T05:19:20-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_mongodb_7975692",
       "employer_name": "MongoDB",
