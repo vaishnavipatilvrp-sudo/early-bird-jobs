@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T17:49:01.605220+00:00",
+  "generated_at": "2026-08-04T19:38:14.118614+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_d2aad13c-6ed0-4905-ae12-8ea2397b190c",
@@ -10,6 +10,46 @@
       "posted_at": "2026-08-04T16:40:08.911+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4676606005",
+      "employer_name": "Scale AI",
+      "job_title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "location": "Doha, Qatar ",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4676606005",
+      "posted_at": "2026-08-04T15:18:45-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7988897",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Data Analyst",
+      "location": "Los Angeles, CA, US; Remote, CA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7988897",
+      "posted_at": "2026-08-04T15:07:17-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8675422002",
+      "employer_name": "Lyft",
+      "job_title": "Data Scientist - Inference, Safety and Customer Care",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8675422002?gh_jid=8675422002",
+      "posted_at": "2026-08-04T14:54:36-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8024880",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Analytics Engineer, GFCO Analytics",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
+      "posted_at": "2026-08-04T14:00:25-04:00",
+      "category": "Other",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_discord_8675277002",
@@ -62,6 +102,16 @@
       "source": "greenhouse"
     },
     {
+      "job_id": "greenhouse_block_5192640008",
+      "employer_name": "Block",
+      "job_title": "Staff Product Data Scientist, Lending",
+      "location": "Seattle, WA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008",
+      "posted_at": "2026-08-04T13:02:53-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "greenhouse_block_5366284008",
       "employer_name": "Block",
       "job_title": "Staff Product Data Scientist, Lending",
@@ -77,16 +127,6 @@
       "job_title": "Staff Product Data Scientist, Lending",
       "location": "New York, NY, United States of America",
       "apply_link": "http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008",
-      "posted_at": "2026-08-04T13:02:53-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5192640008",
-      "employer_name": "Block",
-      "job_title": "Staff Product Data Scientist, Lending",
-      "location": "Seattle, WA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008",
       "posted_at": "2026-08-04T13:02:53-04:00",
       "category": "Data Scientist",
       "source": "greenhouse"
@@ -219,66 +259,6 @@
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8638849002",
       "posted_at": "2026-08-04T09:50:06-04:00",
       "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8089124",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "United States",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8089124",
-      "posted_at": "2026-08-04T09:27:12-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5305402008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Web Platform",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5305402008",
-      "posted_at": "2026-08-04T08:45:34-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8064448",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3, Atlas Growth 2",
-      "location": "Cork, Ireland; Dublin, Ireland",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8064448",
-      "posted_at": "2026-08-04T08:38:22-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8055471",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Query Execution",
-      "location": "Ireland",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8055471",
-      "posted_at": "2026-08-04T08:27:46-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8054993",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3, Documentation Platform",
-      "location": "Toronto",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8054993",
-      "posted_at": "2026-08-04T08:25:13-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8054991",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3, Documentation Platform",
-      "location": "New York City; Palo Alto; Seattle",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8054991",
-      "posted_at": "2026-08-04T08:25:05-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
