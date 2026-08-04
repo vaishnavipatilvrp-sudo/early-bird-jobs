@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-04T20:30:13.263632+00:00",
+  "generated_at": "2026-08-04T21:12:48.700483+00:00",
   "jobs": [
     {
-      "job_id": "dFR3eEpzS2VaQ252djJSaUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBURlpyVW5SdUxWVlRZWFJyVDNOelFUaE9NR1l3VlhWb1JFMTFXRUZ3YWt4aVJrdFJUMUJIVm14VGIxcFNWakkxTTFoSVVIbGlXVFJ1Vm00MlNtVnlSVzlWTmtsU2EwSmFRemRGVUMxWWNtTjNVV0UyWjNocU5rZFFZV3BuYmt4aU1UTk9XVlJTVFZoZlp6ZHpNV296U0hselRqaHdXSEpZYm0xWWJVZFZhRmh1ZFdkSVNUQVNGa3RGZEhsaGIzbFZUVjkxZVhGMGMxQTNXVGRHU1VFYUlrRkVjM0k1WmxNMlVFUkhiVWhDTTFvelNsWjRhSEZWZDBFeU9YbEVjWFJNUm1j",
-      "employer_name": "Tata Consultancy Services",
-      "job_title": ".NET Developer",
-      "location": "Raleigh, North Carolina",
-      "apply_link": "https://www.linkedin.com/jobs/view/net-developer-at-tata-consultancy-services-4448550371",
-      "posted_at": "2026-08-04T17:00:00.000Z",
-      "category": "Other",
-      "source": "jsearch"
+      "job_id": "greenhouse_twilio_7661919",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer - Video",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7661919",
+      "posted_at": "2026-08-04T16:47:39-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "ashby_openai_d2aad13c-6ed0-4905-ae12-8ea2397b190c",
@@ -20,6 +20,26 @@
       "posted_at": "2026-08-04T16:40:08.911+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_stripe_8030628",
+      "employer_name": "Stripe",
+      "job_title": "Staff Fullstack Engineer, User Auth Experience",
+      "location": "Toronto, Chicago, Atlanta",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8030628",
+      "posted_at": "2026-08-04T16:38:16-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8015504",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Manager, Machine Learning Engineering-Applied Research",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8015504",
+      "posted_at": "2026-08-04T16:37:06-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_coinbase_8024880",
@@ -142,11 +162,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_block_5366284008",
+      "job_id": "greenhouse_block_5192640008",
       "employer_name": "Block",
       "job_title": "Staff Product Data Scientist, Lending",
-      "location": "San Francisco, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5366284008?gh_jid=5366284008",
+      "location": "Seattle, WA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008",
       "posted_at": "2026-08-04T13:02:53-04:00",
       "category": "Data Scientist",
       "source": "greenhouse"
@@ -162,11 +182,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_block_5192640008",
+      "job_id": "greenhouse_block_5366284008",
       "employer_name": "Block",
       "job_title": "Staff Product Data Scientist, Lending",
-      "location": "Seattle, WA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008",
+      "location": "San Francisco, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5366284008?gh_jid=5366284008",
       "posted_at": "2026-08-04T13:02:53-04:00",
       "category": "Data Scientist",
       "source": "greenhouse"
@@ -209,26 +229,6 @@
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7727896",
       "posted_at": "2026-08-04T11:27:20-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7727899",
-      "employer_name": "MongoDB",
-      "job_title": "Security Software Engineer, Infrastructure Security (Staff or Senior)",
-      "location": "Dublin; Ireland",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7727899",
-      "posted_at": "2026-08-04T11:12:21-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4952051008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, RL Engineering",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
-      "posted_at": "2026-08-04T10:30:44-04:00",
-      "category": "Other",
       "source": "greenhouse"
     }
   ]
