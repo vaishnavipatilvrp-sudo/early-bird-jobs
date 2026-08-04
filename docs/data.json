@@ -1,6 +1,136 @@
 {
-  "generated_at": "2026-08-04T14:12:57.252466+00:00",
+  "generated_at": "2026-08-04T16:57:35.805900+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_d2aad13c-6ed0-4905-ae12-8ea2397b190c",
+      "employer_name": "OpenAI",
+      "job_title": "Software Engineer, Monetization Data Systems",
+      "location": "Mountain View",
+      "apply_link": "https://jobs.ashbyhq.com/openai/d2aad13c-6ed0-4905-ae12-8ea2397b190c",
+      "posted_at": "2026-08-04T16:40:08.911+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8041770",
+      "employer_name": "Pinterest",
+      "job_title": "Software Engineer II, Backend, tvScientific",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8041770",
+      "posted_at": "2026-08-04T12:35:51-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7958766",
+      "employer_name": "Pinterest",
+      "job_title": "Software Engineer II",
+      "location": "Palo Alto, CA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7958766",
+      "posted_at": "2026-08-04T12:17:10-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8041664",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3, Voyage Control Plane",
+      "location": "Palo Alto; Seattle",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8041664",
+      "posted_at": "2026-08-04T12:16:42-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7727896",
+      "employer_name": "MongoDB",
+      "job_title": "Security Software Engineer, Infrastructure Security (Staff or Senior)",
+      "location": "Austin; New York City; San Francisco; Seattle; United States",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7727896",
+      "posted_at": "2026-08-04T11:27:20-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7727899",
+      "employer_name": "MongoDB",
+      "job_title": "Security Software Engineer, Infrastructure Security (Staff or Senior)",
+      "location": "Dublin; Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7727899",
+      "posted_at": "2026-08-04T11:12:21-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_4952051008",
+      "employer_name": "Anthropic",
+      "job_title": "Research Engineer, RL Engineering",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
+      "posted_at": "2026-08-04T10:30:44-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_6849268",
+      "employer_name": "Twilio",
+      "job_title": "Manager, Software Engineering (L4)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/6849268",
+      "posted_at": "2026-08-04T10:29:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7699243",
+      "employer_name": "Twilio",
+      "job_title": "Staff, Machine Learning Engineer (L4)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7699243",
+      "posted_at": "2026-08-04T10:28:45-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7946608",
+      "employer_name": "Twilio",
+      "job_title": "Frontend Software Engineer ",
+      "location": "Remote - United Kingdom",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7946608",
+      "posted_at": "2026-08-04T10:26:59-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7926889",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L2)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7926889",
+      "posted_at": "2026-08-04T10:26:45-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7996770",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer (L4)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996770",
+      "posted_at": "2026-08-04T10:26:36-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8007449",
+      "employer_name": "Twilio",
+      "job_title": "Senior/Staff Applied Research Software Engineer",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007449",
+      "posted_at": "2026-08-04T10:26:30-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_stripe_7986004",
       "employer_name": "Stripe",
@@ -148,16 +278,6 @@
       "location": "Austin; New York; New York City; San Francisco; United States",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8010102",
       "posted_at": "2026-08-04T06:58:09-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7926889",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L2)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7926889",
-      "posted_at": "2026-08-04T06:09:13-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
