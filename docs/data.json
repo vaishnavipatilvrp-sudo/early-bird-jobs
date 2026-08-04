@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T16:57:35.805900+00:00",
+  "generated_at": "2026-08-04T17:49:01.605220+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_d2aad13c-6ed0-4905-ae12-8ea2397b190c",
@@ -10,6 +10,86 @@
       "posted_at": "2026-08-04T16:40:08.911+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_discord_8675277002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Enterprise Platform",
+      "location": "San Francisco Bay Area ",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8675277002",
+      "posted_at": "2026-08-04T13:38:21-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8675185002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Staff Software Engineer, Enterprise Platform",
+      "location": "San Francisco Bay Area ",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8675185002",
+      "posted_at": "2026-08-04T13:30:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8106180",
+      "employer_name": "Stripe",
+      "job_title": "Staff Full Stack Engineer, Payments Intelligence",
+      "location": "San Francisco ",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8106180",
+      "posted_at": "2026-08-04T13:15:53-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8106176",
+      "employer_name": "Stripe",
+      "job_title": "Staff Full Stack Engineer, Payments Intelligence",
+      "location": "New York",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8106176",
+      "posted_at": "2026-08-04T13:15:52-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7986004",
+      "employer_name": "Stripe",
+      "job_title": "Staff Full Stack Engineer, Payments Intelligence",
+      "location": "Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7986004",
+      "posted_at": "2026-08-04T13:15:19-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5366284008",
+      "employer_name": "Block",
+      "job_title": "Staff Product Data Scientist, Lending",
+      "location": "San Francisco, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5366284008?gh_jid=5366284008",
+      "posted_at": "2026-08-04T13:02:53-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5366281008",
+      "employer_name": "Block",
+      "job_title": "Staff Product Data Scientist, Lending",
+      "location": "New York, NY, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008",
+      "posted_at": "2026-08-04T13:02:53-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5192640008",
+      "employer_name": "Block",
+      "job_title": "Staff Product Data Scientist, Lending",
+      "location": "Seattle, WA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008",
+      "posted_at": "2026-08-04T13:02:53-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_pinterest_8041770",
@@ -132,16 +212,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_7986004",
-      "employer_name": "Stripe",
-      "job_title": "Staff Full Stack Engineer, Payments Intelligence",
-      "location": "Seattle, New York, San Francisco",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7986004",
-      "posted_at": "2026-08-04T10:01:16-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_databricks_8638849002",
       "employer_name": "Databricks",
       "job_title": "Senior Go-To-Market (GTM) Analytics Engineer (AI & Pipelines)",
@@ -208,76 +278,6 @@
       "location": "New York City; Palo Alto; Seattle",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8054991",
       "posted_at": "2026-08-04T08:25:05-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7947560",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Storage Layer Services",
-      "location": "New York City; United States",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7947560",
-      "posted_at": "2026-08-04T07:48:50-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7940512",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Atlas Search Query",
-      "location": "San Francisco",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7940512",
-      "posted_at": "2026-08-04T07:35:34-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7939397",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Dublin",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7939397",
-      "posted_at": "2026-08-04T07:34:45-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8015792",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "New York City",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8015792",
-      "posted_at": "2026-08-04T07:27:17-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7915330",
-      "employer_name": "MongoDB",
-      "job_title": "Staff Software Engineer - Query Execution",
-      "location": "United States",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7915330",
-      "posted_at": "2026-08-04T07:22:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7908785",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7908785",
-      "posted_at": "2026-08-04T07:21:12-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8010102",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3, Query Integration",
-      "location": "Austin; New York; New York City; San Francisco; United States",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8010102",
-      "posted_at": "2026-08-04T06:58:09-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
