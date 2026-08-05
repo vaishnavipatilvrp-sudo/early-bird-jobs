@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T17:38:12.015580+00:00",
+  "generated_at": "2026-08-05T19:35:16.612193+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_0432731c-f229-476e-92b6-d53491e79096",
@@ -10,6 +10,76 @@
       "posted_at": "2026-08-05T17:34:35.335+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7311708",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer, Code Generation",
+      "location": "British Columbia; Calgary",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7311708",
+      "posted_at": "2026-08-05T14:55:50-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7311666",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer, Code Generation",
+      "location": "California; Colorado; Montana; Nevada; New Mexico; Oregon; Utah; Washington",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7311666",
+      "posted_at": "2026-08-05T14:55:08-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8095361",
+      "employer_name": "Airbnb",
+      "job_title": "Staff Software Engineer, Tax Engineering",
+      "location": "USA",
+      "apply_link": "https://careers.airbnb.com/positions/8095361?gh_jid=8095361",
+      "posted_at": "2026-08-05T14:45:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_5630302",
+      "employer_name": "DoorDash",
+      "job_title": "Staff Software Engineer, Backend",
+      "location": "New York, NY; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630302",
+      "posted_at": "2026-08-05T14:36:46-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_5630445",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Backend (All Teams)",
+      "location": "Sunnyvale, CA; San Francisco, CA; New York, NY; Seattle, WA; Ann Arbor, MI",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630445",
+      "posted_at": "2026-08-05T14:36:31-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7170802",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer, Machine Learning, Planner Selection",
+      "location": "Mountain View, California, USA; San Francisco, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7170802",
+      "posted_at": "2026-08-05T14:22:19-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8041664",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3, Voyage Control Plane",
+      "location": "Palo Alto; Seattle",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8041664",
+      "posted_at": "2026-08-05T14:10:09-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_twilio_8026203",
@@ -228,16 +298,6 @@
       "location": "United States",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8089124",
       "posted_at": "2026-08-05T10:06:21-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8089815",
-      "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer - CI Services  ",
-      "location": "Dublin",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8089815",
-      "posted_at": "2026-08-05T07:54:25-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
