@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-08-05T19:35:16.612193+00:00",
+  "generated_at": "2026-08-05T20:31:12.762983+00:00",
   "jobs": [
+    {
+      "job_id": "dXVPMVlwZENvZm00OXJKZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSGczZUd4ek5uaGFjVVJoVUZFMGVFbDJlVzgwWlhwd1JIUk5SMHhEZWtoWmF5MHhSMDF6TFRWdmR6ZFBSV2gzYVZCNGFqWldRamxoVjNsUFVrTkNVMnRuVTE5VFZYbENNRzE1ZVZVMlZqaEZVRzh0T0d4c1ZrNTBVMGN5TVdkSVMyVnFObFpZVlY5dGIyaDRjVVJ0WlZsSGVtVjFiRGx3VmpSWE9IaDBVMGRvWmtsMVJUTVNGM1UxZUhwaGRFTjVRbUZJUzJ0UVNWQjNUVU14YjBGSkdpSkJSSE55T1daVFkzazNOREpvWW0xMmRYSlViM2hyVFRGVk5FNDVlV3hJVm5aMw",
+      "employer_name": "MUNDELL ENGINEERING LIMITED",
+      "job_title": "Junior Backend Developer",
+      "location": "Junior, West Virginia",
+      "apply_link": "https://www.linkedin.com/jobs/view/junior-backend-developer-at-mundell-engineering-limited-4449190149",
+      "posted_at": "2026-08-05T19:00:00.000Z",
+      "category": "Other",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "dXVPMVlwZENvZm00OXJKZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVGt0VVRGM1RqaFNZVFZwYjFsclZUWkxlamxZYTNsNFpHdG5TekpLVjFGelVUZEpXbGd6TlRZd2MxWmpja05hVjBad1MySndlRkk0VFMxRk0wcDZha3AwVVhaUlkzZENaVmRLZVcxblRXRjRZMkp3ZVRKUFNWaEpjREpwTVZSTmRrOU1lbmxDTUd4bFVsbFJTbE5HUkd4dE5UZGhhVFJQTTBScU4wNDVhM2hGUldsNk1XNFNGM2MxZUhwaGNpMXpTRWxVUVd0UVNWQXhMVTlxYzBGM0dpSkJSSE55T1daVFVEZDNRVEZ1WVVOTlpHeHRXRmQ0TjJJNGNqVkRTWFpUYkhKMw",
+      "employer_name": "MUNDELL ENGINEERING LIMITED",
+      "job_title": "Junior Backend Developer",
+      "location": "Junior, West Virginia",
+      "apply_link": "https://www.linkedin.com/jobs/view/junior-backend-developer-at-mundell-engineering-limited-4449190149",
+      "posted_at": "2026-08-05T19:00:00.000Z",
+      "category": "Other",
+      "source": "jsearch"
+    },
     {
       "job_id": "ashby_openai_0432731c-f229-476e-92b6-d53491e79096",
       "employer_name": "OpenAI",
@@ -10,6 +30,56 @@
       "posted_at": "2026-08-05T17:34:35.335+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_xai_5204819007",
+      "employer_name": "xAI",
+      "job_title": "Human Data Engineer",
+      "location": "Palo Alto, California, United States",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5204819007",
+      "posted_at": "2026-08-05T16:25:39-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8089353",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Vulnerability Management",
+      "location": "US - Remote",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8089353",
+      "posted_at": "2026-08-05T16:05:34-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_4956028007",
+      "employer_name": "xAI",
+      "job_title": "Exceptional Software Engineer",
+      "location": "Palo Alto, California, United States",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4956028007",
+      "posted_at": "2026-08-05T16:05:32-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8100299",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Software Engineer",
+      "location": "Dublin, IE",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8100299",
+      "posted_at": "2026-08-05T16:03:06-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7394811",
+      "employer_name": "Twilio",
+      "job_title": "Senior Software Engineer- Video Signalling ",
+      "location": "Remote - Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7394811",
+      "posted_at": "2026-08-05T16:03:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_mongodb_7311708",
@@ -122,16 +192,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_twilio_7394811",
-      "employer_name": "Twilio",
-      "job_title": "Senior Software Engineer- Video Signalling ",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7394811",
-      "posted_at": "2026-08-05T10:35:48-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_twilio_7647708",
       "employer_name": "Twilio",
       "job_title": "Software Engineer",
@@ -159,146 +219,6 @@
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7699243",
       "posted_at": "2026-08-05T10:34:52-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7946608",
-      "employer_name": "Twilio",
-      "job_title": "Frontend Software Engineer ",
-      "location": "Remote - United Kingdom",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7946608",
-      "posted_at": "2026-08-05T10:30:04-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8015771",
-      "employer_name": "Twilio",
-      "job_title": "Senior Software Engineer",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8015771",
-      "posted_at": "2026-08-05T10:29:56-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7996774",
-      "employer_name": "Twilio",
-      "job_title": "Machine Learning Engineer",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996774",
-      "posted_at": "2026-08-05T10:29:31-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7926889",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L2)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7926889",
-      "posted_at": "2026-08-05T10:29:27-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7996770",
-      "employer_name": "Twilio",
-      "job_title": "Staff Software Engineer (L4)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996770",
-      "posted_at": "2026-08-05T10:29:11-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7993530",
-      "employer_name": "Twilio",
-      "job_title": "Senior Software Engineer",
-      "location": "Remote - Estonia",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7993530",
-      "posted_at": "2026-08-05T10:29:07-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8007455",
-      "employer_name": "Twilio",
-      "job_title": "Machine Learning Engineer",
-      "location": "Remote - Spain",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007455",
-      "posted_at": "2026-08-05T10:29:05-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8007449",
-      "employer_name": "Twilio",
-      "job_title": "Senior/Staff Applied Research Software Engineer",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007449",
-      "posted_at": "2026-08-05T10:28:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8102950",
-      "employer_name": "Twilio",
-      "job_title": "Software Development Engineer (L3)",
-      "location": "Remote - Colombia",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8102950",
-      "posted_at": "2026-08-05T10:27:14-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_6686634",
-      "employer_name": "Stripe",
-      "job_title": "Backend Engineer, Core Technology",
-      "location": "Dublin",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=6686634",
-      "posted_at": "2026-08-05T10:26:57-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8071710",
-      "employer_name": "Twilio",
-      "job_title": "Staff Software Engineer",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8071710",
-      "posted_at": "2026-08-05T10:25:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8678744002",
-      "employer_name": "Lyft",
-      "job_title": "Software Engineer",
-      "location": "San Francisco, CA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8678744002?gh_jid=8678744002",
-      "posted_at": "2026-08-05T10:19:48-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8108725",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8108725",
-      "posted_at": "2026-08-05T10:12:47-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8089124",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "United States",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8089124",
-      "posted_at": "2026-08-05T10:06:21-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
