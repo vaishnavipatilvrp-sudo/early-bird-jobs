@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T05:24:25.331075+00:00",
+  "generated_at": "2026-08-05T06:28:37.704931+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_7243bdb7-7f75-4dff-a10f-18bd7296f632",
@@ -10,46 +10,6 @@
       "posted_at": "2026-08-05T01:53:17.759+00:00",
       "category": "ML / AI Engineer",
       "source": "ashby"
-    },
-    {
-      "job_id": "bUMxempqVXVhTVNOcW5VS0FBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTekZXU1hReVlVZFJVblJZU0cxMmRWbE1iR0U1YTFCWFRsRnlibTFJZFZBd2MxQldaRXBFTW5aWmNWTTJVbDlrYkZsdWRXNXlNamhYV0VkbE5uUmpSVmRpTVRSYVVUWk5UVE5FVEhkdk1YVnpaRWRPVTJwdU0xOUxlSHBTUTFwNE9VVk1jMXBmT0hWWE9EVnhSSHBTYjJKQlJXeDFSWHBMU0VKdGRqUTRNVlJ0V2pNd0xWUVNGbXBqYUhsaGNYaGhaMkp0WVRKUkxVazJkVmMwUW5jYUlrRkVjM0k1WmxGeGNFMTFZVTA0VmpOemVuTkpjVzVCV2pWdkxVUm1OMTh5ZWtF",
-      "employer_name": "Snowflake",
-      "job_title": "Software Engineer - Database Engineering",
-      "location": "Bellevue, Washington",
-      "apply_link": "https://careers.snowflake.com/us/en/job/SNCOUS1765E102554A42B1A2389D13DEB3F1FBEXTERNALENUSDB1375F0EA5D404AB640259F94DBC995/Software-Engineer-Database-Engineering",
-      "posted_at": "2026-08-05T00:00:00.000Z",
-      "category": "Software Engineer",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "bUMxempqVXVhTVNOcW5VS0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMUJUUlVVdGVXMXpMWGN5UjNoelIxVlNRV2MwTWtWc01rNXpTall6TkRabk1uUjFUM1p1VW5GS2NGWnpSVE5oVTI1WWFrOHhkekIxY1dWT1dtMVNUR2s1VTFWc2F6ZHRTRWxZU1VwNVlrMHdSV0l3YTFKd05WbExaMUpyU21aeFUwcEVNM05sYTI5NGVFOUdaSE5sTm1WUk4yMXJlVFZEY1ZOeFYyMVFhbWcxZFZkMVQxY1NGMnhqYUhsaGNVdDBSVnBwZG5GMGMxQjNPRmgyYjFGdkdpSkJSSE55T1daU2EweGZUMk5WWWpobldHZE1ia28wY0VOUk1ETlZRMWRZZDJsQg",
-      "employer_name": "Snowflake",
-      "job_title": "Software Engineer - Database Engineering",
-      "location": "Bellevue, Washington",
-      "apply_link": "https://careers.snowflake.com/us/en/job/SNCOUS1765E102554A42B1A2389D13DEB3F1FBEXTERNALENUSDB1375F0EA5D404AB640259F94DBC995/Software-Engineer-Database-Engineering",
-      "posted_at": "2026-08-05T00:00:00.000Z",
-      "category": "Software Engineer",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "eERxLWstdjlLQVlQY29SbkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUREZ6WW1kWGRGSlBSek5FU0V0TmFqRmhUbTlPUmtOeVlqQnpUR0ZKUkhaRVNuRkVVMk5DYlVSQlJ6QXRhbUl4VTNZdGJtc3ROM1p0UldseVJGRkxRM1pwWldwdE1HeDZZVlJ2VWkwd1praENTR3RsUW1kS00yVk9ObDkzVkZaVVEyRmtWRkJwV0V4SGRYZEpVMWxtYUhWTmQzZzJUVzlOUlZKbFNqQmhlRkpPWDE5Mk5HZ1NGM0ZqYUhsaGMyNDNTemxoZVRWT2IxQTVTa3h3ZFVGM0dpSkJSSE55T1daVVkwUjFSbWsyZWxoS1prSm1hMmh3V1dKNVRXUnZZWEJXVGxwMw",
-      "employer_name": "Deloitte",
-      "job_title": "AI Engineer Consultant",
-      "location": "McLean, Virginia",
-      "apply_link": "https://www.linkedin.com/jobs/view/ai-engineer-consultant-at-deloitte-4449417272",
-      "posted_at": "2026-08-05T00:00:00.000Z",
-      "category": "ML / AI Engineer",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "eERxLWstdjlLQVlQY29SbkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURlZTY1doNFlXSTFSalZ1VjBoNFEzaHlNRFpvUnpsV1dHRTJSVzlJV1VkMWJFZEVNMTgyVVdKeFpHSllWVUp2YTBkU1VWUktNMFJmYm1WQlZUYzBiR1pFZW1OM2JFVkVObXRKVW5abk5FOXNlbk5DWkZWbGExWmlTSFJ3YVdkRFkwOXVRWFJXYlZkblFXbEdiRTV5VW1oS1ZYRTJhMkl6UjI0MFYxZENUVmQ1VmtGNGJFb1NGemM0YUhsaGIyNDRUblJYV25kaWExQnhkVEkyYlZFNEdpSkJSSE55T1daUk5FVjRjeTFXTVdReFNFMWhjelZ2YUhwRFJXcE9WRkpxU205Qg",
-      "employer_name": "Deloitte",
-      "job_title": "AI Engineer Consultant",
-      "location": "McLean, Virginia",
-      "apply_link": "https://www.linkedin.com/jobs/view/ai-engineer-consultant-at-deloitte-4449417272",
-      "posted_at": "2026-08-05T00:00:00.000Z",
-      "category": "ML / AI Engineer",
-      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_twilio_8065043",
@@ -89,16 +49,6 @@
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8678823002?gh_jid=8678823002",
       "posted_at": "2026-08-04T21:24:55-04:00",
       "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8089353",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Vulnerability Management",
-      "location": "US - Remote",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8089353",
-      "posted_at": "2026-08-04T20:01:19-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
