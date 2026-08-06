@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-08-06T12:08:03.502424+00:00",
+  "generated_at": "2026-08-06T14:10:24.764247+00:00",
   "jobs": [
+    {
+      "job_id": "lever_spotify_600a4ac7-6ffa-4ced-8d34-253d00147aa9",
+      "employer_name": "Spotify",
+      "job_title": "Director of ML Engineering, Conversation Product Area",
+      "location": "New York, NY",
+      "apply_link": "https://jobs.lever.co/spotify/600a4ac7-6ffa-4ced-8d34-253d00147aa9",
+      "posted_at": "2026-08-06T09:48:16.508000+00:00",
+      "category": "ML / AI Engineer",
+      "source": "lever"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7646261",
+      "employer_name": "MongoDB",
+      "job_title": "Staff Software Engineer, Query (Optimization)",
+      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7646261",
+      "posted_at": "2026-08-06T09:38:06-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7602834",
+      "employer_name": "MongoDB",
+      "job_title": "Staff Software Engineer, Query (Optimization)",
+      "location": "United States",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7602834",
+      "posted_at": "2026-08-06T09:37:11-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8656900002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Applied ML Engineer - ML4Sys ",
+      "location": "San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8656900002",
+      "posted_at": "2026-08-06T09:27:34-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_stripe_6686634",
       "employer_name": "Stripe",
@@ -38,16 +78,6 @@
       "location": "Toronto, ON, CA",
       "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=5572858",
       "posted_at": "2026-08-06T04:36:10-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8106377",
-      "employer_name": "Pinterest",
-      "job_title": "Sr. Software Engineer ",
-      "location": "Dublin, IE",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8106377",
-      "posted_at": "2026-08-06T04:04:03-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
