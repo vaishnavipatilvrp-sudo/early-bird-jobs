@@ -1,15 +1,25 @@
 {
-  "generated_at": "2026-08-06T05:27:49.467200+00:00",
+  "generated_at": "2026-08-06T06:31:24.526768+00:00",
   "jobs": [
     {
-      "job_id": "b29WanVURHNjendSMzU5MUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWFU1Y0ZCTU1WRXRObXhGT0hGSlJsQmFhVE5uWmxSa2JXOXhaVE53VEdKVlEyRTNWa3hwUTJGdmIwWmpNVGM0V1dkc1dITTNRVWx3VDNKTWJGSlZSbVp3VGxGNFYyaG5SVGQ1VjJZMU0yaGhXWGxETWtSRlN6TXdPR3B1ZVhKNVduSkpOVzFpU2pkUmVFZFBRMEpMTkZSSFZuZzFTMFpKVFV4RVRqZE1SSEl3ZWpsbmNWVVNGMkpvY0RCaGNsOVhRelZFYWpCUVJWQjNaa05VTFZGRkdpSkJSSE55T1daUllVOTJOMjg1VldKTFRrOHpNWEpJWTBGcGVuSmliR00xTXpKMw",
-      "employer_name": "UST",
-      "job_title": "Junior Full Stack Developer (Data CoE)",
-      "location": "Atlanta, Georgia",
-      "apply_link": "https://www.linkedin.com/jobs/view/junior-full-stack-developer-data-coe-at-ust-4449967296",
-      "posted_at": "2026-08-06T02:00:00.000Z",
-      "category": "Other",
-      "source": "jsearch"
+      "job_id": "greenhouse_airbnb_7716341",
+      "employer_name": "Airbnb",
+      "job_title": "Machine Learning Engineer, Customer Support Engineering",
+      "location": "Beijing, China",
+      "apply_link": "https://careers.airbnb.com/positions/7716341?gh_jid=7716341",
+      "posted_at": "2026-08-06T02:00:17-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8092317",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Sydney",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8092317",
+      "posted_at": "2026-08-06T01:58:06-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_lyft_8684440002",
@@ -20,16 +30,6 @@
       "posted_at": "2026-08-06T00:09:50-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "eHJHM0lfM1h6TFU1aGZfeUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURTlYTlU1clNtWkpSWGxqVjFNd2FETlBSWFJHTkVKU05EZzFjWEk1U0VoMFdWSXRkVE41ZURkcldXZEJPRmhtWkhoZk1rTjBXSG95Y2s5eWVGbG5YMWs1UjBOSVMybEthVVpNTlhwaWRGaEpOMFJRZERCMGQyMVRabFZEVEVkbWRISllRVzVwYkUxUlJGZEthQzFNYldsTk1rSklVR2xGWTJZeGJrRkNWVXMwYkdoYVJYUVNGMGxvZERCaGIxQjRUbHBNVUd0UVNWQjVkbGh6YTFGWkdpSkJSSE55T1daUlYyMXNkR1ZpVldWSlR6TkRSMUIwZVhkZlNFTjBUVlpCYnpKUg",
-      "employer_name": "CVS Health",
-      "job_title": "Senior Data Engineer",
-      "location": "Springfield, Illinois",
-      "apply_link": "https://jobs.cvshealth.com/us/en/job/R0990429/Senior-Data-Engineer",
-      "posted_at": "2026-08-06T00:00:00.000Z",
-      "category": "Data Engineer",
-      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_waymo_8107088",
@@ -1172,21 +1172,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_waymo_7985945",
-      "employer_name": "Waymo",
-      "job_title": "Staff Machine Learning Engineer",
-      "location": "London, UK",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7985945",
-      "posted_at": "2026-08-05T20:35:37-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_waymo_7493959",
       "employer_name": "Waymo",
       "job_title": "Staff Machine Learning Engineer",
       "location": "London, England, United Kingdom",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7493959",
+      "posted_at": "2026-08-05T20:35:37-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7985945",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer",
+      "location": "London, UK",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7985945",
       "posted_at": "2026-08-05T20:35:37-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -1589,26 +1589,6 @@
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7917933",
       "posted_at": "2026-08-05T20:35:37-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8662205002",
-      "employer_name": "Lyft",
-      "job_title": "Data Engineer",
-      "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002",
-      "posted_at": "2026-08-05T20:02:08-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8042547",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Data Scientist, Detection",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8042547?gh_jid=8042547",
-      "posted_at": "2026-08-05T19:58:31-04:00",
-      "category": "Data Scientist",
       "source": "greenhouse"
     }
   ]
