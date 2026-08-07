@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T00:00:51.827316+00:00",
+  "generated_at": "2026-08-07T00:44:25.078515+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_e961c9df-caa0-4b29-b37c-a3e02c564615",
@@ -32,6 +32,16 @@
       "source": "greenhouse"
     },
     {
+      "job_id": "MTR1RnN3eUFfS2tOWjBuZUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbUpZYjFSSmRqZzVaa0o2YWxodVZUWm5ia0puUkc1MlVIUkRUamRVVVdJNWRTMDVWVTVrYkRnMFVXaGhNRUZzVEdWQlNsWnBVRVJIY0hGbFdVRjRkR1pOVkMxVE1sOXNjMmw0VGpkRFNGY3hhMDlHYVVKU2MydGtjak5wT0hScGFWRjJWbTlWV25SSlZrcHNNV2xLUlROUWMzZFpkMG96TW5nNGN6Tk9lbEJEVkV0dlFXSVNGM1JEYkRGaGRDMWtTR1kyVXpsMU9GQm9TVkJOYTBFd0dpSkJSSE55T1daUllXUkdWMnRxWjJVeWRGSlVZa0Z6WVZwRVdsQm5OM2xDU2xsMw",
+      "employer_name": "Cognizant",
+      "job_title": "Sr. Java Backend Engineer",
+      "location": "St Francis, Arkansas",
+      "apply_link": "https://www.linkedin.com/jobs/view/sr-java-backend-engineer-at-cognizant-4450628967",
+      "posted_at": "2026-08-06T20:00:00.000Z",
+      "category": "Other",
+      "source": "jsearch"
+    },
+    {
       "job_id": "greenhouse_mongodb_8020377",
       "employer_name": "MongoDB",
       "job_title": "Senior Software Engineer",
@@ -50,6 +60,26 @@
       "posted_at": "2026-08-06T19:25:21.737+00:00",
       "category": "Data Scientist",
       "source": "ashby"
+    },
+    {
+      "job_id": "UjUxSVprTnFDRE00RlZJd0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbGhVVUhoS1VWWTFSa1JZWW14NE5UWkVZVUo2ZHpSR1JtTnNTWFUxVm01b1ZYVkRPVEZXTjJwNWVIUkJla1phYkd0a1gwWTViRzAzVkVWRE9XZGpZa2hNVERCRVUzSlpRa3BQVFhocGFIaENVbk56UjNVdGVFZDBlVVJ3YlU5a1RsUXdhVzVOVFZoU2RURmtVblpJUm1nM1MxVmFNemw0U1d0bExUUkllbXhRVUhSV1dTMFNGekJUYkRGaGRqSk5Ra2xwWkhjNFkxQnhZME42WjBFMEdpSkJSSE55T1daVFpVOUNSRzlCVFhSaU9IbGxUMEpwTVZwQ2IwSndiR1JyY0RKMw",
+      "employer_name": "Capital One",
+      "job_title": "Senior Associate, Data Scientist - Operational Risk Management",
+      "location": null,
+      "apply_link": "https://www.ziprecruiter.com/c/Capital-One/Job/Senior-Associate,-Data-Scientist-Operational-Risk-Management/-in-Mclean,VA?jid=ba0bd9bdea4de983",
+      "posted_at": "2026-08-06T19:00:00.000Z",
+      "category": "Data Scientist",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "TkdjczFGTUoxZU9Xb04zNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMjkzUVdJeFpqaHNlVk5UTmw5VE1tOXZWMUpGYmxSU05EZHVZMVY2U0VaSVMyaHFjWEZaWmtoblJISnFWSFpIY1RsMVVUQndaWGhyYkdacFdGWnNjMVpCTTNjdGFHNUVSemxwYVhOZlVtaDRkVUUzWW1kamRIRkhRalk1YTJVeWIybGFNMVJUZFMwM1VGQlRNRFV5V1c1RlZVZDRRWFZOUms1ZlZIaE5Na1JOVnpkWGFXOFNGekJUYkRGaGRqSk5Ra2xwWkhjNFkxQnhZME42WjBFMEdpSkJSSE55T1daVVJuTTJVMUZPU1dVeldGZGpWVFp0UlRKRlZVRmpkelJ2UjFOUg",
+      "employer_name": "Stellantis",
+      "job_title": "WMS Business Analyst/Data Scientist (Mopar Parts & Service - North America)",
+      "location": null,
+      "apply_link": "https://www.indeed.com/viewjob?jk=72e7f121da794e71",
+      "posted_at": "2026-08-06T19:00:00.000Z",
+      "category": "Data Scientist",
+      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_coinbase_8113286",
@@ -762,21 +792,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_cloudflare_8007032",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Data Engineer",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8007032?gh_jid=8007032",
-      "posted_at": "2026-08-06T15:17:31-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_cloudflare_8055118",
       "employer_name": "Cloudflare (bonus, not on your original list)",
       "job_title": "Senior Data Engineer",
       "location": "In-Office",
       "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118",
+      "posted_at": "2026-08-06T15:17:31-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8007032",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Data Engineer",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8007032?gh_jid=8007032",
       "posted_at": "2026-08-06T15:17:31-04:00",
       "category": "Data Engineer",
       "source": "greenhouse"
@@ -802,21 +832,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_cloudflare_8042034",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Machine Learning Engineer",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8042034?gh_jid=8042034",
-      "posted_at": "2026-08-06T15:17:31-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_cloudflare_8043974",
       "employer_name": "Cloudflare (bonus, not on your original list)",
       "job_title": "Senior Machine Learning Engineer",
       "location": "Hybrid",
       "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8043974?gh_jid=8043974",
+      "posted_at": "2026-08-06T15:17:31-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8042034",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Machine Learning Engineer",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8042034?gh_jid=8042034",
       "posted_at": "2026-08-06T15:17:31-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -999,46 +1029,6 @@
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
       "posted_at": "2026-08-06T15:13:07-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_7858738",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Staff Machine Learning Engineer, Post Training",
-      "location": "Remote - USA",
-      "apply_link": "https://careers.airbnb.com/positions/7858738?gh_jid=7858738",
-      "posted_at": "2026-08-06T14:36:41-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_7775622",
-      "employer_name": "Stripe",
-      "job_title": "Full Stack Engineer, Expansion",
-      "location": "N/A",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7775622",
-      "posted_at": "2026-08-06T14:12:30-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4481921005",
-      "employer_name": "Scale AI",
-      "job_title": "Forward Deployed Software Engineer, Public Sector",
-      "location": "Austin, TX; Honolulu, HI; St. Louis, MO; Washington, DC",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4481921005",
-      "posted_at": "2026-08-06T14:10:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8379331002",
-      "employer_name": "Databricks",
-      "job_title": "Sr. Software Engineer- Backend",
-      "location": "New York City, New York",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8379331002",
-      "posted_at": "2026-08-06T14:05:58-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
