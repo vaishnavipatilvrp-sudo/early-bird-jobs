@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T14:53:06.216490+00:00",
+  "generated_at": "2026-08-07T15:55:53.455470+00:00",
   "jobs": [
     {
       "job_id": "ashby_cohere_3fe03041-347a-479f-8361-6b1f5f81338e",
@@ -10,6 +10,86 @@
       "posted_at": "2026-08-07T12:07:14.699+00:00",
       "category": "ML / AI Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "clRDLUhrR3o1WERvaThyTEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM0E1ZVRaMGRVTldSbDl0ZVRGNVJHWkhRbWhNUlRsdVZXSjVkemhwYUhwaFpVSXpjR2RGVUV4dlF6QkhWRW8xTFdKUlp6WTFkRVkyU1Vzd1RXcDZkakJmTjJjMFpHcHhNQzFWYm5kaVluRlJNREZQY1VWelZsazFOMUJKWDJ4cFVUZENTRWRRT0hSbWVsaG9MVGxTT0RSNFYzcFJiVXRoZUROMk1USjZhSGRUT1VvdFpHTVNGek5RT1RGaGRubEZUM0ZoYzNjNFkxQnJYekpGYTBGbkdpSkJSSE55T1daVVYzSlZUakpsWlZCd1kwOUZVRVl5Vm5GVVRFaEdMVlpvVFc5bg",
+      "employer_name": "Meta",
+      "job_title": "AI Research Engineer",
+      "location": "Menlo Park, California",
+      "apply_link": "https://www.linkedin.com/jobs/view/ai-research-engineer-at-meta-4395557838",
+      "posted_at": "2026-08-07T12:00:00.000Z",
+      "category": "Other",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_stripe_8038771",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Release Engineering",
+      "location": "Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8038771",
+      "posted_at": "2026-08-07T11:53:30-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7369269",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Issuing ",
+      "location": "NYC, SEA, San Francisco",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7369269",
+      "posted_at": "2026-08-07T11:52:48-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8102350",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Principal Software Engineer, Data",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8102350?gh_jid=8102350",
+      "posted_at": "2026-08-07T11:33:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8621789002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Data Scientist, Algorithms, Lyft Biz",
+      "location": "New York, NY",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8621789002?gh_jid=8621789002",
+      "posted_at": "2026-08-07T11:30:16-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_4901418008",
+      "employer_name": "Block",
+      "job_title": "Software Engineer, Finance Applications",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/4901418008?gh_jid=4901418008",
+      "posted_at": "2026-08-07T11:28:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5074908008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Safeguards Infrastructure ",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5074908008",
+      "posted_at": "2026-08-07T11:12:33-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7986004",
+      "employer_name": "Stripe",
+      "job_title": "Staff Full Stack Engineer, Payments Intelligence",
+      "location": "Seattle, New York, San Francisco",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7986004",
+      "posted_at": "2026-08-07T10:57:31-04:00",
+      "category": "Other",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_twilio_6849268",
@@ -160,6 +240,16 @@
       "posted_at": "2026-08-07T10:29:42-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
+    },
+    {
+      "job_id": "anV3ZkFQR0hYbDV1S0JKZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMjFvVVcxYWR6bE1WalprUTNGWFFrNDRaMlprUlZsc2NYZFVUV2R4UkVaWWEycDNVbEV0YUdFeFVscDRPRkJNWW5oeFZuTTJNMFpRYVROTFlVVlpPSEpZVVdoRE5rVjNTa05LVjBaaFNYUkplVFZvZFdwaVZXOHdMVVUxTVY5d2JqWlNRblEyZVRKd2VFZEtaR2d5V2twTlIzUlNTVkExYldsSldqUmFabXhYYjJRM01VMFNGek5RT1RGaGRubEZUM0ZoYzNjNFkxQnJYekpGYTBGbkdpSkJSSE55T1daVFNtcDNlR0Y2YmxVeFdGaG5TMFJIYjJWWWEwbDBRamxvVEVOUg",
+      "employer_name": "Google DeepMind",
+      "job_title": "Research Engineer, Gemini Retrieval, DeepMind",
+      "location": "San Francisco, California",
+      "apply_link": "https://www.linkedin.com/jobs/view/research-engineer-gemini-retrieval-deepmind-at-google-deepmind-4448754909",
+      "posted_at": "2026-08-07T10:00:00.000Z",
+      "category": "Other",
+      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_instacart_7778693",
