@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-08-07T16:54:48.134525+00:00",
+  "generated_at": "2026-08-07T18:57:43.618868+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_lyft_8691539002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer, Async Platform",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8691539002?gh_jid=8691539002",
+      "posted_at": "2026-08-07T14:30:22-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8649345002",
+      "employer_name": "Lyft",
+      "job_title": "Junior Software Engineer, Luxury",
+      "location": "Mexico City, Mexico",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8649345002?gh_jid=8649345002",
+      "posted_at": "2026-08-07T14:08:29-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8095436",
+      "employer_name": "Airbnb",
+      "job_title": "Staff Software Engineer, Marketing technology ",
+      "location": "Remote, USA",
+      "apply_link": "https://careers.airbnb.com/positions/8095436?gh_jid=8095436",
+      "posted_at": "2026-08-07T14:02:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4714527005",
+      "employer_name": "Scale AI",
+      "job_title": "Senior Machine Learning Research Engineer",
+      "location": "San Francisco, CA; New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4714527005",
+      "posted_at": "2026-08-07T13:58:50-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7997420",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer - AI Platform Team",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7997420?gh_jid=7997420",
+      "posted_at": "2026-08-07T13:50:45-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7654347002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer (Money)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7654347002",
+      "posted_at": "2026-08-07T13:31:51-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8462811002",
+      "employer_name": "Databricks",
+      "job_title": "Sr.Staff Software Engineer- Network Platform",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8462811002",
+      "posted_at": "2026-08-07T13:31:10-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_databricks_8691490002",
       "employer_name": "Databricks",
@@ -30,16 +100,6 @@
       "posted_at": "2026-08-07T12:16:07-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "ashby_cohere_3fe03041-347a-479f-8361-6b1f5f81338e",
-      "employer_name": "Cohere",
-      "job_title": "Applied AI Engineer, Agents & Automations",
-      "location": "Europe",
-      "apply_link": "https://jobs.ashbyhq.com/cohere/3fe03041-347a-479f-8361-6b1f5f81338e",
-      "posted_at": "2026-08-07T12:07:14.699+00:00",
-      "category": "ML / AI Engineer",
-      "source": "ashby"
     },
     {
       "job_id": "greenhouse_stripe_8038771",
