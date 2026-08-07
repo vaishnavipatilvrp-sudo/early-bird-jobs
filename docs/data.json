@@ -1,103 +1,23 @@
 {
-  "generated_at": "2026-08-07T04:32:31.954448+00:00",
+  "generated_at": "2026-08-07T07:16:09.587041+00:00",
   "jobs": [
     {
-      "job_id": "ashby_openai_e961c9df-caa0-4b29-b37c-a3e02c564615",
-      "employer_name": "OpenAI",
-      "job_title": "Software Engineer, Silicon Design Methodology",
-      "location": "San Francisco",
-      "apply_link": "https://jobs.ashbyhq.com/openai/e961c9df-caa0-4b29-b37c-a3e02c564615",
-      "posted_at": "2026-08-06T23:42:09.138+00:00",
+      "job_id": "greenhouse_pinterest_7494668",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer, Capacity Engineering",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7494668",
+      "posted_at": "2026-08-07T03:02:04-04:00",
       "category": "Software Engineer",
-      "source": "ashby"
+      "source": "greenhouse"
     },
     {
-      "job_id": "b1pVaGsyQU1pczQ2dzJ2M0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbTAwVFVRMk56VmhVbk5KVUZsa1JrMTVja1ozVDNwWmNHaDVVUzF4VkRKV00weG5iSGhrVjFWbFVUUlZiR1pYWWswMVNGQlplSEkzT0ZkcWJEVkxOM056Wmt0UVNFWTJjM04yV1RsU1ZrSmphekJmVkV4a2RFZG1ka2xLZDBkTlVGOVlRVU5HZWxReGVqWm9TVWhmYzA1clpHSnRkRTVKWTNSbVdsOVpVVmhuUWxsR2RGSVNGMVpzT1RGaGRtWm5SeTFxWVd0UVNWQTFUMlpXZFZGSkdpSkJSSE55T1daVU1EUkZka3BGU0VJeU5rSlVRbU5wTkVsamNVUjNiR2xOYmxsQg",
-      "employer_name": "Mastercard",
-      "job_title": "Vice President, Software Engineering",
-      "location": "New York, New York",
-      "apply_link": "https://careers.mastercard.com/us/en/job/R-286632/Vice-President-Software-Engineering",
-      "posted_at": "2026-08-06T23:00:00.000Z",
-      "category": "Software Engineer",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "ZUpGLUNjbmhZU1U4YTFkMEFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTMWRoVjNGTWFHSkVlRkp6UTBWaFZYcFhWakZmT1dzMVQzcHljRXRIT0VkaU5ESnVjakIyVURSalUxZHFVekJ6U3psc2VXWldObk01UjJoMk9ETTBZVE5WUXpOdlpGbHhlbkJOTUVRdFdXNUxSRkF3UlhGdk9HNXJXV1ZoYzNGTFRYTlJjMFY0ZW5sV1kzY3pXbk0wV1dkUlZVWnhaVlpuVkdOa1IyUlRZV0psZDFrMU9IRVNGbmRHT1RGaGNHSXdTV05ZUTJ0UVNWQnliek5xWTBFYUlrRkVjM0k1WmxFMWRGbEVWbGN5WVhKYVNFazRaV2hIWm01TlpVaERUSFZRVEhj",
-      "employer_name": "American Express",
-      "job_title": "Senior Data Engineer I - Amex Ads, Offers, and Dining Technology",
-      "location": "New York, New York",
-      "apply_link": "https://www.linkedin.com/jobs/view/senior-data-engineer-i-amex-ads-offers-and-dining-technology-at-american-express-4450020020",
-      "posted_at": "2026-08-06T23:00:00.000Z",
-      "category": "Data Engineer",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "greenhouse_lyft_8656826002",
+      "job_id": "greenhouse_lyft_8688776002",
       "employer_name": "Lyft",
-      "job_title": "Software Engineer, Core Maps",
+      "job_title": "Software Engineer, Routing",
       "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8656826002?gh_jid=8656826002",
-      "posted_at": "2026-08-06T20:00:30-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8020377",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer",
-      "location": "Sydney",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8020377",
-      "posted_at": "2026-08-06T19:32:15-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8113286",
-      "employer_name": "Coinbase",
-      "job_title": "Software Engineer, Data Platform Team",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8113286?gh_jid=8113286",
-      "posted_at": "2026-08-06T18:57:50-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8082199",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Data Engineering Platform",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199",
-      "posted_at": "2026-08-06T18:57:15-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8092485",
-      "employer_name": "Coinbase",
-      "job_title": "Software Engineer, CDP - Stablecoin",
-      "location": "Remote - Canada",
-      "apply_link": "https://www.coinbase.com/careers/positions/8092485?gh_jid=8092485",
-      "posted_at": "2026-08-06T18:46:21-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8684440002",
-      "employer_name": "Lyft",
-      "job_title": "Machine Learning Engineer, Safety and Customer Care AI",
-      "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8684440002?gh_jid=8684440002",
-      "posted_at": "2026-08-06T18:45:59-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7724877",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer L3 Phone Numbers",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7724877",
-      "posted_at": "2026-08-06T18:32:44-04:00",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8688776002?gh_jid=8688776002",
+      "posted_at": "2026-08-07T01:41:53-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
