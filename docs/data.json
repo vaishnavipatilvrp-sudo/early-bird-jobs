@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T04:57:34.091873+00:00",
+  "generated_at": "2026-08-08T06:53:57.532190+00:00",
   "jobs": [
     {
       "job_id": "greenhouse_cloudflare_7053411",
@@ -8,36 +8,6 @@
       "location": "Distributed; Hybrid",
       "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7053411?gh_jid=7053411",
       "posted_at": "2026-08-07T21:31:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8113233",
-      "employer_name": "Waymo",
-      "job_title": "Staff ML Engineer, Perception Research",
-      "location": "Mountain View, CA, USA ; New York City, NY, USA ; Kirkland, WA, USA ; San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8113233",
-      "posted_at": "2026-08-07T19:27:50-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8113176",
-      "employer_name": "Waymo",
-      "job_title": "Senior ML Engineer, Perception Research",
-      "location": "Mountain View, CA, USA ; New York City, NY, USA ; Kirkland, WA, USA ; San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8113176",
-      "posted_at": "2026-08-07T19:27:28-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4970314008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Infrastructure (Distributed Systems)",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4970314008",
-      "posted_at": "2026-08-07T19:06:23-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
