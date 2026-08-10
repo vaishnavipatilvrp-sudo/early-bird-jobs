@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-10T05:35:37.206198+00:00",
+  "generated_at": "2026-08-10T07:42:15.129483+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_twilio_7782805",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer (L4) Data Platform",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7782805",
+      "posted_at": "2026-08-10T03:18:42-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7954715",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L3) Data Substrate",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7954715",
+      "posted_at": "2026-08-10T03:18:41-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8065043",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8065043",
+      "posted_at": "2026-08-10T03:18:33-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8065028",
+      "employer_name": "Twilio",
+      "job_title": "Senior Software Engineer",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8065028",
+      "posted_at": "2026-08-10T03:18:31-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8081530",
+      "employer_name": "Twilio",
+      "job_title": "Principal Software Engineer",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8081530",
+      "posted_at": "2026-08-10T03:18:16-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7595124",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer \u2013 VLM/LLM Evaluation",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA; New York City, NY, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7595124",
+      "posted_at": "2026-08-10T02:40:11-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_cloudflare_8014902",
       "employer_name": "Cloudflare (bonus, not on your original list)",
