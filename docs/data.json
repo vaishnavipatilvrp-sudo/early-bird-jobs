@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T16:00:40.749590+00:00",
+  "generated_at": "2026-08-10T16:54:13.027195+00:00",
   "jobs": [
     {
       "job_id": "lever_palantir_341d5cae-a473-4813-9a6c-0f67fcc1b253",
@@ -20,6 +20,86 @@
       "posted_at": "2026-08-10T13:49:27.811000+00:00",
       "category": "Software Engineer",
       "source": "lever"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5157847008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Platform",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5157847008",
+      "posted_at": "2026-08-10T12:42:20-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5174755008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Backend",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5174755008",
+      "posted_at": "2026-08-10T12:41:42-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5174747008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Full-stack",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5174747008",
+      "posted_at": "2026-08-10T12:39:34-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8065483",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer",
+      "location": "Atlanta; Austin; Baltimore; Boston; Charlotte; Chicago; Columbus; Dallas; Miami; Nashville; New York City; Philadelphia; Pittsburgh; Princeton; Raleigh; Tysons; Washington DC",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8065483",
+      "posted_at": "2026-08-10T12:28:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8119683",
+      "employer_name": "Instacart",
+      "job_title": "Senior Software Engineer, Marketing Platform Tooling",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8119683",
+      "posted_at": "2026-08-10T12:27:01-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8075888",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer, Web Product Enablement ",
+      "location": "San Francisco, CA, US; Remote, CA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8075888",
+      "posted_at": "2026-08-10T12:26:10-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8088867",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Staff Software Engineer, Pinterest Assistant",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8088867",
+      "posted_at": "2026-08-10T12:17:06-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8649345002",
+      "employer_name": "Lyft",
+      "job_title": "Junior Software Engineer, Luxury",
+      "location": "Mexico City, Mexico",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8649345002?gh_jid=8649345002",
+      "posted_at": "2026-08-10T12:15:38-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_waymo_8109035",
