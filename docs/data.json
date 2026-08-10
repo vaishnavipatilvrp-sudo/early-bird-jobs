@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-08-10T07:42:15.129483+00:00",
+  "generated_at": "2026-08-10T09:21:39.474458+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_anthropic_5073998008",
+      "employer_name": "Anthropic",
+      "job_title": " Staff Software Engineer, Continuous Integration",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5073998008",
+      "posted_at": "2026-08-10T03:58:45-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_twilio_7782805",
       "employer_name": "Twilio",
