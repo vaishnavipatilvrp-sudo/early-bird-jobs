@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T20:42:34.886641+00:00",
+  "generated_at": "2026-08-10T22:37:58.500445+00:00",
   "jobs": [
     {
       "job_id": "ashby_notion_ca74504a-9b91-4ce3-b0df-97919b46e749",
@@ -12,83 +12,23 @@
       "source": "ashby"
     },
     {
-      "job_id": "greenhouse_doordashusa_7967918",
-      "employer_name": "DoorDash",
-      "job_title": "Analytics Engineer, Data Science",
-      "location": "Austin, TX; Chicago, IL; New York, NY; San Francisco, CA; San Jose, CA; Seattle, WA; Los Angeles, CA; Washington D.C.",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7967918",
-      "posted_at": "2026-08-10T16:42:03-04:00",
+      "job_id": "greenhouse_stripe_6686634",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Core Technology",
+      "location": "Dublin",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=6686634",
+      "posted_at": "2026-08-10T17:57:22-04:00",
       "category": "Other",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_doordashusa_8113186",
-      "employer_name": "DoorDash",
-      "job_title": "Machine Learning Engineer, Drive",
-      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8113186",
-      "posted_at": "2026-08-10T16:42:03-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8044246",
-      "employer_name": "DoorDash",
-      "job_title": "Senior Software Engineer, Machine Learning Infrastructure - Generative AI",
-      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8044246",
-      "posted_at": "2026-08-10T16:42:03-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_7967848",
-      "employer_name": "DoorDash",
-      "job_title": "Senior Staff Machine Learning Engineer, Consumer",
-      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7967848",
-      "posted_at": "2026-08-10T16:42:03-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8046982",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Planning & Controls - Autonomy & Robotics, DoorDash Air",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8046982",
-      "posted_at": "2026-08-10T16:42:03-04:00",
+      "job_id": "greenhouse_lyft_8693500002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Software Engineer, Places and Search",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8693500002?gh_jid=8693500002",
+      "posted_at": "2026-08-10T17:47:53-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8044370",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Spark Platform",
-      "location": "San Francisco, CA; Seattle, WA; Sunnyvale, CA; New York, NY",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8044370",
-      "posted_at": "2026-08-10T16:42:03-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8024644",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Storage",
-      "location": "San Francisco, CA; Seattle, WA; New York, NY",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8024644",
-      "posted_at": "2026-08-10T16:42:03-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_7962110",
-      "employer_name": "DoorDash",
-      "job_title": "Staff Machine Learning Engineer, Fulfillment Planning",
-      "location": "San Francisco, CA; Sunnyvale, CA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7962110",
-      "posted_at": "2026-08-10T16:42:03-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     },
     {
@@ -97,8 +37,28 @@
       "job_title": "Analytics Engineer",
       "location": "San Francisco, CA; Sunnyvale, CA;Seattle, WA",
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7028089",
-      "posted_at": "2026-08-10T16:39:29-04:00",
+      "posted_at": "2026-08-10T17:09:46-04:00",
       "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_7967918",
+      "employer_name": "DoorDash",
+      "job_title": "Analytics Engineer, Data Science",
+      "location": "Austin, TX; Chicago, IL; New York, NY; San Francisco, CA; San Jose, CA; Seattle, WA; Los Angeles, CA; Washington D.C.",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7967918",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_7990832",
+      "employer_name": "DoorDash",
+      "job_title": "Data Analyst, In-Store",
+      "location": "New York, NY; San Francisco, CA; San Jose, CA; Seattle, WA; Los Angeles, CA; Washington D.C.; Austin, TX; Chicago, IL",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7990832",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "Data Analyst",
       "source": "greenhouse"
     },
     {
@@ -107,7 +67,7 @@
       "job_title": "Data Scientist / Senior Data Scientist",
       "location": "San Francisco, CA; Seattle, WA; New York, NY; Los Angeles, CA; Chicago, IL; Austin, TX; Washington D.C.",
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/6103225",
-      "posted_at": "2026-08-10T16:39:29-04:00",
+      "posted_at": "2026-08-10T17:09:46-04:00",
       "category": "Data Scientist",
       "source": "greenhouse"
     },
@@ -117,7 +77,7 @@
       "job_title": "Embedded Software Engineer - Labs, DoorDash Air",
       "location": "San Francisco, CA",
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/6972250",
-      "posted_at": "2026-08-10T16:39:29-04:00",
+      "posted_at": "2026-08-10T17:09:46-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -127,8 +87,18 @@
       "job_title": "Lead Data Scientist",
       "location": "San Francisco, CA; Seattle, WA; New York, NY",
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7380096",
-      "posted_at": "2026-08-10T16:39:29-04:00",
+      "posted_at": "2026-08-10T17:09:46-04:00",
       "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8113186",
+      "employer_name": "DoorDash",
+      "job_title": "Machine Learning Engineer, Drive",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8113186",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "ML / AI Engineer",
       "source": "greenhouse"
     },
     {
@@ -137,7 +107,7 @@
       "job_title": "Machine Learning Engineer, Marketplace Optimization",
       "location": "San Francisco, CA; Sunnyvale, CA",
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7580407",
-      "posted_at": "2026-08-10T16:39:29-04:00",
+      "posted_at": "2026-08-10T17:09:46-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
     },
@@ -147,7 +117,7 @@
       "job_title": "Principal Machine Learning Engineer, Ads & Promos Delivery",
       "location": "Sunnyvale, CA",
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7760003",
-      "posted_at": "2026-08-10T16:39:29-04:00",
+      "posted_at": "2026-08-10T17:09:46-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
     },
@@ -157,7 +127,7 @@
       "job_title": "Principal Software Engineer, Ads",
       "location": "New York, NY; San Francisco, CA; Sunnyvale, CA",
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7947255",
-      "posted_at": "2026-08-10T16:39:29-04:00",
+      "posted_at": "2026-08-10T17:09:46-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -167,7 +137,7 @@
       "job_title": "Robotics Software Engineer - Labs, DoorDash Air",
       "location": "San Francisco, CA",
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/6682078",
-      "posted_at": "2026-08-10T16:39:29-04:00",
+      "posted_at": "2026-08-10T17:09:46-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -177,7 +147,7 @@
       "job_title": "Senior Software Engineer, Data Engineering",
       "location": "San Francisco, CA; Sunnyvale, CA, Seattle, WA",
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/6108388",
-      "posted_at": "2026-08-10T16:39:29-04:00",
+      "posted_at": "2026-08-10T17:09:46-04:00",
       "category": "Data Engineer",
       "source": "greenhouse"
     },
@@ -187,8 +157,18 @@
       "job_title": "Senior Software Engineer, iOS",
       "location": "Sunnyvale, CA; San Francisco, CA",
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5516948",
-      "posted_at": "2026-08-10T16:39:29-04:00",
+      "posted_at": "2026-08-10T17:09:46-04:00",
       "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8044246",
+      "employer_name": "DoorDash",
+      "job_title": "Senior Software Engineer, Machine Learning Infrastructure - Generative AI",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8044246",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "ML / AI Engineer",
       "source": "greenhouse"
     },
     {
@@ -197,158 +177,8 @@
       "job_title": "Senior Software Engineer, Motion Planning \u2013 DoorDash Labs, DoorDash Air",
       "location": "San Francisco, CA",
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7763162",
-      "posted_at": "2026-08-10T16:39:29-04:00",
+      "posted_at": "2026-08-10T17:09:46-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_7637668",
-      "employer_name": "DoorDash",
-      "job_title": "Senior Staff Software Engineer - Launchpad",
-      "location": "San Francisco, CA; Sunnyvale, CA;  New York, NY",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7637668",
-      "posted_at": "2026-08-10T16:39:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_6956069",
-      "employer_name": "DoorDash",
-      "job_title": "Shift Lead - Roswell",
-      "location": "Roswell, GA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/6956069",
-      "posted_at": "2026-08-10T16:39:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_5630438",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Android (All Teams)",
-      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630438",
-      "posted_at": "2026-08-10T16:39:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_5630445",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Backend (All Teams)",
-      "location": "Sunnyvale, CA; San Francisco, CA; New York, NY; Seattle, WA; Ann Arbor, MI",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630445",
-      "posted_at": "2026-08-10T16:39:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_7577073",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Data Platform (All Teams)",
-      "location": "San Francisco, CA; Seattle, WA; Sunnyvale, CA; New York, NY",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7577073",
-      "posted_at": "2026-08-10T16:39:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_7263610",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
-      "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Seattle, WA; Sunnyvale, CA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610",
-      "posted_at": "2026-08-10T16:39:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_6458514",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer II, Data Engineering",
-      "location": "San Francisco, CA; Sunnyvale, CA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/6458514",
-      "posted_at": "2026-08-10T16:39:29-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_5630454",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, iOS (All Teams)",
-      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; New York, NY",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630454",
-      "posted_at": "2026-08-10T16:39:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8013249",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Machine Learning Infrastructure - Generative AI",
-      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8013249",
-      "posted_at": "2026-08-10T16:39:29-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_7905285",
-      "employer_name": "DoorDash",
-      "job_title": "Sr. Business Intelligence Engineer",
-      "location": "New York, NY; San Francisco, CA; San Jose, CA; Seattle, WA; Los Angeles, CA; Washington D.C.; Austin, TX; Chicago, IL",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7905285",
-      "posted_at": "2026-08-10T16:39:29-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_7488724",
-      "employer_name": "DoorDash",
-      "job_title": "Staff Machine Learning Engineer - DashPass",
-      "location": "San Francisco, CA; Sunnyvale, CA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7488724",
-      "posted_at": "2026-08-10T16:39:29-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_6107041",
-      "employer_name": "DoorDash",
-      "job_title": "Staff Software Engineer, Data Engineering",
-      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/6107041",
-      "posted_at": "2026-08-10T16:39:29-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8049133",
-      "employer_name": "DoorDash",
-      "job_title": "Staff Software Engineer, Event Streaming Systems",
-      "location": "New York, NY",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8049133",
-      "posted_at": "2026-08-10T16:39:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_5575224",
-      "employer_name": "DoorDash",
-      "job_title": "Staff Software Engineer, Machine Learning - Personalization",
-      "location": "San Francisco, CA; Sunnyvale, CA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5575224",
-      "posted_at": "2026-08-10T16:39:29-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_7990832",
-      "employer_name": "DoorDash",
-      "job_title": "Data Analyst, In-Store",
-      "location": "New York, NY; San Francisco, CA; San Jose, CA; Seattle, WA; Los Angeles, CA; Washington D.C.; Austin, TX; Chicago, IL",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7990832",
-      "posted_at": "2026-08-10T16:37:57-04:00",
-      "category": "Data Analyst",
       "source": "greenhouse"
     },
     {
@@ -357,7 +187,7 @@
       "job_title": "Senior Software Engineer, Spark Platform",
       "location": "San Francisco, CA; Seattle, WA; Sunnyvale, CA; New York, NY",
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8044371",
-      "posted_at": "2026-08-10T16:37:57-04:00",
+      "posted_at": "2026-08-10T17:09:46-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -367,8 +197,118 @@
       "job_title": "Senior Staff Machine Learning Engineer",
       "location": "San Francisco, CA; Sunnyvale, CA",
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7980080",
-      "posted_at": "2026-08-10T16:37:57-04:00",
+      "posted_at": "2026-08-10T17:09:46-04:00",
       "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_7967848",
+      "employer_name": "DoorDash",
+      "job_title": "Senior Staff Machine Learning Engineer, Consumer",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7967848",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_7637668",
+      "employer_name": "DoorDash",
+      "job_title": "Senior Staff Software Engineer - Launchpad",
+      "location": "San Francisco, CA; Sunnyvale, CA;  New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7637668",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_6956069",
+      "employer_name": "DoorDash",
+      "job_title": "Shift Lead - Roswell",
+      "location": "Roswell, GA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/6956069",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_5630438",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Android (All Teams)",
+      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630438",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_5630445",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Backend (All Teams)",
+      "location": "Sunnyvale, CA; San Francisco, CA; New York, NY; Seattle, WA; Ann Arbor, MI",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630445",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_7577073",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Data Platform (All Teams)",
+      "location": "San Francisco, CA; Seattle, WA; Sunnyvale, CA; New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7577073",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_7263610",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+      "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Seattle, WA; Sunnyvale, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_6458514",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer II, Data Engineering",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/6458514",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_5630454",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, iOS (All Teams)",
+      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630454",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8013249",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Machine Learning Infrastructure - Generative AI",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8013249",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8046982",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Planning & Controls - Autonomy & Robotics, DoorDash Air",
+      "location": "San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8046982",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
@@ -377,8 +317,58 @@
       "job_title": "Software Engineer, Robotics Infrastructure - Autonomy & Robotics, DoorDash Air",
       "location": "San Francisco, CA",
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8046909",
-      "posted_at": "2026-08-10T16:37:57-04:00",
+      "posted_at": "2026-08-10T17:09:46-04:00",
       "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8044370",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Spark Platform",
+      "location": "San Francisco, CA; Seattle, WA; Sunnyvale, CA; New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8044370",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8024644",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Storage",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8024644",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_7905285",
+      "employer_name": "DoorDash",
+      "job_title": "Sr. Business Intelligence Engineer",
+      "location": "New York, NY; San Francisco, CA; San Jose, CA; Seattle, WA; Los Angeles, CA; Washington D.C.; Austin, TX; Chicago, IL",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7905285",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_7488724",
+      "employer_name": "DoorDash",
+      "job_title": "Staff Machine Learning Engineer - DashPass",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7488724",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_7962110",
+      "employer_name": "DoorDash",
+      "job_title": "Staff Machine Learning Engineer, Fulfillment Planning",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7962110",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "ML / AI Engineer",
       "source": "greenhouse"
     },
     {
@@ -387,18 +377,38 @@
       "job_title": "Staff Software Engineer, Backend",
       "location": "New York, NY; Seattle, WA",
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630302",
-      "posted_at": "2026-08-10T16:37:57-04:00",
+      "posted_at": "2026-08-10T17:09:46-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_7991718",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, New Grad, Developer & End User Experience Platform",
-      "location": "Toronto",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7991718",
-      "posted_at": "2026-08-10T16:29:34-04:00",
+      "job_id": "greenhouse_doordashusa_6107041",
+      "employer_name": "DoorDash",
+      "job_title": "Staff Software Engineer, Data Engineering",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/6107041",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8049133",
+      "employer_name": "DoorDash",
+      "job_title": "Staff Software Engineer, Event Streaming Systems",
+      "location": "New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8049133",
+      "posted_at": "2026-08-10T17:09:46-04:00",
       "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_5575224",
+      "employer_name": "DoorDash",
+      "job_title": "Staff Software Engineer, Machine Learning - Personalization",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5575224",
+      "posted_at": "2026-08-10T17:09:46-04:00",
+      "category": "ML / AI Engineer",
       "source": "greenhouse"
     },
     {
@@ -588,86 +598,6 @@
       "location": "San Francisco",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7940512",
       "posted_at": "2026-08-10T13:50:17-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5157847008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Platform",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5157847008",
-      "posted_at": "2026-08-10T12:42:20-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5174755008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Backend",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5174755008",
-      "posted_at": "2026-08-10T12:41:42-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5174747008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Full-stack",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5174747008",
-      "posted_at": "2026-08-10T12:39:34-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8065483",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer",
-      "location": "Atlanta; Austin; Baltimore; Boston; Charlotte; Chicago; Columbus; Dallas; Miami; Nashville; New York City; Philadelphia; Pittsburgh; Princeton; Raleigh; Tysons; Washington DC",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8065483",
-      "posted_at": "2026-08-10T12:28:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_instacart_8119683",
-      "employer_name": "Instacart",
-      "job_title": "Senior Software Engineer, Marketing Platform Tooling",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "apply_link": "https://instacart.careers/job/?gh_jid=8119683",
-      "posted_at": "2026-08-10T12:27:01-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8075888",
-      "employer_name": "Pinterest",
-      "job_title": "Staff Software Engineer, Web Product Enablement ",
-      "location": "San Francisco, CA, US; Remote, CA, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8075888",
-      "posted_at": "2026-08-10T12:26:10-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8088867",
-      "employer_name": "Pinterest",
-      "job_title": "Sr. Staff Software Engineer, Pinterest Assistant",
-      "location": "San Francisco, CA, US; Remote, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8088867",
-      "posted_at": "2026-08-10T12:17:06-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8649345002",
-      "employer_name": "Lyft",
-      "job_title": "Junior Software Engineer, Luxury",
-      "location": "Mexico City, Mexico",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8649345002?gh_jid=8649345002",
-      "posted_at": "2026-08-10T12:15:38-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
