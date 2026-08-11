@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T03:44:46.135322+00:00",
+  "generated_at": "2026-08-11T03:52:30.695094+00:00",
   "jobs": [
     {
       "job_id": "greenhouse_databricks_8568122002",
@@ -42,6 +42,16 @@
       "source": "greenhouse"
     },
     {
+      "job_id": "NmhfVVk0WFhMWUtHdkgtSkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWFJqUVVWVVUyazBWalZaV21jelVrNVpNelpTWW1ZMWRIVnpPVVE0VGxkaVdHOTZTR1p5Tm5GRllqaERZM2N0VkVSWVdtcEtiRFp0UkRCNmMxUnNNbmhYVDFkWlUwNUxSWFZVZGtsV1YyMDJlRGRUWTNKaVlsOVZNSEJxYVVka1EzVktjR2R6VWtaQlEwbHNTRGt6VWxwdE1rMTZXUzFDWVRWWlMwOUdNSEZJZGxwUlIyUVNGMVJ3ZURaaGRUWnpRbkEzYlhkT05GQnpjMDlZZFZGekdpSkJSSE55T1daVFIwZGlPVFZEVFU5MmVWRnJPVUZVYjFwNk5rbE9VVEF5YlRWbg",
+      "employer_name": "Capital One",
+      "job_title": "Lead Machine Learning Engineer (MLOps, KServe + building Kubernetes Clusters, PyTorch, TensorFlow on AWS)",
+      "location": "McLean, Illinois",
+      "apply_link": "https://www.recruit.net/job/machine-learning-engineer-mlops-kserve-jobs/67730B9E70A85860",
+      "posted_at": "2026-08-10T23:00:00.000Z",
+      "category": "ML / AI Engineer",
+      "source": "jsearch"
+    },
+    {
       "job_id": "greenhouse_cloudflare_8118845",
       "employer_name": "Cloudflare (bonus, not on your original list)",
       "job_title": "Software Engineer Intern (Fall 2026)",
@@ -79,16 +89,6 @@
       "apply_link": "https://stripe.com/jobs/search?gh_jid=6686634",
       "posted_at": "2026-08-10T17:57:22-04:00",
       "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8693500002",
-      "employer_name": "Lyft",
-      "job_title": "Senior Software Engineer, Places and Search",
-      "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8693500002?gh_jid=8693500002",
-      "posted_at": "2026-08-10T17:47:53-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
