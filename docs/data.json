@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-08-11T08:57:00.157274+00:00",
+  "generated_at": "2026-08-11T10:50:40.544272+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_cohere_96c74af4-b3d7-4960-a666-212ce4debac8",
+      "employer_name": "Cohere",
+      "job_title": "Software Engineer, Integrations",
+      "location": "Europe",
+      "apply_link": "https://jobs.ashbyhq.com/cohere/96c74af4-b3d7-4960-a666-212ce4debac8",
+      "posted_at": "2026-08-11T10:41:22.845+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_databricks_8656207002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. Forward Deployed Engineer - Architect - Full Stack",
+      "location": "London, United Kingdom",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8656207002",
+      "posted_at": "2026-08-11T06:17:03-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8695848002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer, MapXP",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8695848002?gh_jid=8695848002",
+      "posted_at": "2026-08-11T06:13:21-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_stripe_8074127",
       "employer_name": "Stripe",
@@ -49,66 +79,6 @@
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8113221",
       "posted_at": "2026-08-11T01:48:11-04:00",
       "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4981828008",
-      "employer_name": "Anthropic",
-      "job_title": "Software Engineer, Research Tools",
-      "location": "San Francisco, CA | New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4981828008",
-      "posted_at": "2026-08-11T00:44:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8067033",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Consumer",
-      "location": "Remote - Singapore",
-      "apply_link": "https://www.coinbase.com/careers/positions/8067033?gh_jid=8067033",
-      "posted_at": "2026-08-11T00:15:27-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8568122002",
-      "employer_name": "Databricks",
-      "job_title": "Sr. Specialist Solutions Architect - Data Engineering & Warehousing",
-      "location": "United States",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568122002",
-      "posted_at": "2026-08-10T23:10:10-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8692962002",
-      "employer_name": "Databricks",
-      "job_title": "Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services)",
-      "location": "United States",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8692962002",
-      "posted_at": "2026-08-10T23:06:35-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8570023002",
-      "employer_name": "Databricks",
-      "job_title": "Specialist Solutions Architect - Data Engineering & Warehousing (Emerging Business)",
-      "location": "United States",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8570023002",
-      "posted_at": "2026-08-10T23:05:03-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8694074002",
-      "employer_name": "Databricks",
-      "job_title": "Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business)",
-      "location": "United States",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8694074002",
-      "posted_at": "2026-08-10T23:04:49-04:00",
-      "category": "Data Engineer",
       "source": "greenhouse"
     }
   ]
