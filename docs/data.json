@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-08-11T05:08:29.375196+00:00",
+  "generated_at": "2026-08-11T07:07:51.567981+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_databricks_8015848002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer, FDE (Forward Deployed Engineer)",
+      "location": "Bengaluru, India; Delhi, India; Mumbai, India; Pune, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8015848002",
+      "posted_at": "2026-08-11T01:53:15-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8030628",
+      "employer_name": "Stripe",
+      "job_title": "Staff Fullstack Engineer, User Auth Experience",
+      "location": "US-Atlanta, US-Austin, US-Boston, US-Chicago, US-Denver, US-Washington DC",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8030628",
+      "posted_at": "2026-08-11T01:50:41-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8113221",
+      "employer_name": "Stripe",
+      "job_title": "Staff Fullstack Engineer, User Auth Experience",
+      "location": "Canada",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8113221",
+      "posted_at": "2026-08-11T01:48:11-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8632126002",
+      "employer_name": "Databricks",
+      "job_title": "Full Stack Developer (AI Agents)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002",
+      "posted_at": "2026-08-11T01:37:28-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_anthropic_4981828008",
       "employer_name": "Anthropic",
