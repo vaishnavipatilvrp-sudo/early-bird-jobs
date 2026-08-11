@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-08-11T07:07:51.567981+00:00",
+  "generated_at": "2026-08-11T08:57:00.157274+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_stripe_8074127",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Dev Productivity",
+      "location": "Taipei,Taiwan",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8074127",
+      "posted_at": "2026-08-11T03:50:42-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_6135721004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Manager, Software Engineering - Data Platform",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/6135721004?gh_jid=6135721004",
+      "posted_at": "2026-08-11T03:12:16-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_databricks_8015848002",
       "employer_name": "Databricks",
@@ -32,32 +52,12 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8632126002",
-      "employer_name": "Databricks",
-      "job_title": "Full Stack Developer (AI Agents)",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002",
-      "posted_at": "2026-08-11T01:37:28-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_anthropic_4981828008",
       "employer_name": "Anthropic",
       "job_title": "Software Engineer, Research Tools",
       "location": "San Francisco, CA | New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA",
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4981828008",
       "posted_at": "2026-08-11T00:44:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_6135721004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Manager, Software Engineering - Data Platform",
-      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/6135721004?gh_jid=6135721004",
-      "posted_at": "2026-08-11T00:21:51-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -109,26 +109,6 @@
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8694074002",
       "posted_at": "2026-08-10T23:04:49-04:00",
       "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8118845",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Software Engineer Intern (Fall 2026)",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
-      "posted_at": "2026-08-10T22:49:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7429718",
-      "employer_name": "Waymo",
-      "job_title": "Staff Software Engineer, Simulation ML Infrastructure",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7429718",
-      "posted_at": "2026-08-10T21:17:46-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
