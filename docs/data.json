@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T13:06:37.335662+00:00",
+  "generated_at": "2026-08-11T14:57:43.152383+00:00",
   "jobs": [
     {
       "job_id": "ashby_cohere_96c74af4-b3d7-4960-a666-212ce4debac8",
@@ -10,6 +10,46 @@
       "posted_at": "2026-08-11T10:41:22.845+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8120763",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Traffic",
+      "location": "San Francisco, CA; New York, NY; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8120763",
+      "posted_at": "2026-08-11T10:39:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_6849268",
+      "employer_name": "Twilio",
+      "job_title": "Manager, Software Engineering (L4)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/6849268",
+      "posted_at": "2026-08-11T10:30:10-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7996770",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer (L4)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996770",
+      "posted_at": "2026-08-11T10:27:39-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8007449",
+      "employer_name": "Twilio",
+      "job_title": "Senior/Staff Applied Research Software Engineer",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007449",
+      "posted_at": "2026-08-11T10:27:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_coinbase_7993066",
@@ -48,26 +88,6 @@
       "location": "Toronto, Canada",
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8695848002?gh_jid=8695848002",
       "posted_at": "2026-08-11T06:13:21-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8074127",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Dev Productivity",
-      "location": "Taipei,Taiwan",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8074127",
-      "posted_at": "2026-08-11T03:50:42-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_6135721004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Manager, Software Engineering - Data Platform",
-      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/6135721004?gh_jid=6135721004",
-      "posted_at": "2026-08-11T03:12:16-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
