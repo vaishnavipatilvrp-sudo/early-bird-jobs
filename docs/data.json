@@ -1,15 +1,25 @@
 {
-  "generated_at": "2026-08-10T22:37:58.500445+00:00",
+  "generated_at": "2026-08-11T01:46:49.345660+00:00",
   "jobs": [
     {
-      "job_id": "ashby_notion_ca74504a-9b91-4ce3-b0df-97919b46e749",
-      "employer_name": "Notion (bonus, not on your original list)",
-      "job_title": "Software Engineer, Collections Infra",
-      "location": "San Francisco, California",
-      "apply_link": "https://jobs.ashbyhq.com/notion/ca74504a-9b91-4ce3-b0df-97919b46e749",
-      "posted_at": "2026-08-10T19:31:59.593+00:00",
+      "job_id": "greenhouse_waymo_7429718",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer, Simulation ML Infrastructure",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7429718",
+      "posted_at": "2026-08-10T21:17:46-04:00",
       "category": "Software Engineer",
-      "source": "ashby"
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7939542",
+      "employer_name": "Waymo",
+      "job_title": "Machine Learning Engineer, Fleet Monitoring & Response",
+      "location": "San Francisco, CA; Mountain  View, CA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7939542",
+      "posted_at": "2026-08-10T18:43:44-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_stripe_6686634",
@@ -418,186 +428,6 @@
       "location": "San Francisco, CA",
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8688631002?gh_jid=8688631002",
       "posted_at": "2026-08-10T16:20:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_6102379004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Software Engineer - Traffic",
-      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/6102379004?gh_jid=6102379004",
-      "posted_at": "2026-08-10T15:40:30-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_5781928004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Software Engineer - Production Engineering  (London, United Kingdom)",
-      "location": "London, England",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/5781928004?gh_jid=5781928004",
-      "posted_at": "2026-08-10T15:39:45-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_5551649004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Software Engineer - Production Engineering",
-      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/5551649004?gh_jid=5551649004",
-      "posted_at": "2026-08-10T15:38:54-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_5691911004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Software Engineer - Full Stack",
-      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/5691911004?gh_jid=5691911004",
-      "posted_at": "2026-08-10T15:37:37-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_5552549004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Software Engineer - Distributed Systems",
-      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/5552549004?gh_jid=5552549004",
-      "posted_at": "2026-08-10T15:36:27-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_5790627004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Software Engineer - Developer Experience",
-      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/5790627004?gh_jid=5790627004",
-      "posted_at": "2026-08-10T15:34:51-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_5551686004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Software Engineer - Data Infrastructure",
-      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/5551686004?gh_jid=5551686004",
-      "posted_at": "2026-08-10T15:31:58-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_5220003004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Data Engineer",
-      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004",
-      "posted_at": "2026-08-10T15:16:19-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_6131089004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Software Engineer Intern (Winter 2027)",
-      "location": "San Francisco, CA \u2022 New York, NY",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
-      "posted_at": "2026-08-10T15:03:06-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_4969342008",
-      "employer_name": "Block",
-      "job_title": "Staff Applied Machine Learning Engineer - Fraud & Abuse",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/4969342008?gh_jid=4969342008",
-      "posted_at": "2026-08-10T15:03:01-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5248631008",
-      "employer_name": "Block",
-      "job_title": "Staff Applied Machine Learning Engineer - Intelligent Data, Signals & Systems",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5248631008?gh_jid=5248631008",
-      "posted_at": "2026-08-10T15:03:01-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7964402",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Developer Infrastructure",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7964402?gh_jid=7964402",
-      "posted_at": "2026-08-10T14:51:07-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_instacart_7951938",
-      "employer_name": "Instacart",
-      "job_title": "Senior Software Engineer II, Ads Data Solutions Engineering",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "apply_link": "https://instacart.careers/job/?gh_jid=7951938",
-      "posted_at": "2026-08-10T14:49:26-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8694074002",
-      "employer_name": "Databricks",
-      "job_title": "Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business)",
-      "location": "United States",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8694074002",
-      "posted_at": "2026-08-10T14:44:16-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8570023002",
-      "employer_name": "Databricks",
-      "job_title": "Specialist Solutions Architect - Data Engineering & Warehousing (Emerging Business)",
-      "location": "United States",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8570023002",
-      "posted_at": "2026-08-10T14:44:11-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8692962002",
-      "employer_name": "Databricks",
-      "job_title": "Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services)",
-      "location": "United States",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8692962002",
-      "posted_at": "2026-08-10T14:20:46-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8691572002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Staff Data Engineer - Data Infrastructure",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8691572002",
-      "posted_at": "2026-08-10T13:56:48-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7940512",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Atlas Search Query",
-      "location": "San Francisco",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7940512",
-      "posted_at": "2026-08-10T13:50:17-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
