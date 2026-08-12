@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T09:11:37.591841+00:00",
+  "generated_at": "2026-08-12T11:00:04.011285+00:00",
   "jobs": [
     {
       "job_id": "greenhouse_anthropic_5387083008",
@@ -28,16 +28,6 @@
       "location": "London, UK",
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5211305008",
       "posted_at": "2026-08-12T04:00:42-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8106099",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, AI Builder Experience (ABX)",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8106099",
-      "posted_at": "2026-08-11T23:33:31-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
