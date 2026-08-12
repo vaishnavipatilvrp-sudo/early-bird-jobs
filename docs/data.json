@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T20:03:34.134793+00:00",
+  "generated_at": "2026-08-12T20:44:59.932499+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_0b57e309-426d-4f5c-a28c-6dd941b84703",
@@ -40,16 +40,6 @@
       "posted_at": "2026-08-12T16:01:05-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "ckpJYkdmYmZaeEdjX0tyTkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVVowZEVOc2VEVkVlSGR2Tm5SM2NXUnRkREJEZVMxMWVHZERRVVF3UWtOUWNWaEtXV3RoWnpKRmEybFpkbXRtVTJwdWVHNTJUMlU0U0daTlpFNWtYekJzY2t4TFpFTkJhbUZQUW14WU5FVnVWelJuVXpaM1ZXMDJhMmRuVEhKRk5qVnFWSGx0Tm05Q04ybEdjVUo2VmpoQmQzZFVNa2M0VVRBNVVXOWFjRE10TURFNVNtTVNGMTlrUWpoaGNXNXFRVnBoUjJ0MlVWQjNVRFpDTWtGbkdpSkJSSE55T1daUmFsWjFSRXBNUjFWNWRHdElSSEk1ZWs5Q1ZrNXpUMmxrY1c5Qg",
-      "employer_name": "HCLTech",
-      "job_title": "Full Stack Developer",
-      "location": "Cary, North Carolina",
-      "apply_link": "https://www.linkedin.com/jobs/view/full-stack-developer-at-hcltech-4450165348",
-      "posted_at": "2026-08-12T16:00:00.000Z",
-      "category": "Other",
-      "source": "jsearch"
     },
     {
       "job_id": "ashby_openai_140a4a88-1d0f-4d30-abae-a35a19618fe6",
@@ -482,24 +472,14 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "UGZVMWdUVGFYYlI4QlhlbEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM0JXUkd4Q1VGWnJXVWxwTTA5dWIxQTVPV2RvUlVWNVgwUkRkREZoWW5JNVpYWkhOSEptY0RSU2JHbGtVRVI1VkdsWlVtRnJVVzVEUlY5bWJrMVpXbDgzTFdsRFEyOHdNV3haWVZKTGJYSkdNMlpvU1ZsV00wSmxlRTl2Y0ZoM1JpMVVaMVJpYUhsSlRtcEpOM000WjNGWllsSkxjMGRDVldzMWJXTndOakZyZFd0a05VWVNGMWRPUmpoaGN6TkVTbkZsVVc5elZWQnVTMkpqYVZGSkdpSkJSSE55T1daVVUwbGZWRzR6UTBSdk5YRjFRa0pwV1dWWFkxaDFUbko1ZERabg",
-      "employer_name": "Capgemini",
-      "job_title": "Snowflake AI Data Engineer",
-      "location": "New York, New York",
-      "apply_link": "https://www.linkedin.com/jobs/view/snowflake-ai-data-engineer-at-capgemini-4453121064",
-      "posted_at": "2026-08-12T15:00:00.000Z",
-      "category": "Data Engineer",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "UGZVMWdUVGFYYlI4QlhlbEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMUJpU1VwNFJFNUVVRmxpYTJkbE5YZGpOM0JyWVRoRlNGUmhObUV0TkRVeWFFZElZbHAwWTBwd2ExaFVTemh4YURCelZIcGpRMk5JVmxKc1VETm1SVXB3ZDNjeGJqbE9NblIxYWtsdFdVSlZTM1JuWTFZMFdGTTJkblJhVmw4MlJuSkxNV1p4WmxRNFQyOVNPVkZvY0VkU1VUUnRMVGhVTFZCdGRsRklMVVp4Y0V0R2JGWVNGMWxPUmpoaGRESm5URmxNWnpGbE9GQm5jM0ZpYjBGWkdpSkJSSE55T1daVVFXSklSMmh2Y2tsMFVFZExTa3d5TlhoQ09USmZjRWMyWkc5Mw",
-      "employer_name": "Capgemini",
-      "job_title": "Snowflake AI Data Engineer",
-      "location": "New York, New York",
-      "apply_link": "https://www.linkedin.com/jobs/view/snowflake-ai-data-engineer-at-capgemini-4453121064",
-      "posted_at": "2026-08-12T15:00:00.000Z",
-      "category": "Data Engineer",
-      "source": "jsearch"
+      "job_id": "greenhouse_databricks_8638847002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer \u2014 GTM Analytics",
+      "location": "United States",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002",
+      "posted_at": "2026-08-12T14:51:16-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_scaleai_4673312005",
@@ -528,6 +508,26 @@
       "location": "Palo Alto, California",
       "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5182183007",
       "posted_at": "2026-08-12T14:38:37-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8692962002",
+      "employer_name": "Databricks",
+      "job_title": "Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services)",
+      "location": "United States",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8692962002",
+      "posted_at": "2026-08-12T13:54:46-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8649971002",
+      "employer_name": "Databricks",
+      "job_title": "Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business)",
+      "location": "United States",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8649971002",
+      "posted_at": "2026-08-12T13:54:16-04:00",
       "category": "Data Engineer",
       "source": "greenhouse"
     },
@@ -1058,126 +1058,6 @@
       "location": "Cork, Ireland; Dublin, Ireland",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7696228",
       "posted_at": "2026-08-12T11:27:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_6849268",
-      "employer_name": "Twilio",
-      "job_title": "Manager, Software Engineering (L4)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/6849268",
-      "posted_at": "2026-08-12T10:33:34-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7394811",
-      "employer_name": "Twilio",
-      "job_title": "Senior Software Engineer- Video Signalling ",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7394811",
-      "posted_at": "2026-08-12T10:33:31-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7647708",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer",
-      "location": "Remote - Estonia",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7647708",
-      "posted_at": "2026-08-12T10:33:07-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7716279",
-      "employer_name": "Twilio",
-      "job_title": "Staff Software Engineer (L4)",
-      "location": "Remote - Canada",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7716279",
-      "posted_at": "2026-08-12T10:32:41-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7785202",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer ",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7785202",
-      "posted_at": "2026-08-12T10:31:52-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7996774",
-      "employer_name": "Twilio",
-      "job_title": "Machine Learning Engineer",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996774",
-      "posted_at": "2026-08-12T10:28:54-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7996770",
-      "employer_name": "Twilio",
-      "job_title": "Staff Software Engineer (L4)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996770",
-      "posted_at": "2026-08-12T10:28:24-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8007455",
-      "employer_name": "Twilio",
-      "job_title": "Machine Learning Engineer",
-      "location": "Remote - Spain",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007455",
-      "posted_at": "2026-08-12T10:28:15-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8007449",
-      "employer_name": "Twilio",
-      "job_title": "Senior/Staff Applied Research Software Engineer",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007449",
-      "posted_at": "2026-08-12T10:28:05-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8071710",
-      "employer_name": "Twilio",
-      "job_title": "Staff Software Engineer",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8071710",
-      "posted_at": "2026-08-12T10:26:59-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8102950",
-      "employer_name": "Twilio",
-      "job_title": "Software Development Engineer (L3)",
-      "location": "Remote - Colombia",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8102950",
-      "posted_at": "2026-08-12T10:25:52-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_7986004",
-      "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer, Payments Intelligence",
-      "location": "Seattle, New York, San Francisco",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7986004",
-      "posted_at": "2026-08-12T10:16:02-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
