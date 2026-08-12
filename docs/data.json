@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-08-12T07:25:20.527993+00:00",
+  "generated_at": "2026-08-12T09:11:37.591841+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_anthropic_5387083008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff Software Engineer, Infrastructure (Distributed Systems)",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5387083008",
+      "posted_at": "2026-08-12T04:30:35-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5211498008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff Software Engineer, Node Infra",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5211498008",
+      "posted_at": "2026-08-12T04:01:06-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5211305008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff Software Engineer, Kubernetes Platform",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5211305008",
+      "posted_at": "2026-08-12T04:00:42-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_mongodb_8106099",
       "employer_name": "MongoDB",
