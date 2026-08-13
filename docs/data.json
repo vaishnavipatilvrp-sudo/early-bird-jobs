@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T19:03:30.737164+00:00",
+  "generated_at": "2026-08-13T19:58:12.902881+00:00",
   "jobs": [
     {
       "job_id": "lever_spotify_c73be71c-1a63-4906-9925-95f2115d1f1d",
@@ -22,12 +22,22 @@
       "source": "ashby"
     },
     {
+      "job_id": "greenhouse_anthropic_4595463008",
+      "employer_name": "Anthropic",
+      "job_title": "Security Software Engineer, Detection & Response Platform",
+      "location": "New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4595463008",
+      "posted_at": "2026-08-13T15:56:31-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "greenhouse_twilio_7967685",
       "employer_name": "Twilio",
       "job_title": "Staff, Software Engineer (L4) - Email",
       "location": "Remote - US",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7967685",
-      "posted_at": "2026-08-13T15:03:13-04:00",
+      "posted_at": "2026-08-13T15:17:38-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -92,21 +102,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_twilio_8074762",
-      "employer_name": "Twilio",
-      "job_title": "Staff, Business Intelligence Engineer",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8074762",
-      "posted_at": "2026-08-13T13:58:09-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_twilio_8076802",
       "employer_name": "Twilio",
       "job_title": "Staff, Business Intelligence Engineer",
       "location": "Remote - US",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8076802",
+      "posted_at": "2026-08-13T13:58:09-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8074762",
+      "employer_name": "Twilio",
+      "job_title": "Staff, Business Intelligence Engineer",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8074762",
       "posted_at": "2026-08-13T13:58:09-04:00",
       "category": "Other",
       "source": "greenhouse"
@@ -202,21 +212,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_twilio_8097672",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L2)",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8097672",
-      "posted_at": "2026-08-13T13:58:07-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_twilio_7946610",
       "employer_name": "Twilio",
       "job_title": "Software Engineer (L2)",
       "location": "Remote - US",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7946610",
+      "posted_at": "2026-08-13T13:58:07-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8097672",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L2)",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8097672",
       "posted_at": "2026-08-13T13:58:07-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -822,21 +832,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_xai_5107958007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer - X Money",
-      "location": "Palo Alto, California",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5107958007",
-      "posted_at": "2026-08-13T12:10:10-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_xai_5108231007",
       "employer_name": "xAI",
       "job_title": "Software Engineer - X Money",
       "location": "London, England, United Kingdom",
       "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5108231007",
+      "posted_at": "2026-08-13T12:10:10-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5107958007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - X Money",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5107958007",
       "posted_at": "2026-08-13T12:10:10-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -859,26 +869,6 @@
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8514400002?gh_jid=8514400002",
       "posted_at": "2026-08-13T10:15:18-04:00",
       "category": "Data Analyst",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_5390243",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Durable Objects (DO)",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/5390243?gh_jid=5390243",
-      "posted_at": "2026-08-13T09:47:09-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_7786418",
-      "employer_name": "Pinterest",
-      "job_title": "Software Engineer II",
-      "location": "Dublin, IE",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7786418",
-      "posted_at": "2026-08-13T09:21:57-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
