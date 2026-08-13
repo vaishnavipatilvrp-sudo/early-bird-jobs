@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T19:58:12.902881+00:00",
+  "generated_at": "2026-08-13T20:42:40.085838+00:00",
   "jobs": [
     {
       "job_id": "lever_spotify_c73be71c-1a63-4906-9925-95f2115d1f1d",
@@ -12,6 +12,16 @@
       "source": "lever"
     },
     {
+      "job_id": "greenhouse_twilio_8044650",
+      "employer_name": "Twilio",
+      "job_title": "Senior Analytics Engineer",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8044650",
+      "posted_at": "2026-08-13T16:35:33-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "ashby_openai_099dd6af-b017-4a60-85d5-4c79da3a9ead",
       "employer_name": "OpenAI",
       "job_title": "Full Stack Software Engineer - Codex for Finance",
@@ -20,6 +30,16 @@
       "posted_at": "2026-08-13T16:31:47.234+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_stripe_7895287",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Payments Experiences",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7895287",
+      "posted_at": "2026-08-13T16:12:15-04:00",
+      "category": "Other",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_anthropic_4595463008",
@@ -82,16 +102,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_twilio_8103253",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L4)",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8103253",
-      "posted_at": "2026-08-13T13:58:09-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_twilio_8098945",
       "employer_name": "Twilio",
       "job_title": "Software Engineer (L4)",
@@ -102,13 +112,13 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_twilio_8076802",
+      "job_id": "greenhouse_twilio_8103253",
       "employer_name": "Twilio",
-      "job_title": "Staff, Business Intelligence Engineer",
+      "job_title": "Software Engineer (L4)",
       "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8076802",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8103253",
       "posted_at": "2026-08-13T13:58:09-04:00",
-      "category": "Other",
+      "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
@@ -117,6 +127,16 @@
       "job_title": "Staff, Business Intelligence Engineer",
       "location": "Remote - US",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8074762",
+      "posted_at": "2026-08-13T13:58:09-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8076802",
+      "employer_name": "Twilio",
+      "job_title": "Staff, Business Intelligence Engineer",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8076802",
       "posted_at": "2026-08-13T13:58:09-04:00",
       "category": "Other",
       "source": "greenhouse"
@@ -212,21 +232,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_twilio_7946610",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L2)",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7946610",
-      "posted_at": "2026-08-13T13:58:07-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_twilio_8097672",
       "employer_name": "Twilio",
       "job_title": "Software Engineer (L2)",
       "location": "Remote - US",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8097672",
+      "posted_at": "2026-08-13T13:58:07-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7946610",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L2)",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7946610",
       "posted_at": "2026-08-13T13:58:07-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -832,21 +852,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_xai_5108231007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer - X Money",
-      "location": "London, England, United Kingdom",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5108231007",
-      "posted_at": "2026-08-13T12:10:10-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_xai_5107958007",
       "employer_name": "xAI",
       "job_title": "Software Engineer - X Money",
       "location": "Palo Alto, California",
       "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5107958007",
+      "posted_at": "2026-08-13T12:10:10-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5108231007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - X Money",
+      "location": "London, England, United Kingdom",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5108231007",
       "posted_at": "2026-08-13T12:10:10-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -859,16 +879,6 @@
       "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5167318007",
       "posted_at": "2026-08-13T12:10:10-04:00",
       "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8514400002",
-      "employer_name": "Lyft",
-      "job_title": "Data Analyst - Global Growth Luxury Strategy",
-      "location": "New York, NY",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8514400002?gh_jid=8514400002",
-      "posted_at": "2026-08-13T10:15:18-04:00",
-      "category": "Data Analyst",
       "source": "greenhouse"
     }
   ]
