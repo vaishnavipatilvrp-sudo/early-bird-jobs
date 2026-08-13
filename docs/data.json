@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T05:40:13.105417+00:00",
+  "generated_at": "2026-08-13T07:27:04.211085+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_5acf4854-1d42-40ca-bff8-4f6f04cdce68",
@@ -12,32 +12,22 @@
       "source": "ashby"
     },
     {
+      "job_id": "greenhouse_scaleai_4722512005",
+      "employer_name": "Scale AI",
+      "job_title": "Software Engineer - AI Enablement",
+      "location": "San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4722512005",
+      "posted_at": "2026-08-13T02:26:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "greenhouse_xai_5202187007",
       "employer_name": "xAI",
       "job_title": "Software Engineer - Linux Kernel (C++, C)",
       "location": "Palo Alto, California; Seattle, Washington",
       "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5202187007",
       "posted_at": "2026-08-12T22:11:20-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8076151",
-      "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer, Dashboard",
-      "location": "San Francisco",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8076151",
-      "posted_at": "2026-08-12T20:27:52-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7531466",
-      "employer_name": "Waymo",
-      "job_title": "Staff Software Engineer, Multiverse",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7531466",
-      "posted_at": "2026-08-12T19:56:35-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
