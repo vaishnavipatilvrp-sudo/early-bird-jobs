@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-08-13T07:27:04.211085+00:00",
+  "generated_at": "2026-08-13T09:12:45.194365+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_coinbase_8083051",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Applied Data Scientist, Pricing",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8083051?gh_jid=8083051",
+      "posted_at": "2026-08-13T05:03:17-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
     {
       "job_id": "ashby_openai_5acf4854-1d42-40ca-bff8-4f6f04cdce68",
       "employer_name": "OpenAI",
@@ -18,16 +28,6 @@
       "location": "San Francisco, CA",
       "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4722512005",
       "posted_at": "2026-08-13T02:26:19-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_xai_5202187007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer - Linux Kernel (C++, C)",
-      "location": "Palo Alto, California; Seattle, Washington",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5202187007",
-      "posted_at": "2026-08-12T22:11:20-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
