@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-08-14T01:58:44.024909+00:00",
+  "generated_at": "2026-08-14T04:15:27.737222+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_lyft_8603653002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Machine Learning Engineer, Recommendations",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8603653002?gh_jid=8603653002",
+      "posted_at": "2026-08-13T23:10:30-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_scaleai_4720422005",
       "employer_name": "Scale AI",
@@ -49,56 +59,6 @@
       "apply_link": "https://www.coinbase.com/careers/positions/8088201?gh_jid=8088201",
       "posted_at": "2026-08-13T18:36:49-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8603653002",
-      "employer_name": "Lyft",
-      "job_title": "Senior Machine Learning Engineer, Recommendations",
-      "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8603653002?gh_jid=8603653002",
-      "posted_at": "2026-08-13T18:00:15-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8031833",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Intern",
-      "location": "Bengaluru",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "posted_at": "2026-08-13T17:28:59-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8113221",
-      "employer_name": "Stripe",
-      "job_title": "Staff Fullstack Engineer, User Auth Experience",
-      "location": "Canada",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8113221",
-      "posted_at": "2026-08-13T17:27:10-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8044650",
-      "employer_name": "Twilio",
-      "job_title": "Senior Analytics Engineer",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8044650",
-      "posted_at": "2026-08-13T16:35:33-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_7895287",
-      "employer_name": "Stripe",
-      "job_title": "Backend Engineer, Payments Experiences",
-      "location": "N/A",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7895287",
-      "posted_at": "2026-08-13T16:12:15-04:00",
-      "category": "Other",
       "source": "greenhouse"
     }
   ]
