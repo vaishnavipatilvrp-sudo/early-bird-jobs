@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-08-14T16:53:06.193735+00:00",
+  "generated_at": "2026-08-14T18:54:37.469019+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_stripe_8130578",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Backend Engineer- Credit Coverage",
+      "location": "New York, NY",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130578",
+      "posted_at": "2026-08-14T13:38:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8123037",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Data Scientist - Payments (Inference)",
+      "location": "Remote - USA",
+      "apply_link": "https://careers.airbnb.com/positions/8123037?gh_jid=8123037",
+      "posted_at": "2026-08-14T13:25:31-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_6163230",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Payments and Risk",
+      "location": "US",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=6163230",
+      "posted_at": "2026-08-14T13:17:58-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_waymo_7438172",
       "employer_name": "Waymo",
@@ -322,21 +352,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_waymo_7961704",
-      "employer_name": "Waymo",
-      "job_title": "Senior Machine Learning Engineer / London (UK-LON-40BR) / Simulation (7XW)   ",
-      "location": "London, UK",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7961704",
-      "posted_at": "2026-08-14T12:42:55-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_waymo_7961706",
       "employer_name": "Waymo",
       "job_title": "Senior Machine Learning Engineer / London (UK-LON-40BR) / Simulation (7XW)   ",
       "location": "London, UK",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7961706",
+      "posted_at": "2026-08-14T12:42:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7961704",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer / London (UK-LON-40BR) / Simulation (7XW)   ",
+      "location": "London, UK",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7961704",
       "posted_at": "2026-08-14T12:42:55-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -1538,16 +1568,6 @@
       "location": "Remote - Ireland",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8071710",
       "posted_at": "2026-08-14T10:27:14-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_6578726",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Workers Runtime",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/6578726?gh_jid=6578726",
-      "posted_at": "2026-08-14T07:55:36-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
