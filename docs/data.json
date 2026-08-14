@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-08-14T14:51:54.778472+00:00",
+  "generated_at": "2026-08-14T15:50:50.784965+00:00",
   "jobs": [
+    {
+      "job_id": "Y0ZER0RIMDlHZ0Rha3JmYUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMWR3TWtKMlZUTndRMkpKZFZsdmFYZDBkMHh1Y1RWbGJITmliVmx5YTNKTVdtNVNXRXQyTlZsa2VGZHFNamRGYkdsNlJFcG9kbXB1TUVoNlNsSkNRV1pLVmt0eGVHdG9iVUZYVEhBM2VGcERWak5YVWtOV1RrUlNWbTFzUW5JdE0xaGhRVmQwU0VGeGIyazRTV1ZGUm1sNk1rMWpPRTFDV2toRVZVbHhTRTFJU21Oc2IyMFNGeTFxYUY5aGMwYzVUVFZNVUd0UVNWQTBkRU5HYVVGUkdpSkJSSE55T1daVE5HbFRVakV4Y21wUFRXZHNWVzR5VTBkRk0zbFlOV05JYkhaQg",
+      "employer_name": "Microsoft",
+      "job_title": "Senior Data Scientist - FDE",
+      "location": "Cambridge, Massachusetts",
+      "apply_link": "https://www.theladders.com/job/senior-data-scientist-fde-microsoft-cambridge-ma_88316475",
+      "posted_at": "2026-08-14T12:00:00.000Z",
+      "category": "Data Scientist",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_databricks_8715639002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer - Enterprise Platform, CustomerLake",
+      "location": "New York City, New York",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8715639002",
+      "posted_at": "2026-08-14T11:45:21-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4676610005",
+      "employer_name": "Scale AI",
+      "job_title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4676610005",
+      "posted_at": "2026-08-14T11:45:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_twilio_6849268",
       "employer_name": "Twilio",
