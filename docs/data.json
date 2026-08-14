@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-08-14T04:15:27.737222+00:00",
+  "generated_at": "2026-08-14T07:25:20.233553+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_cohere_9baccd88-c051-474f-bfe8-6867fca54cee",
+      "employer_name": "Cohere",
+      "job_title": "Data Engineer, Data Foundations",
+      "location": "New York",
+      "apply_link": "https://jobs.ashbyhq.com/cohere/9baccd88-c051-474f-bfe8-6867fca54cee",
+      "posted_at": "2026-08-14T07:10:20.881+00:00",
+      "category": "Data Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_airbnb_7640881",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Data Engineer, BizTech",
+      "location": "Bangalore, India",
+      "apply_link": "https://careers.airbnb.com/positions/7640881?gh_jid=7640881",
+      "posted_at": "2026-08-14T00:43:00-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_lyft_8603653002",
       "employer_name": "Lyft",
@@ -9,56 +29,6 @@
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8603653002?gh_jid=8603653002",
       "posted_at": "2026-08-13T23:10:30-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4720422005",
-      "employer_name": "Scale AI",
-      "job_title": "Senior Mission Software Engineer, Public Sector",
-      "location": "Austin, TX; Colorado Springs, CO; Honolulu, HI; St. Louis, MO; Washington, DC",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4720422005",
-      "posted_at": "2026-08-13T19:37:59-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4481921005",
-      "employer_name": "Scale AI",
-      "job_title": "Forward Deployed Software Engineer, Public Sector",
-      "location": "Austin, TX; Colorado Springs, CO; Honolulu, HI; St. Louis, MO; Washington, DC",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4481921005",
-      "posted_at": "2026-08-13T19:37:21-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8129371",
-      "employer_name": "Airbnb",
-      "job_title": "Staff Machine Learning Engineer, Traffic Intelligence",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/8129371?gh_jid=8129371",
-      "posted_at": "2026-08-13T19:22:22-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8127006",
-      "employer_name": "Waymo",
-      "job_title": "Perception Machine Learning Engineer - Continuous Learning",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8127006",
-      "posted_at": "2026-08-13T18:58:13-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8088201",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer - Frontend - Coinbase Card team",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8088201?gh_jid=8088201",
-      "posted_at": "2026-08-13T18:36:49-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
