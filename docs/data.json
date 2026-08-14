@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:25:20.233553+00:00",
+  "generated_at": "2026-08-14T09:07:07.166322+00:00",
   "jobs": [
     {
       "job_id": "ashby_cohere_9baccd88-c051-474f-bfe8-6867fca54cee",
@@ -10,6 +10,16 @@
       "posted_at": "2026-08-14T07:10:20.881+00:00",
       "category": "Data Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8125865",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer-",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8125865?gh_jid=8125865",
+      "posted_at": "2026-08-14T04:04:07-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_airbnb_7640881",
