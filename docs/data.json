@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T09:07:07.166322+00:00",
+  "generated_at": "2026-08-14T10:57:50.274446+00:00",
   "jobs": [
     {
       "job_id": "ashby_cohere_9baccd88-c051-474f-bfe8-6867fca54cee",
@@ -19,26 +19,6 @@
       "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8125865?gh_jid=8125865",
       "posted_at": "2026-08-14T04:04:07-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_7640881",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Data Engineer, BizTech",
-      "location": "Bangalore, India",
-      "apply_link": "https://careers.airbnb.com/positions/7640881?gh_jid=7640881",
-      "posted_at": "2026-08-14T00:43:00-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8603653002",
-      "employer_name": "Lyft",
-      "job_title": "Senior Machine Learning Engineer, Recommendations",
-      "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8603653002?gh_jid=8603653002",
-      "posted_at": "2026-08-13T23:10:30-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
