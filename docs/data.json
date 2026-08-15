@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T19:25:21.470571+00:00",
+  "generated_at": "2026-08-15T20:22:04.917167+00:00",
   "jobs": [
     {
       "job_id": "ashby_replit_7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
@@ -10,6 +10,26 @@
       "posted_at": "2026-08-15T18:49:00.242+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5392335008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Platform Ecosystem",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5392335008",
+      "posted_at": "2026-08-15T16:10:51-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5157847008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Platform",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5157847008",
+      "posted_at": "2026-08-15T16:10:18-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     }
   ]
 }
