@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-08-15T02:52:17.306411+00:00",
+  "generated_at": "2026-08-15T02:59:48.917117+00:00",
   "jobs": [
+    {
+      "job_id": "N0tyMTVXUVY0VTVVcmJqUUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVzVGZEZGU1IzZ3dkbEk1V0RWMGREQXRVRnBTZFhsU2FrcGhVbEpmU0RJNWVHOVBSemx2TTJadUxWODFjMUJXVVZNeGJXazRjRWgzVldNNWVVOVROa3g0VG5VeGExbFNZMW8yYzJsdVpHNXRNVFp0VW01SE1uTXpRV2s0T0Y5TVltRk9ka3R1WjFCclJHRjRSRFphUmxONGNtUk9OV2htTFU1bVZXSkpMVEJZVUZOT1VFc1NGMFYwV2w5aGRraGlURTVUTFd0UVNWQnRURWROT0VGSkdpSkJSSE55T1daUlIyNDRlVWRGTmpJeWRrVTBZMDAxV1haU2F6UmtkMUpDWTFWbg",
+      "employer_name": "Amazon Web Services (AWS)",
+      "job_title": "Software Development Engineer, Agentic AI",
+      "location": "Jersey City, New Jersey",
+      "apply_link": "https://www.linkedin.com/jobs/view/software-development-engineer-agentic-ai-at-amazon-web-services-aws-4454829144",
+      "posted_at": "2026-08-15T00:00:00.000Z",
+      "category": "Software Engineer",
+      "source": "jsearch"
+    },
     {
       "job_id": "ashby_openai_ca300a6d-a2a7-4580-aad7-323fbdfee7b1",
       "employer_name": "OpenAI",
@@ -12,6 +22,16 @@
       "source": "ashby"
     },
     {
+      "job_id": "ZS1ZLURSbWhtaHpCVnpnTkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMGt5WWxwR2NVVnhNbUZrT0VwU1MzaEtNV1JTZURsck9YWlZWR1EzVVVKTFdtOWlZbkp1Y1VaVWRUVkpSR3BQY1doU1VWOVBaMFE1TkZCVVlUVkthblZ0UVRKVlRsRklVMGRrVFZoM1NUaG1kSGRrU1VOQloyRjRhQzFhUVhSeVRWUlZaMU5qUVdwdWFWVnhiMlpYU21OeFdtRjBUVGRNYVVoRlEzWXlZUzFaTUVFMlgzTVNGM1ZrVmw5aGRWZFlSWEp0VERkT1dWQXdTVWRDTUZGdkdpSkJSSE55T1daU1EyOXVaVWRpWVdjeFJsUTFSV3R3ZVVsaVUxQTNZbDgzV0dWMw",
+      "employer_name": "Snowflake",
+      "job_title": "Software Engineer - Backend",
+      "location": "Bellevue, Washington",
+      "apply_link": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
+      "posted_at": "2026-08-14T23:00:00.000Z",
+      "category": "Software Engineer",
+      "source": "jsearch"
+    },
+    {
       "job_id": "greenhouse_pinterest_8036273",
       "employer_name": "Pinterest",
       "job_title": "Staff Data Scientist, Finance & Business Ops",
@@ -20,6 +40,26 @@
       "posted_at": "2026-08-14T22:01:37-04:00",
       "category": "Data Scientist",
       "source": "greenhouse"
+    },
+    {
+      "job_id": "QVV3VlVKUThVd3dPcDMyYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVTQzWjJ0TlNVOWxlRkpJVm05b1gyeDRTV0pVV25BM1FXWm1jbXR5TXpJd1RqZzNVRzVYWXkxd1YzTkhOR1poU1c0NVVHUk5hbkJSWDJST1JEZE1SRXBOZG5oNU5VZDFXbmh1WTJoM1NIQjFkVlZrVTBwWU5XNXFiMUp3VG1SeU5USnRkbTlCUW5wU2RHb3lTMEowYkRGU1QyUTJVVU5VUmpVNGFuQndhM0pPY0d3eGRIa1NGekIwVmw5aGMxUnRTbko1ZVcxMGExQjBjV2w2YlVGakdpSkJSSE55T1daVGJuTTJablUxUTFKQ1RESXRVRlY1VWpGQ2QxWnphMGRQTTJWQg",
+      "employer_name": "Walmart",
+      "job_title": "(USA) Data Scientist III",
+      "location": "Sunnyvale, California",
+      "apply_link": "https://www.linkedin.com/jobs/view/usa-data-scientist-iii-at-walmart-4451287118",
+      "posted_at": "2026-08-14T21:00:00.000Z",
+      "category": "Data Scientist",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "YU5zVVZqbU1vWjRWODJNYUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMkpSTm1aU1pYY3lhbEJhVmw5ZlowcFVkM05OVWkxaWRFZzBaRjlKZEc5RE4wZENTVUZGWkdOSFJXaElNRlZWYlRkeVlVdHBiRmxCVFd0VGFFUnZiSFF0YnpGVU5sbE5kMFJRZHkxbGNHSnpZVVowTjNCUFlVUmxNSEZ2VVhCc1JsbE5ZVlZIYkVScE1IUmtaVTFMVVRKcFlXMTNjR0prVUVkdFlsODVjREJyTTNSQmVYY1NGekYwVmw5aGNrTjNUQzF0VGpkT1dWQnBZVkJUZDBGbkdpSkJSSE55T1daVVYydG5WR3BrYlhCSVNGWkdTM1JxVmtWRFJtRnZNRWhHZVRSQg",
+      "employer_name": "T-Mobile",
+      "job_title": "Analyst, Business Intelligence",
+      "location": "Bellevue, Washington",
+      "apply_link": "https://www.linkedin.com/jobs/view/analyst-business-intelligence-at-t-mobile-4454812048",
+      "posted_at": "2026-08-14T21:00:00.000Z",
+      "category": "Other",
+      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_lyft_8716220002",
