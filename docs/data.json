@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-08-15T08:29:17.668669+00:00",
+  "generated_at": "2026-08-15T10:22:51.066093+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_stripe_8082847",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Link",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8082847",
+      "posted_at": "2026-08-15T04:37:26-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_databricks_6709301002",
       "employer_name": "Databricks",
@@ -12,32 +22,12 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8082847",
-      "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer, Link",
-      "location": "N/A",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8082847",
-      "posted_at": "2026-08-15T01:25:09-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_databricks_8294304002",
       "employer_name": "Databricks",
       "job_title": "Senior Software Engineer (App-Framework)",
       "location": "Bengaluru, India",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002",
       "posted_at": "2026-08-15T01:16:46-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8069941",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Authorization Infrastructure",
-      "location": "N/A",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8069941",
-      "posted_at": "2026-08-14T23:40:26-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
