@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-08-15T04:31:19.655191+00:00",
+  "generated_at": "2026-08-15T06:38:27.465191+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_stripe_8082847",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Link",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8082847",
+      "posted_at": "2026-08-15T01:25:09-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8294304002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer (App-Framework)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002",
+      "posted_at": "2026-08-15T01:16:46-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_stripe_8069941",
       "employer_name": "Stripe",
@@ -12,16 +32,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "ashby_openai_ca300a6d-a2a7-4580-aad7-323fbdfee7b1",
-      "employer_name": "OpenAI",
-      "job_title": "Software Engineer, Compute Infrastructure",
-      "location": "San Francisco",
-      "apply_link": "https://jobs.ashbyhq.com/openai/ca300a6d-a2a7-4580-aad7-323fbdfee7b1",
-      "posted_at": "2026-08-14T23:27:55.134+00:00",
-      "category": "Software Engineer",
-      "source": "ashby"
-    },
-    {
       "job_id": "greenhouse_pinterest_8036273",
       "employer_name": "Pinterest",
       "job_title": "Staff Data Scientist, Finance & Business Ops",
@@ -29,46 +39,6 @@
       "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8036273",
       "posted_at": "2026-08-14T22:01:37-04:00",
       "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8716220002",
-      "employer_name": "Lyft",
-      "job_title": "Software Engineer, Observability",
-      "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8716220002?gh_jid=8716220002",
-      "posted_at": "2026-08-14T19:27:12-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5379140008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Safeguards Data ",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5379140008",
-      "posted_at": "2026-08-14T19:01:15-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5250091008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, GRC Platform",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5250091008",
-      "posted_at": "2026-08-14T19:00:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7605743",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer, Identity",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7605743",
-      "posted_at": "2026-08-14T18:40:23-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
