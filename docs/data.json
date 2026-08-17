@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-08-17T15:24:29.535530+00:00",
+  "generated_at": "2026-08-17T16:27:57.026279+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_stripe_8118929",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Enterprise & Ecosystem",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8118929",
+      "posted_at": "2026-08-17T11:59:47-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8556371002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Forward Deployed Engineer - Full stack",
+      "location": "Paris, France",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8556371002",
+      "posted_at": "2026-08-17T11:46:39-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7905695",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer, Booking",
+      "location": "Mountain View, CA, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7905695",
+      "posted_at": "2026-08-17T11:46:13-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_twilio_6849268",
       "employer_name": "Twilio",
@@ -128,26 +158,6 @@
       "location": "Sydney",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7838287",
       "posted_at": "2026-08-17T10:00:22-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "SjkzY3JXYmFBNGhjZVh5WUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV0ZFUzNKdlVrTlhOMFZ5UlZZNU1XRjBlR3A2Tkc5c1duVmZhMDFGYzJ4ZmNHOXJZVlJmUkhaU1UyZEdaamMzUzB0NFppMWFOVmhKVVVKaWRsWTVja0pNYkRVNGJrOUZRazFVUWpnMmQwcFdOell0WkdkV1gwRjVTMkpyU2xOMU1EZ3ljbmxQTms1NmJtVXlOemRYZWxob01sZHNUMFZVVlZwUll6TnhUMUpzYjJwNlNIWVNGMFZUWlVSaGRsQmlTblppUTNBNE5GQnNUR1pFT0VGWkdpSkJSSE55T1daU2VsZE9iVXhzU1hKTlZ6QnhaVmh4VDI1cVdXbFJTbEJJV25oMw",
-      "employer_name": "Cisco",
-      "job_title": "Software Engineering Technical Leader (Remote)",
-      "location": null,
-      "apply_link": "https://www.linkedin.com/jobs/view/software-engineering-technical-leader-remote-at-cisco-4455266390",
-      "posted_at": "2026-08-17T10:00:00.000Z",
-      "category": "Software Engineer",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8106377",
-      "employer_name": "Pinterest",
-      "job_title": "Sr. Software Engineer ",
-      "location": "Dublin, IE",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8106377",
-      "posted_at": "2026-08-17T06:21:59-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
