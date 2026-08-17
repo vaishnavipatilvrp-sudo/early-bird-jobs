@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T19:31:49.891143+00:00",
+  "generated_at": "2026-08-17T20:27:11.982950+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_894ce80d-c587-4ef0-92d2-b16deb9a06b9",
@@ -20,6 +20,36 @@
       "posted_at": "2026-08-17T16:45:16.766+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8092485",
+      "employer_name": "Coinbase",
+      "job_title": "Software Engineer, CDP - Stablecoin",
+      "location": "Remote - Canada",
+      "apply_link": "https://www.coinbase.com/careers/positions/8092485?gh_jid=8092485",
+      "posted_at": "2026-08-17T16:17:38-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5174747008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Full-stack",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5174747008",
+      "posted_at": "2026-08-17T15:56:24-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5174743008",
+      "employer_name": "Anthropic",
+      "job_title": "Senior Software Engineer, Full-stack",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5174743008",
+      "posted_at": "2026-08-17T15:55:58-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_discord_8652853002",
@@ -50,26 +80,6 @@
       "posted_at": "2026-08-17T15:12:28-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "V2U5UmUxaGJhQ0RXdDNhT0FBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTMVZTTTJkZmRYaEhibkJqUkhsa1psOWxSR1pOYVZGeVRXZHJVMll5WTNSNFpFUTRaa2RqTFd4amVXdDFia1JyVlhsbGNURnBNakpuZWtkTWFVSTFhRE5yTUZCUFYzbHBWRWxHTmxReVJDMXJYMlYwTVVaSFNEZFdhVXhEWm5kZk1ETjBTbE5PTjJaRE5ESm9OSGgzV0hoMmMzUnJkaTB0WkZWVlVWSnVSazQwU3pWTE0yWVNGbWRIUjBSaGIwUmFUR1ZsWTJ0UVNWQTVTa2hzVVVFYUlrRkVjM0k1WmxSZmRXMDJTVjlDVkhKMmQxOXJUekkyTjBScFJFaHVialpaVDBF",
-      "employer_name": "Capital One",
-      "job_title": "Distinguished Engineer, Generative AI Systems",
-      "location": "San Jose, California",
-      "apply_link": "https://us.trabajo.org/job-5166-363eed6f906cd594486e955f1535e28a",
-      "posted_at": "2026-08-17T15:00:00.000Z",
-      "category": "Other",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "WWlzYmM0b3BrUS1kX0wxWUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMHQwYWpsb1RuWm5WemxXV2pFemVqQnpOMGd3ZDA5V1JFWm5WMGhpYmtSVVdDMUVjMmh0Y0c1SVdXTlpZMkZyTVVwQ05uZDVRa2hsVkVWbU4xSlBRbWd5TVZJd05HUjROV2N5VGtvelVsTmZWbFpuUkVzME1taFlja2RZU2xWek1qVTNjbXBsVEVSMldXbFhZM2x4YURacVExVjBhRVJLVTBReU1tSnpiMkZ4YUZwWVExWVNGMnB0UjBSaGNFeExRMWx0TFd0UVNWQTVPVmczT0VFMEdpSkJSSE55T1daVGRUSjNhMVJaVGpoNVpVZEdaMlJXYVZsdVgwMTZOMDVSVmxoQg",
-      "employer_name": "Bank of America",
-      "job_title": "Data Engineer - Python/AI",
-      "location": "Addison, Illinois",
-      "apply_link": "https://www.ziprecruiter.com/c/Bank-of-America/Job/Data-Engineer-Python-AI/-in-Addison,IL?jid=ba3fb467a1a1e154",
-      "posted_at": "2026-08-17T15:00:00.000Z",
-      "category": "Data Engineer",
-      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_anthropic_5191226008",
@@ -540,16 +550,6 @@
       "posted_at": "2026-08-17T14:27:22-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "a2dhX3dBVXF1OEpiT21HMkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMVYzVmxoclJWZEtWSFpIVlRSTGVUWTVjVlpwYkdjeVMyOXdiRGRoUmt0elRFTmhXRzlNYzB4NlZFWnFibGRSVjBKRVlVNHRZWFJSU1VKaGF6Rk1la3gzVUY5TFJXdGZTRVpRUkV4bE1YaHRjVjg1WlhkUldUTjVRVmxXY2t0ZlJXMXZTR3hRTVc0dFUwSXRlamgwZDJoemRGcFNXalYxTWt0NVVFeDZiVVp0WjBSTU1VNFNGMnh0UjBSaGIxTjJUbUp0VDNKMVJWQnNXV296TWxGSkdpSkJSSE55T1daU2RUUndibXhSVTA5VVNFSTFiUzEyUTBSa1puSmtORVp1V20xUg",
-      "employer_name": "FUSTIS LLC",
-      "job_title": "Full Stack AI Engineer /Architect",
-      "location": "Lisle, Illinois",
-      "apply_link": "https://www.linkedin.com/jobs/view/full-stack-ai-engineer-architect-at-fustis-llc-4455322001",
-      "posted_at": "2026-08-17T14:00:00.000Z",
-      "category": "ML / AI Engineer",
-      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_figma_6142506004",
@@ -1128,16 +1128,6 @@
       "location": "Remote - Ireland",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8071710",
       "posted_at": "2026-08-17T10:27:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8102950",
-      "employer_name": "Twilio",
-      "job_title": "Software Development Engineer (L3)",
-      "location": "Remote - Colombia",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8102950",
-      "posted_at": "2026-08-17T10:26:04-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
