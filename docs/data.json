@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T06:55:51.489953+00:00",
+  "generated_at": "2026-08-17T08:43:26.479623+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_5ed99d32-eed1-4679-b7b4-037de073e57c",
@@ -10,6 +10,26 @@
       "posted_at": "2026-08-17T05:31:43.308+00:00",
       "category": "Other",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_twilio_7782805",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer (L4) Data Platform",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7782805",
+      "posted_at": "2026-08-17T03:33:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7605743",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer, Identity",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7605743",
+      "posted_at": "2026-08-17T03:11:44-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_databricks_7647353002",
