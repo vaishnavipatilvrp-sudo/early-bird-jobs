@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-08-17T08:43:26.479623+00:00",
+  "generated_at": "2026-08-17T10:32:09.212271+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_pinterest_8106377",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Software Engineer ",
+      "location": "Dublin, IE",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8106377",
+      "posted_at": "2026-08-17T06:21:59-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "ashby_openai_5ed99d32-eed1-4679-b7b4-037de073e57c",
       "employer_name": "OpenAI",
@@ -10,6 +20,16 @@
       "posted_at": "2026-08-17T05:31:43.308+00:00",
       "category": "Other",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8007032",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Data Engineer",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8007032?gh_jid=8007032",
+      "posted_at": "2026-08-17T05:05:43-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_twilio_7782805",
@@ -48,16 +68,6 @@
       "location": "Bengaluru, India",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619811002",
       "posted_at": "2026-08-17T02:30:37-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_7897431002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer - Data + AI Observability",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
-      "posted_at": "2026-08-16T23:03:10-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
