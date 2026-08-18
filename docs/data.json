@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-08-18T01:14:26.409674+00:00",
+  "generated_at": "2026-08-18T02:55:42.358614+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_coinbase_8067033",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Consumer",
+      "location": "Remote - Singapore",
+      "apply_link": "https://www.coinbase.com/careers/positions/8067033?gh_jid=8067033",
+      "posted_at": "2026-08-17T21:36:43-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_waymo_8127006",
       "employer_name": "Waymo",
@@ -332,21 +342,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_xai_5108231007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer - X Money",
-      "location": "London, England, United Kingdom",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5108231007",
-      "posted_at": "2026-08-17T17:12:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_xai_5107958007",
       "employer_name": "xAI",
       "job_title": "Software Engineer - X Money",
       "location": "Palo Alto, California",
       "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5107958007",
+      "posted_at": "2026-08-17T17:12:02-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5108231007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - X Money",
+      "location": "London, England, United Kingdom",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5108231007",
       "posted_at": "2026-08-17T17:12:02-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -359,46 +369,6 @@
       "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5167318007",
       "posted_at": "2026-08-17T17:12:02-04:00",
       "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8092485",
-      "employer_name": "Coinbase",
-      "job_title": "Software Engineer, CDP - Stablecoin",
-      "location": "Remote - Canada",
-      "apply_link": "https://www.coinbase.com/careers/positions/8092485?gh_jid=8092485",
-      "posted_at": "2026-08-17T16:17:38-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5174747008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Full-stack",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5174747008",
-      "posted_at": "2026-08-17T15:56:24-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5174743008",
-      "employer_name": "Anthropic",
-      "job_title": "Senior Software Engineer, Full-stack",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5174743008",
-      "posted_at": "2026-08-17T15:55:58-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8652853002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Staff Data Scientist, Causal Inference & Experimentation",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8652853002",
-      "posted_at": "2026-08-17T15:25:09-04:00",
-      "category": "Data Scientist",
       "source": "greenhouse"
     }
   ]
