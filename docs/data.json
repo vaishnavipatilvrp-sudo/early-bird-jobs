@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-08-18T15:30:21.525583+00:00",
+  "generated_at": "2026-08-18T16:31:42.879774+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_scaleai_4673310005",
+      "employer_name": "Scale AI",
+      "job_title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4673310005",
+      "posted_at": "2026-08-18T12:31:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7895284",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Software Engineer, Brazil",
+      "location": "Sao Paulo",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7895284",
+      "posted_at": "2026-08-18T12:25:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8138069",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Software Engineer, Community Support Engineering (Agent Core Products)",
+      "location": "United States",
+      "apply_link": "https://careers.airbnb.com/positions/8138069?gh_jid=8138069",
+      "posted_at": "2026-08-18T12:15:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8545663002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Software Engineer, Distributed Systems",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8545663002",
+      "posted_at": "2026-08-18T11:59:33-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8694476002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Data Platform",
+      "location": "San Francisco Bay Area ",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8694476002",
+      "posted_at": "2026-08-18T11:53:13-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7782805",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer (L4) Data Platform",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7782805",
+      "posted_at": "2026-08-18T11:47:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8498984002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Staff Software Engineer, Data Platform",
+      "location": "San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8498984002",
+      "posted_at": "2026-08-18T11:47:22-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_stripe_8038771",
       "employer_name": "Stripe",
@@ -12,21 +82,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7815679",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Server Security",
-      "location": "Toronto",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7815679",
-      "posted_at": "2026-08-18T11:00:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_7815677",
       "employer_name": "MongoDB",
       "job_title": "Senior Software Engineer, Server Security",
       "location": "New York City",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7815677",
+      "posted_at": "2026-08-18T11:00:25-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7815679",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Server Security",
+      "location": "Toronto",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7815679",
       "posted_at": "2026-08-18T11:00:25-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -88,16 +158,6 @@
       "location": "Dublin",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8097801",
       "posted_at": "2026-08-18T07:19:46-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_5551697004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Software Engineer - AI Product (London, United Kingdom)",
-      "location": "London, England",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/5551697004?gh_jid=5551697004",
-      "posted_at": "2026-08-18T05:45:54-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
