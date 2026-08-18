@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-08-18T04:35:45.917267+00:00",
+  "generated_at": "2026-08-18T06:42:37.893062+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_mongodb_8107301",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, AI Framework Integrations",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8107301",
+      "posted_at": "2026-08-18T01:49:10-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_coinbase_8067033",
       "employer_name": "Coinbase",
@@ -9,16 +19,6 @@
       "apply_link": "https://www.coinbase.com/careers/positions/8067033?gh_jid=8067033",
       "posted_at": "2026-08-17T21:36:43-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8127006",
-      "employer_name": "Waymo",
-      "job_title": "Perception Machine Learning Engineer - Continuous Learning",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8127006",
-      "posted_at": "2026-08-17T19:50:33-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
