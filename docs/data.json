@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-08-18T14:33:31.953953+00:00",
+  "generated_at": "2026-08-18T15:30:21.525583+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_stripe_8038771",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Deployment Platform",
+      "location": "Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8038771",
+      "posted_at": "2026-08-18T11:10:06-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7815679",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Server Security",
+      "location": "Toronto",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7815679",
+      "posted_at": "2026-08-18T11:00:25-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7815677",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Server Security",
+      "location": "New York City",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7815677",
+      "posted_at": "2026-08-18T11:00:25-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_twilio_6849268",
       "employer_name": "Twilio",
@@ -69,16 +99,6 @@
       "apply_link": "https://boards.greenhouse.io/figma/jobs/5551697004?gh_jid=5551697004",
       "posted_at": "2026-08-18T05:45:54-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_7999050",
-      "employer_name": "Pinterest",
-      "job_title": "Sr. Machine Learning Engineer, tvScientific",
-      "location": "San Francisco, CA, US; Remote, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7999050",
-      "posted_at": "2026-08-18T05:10:37-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
