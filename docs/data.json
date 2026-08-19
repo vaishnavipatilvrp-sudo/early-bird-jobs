@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-08-19T01:15:42.974949+00:00",
+  "generated_at": "2026-08-19T02:57:16.347685+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_airbnb_7716341",
+      "employer_name": "Airbnb",
+      "job_title": "Machine Learning Engineer, Customer Support Engineering",
+      "location": "China",
+      "apply_link": "https://careers.airbnb.com/positions/7716341?gh_jid=7716341",
+      "posted_at": "2026-08-18T22:21:15-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_anthropic_5157847008",
       "employer_name": "Anthropic",
@@ -332,21 +342,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_xai_5108231007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer - X Money",
-      "location": "London, England, United Kingdom",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5108231007",
-      "posted_at": "2026-08-18T18:10:46-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_xai_5107958007",
       "employer_name": "xAI",
       "job_title": "Software Engineer - X Money",
       "location": "Palo Alto, California",
       "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5107958007",
+      "posted_at": "2026-08-18T18:10:46-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5108231007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - X Money",
+      "location": "London, England, United Kingdom",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5108231007",
       "posted_at": "2026-08-18T18:10:46-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -1238,66 +1248,6 @@
       "location": "N/A",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=7230670",
       "posted_at": "2026-08-18T17:37:16-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8140067",
-      "employer_name": "DoorDash",
-      "job_title": "Staff Machine Learning Scientist, Applied Causal Inference",
-      "location": "San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA; New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8140067",
-      "posted_at": "2026-08-18T16:55:11-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8139942",
-      "employer_name": "DoorDash",
-      "job_title": "Staff Machine Learning Engineer, Causal Inference",
-      "location": "San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA; New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8139942",
-      "posted_at": "2026-08-18T16:55:10-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7259110",
-      "employer_name": "Waymo",
-      "job_title": "Software Engineer, Planner Reasoning",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7259110",
-      "posted_at": "2026-08-18T16:08:26-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_4843547",
-      "employer_name": "Pinterest",
-      "job_title": "Software Engineer II, Fullstack",
-      "location": "San Francisco, CA, US; Remote, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=4843547",
-      "posted_at": "2026-08-18T15:42:36-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7946610",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L2)",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7946610",
-      "posted_at": "2026-08-18T15:17:36-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8097672",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L2)",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8097672",
-      "posted_at": "2026-08-18T15:17:36-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
