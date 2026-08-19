@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-08-19T02:57:16.347685+00:00",
+  "generated_at": "2026-08-19T03:06:35.721904+00:00",
   "jobs": [
+    {
+      "job_id": "M0pYQ3lBRkV4cVRYWEFkeUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVVZzVVZGMVZ6YzNZWFJmV2twTmVIcGxTalpOZG1ObVRUVlNSSFZNVlZvd2JGTkdXRmx0TVhCdFZUQklOVWsxZVhwelRFMXhiVGQxYVZWT1ZXcFVabEEyTFZGMVlsQlZlRXh5Tnpsd1RXeElkMW81WVhSblJuQkllazFXVWxWdGQzaHdOVWMxU2taamRWODBRMDV1TVRsck9VOVlTVk52WDNWNWFsaHVZMGRwYW5KUlVXUVNGMmw0TWtaaGMxTkVTMGt5TlhGMGMxQXhMVzFYYVZGekdpSkJSSE55T1daUlh6WlVVWEJuV0dwellWSk5SVFpXUW5WTk9WVTVjbDg0WmpSQg",
+      "employer_name": "The University of Texas at Austin",
+      "job_title": "Research Engineering/Scientist Associate III",
+      "location": "Utah",
+      "apply_link": "https://www.recruit.net/job/research-engineering-scientist-associate-jobs/51836436FCB79DEC",
+      "posted_at": "2026-08-19T00:00:00.000Z",
+      "category": "Other",
+      "source": "jsearch"
+    },
     {
       "job_id": "greenhouse_airbnb_7716341",
       "employer_name": "Airbnb",
@@ -10,6 +20,16 @@
       "posted_at": "2026-08-18T22:21:15-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
+    },
+    {
+      "job_id": "SlJqNHJmM0tWUU5CNXE3RkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMWRNWkZWRGR6aFpSMncxTWxnek1UUkZaVmg2YzNaSU0zSmxZVzA0TVRjNVFWRkRVelU1T0VGek5uQXhURFpxV0docFVXdExVMDVsYjFOdlNtSlphVTFVWDB4V1dHUjRXbmh4ZDFKUU16WnVWRXBKT1VoemVVNU1XRFZQZDJaV2VVUk5NRVp6ZUU1cFYxTTNTM1JKVTFjeGRFOU1ZekZTTFVkS1JUQXpNMnBhUVcxWFJrTVNGMUo0TWtaaGMzWkVTVGxoYlhGMGMxQjVTVzFLYlVFMEdpSkJSSE55T1daVWJUSnRVakEzVVhsdGJ6aHBSMmhGTWtGbE16TlJURUZxWDJ4Qg",
+      "employer_name": "Cisco",
+      "job_title": "Data Analyst: People Legal Team",
+      "location": "Durham, North Carolina",
+      "apply_link": "https://www.linkedin.com/jobs/view/data-analyst-people-legal-team-at-cisco-4455958965",
+      "posted_at": "2026-08-18T22:00:00.000Z",
+      "category": "Data Analyst",
+      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_anthropic_5157847008",
@@ -342,21 +362,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_xai_5107958007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer - X Money",
-      "location": "Palo Alto, California",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5107958007",
-      "posted_at": "2026-08-18T18:10:46-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_xai_5108231007",
       "employer_name": "xAI",
       "job_title": "Software Engineer - X Money",
       "location": "London, England, United Kingdom",
       "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5108231007",
+      "posted_at": "2026-08-18T18:10:46-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5107958007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - X Money",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5107958007",
       "posted_at": "2026-08-18T18:10:46-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
