@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-08-19T04:37:11.554592+00:00",
+  "generated_at": "2026-08-19T06:43:00.520150+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_waymo_7595124",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer \u2013 VLM/LLM",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA; New York City, NY, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7595124",
+      "posted_at": "2026-08-19T02:06:50-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8138500",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Software Engineer(AI/ML), Trust",
+      "location": "Bangalore, India",
+      "apply_link": "https://careers.airbnb.com/positions/8138500?gh_jid=8138500",
+      "posted_at": "2026-08-19T00:59:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_twilio_8102950",
       "employer_name": "Twilio",
@@ -49,26 +69,6 @@
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5394943008",
       "posted_at": "2026-08-18T20:59:49-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_6142506004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Software Engineer - Application Platform",
-      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/6142506004?gh_jid=6142506004",
-      "posted_at": "2026-08-18T19:32:16-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7939542",
-      "employer_name": "Waymo",
-      "job_title": "Machine Learning Engineer, Fleet Monitoring & Response",
-      "location": "San Francisco, CA; Mountain  View, CA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7939542",
-      "posted_at": "2026-08-18T18:37:26-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
