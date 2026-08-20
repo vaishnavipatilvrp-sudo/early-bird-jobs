@@ -1,6 +1,326 @@
 {
-  "generated_at": "2026-08-19T22:24:47.753761+00:00",
+  "generated_at": "2026-08-20T01:14:53.600771+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_2bf44c13-a463-4ec7-b152-b8367075246c",
+      "employer_name": "OpenAI",
+      "job_title": "Software Engineer, Trainium ",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/2bf44c13-a463-4ec7-b152-b8367075246c",
+      "posted_at": "2026-08-19T23:09:36.243+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8142827",
+      "employer_name": "Airbnb",
+      "job_title": "Software Engineer, Trust",
+      "location": "Remote, United States",
+      "apply_link": "https://careers.airbnb.com/positions/8142827?gh_jid=8142827",
+      "posted_at": "2026-08-19T18:53:29-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5063490007",
+      "employer_name": "xAI",
+      "job_title": "AI Tutor - Software Engineering Specialist",
+      "location": "Remote United States",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5063490007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5090265007",
+      "employer_name": "xAI",
+      "job_title": "AI Tutor - Swedish",
+      "location": "Remote United States",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5090265007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5210564007",
+      "employer_name": "xAI",
+      "job_title": "Analytics Engineer - X",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5210564007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5120536007",
+      "employer_name": "xAI",
+      "job_title": "Backend Engineer - API",
+      "location": "London, England, United Kingdom",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5120536007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5006477007",
+      "employer_name": "xAI",
+      "job_title": "Backend Engineer - Enterprise",
+      "location": "Tokyo, Japan",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5006477007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5112514007",
+      "employer_name": "xAI",
+      "job_title": "Data Analyst - Physical Infrastructure",
+      "location": "Memphis, Tennessee",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5112514007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_4956028007",
+      "employer_name": "xAI",
+      "job_title": "Exceptional Software Engineer",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4956028007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5152408007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer, Ads Product ",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5152408007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5109691007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Consumer Subscriptions",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5109691007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5209858007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Data Center",
+      "location": "Memphis, Tennessee; Southaven, Mississippi",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5209858007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_4803862007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Data Platform",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4803862007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5188230007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Evals",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5188230007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5052040007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Kernels/CUDA (C++)",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5052040007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5202187007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Linux Kernel (C++, C)",
+      "location": "Palo Alto, California; Seattle, Washington",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5202187007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5179367007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Network (C++)",
+      "location": "Palo Alto, California; Seattle, Washington",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5179367007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_4946696007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Networking Software and Services",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4946696007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5187964007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Network Software and Services   ",
+      "location": "Dublin, Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5187964007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_4803905007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Observability",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4803905007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5191142007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Platform Infrastructure (Rust, C++)",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5191142007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_4835611007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Platform Security",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4835611007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_4805886007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Real-Time Storage",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4805886007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5205179007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Search Infrastructure",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5205179007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5125621007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Search Ranking",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5125621007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_4533894007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Training/Inference (C++)",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4533894007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5051966007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Voice Model",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5051966007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5182183007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - X Data Engineering",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5182183007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5204788007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - X Developer Platform",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5204788007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5107958007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - X Money",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5107958007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5108231007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - X Money",
+      "location": "London, England, United Kingdom",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5108231007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5167318007",
+      "employer_name": "xAI",
+      "job_title": "Sr. IT Data Engineer",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5167318007",
+      "posted_at": "2026-08-19T18:53:03-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_figma_6131089004",
       "employer_name": "Figma (bonus, not on your original list)",
@@ -627,16 +947,6 @@
       "job_title": "Senior Software Engineer - Multiverse",
       "location": "Mountain View, CA, USA; San Francisco, CA, USA; New York, NY, USA",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=6773081",
-      "posted_at": "2026-08-19T15:18:48-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7948185",
-      "employer_name": "Waymo",
-      "job_title": "Senior Software Engineer, Perception Future Sensing Platforms",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7948185",
       "posted_at": "2026-08-19T15:18:48-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -1418,66 +1728,6 @@
       "location": "Mountain View, CA",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7917933",
       "posted_at": "2026-08-19T15:18:48-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4676610005",
-      "employer_name": "Scale AI",
-      "job_title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4676610005",
-      "posted_at": "2026-08-19T14:44:58-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5394441008",
-      "employer_name": "Block",
-      "job_title": "Senior ML/AI Modeler, Risk Automation Machine Learning",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5394441008?gh_jid=5394441008",
-      "posted_at": "2026-08-19T14:24:19-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8716218002",
-      "employer_name": "Lyft",
-      "job_title": "Senior Software Engineer, Recommendations",
-      "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8716218002?gh_jid=8716218002",
-      "posted_at": "2026-08-19T13:53:50-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8545675002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Safety Backend",
-      "location": "San Francisco Bay Area or Los Angeles Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8545675002",
-      "posted_at": "2026-08-19T13:21:41-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8214127002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Staff Software Engineer, Safety Processing",
-      "location": "San Francisco Bay Area or Los Angeles Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8214127002",
-      "posted_at": "2026-08-19T13:18:49-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_6784618",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer, EAA CX",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/6784618?gh_jid=6784618",
-      "posted_at": "2026-08-19T13:00:03-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
