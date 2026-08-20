@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-08-20T15:33:08.200822+00:00",
+  "generated_at": "2026-08-20T16:35:13.045632+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_waymo_7430555",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer, Simulation Infrastructure",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7430555",
+      "posted_at": "2026-08-20T12:32:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7531397",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer, Multiverse",
+      "location": "San Francisco, CA, USA; Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7531397",
+      "posted_at": "2026-08-20T12:27:02-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8118855",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer Intern (Fall 2026)",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
+      "posted_at": "2026-08-20T12:26:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8105437",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Blockchain Platform Nodes",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8105437?gh_jid=8105437",
+      "posted_at": "2026-08-20T12:21:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5157847008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Platform",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5157847008",
+      "posted_at": "2026-08-20T12:00:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5395767008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Claude Managed Agents",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5395767008",
+      "posted_at": "2026-08-20T11:55:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5397005008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Platform Distribution",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5397005008",
+      "posted_at": "2026-08-20T11:55:18-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_databricks_8715639002",
       "employer_name": "Databricks",
