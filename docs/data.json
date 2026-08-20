@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-08-20T14:36:16.570457+00:00",
+  "generated_at": "2026-08-20T15:33:08.200822+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_databricks_8715639002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer - Enterprise Platform, CustomerLake",
+      "location": "New York City, New York",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8715639002",
+      "posted_at": "2026-08-20T11:08:11-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7983456",
+      "employer_name": "Stripe",
+      "job_title": "Machine Learning Engineer, Radar",
+      "location": "Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7983456",
+      "posted_at": "2026-08-20T10:55:38-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_twilio_7394811",
       "employer_name": "Twilio",
