@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:39:21.146771+00:00",
+  "generated_at": "2026-08-20T19:36:02.504169+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_3ac187b2-dd75-4acd-b285-51ae6e603dbd",
@@ -10,6 +10,46 @@
       "posted_at": "2026-08-20T16:38:56.595+00:00",
       "category": "Data Scientist",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8015537",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Machine Learning Engineer, Visual AI",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8015537",
+      "posted_at": "2026-08-20T15:33:39-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7438328",
+      "employer_name": "Waymo",
+      "job_title": "Data Engineer",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7438328",
+      "posted_at": "2026-08-20T15:20:17-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8143147",
+      "employer_name": "Instacart",
+      "job_title": "Senior Machine Learning Engineer, Digital Twin Platform",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8143147",
+      "posted_at": "2026-08-20T15:12:31-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8143145",
+      "employer_name": "Instacart",
+      "job_title": "Senior Machine Learning Engineer, Digital Twin Platform",
+      "location": "United States - Remote",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8143145",
+      "posted_at": "2026-08-20T15:12:30-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_twilio_7782805",
@@ -298,26 +338,6 @@
       "location": "Tokyo, Japan",
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5390799008",
       "posted_at": "2026-08-20T09:45:10-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_6686634",
-      "employer_name": "Stripe",
-      "job_title": "Backend Engineer, Core Technology",
-      "location": "Dublin",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=6686634",
-      "posted_at": "2026-08-20T09:03:25-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5390754008",
-      "employer_name": "Anthropic",
-      "job_title": "Applied AI Engineer, Enterprise",
-      "location": "Paris, France",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008",
-      "posted_at": "2026-08-20T09:01:59-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
