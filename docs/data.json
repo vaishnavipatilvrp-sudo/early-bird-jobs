@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T03:03:00.951906+00:00",
+  "generated_at": "2026-08-21T03:11:49.857124+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_1b268692-70d8-46c2-a347-2f7705b5c174",
@@ -722,21 +722,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_xai_5108231007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer - X Money",
-      "location": "London, England, United Kingdom",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5108231007",
-      "posted_at": "2026-08-20T20:36:54-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_xai_5107958007",
       "employer_name": "xAI",
       "job_title": "Software Engineer - X Money",
       "location": "Palo Alto, California",
       "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5107958007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5108231007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - X Money",
+      "location": "London, England, United Kingdom",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5108231007",
       "posted_at": "2026-08-20T20:36:54-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -819,16 +819,6 @@
       "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7697137",
       "posted_at": "2026-08-20T17:41:30-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8144836",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Data Engineer, Market Data",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836",
-      "posted_at": "2026-08-20T17:05:21-04:00",
-      "category": "Data Engineer",
       "source": "greenhouse"
     }
   ]
