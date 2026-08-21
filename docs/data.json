@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T03:11:49.857124+00:00",
+  "generated_at": "2026-08-21T04:38:40.508920+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_1b268692-70d8-46c2-a347-2f7705b5c174",
@@ -12,6 +12,16 @@
       "source": "ashby"
     },
     {
+      "job_id": "greenhouse_airbnb_7640881",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Data Engineer, BizTech",
+      "location": "Bangalore, India",
+      "apply_link": "https://careers.airbnb.com/positions/7640881?gh_jid=7640881",
+      "posted_at": "2026-08-21T00:28:41-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "ashby_openai_44abed05-4b45-4aa0-bee6-45d113bbef66",
       "employer_name": "OpenAI",
       "job_title": "Data Engineer, Monetization Data Platform",
@@ -19,16 +29,6 @@
       "apply_link": "https://jobs.ashbyhq.com/openai/44abed05-4b45-4aa0-bee6-45d113bbef66",
       "posted_at": "2026-08-20T22:40:29.869+00:00",
       "category": "Data Engineer",
-      "source": "ashby"
-    },
-    {
-      "job_id": "ashby_openai_0f887fe6-39f4-44f6-8ee5-230c3002f0d7",
-      "employer_name": "OpenAI",
-      "job_title": "Software Engineer, Private Computing",
-      "location": "San Francisco",
-      "apply_link": "https://jobs.ashbyhq.com/openai/0f887fe6-39f4-44f6-8ee5-230c3002f0d7",
-      "posted_at": "2026-08-20T22:28:11.915+00:00",
-      "category": "Software Engineer",
       "source": "ashby"
     },
     {
@@ -809,16 +809,6 @@
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8142764",
       "posted_at": "2026-08-20T19:35:00-04:00",
       "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_7697137",
-      "employer_name": "Pinterest",
-      "job_title": "Machine Learning Engineer II, Visual AI",
-      "location": "San Francisco, CA, US; Remote, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7697137",
-      "posted_at": "2026-08-20T17:41:30-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
