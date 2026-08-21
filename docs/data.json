@@ -1,6 +1,816 @@
 {
-  "generated_at": "2026-08-20T22:27:35.043611+00:00",
+  "generated_at": "2026-08-21T01:18:39.742505+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_1b268692-70d8-46c2-a347-2f7705b5c174",
+      "employer_name": "OpenAI",
+      "job_title": "Machine Learning Engineer, Multimodal Perception and Authentication",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/1b268692-70d8-46c2-a347-2f7705b5c174",
+      "posted_at": "2026-08-21T00:46:07.216+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "ashby_openai_44abed05-4b45-4aa0-bee6-45d113bbef66",
+      "employer_name": "OpenAI",
+      "job_title": "Data Engineer, Monetization Data Platform",
+      "location": "Mountain View",
+      "apply_link": "https://jobs.ashbyhq.com/openai/44abed05-4b45-4aa0-bee6-45d113bbef66",
+      "posted_at": "2026-08-20T22:40:29.869+00:00",
+      "category": "Data Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "ashby_openai_0f887fe6-39f4-44f6-8ee5-230c3002f0d7",
+      "employer_name": "OpenAI",
+      "job_title": "Software Engineer, Private Computing",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/0f887fe6-39f4-44f6-8ee5-230c3002f0d7",
+      "posted_at": "2026-08-20T22:28:11.915+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8100299",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Software Engineer",
+      "location": "Dublin, IE",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8100299",
+      "posted_at": "2026-08-20T20:38:07-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8092378",
+      "employer_name": "Pinterest",
+      "job_title": "Senior Data Scientist, Trust & Safety and Content Quality",
+      "location": "Toronto, ON, CA",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8092378",
+      "posted_at": "2026-08-20T20:37:58-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8088867",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Staff Software Engineer, Pinterest Assistant",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8088867",
+      "posted_at": "2026-08-20T20:37:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8095343",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Data Scientist, Notifications",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8095343",
+      "posted_at": "2026-08-20T20:37:45-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5063490007",
+      "employer_name": "xAI",
+      "job_title": "AI Tutor - Software Engineering Specialist",
+      "location": "Remote United States",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5063490007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5090265007",
+      "employer_name": "xAI",
+      "job_title": "AI Tutor - Swedish",
+      "location": "Remote United States",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5090265007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5210564007",
+      "employer_name": "xAI",
+      "job_title": "Analytics Engineer - X",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5210564007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5120536007",
+      "employer_name": "xAI",
+      "job_title": "Backend Engineer - API",
+      "location": "London, England, United Kingdom",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5120536007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5006477007",
+      "employer_name": "xAI",
+      "job_title": "Backend Engineer - Enterprise",
+      "location": "Tokyo, Japan",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5006477007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5112514007",
+      "employer_name": "xAI",
+      "job_title": "Data Analyst - Physical Infrastructure",
+      "location": "Memphis, Tennessee",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5112514007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_4956028007",
+      "employer_name": "xAI",
+      "job_title": "Exceptional Software Engineer",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4956028007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_4996796007",
+      "employer_name": "xAI",
+      "job_title": "Machine Learning Engineer - Ads",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4996796007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_4703144007",
+      "employer_name": "xAI",
+      "job_title": "Machine Learning Engineer - Recommendation Systems",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4703144007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5152408007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer, Ads Product ",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5152408007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5109691007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Consumer Subscriptions",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5109691007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5209858007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Data Center",
+      "location": "Memphis, Tennessee; Southaven, Mississippi",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5209858007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_4803862007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Data Platform",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4803862007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5188230007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Evals",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5188230007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5052040007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Kernels/CUDA (C++)",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5052040007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5202187007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Linux Kernel (C++, C)",
+      "location": "Palo Alto, California; Seattle, Washington",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5202187007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5179367007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Network (C++)",
+      "location": "Palo Alto, California; Seattle, Washington",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5179367007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_4946696007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Networking Software and Services",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4946696007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5187964007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Network Software and Services   ",
+      "location": "Dublin, Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5187964007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_4803905007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Observability",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4803905007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5191142007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Platform Infrastructure (Rust, C++)",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5191142007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_4835611007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Platform Security",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4835611007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_4805886007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Real-Time Storage",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4805886007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5205179007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Search Infrastructure",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5205179007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5125621007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Search Ranking",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5125621007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_4533894007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Training/Inference (C++)",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4533894007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5051966007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - Voice Model",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5051966007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5182183007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - X Data Engineering",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5182183007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5204788007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - X Developer Platform",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5204788007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5107958007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - X Money",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5107958007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5108231007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer - X Money",
+      "location": "London, England, United Kingdom",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5108231007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5167318007",
+      "employer_name": "xAI",
+      "job_title": "Sr. IT Data Engineer",
+      "location": "Palo Alto, California",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5167318007",
+      "posted_at": "2026-08-20T20:36:54-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8071670",
+      "employer_name": "Pinterest",
+      "job_title": "Data Scientist II, ML Infrastructure",
+      "location": "Palo Alto, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8071670",
+      "posted_at": "2026-08-20T20:36:47-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8036273",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Data Scientist, Finance & Business Ops",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8036273",
+      "posted_at": "2026-08-20T20:35:22-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8026607",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Data Scientist, Ads Delivery",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8026607",
+      "posted_at": "2026-08-20T20:34:38-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8024966",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Data Scientist, Infrastructure",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8024966",
+      "posted_at": "2026-08-20T20:34:36-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8015539",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Machine Learning Engineer, Applied Research",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8015539",
+      "posted_at": "2026-08-20T20:33:19-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8015537",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Machine Learning Engineer, Visual AI",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8015537",
+      "posted_at": "2026-08-20T20:33:18-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8015504",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Manager, Machine Learning Engineering-Applied Research",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8015504",
+      "posted_at": "2026-08-20T20:33:02-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8015490",
+      "employer_name": "Pinterest",
+      "job_title": "Security Software Engineer II, Detection and Response",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8015490",
+      "posted_at": "2026-08-20T20:32:53-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8011452",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Machine Learning Engineer, Ads Conversion Core Modeling",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8011452",
+      "posted_at": "2026-08-20T20:30:48-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8011376",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Data Scientist, Marketing",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8011376",
+      "posted_at": "2026-08-20T20:30:47-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8010903",
+      "employer_name": "Pinterest",
+      "job_title": "Manager II, Machine Learning \u2013 Conversion Visibility",
+      "location": "Seattle, WA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8010903",
+      "posted_at": "2026-08-20T20:30:37-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8001913",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Staff Software Engineer, iOS Search and Shopping Journeys",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8001913",
+      "posted_at": "2026-08-20T20:30:32-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8001932",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Data Scientist, Forecasting",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8001932",
+      "posted_at": "2026-08-20T20:30:29-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7990090",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer, Edge",
+      "location": "US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7990090",
+      "posted_at": "2026-08-20T20:30:25-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7999050",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Machine Learning Engineer, tvScientific",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7999050",
+      "posted_at": "2026-08-20T20:30:15-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7990086",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer, Service Communications",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7990086",
+      "posted_at": "2026-08-20T20:30:13-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7963755",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Data Scientist, Ads Product",
+      "location": "San Francisco, CA, US; Seattle, WA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7963755",
+      "posted_at": "2026-08-20T20:29:50-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7958766",
+      "employer_name": "Pinterest",
+      "job_title": "Software Engineer II",
+      "location": "Palo Alto, CA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7958766",
+      "posted_at": "2026-08-20T20:29:45-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7954753",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer, Observability",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7954753",
+      "posted_at": "2026-08-20T20:29:42-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7896332",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Software Engineer",
+      "location": "Dublin, IE",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7896332",
+      "posted_at": "2026-08-20T20:29:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7874931",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer- Growth Performance Marketing",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7874931",
+      "posted_at": "2026-08-20T20:29:01-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7816424",
+      "employer_name": "Pinterest",
+      "job_title": "Data Scientist II, Infrastructure",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7816424",
+      "posted_at": "2026-08-20T20:28:48-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7746946",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Staff Software Engineer, Data Product Platform",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7746946",
+      "posted_at": "2026-08-20T20:28:20-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7724254",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Staff Machine Learning Engineer, Content Quality",
+      "location": "San Francisco, CA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7724254",
+      "posted_at": "2026-08-20T20:28:14-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7770918",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Staff Software Engineer, Merchants",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7770918",
+      "posted_at": "2026-08-20T20:26:21-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7679640",
+      "employer_name": "Pinterest",
+      "job_title": "Senior Staff Software Engineer, Configuration & Coordination",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7679640",
+      "posted_at": "2026-08-20T20:25:43-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7642253",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer, Big Data, tvScientific",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7642253",
+      "posted_at": "2026-08-20T20:25:02-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7642251",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Data Scientist, tvScientific",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7642251",
+      "posted_at": "2026-08-20T20:25:00-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7494938",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Machine Learning Engineer, Responsible AI\u2013 Applied Research Science",
+      "location": "San Francisco, CA, US; Remote, CA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7494938",
+      "posted_at": "2026-08-20T20:23:48-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7494915",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer, Ads Measurement Products",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7494915",
+      "posted_at": "2026-08-20T20:23:39-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7494904",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer, Ads Measurement Signal ",
+      "location": "Seattle, WA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7494904",
+      "posted_at": "2026-08-20T20:23:33-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_4949339",
+      "employer_name": "Instacart",
+      "job_title": "Senior Data Scientist",
+      "location": "United States - Remote",
+      "apply_link": "https://instacart.careers/job/?gh_jid=4949339",
+      "posted_at": "2026-08-20T20:22:38-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7494708",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Security Software Engineer, Application Security",
+      "location": "Chicago, IL, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7494708",
+      "posted_at": "2026-08-20T20:22:31-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7494668",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer, Capacity Engineering",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7494668",
+      "posted_at": "2026-08-20T20:22:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7437356",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer, Big Data Storage",
+      "location": "Palo Alto, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7437356",
+      "posted_at": "2026-08-20T20:21:18-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7305880",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer, AI Tools",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7305880",
+      "posted_at": "2026-08-20T20:20:58-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_4949335",
+      "employer_name": "Instacart",
+      "job_title": "Senior Data Scientist",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=4949335",
+      "posted_at": "2026-08-20T20:20:27-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_6963868",
+      "employer_name": "Pinterest",
+      "job_title": "Principal Machine Learning Engineer, Ads Delivery",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=6963868",
+      "posted_at": "2026-08-20T20:20:26-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8122134",
+      "employer_name": "DoorDash",
+      "job_title": "Embedded Software Engineer (Firmware) - DoorDash Air",
+      "location": "San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8122134",
+      "posted_at": "2026-08-20T20:14:22-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8732364002",
+      "employer_name": "Databricks",
+      "job_title": "Software Engineering Intern (2027 Start) - Winter",
+      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
+      "posted_at": "2026-08-20T19:40:25-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7887609",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, Realtime",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7887609?gh_jid=7887609",
+      "posted_at": "2026-08-20T19:37:38-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8142764",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Bridge",
+      "location": "San Francisco, NYC",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8142764",
+      "posted_at": "2026-08-20T19:35:00-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_pinterest_7697137",
       "employer_name": "Pinterest",
@@ -52,16 +862,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "ashby_openai_3ac187b2-dd75-4acd-b285-51ae6e603dbd",
-      "employer_name": "OpenAI",
-      "job_title": "Data Scientist, Real Estate & Workplace ",
-      "location": "San Francisco",
-      "apply_link": "https://jobs.ashbyhq.com/openai/3ac187b2-dd75-4acd-b285-51ae6e603dbd",
-      "posted_at": "2026-08-20T16:38:56.595+00:00",
-      "category": "Data Scientist",
-      "source": "ashby"
-    },
-    {
       "job_id": "greenhouse_stripe_7895287",
       "employer_name": "Stripe",
       "job_title": "Backend Engineer, Payments Experiences",
@@ -102,16 +902,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_pinterest_8015537",
-      "employer_name": "Pinterest",
-      "job_title": "Staff Machine Learning Engineer, Visual AI",
-      "location": "San Francisco, CA, US; Remote, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8015537",
-      "posted_at": "2026-08-20T15:33:39-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_waymo_7438328",
       "employer_name": "Waymo",
       "job_title": "Data Engineer",
@@ -119,126 +909,6 @@
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7438328",
       "posted_at": "2026-08-20T15:20:17-04:00",
       "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_instacart_8143147",
-      "employer_name": "Instacart",
-      "job_title": "Senior Machine Learning Engineer, Digital Twin Platform",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "apply_link": "https://instacart.careers/job/?gh_jid=8143147",
-      "posted_at": "2026-08-20T15:12:31-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_instacart_8143145",
-      "employer_name": "Instacart",
-      "job_title": "Senior Machine Learning Engineer, Digital Twin Platform",
-      "location": "United States - Remote",
-      "apply_link": "https://instacart.careers/job/?gh_jid=8143145",
-      "posted_at": "2026-08-20T15:12:30-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7782805",
-      "employer_name": "Twilio",
-      "job_title": "Staff Software Engineer (L4) Data Platform",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7782805",
-      "posted_at": "2026-08-20T14:27:44-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4676610005",
-      "employer_name": "Scale AI",
-      "job_title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4676610005",
-      "posted_at": "2026-08-20T14:24:48-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4673310005",
-      "employer_name": "Scale AI",
-      "job_title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4673310005",
-      "posted_at": "2026-08-20T14:21:56-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4725133005",
-      "employer_name": "Scale AI",
-      "job_title": "Senior Software Engineer, AI Operations, GPS",
-      "location": "Doha, Qatar ",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4725133005",
-      "posted_at": "2026-08-20T14:17:48-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4481921005",
-      "employer_name": "Scale AI",
-      "job_title": "Forward Deployed Software Engineer, Public Sector",
-      "location": "Austin, TX; Colorado Springs, CO; Honolulu, HI; St. Louis, MO; Washington, DC",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4481921005",
-      "posted_at": "2026-08-20T14:14:03-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8722538002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Engineering Manager, Machine Learning (Safety)",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8722538002",
-      "posted_at": "2026-08-20T13:43:23-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8733650002",
-      "employer_name": "Lyft",
-      "job_title": "Software Engineer, iOS Integrity",
-      "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8733650002?gh_jid=8733650002",
-      "posted_at": "2026-08-20T13:35:41-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5397131008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Platform Portability ",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5397131008",
-      "posted_at": "2026-08-20T13:13:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8730666002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Data Scientist, Causal Inference + Experimentation",
-      "location": "San Francisco Bay Area ",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8730666002",
-      "posted_at": "2026-08-20T13:03:45-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7430555",
-      "employer_name": "Waymo",
-      "job_title": "Software Engineer, Simulation Infrastructure",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7430555",
-      "posted_at": "2026-08-20T12:32:17-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
