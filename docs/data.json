@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-08-21T14:35:14.833954+00:00",
+  "generated_at": "2026-08-21T15:32:42.278257+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_twilio_8026207",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer, Platform Engineering (L2)",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8026207",
+      "posted_at": "2026-08-21T11:17:56-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_7963838",
+      "employer_name": "Instacart",
+      "job_title": "Senior Machine Learning Engineer II, Ads Response Prediction",
+      "location": "United States - Remote",
+      "apply_link": "https://instacart.careers/job/?gh_jid=7963838",
+      "posted_at": "2026-08-21T10:56:26-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8140617",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Identity & Access Management",
+      "location": "New York City",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8140617",
+      "posted_at": "2026-08-21T10:53:50-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8135458",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Data Scientist",
+      "location": "Cork, Ireland; Dublin, Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8135458",
+      "posted_at": "2026-08-21T10:48:17-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8089815",
+      "employer_name": "Stripe",
+      "job_title": "Staff Backend Engineer - CI Services  ",
+      "location": "Dublin",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8089815",
+      "posted_at": "2026-08-21T10:43:52-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8035723",
+      "employer_name": "Stripe",
+      "job_title": "Staff Backend Engineer, Datalake Platform",
+      "location": "Dublin ",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8035723",
+      "posted_at": "2026-08-21T10:43:20-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8130377",
+      "employer_name": "Stripe",
+      "job_title": "Staff Backend Engineer - UI Platform",
+      "location": "Barcelona",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130377",
+      "posted_at": "2026-08-21T10:41:51-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_twilio_7394811",
       "employer_name": "Twilio",
@@ -108,26 +178,6 @@
       "location": "Remote - Colombia",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8102950",
       "posted_at": "2026-08-21T10:25:20-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8130377",
-      "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer - UI Platform",
-      "location": "Barcelona",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130377",
-      "posted_at": "2026-08-21T05:46:04-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7446310",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Software Engineer, Network Performance & Reliability (Argo)",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7446310?gh_jid=7446310",
-      "posted_at": "2026-08-21T05:22:41-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
