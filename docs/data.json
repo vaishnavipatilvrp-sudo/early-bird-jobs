@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-08-21T08:40:50.777159+00:00",
+  "generated_at": "2026-08-21T10:30:42.378698+00:00",
   "jobs": [
     {
       "job_id": "greenhouse_stripe_8130377",
       "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer - Sail Services",
+      "job_title": "Staff Software Engineer - UI Platform",
       "location": "Barcelona",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8130377",
-      "posted_at": "2026-08-21T03:53:55-04:00",
+      "posted_at": "2026-08-21T05:46:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7446310",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, Network Performance & Reliability (Argo)",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7446310?gh_jid=7446310",
+      "posted_at": "2026-08-21T05:22:41-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -39,16 +49,6 @@
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8119841",
       "posted_at": "2026-08-21T01:24:09-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_7640881",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Data Engineer, BizTech",
-      "location": "Bangalore, India",
-      "apply_link": "https://careers.airbnb.com/positions/7640881?gh_jid=7640881",
-      "posted_at": "2026-08-21T00:28:41-04:00",
-      "category": "Data Engineer",
       "source": "greenhouse"
     }
   ]
