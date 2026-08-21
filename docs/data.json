@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T10:35:03.844780+00:00",
+  "generated_at": "2026-08-21T12:48:00.718692+00:00",
   "jobs": [
     {
       "job_id": "greenhouse_stripe_8130377",
@@ -29,26 +29,6 @@
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002",
       "posted_at": "2026-08-21T03:24:25-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8119843",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3, Networking & Observability",
-      "location": "Alberta; British Columbia; Ontario; Quebec",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8119843",
-      "posted_at": "2026-08-21T01:24:10-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8119841",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3, Networking & Observability",
-      "location": "New York City; United States",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8119841",
-      "posted_at": "2026-08-21T01:24:09-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
