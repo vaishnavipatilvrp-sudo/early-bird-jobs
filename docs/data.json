@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-08-22T04:32:46.942206+00:00",
+  "generated_at": "2026-08-22T06:40:13.516851+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_databricks_7619810002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer (Infra)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002",
+      "posted_at": "2026-08-22T00:41:13-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7619811002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer - Observability",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619811002",
+      "posted_at": "2026-08-22T00:40:30-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7647369002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer (Data Platform)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002",
+      "posted_at": "2026-08-22T00:40:18-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8294304002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer (App-Framework)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002",
+      "posted_at": "2026-08-22T00:40:12-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7897431002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer - Data + AI Observability",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
+      "posted_at": "2026-08-22T00:40:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_databricks_7841782002",
       "employer_name": "Databricks",
@@ -9,96 +59,6 @@
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7841782002",
       "posted_at": "2026-08-22T00:28:21-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7438328",
-      "employer_name": "Waymo",
-      "job_title": "Staff Data Engineer",
-      "location": "Mountain View, California, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7438328",
-      "posted_at": "2026-08-21T20:28:09-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8146271",
-      "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer, Startup Products",
-      "location": "N/A",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8146271",
-      "posted_at": "2026-08-21T19:35:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8031833",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Intern",
-      "location": "Bengaluru",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "posted_at": "2026-08-21T19:31:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8097801",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Intern",
-      "location": "Dublin",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "posted_at": "2026-08-21T19:26:21-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5026097008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Product Engineer",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5026097008",
-      "posted_at": "2026-08-21T19:09:57-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8109035",
-      "employer_name": "Waymo",
-      "job_title": "ML Engineer, Foundation Model Recipes",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York, NY, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8109035",
-      "posted_at": "2026-08-21T19:06:54-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8107088",
-      "employer_name": "Waymo",
-      "job_title": "ML Engineer, Foundation Model Infrastructure",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York, NY, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8107088",
-      "posted_at": "2026-08-21T19:05:56-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8062708",
-      "employer_name": "Stripe",
-      "job_title": "Full Stack Engineer, Support Experience",
-      "location": "Toronto",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8062708",
-      "posted_at": "2026-08-21T18:55:39-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_7895287",
-      "employer_name": "Stripe",
-      "job_title": "Backend Engineer, Payments Experiences",
-      "location": "Sao Paulo",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7895287",
-      "posted_at": "2026-08-21T18:45:59-04:00",
-      "category": "Other",
       "source": "greenhouse"
     }
   ]
