@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T22:25:14.572691+00:00",
+  "generated_at": "2026-08-22T01:14:33.223314+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_719cc0f6-ed38-41db-8870-299b4d336f37",
@@ -10,6 +10,96 @@
       "posted_at": "2026-08-21T21:05:26.411+00:00",
       "category": "ML / AI Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_waymo_7438328",
+      "employer_name": "Waymo",
+      "job_title": "Staff Data Engineer",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7438328",
+      "posted_at": "2026-08-21T20:28:09-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8146271",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Startup Products",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8146271",
+      "posted_at": "2026-08-21T19:35:53-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8031833",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern",
+      "location": "Bengaluru",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "posted_at": "2026-08-21T19:31:29-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8097801",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern",
+      "location": "Dublin",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "posted_at": "2026-08-21T19:26:21-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5026097008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff Software Engineer, Product Engineer",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5026097008",
+      "posted_at": "2026-08-21T19:09:57-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8109035",
+      "employer_name": "Waymo",
+      "job_title": "ML Engineer, Foundation Model Recipes",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York, NY, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8109035",
+      "posted_at": "2026-08-21T19:06:54-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8107088",
+      "employer_name": "Waymo",
+      "job_title": "ML Engineer, Foundation Model Infrastructure",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York, NY, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8107088",
+      "posted_at": "2026-08-21T19:05:56-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8062708",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Support Experience",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8062708",
+      "posted_at": "2026-08-21T18:55:39-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7895287",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Payments Experiences",
+      "location": "Sao Paulo",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7895287",
+      "posted_at": "2026-08-21T18:45:59-04:00",
+      "category": "Other",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_xai_5063490007",
@@ -342,26 +432,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8097801",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Intern",
-      "location": "Dublin",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "posted_at": "2026-08-21T18:13:55-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "ashby_openai_990397de-c00c-4577-b093-d8c82b4e9145",
-      "employer_name": "OpenAI",
-      "job_title": "Software Engineer, API Safety",
-      "location": "San Francisco",
-      "apply_link": "https://jobs.ashbyhq.com/openai/990397de-c00c-4577-b093-d8c82b4e9145",
-      "posted_at": "2026-08-21T17:12:26.509+00:00",
-      "category": "Software Engineer",
-      "source": "ashby"
-    },
-    {
       "job_id": "greenhouse_coinbase_8146039",
       "employer_name": "Coinbase",
       "job_title": "Senior Software Engineer (Platform - Access & Authorization)",
@@ -379,16 +449,6 @@
       "apply_link": "https://www.coinbase.com/careers/positions/8114877?gh_jid=8114877",
       "posted_at": "2026-08-21T17:04:19-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_7895287",
-      "employer_name": "Stripe",
-      "job_title": "Backend Engineer, Payments Experiences",
-      "location": "N/A",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7895287",
-      "posted_at": "2026-08-21T17:00:33-04:00",
-      "category": "Other",
       "source": "greenhouse"
     },
     {
@@ -462,21 +522,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7727896",
-      "employer_name": "MongoDB",
-      "job_title": "Security Software Engineer, Infrastructure Security (Staff or Senior)",
-      "location": "Austin; New York City; San Francisco; Seattle; United States",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7727896",
-      "posted_at": "2026-08-21T15:40:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_7727899",
       "employer_name": "MongoDB",
       "job_title": "Security Software Engineer, Infrastructure Security (Staff or Senior)",
       "location": "Dublin; Ireland",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7727899",
+      "posted_at": "2026-08-21T15:40:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7727896",
+      "employer_name": "MongoDB",
+      "job_title": "Security Software Engineer, Infrastructure Security (Staff or Senior)",
+      "location": "Austin; New York City; San Francisco; Seattle; United States",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7727896",
       "posted_at": "2026-08-21T15:40:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -587,16 +647,6 @@
       "job_title": "Senior Software Engineer, Atlas Clusters",
       "location": "Dublin",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7588895",
-      "posted_at": "2026-08-21T15:40:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7940512",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Atlas Search Query",
-      "location": "San Francisco",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7940512",
       "posted_at": "2026-08-21T15:40:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -732,6 +782,16 @@
       "source": "greenhouse"
     },
     {
+      "job_id": "greenhouse_mongodb_7993984",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7993984",
+      "posted_at": "2026-08-21T15:40:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "greenhouse_mongodb_8089124",
       "employer_name": "MongoDB",
       "job_title": "Software Engineer 3",
@@ -742,11 +802,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7993984",
+      "job_id": "greenhouse_mongodb_8083761",
       "employer_name": "MongoDB",
       "job_title": "Software Engineer 3",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7993984",
+      "location": "New York City",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8083761",
       "posted_at": "2026-08-21T15:40:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -767,16 +827,6 @@
       "job_title": "Software Engineer 3",
       "location": "Gurugram",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8083366",
-      "posted_at": "2026-08-21T15:40:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8083761",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "New York City",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8083761",
       "posted_at": "2026-08-21T15:40:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -842,21 +892,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7523920",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3, Atlas Search Systems",
-      "location": "San Francisco",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7523920",
-      "posted_at": "2026-08-21T15:40:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_7662950",
       "employer_name": "MongoDB",
       "job_title": "Software Engineer 3, Atlas Search Systems",
       "location": "Toronto",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7662950",
+      "posted_at": "2026-08-21T15:40:40-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7523920",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3, Atlas Search Systems",
+      "location": "San Francisco",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7523920",
       "posted_at": "2026-08-21T15:40:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -929,1426 +979,6 @@
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7696228",
       "posted_at": "2026-08-21T15:40:40-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8013843",
-      "employer_name": "Waymo",
-      "job_title": "Staff Software Engineer/ Tech Lead - Onboard Model Consolidation",
-      "location": "Mountain View, California, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8013843",
-      "posted_at": "2026-08-21T14:53:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8027386",
-      "employer_name": "Waymo",
-      "job_title": "Staff Software Engineer, Compute Reliability",
-      "location": "Mountain View, California, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8027386",
-      "posted_at": "2026-08-21T14:53:04-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8643108002",
-      "employer_name": "Lyft",
-      "job_title": "Senior Financial Data Analyst",
-      "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8643108002?gh_jid=8643108002",
-      "posted_at": "2026-08-21T13:54:15-04:00",
-      "category": "Data Analyst",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8099162",
-      "employer_name": "Twilio",
-      "job_title": "Senior Software Engineer (L3)",
-      "location": "Remote - Canada",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8099162",
-      "posted_at": "2026-08-21T13:33:45-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8584593002",
-      "employer_name": "Lyft",
-      "job_title": "Software Engineer, Fulfillment",
-      "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8584593002?gh_jid=8584593002",
-      "posted_at": "2026-08-21T13:30:21-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8012269",
-      "employer_name": "Waymo",
-      "job_title": "Staff Software Engineer, DUE Experience",
-      "location": "Mountain View, CA, United States ",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8012269",
-      "posted_at": "2026-08-21T13:02:48-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8140310",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer - Quicksilver - Distributed Key Value",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8140310?gh_jid=8140310",
-      "posted_at": "2026-08-21T12:57:23-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5390799008",
-      "employer_name": "Anthropic",
-      "job_title": "Applied AI Engineer",
-      "location": "Tokyo, Japan",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5390799008",
-      "posted_at": "2026-08-21T12:50:56-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5390754008",
-      "employer_name": "Anthropic",
-      "job_title": "Applied AI Engineer, Enterprise",
-      "location": "Paris, France",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008",
-      "posted_at": "2026-08-21T12:50:55-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5390795008",
-      "employer_name": "Anthropic",
-      "job_title": "Applied AI Engineer, Enterprise",
-      "location": "Munich, Germany",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5390795008",
-      "posted_at": "2026-08-21T12:50:55-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5388612008",
-      "employer_name": "Anthropic",
-      "job_title": "Software Engineer, Infrastructure, Interpretability",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5388612008",
-      "posted_at": "2026-08-21T12:50:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5389305008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Education",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5389305008",
-      "posted_at": "2026-08-21T12:50:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5385998008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff + Senior Software Engineer, Inference",
-      "location": "Ontario, CAN",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5385998008",
-      "posted_at": "2026-08-21T12:50:51-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5387083008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Infrastructure (Distributed Systems)",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5387083008",
-      "posted_at": "2026-08-21T12:50:51-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5383610008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Claude Code",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5383610008",
-      "posted_at": "2026-08-21T12:50:49-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5383114008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Privacy",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5383114008",
-      "posted_at": "2026-08-21T12:50:48-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5379140008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Safeguards Data ",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5379140008",
-      "posted_at": "2026-08-21T12:50:45-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5368166008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, GTM Systems",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5368166008",
-      "posted_at": "2026-08-21T12:50:43-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5367585008",
-      "employer_name": "Anthropic",
-      "job_title": "Software Engineer, Desktop",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5367585008",
-      "posted_at": "2026-08-21T12:50:42-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5367436008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Environments Infrastructure",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5367436008",
-      "posted_at": "2026-08-21T12:50:42-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5370690008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Code RL",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5370690008",
-      "posted_at": "2026-08-21T12:50:41-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5364804008",
-      "employer_name": "Anthropic",
-      "job_title": "Machine Learning Infrastructure Engineer, Safeguards Research",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5364804008",
-      "posted_at": "2026-08-21T12:50:40-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5363469008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Growth ",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5363469008",
-      "posted_at": "2026-08-21T12:50:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5342935008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Safeguards Review Tooling",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5342935008",
-      "posted_at": "2026-08-21T12:50:36-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5310731008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Capacity Engineering",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5310731008",
-      "posted_at": "2026-08-21T12:50:33-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5304425008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Labs: Applied AI",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5304425008",
-      "posted_at": "2026-08-21T12:50:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5305402008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Web Platform",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5305402008",
-      "posted_at": "2026-08-21T12:50:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5301737008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Caching",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5301737008",
-      "posted_at": "2026-08-21T12:50:31-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5368040008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Claude Science",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5368040008",
-      "posted_at": "2026-08-21T12:50:31-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5301750008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Databases",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5301750008",
-      "posted_at": "2026-08-21T12:50:31-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5368034008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Enterprise AI Products",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5368034008",
-      "posted_at": "2026-08-21T12:50:31-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5289450008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Enterprise Knowledge Work",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5289450008",
-      "posted_at": "2026-08-21T12:50:31-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5288742008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Enterprise",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5288742008",
-      "posted_at": "2026-08-21T12:50:30-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5285246008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Computer Use",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5285246008",
-      "posted_at": "2026-08-21T12:50:29-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5277834008",
-      "employer_name": "Anthropic",
-      "job_title": "Manager, Applied AI Engineering,  Beneficial Deployments (Life Sciences)",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5277834008",
-      "posted_at": "2026-08-21T12:50:28-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5271380008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Domain Scaling",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5271380008",
-      "posted_at": "2026-08-21T12:50:27-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5265365008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Life Sciences",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5265365008",
-      "posted_at": "2026-08-21T12:50:26-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5264619008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, RL Scaling Science",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5264619008",
-      "posted_at": "2026-08-21T12:50:26-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5257650008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Inference Runtime",
-      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5257650008",
-      "posted_at": "2026-08-21T12:50:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5254364008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Code RL (Reinforcement Learning)",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5254364008",
-      "posted_at": "2026-08-21T12:50:24-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5250091008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, GRC Platform",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5250091008",
-      "posted_at": "2026-08-21T12:50:23-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5251671008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Safeguards Evals ",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5251671008",
-      "posted_at": "2026-08-21T12:50:23-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5240422008",
-      "employer_name": "Anthropic",
-      "job_title": "Data Engineer, Safeguards",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
-      "posted_at": "2026-08-21T12:50:22-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5238606008",
-      "employer_name": "Anthropic",
-      "job_title": "Software Engineer, RL Data",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5238606008",
-      "posted_at": "2026-08-21T12:50:22-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5245851008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff + Senior Software Engineer, Inference",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5245851008",
-      "posted_at": "2026-08-21T12:50:22-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5285557008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff + Senior Software Engineer, Inference Deployment",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5285557008",
-      "posted_at": "2026-08-21T12:50:22-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5232055008",
-      "employer_name": "Anthropic",
-      "job_title": "Data Scientist, Policy",
-      "location": "New York City, NY; San Francisco, CA | New York City, NY; Washington, DC",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5232055008",
-      "posted_at": "2026-08-21T12:50:18-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5231612008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Chip Design RL (Reinforcement Learning)",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5231612008",
-      "posted_at": "2026-08-21T12:50:18-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5231496008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff + Sr. Software Engineer, Cloud Inference",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5231496008",
-      "posted_at": "2026-08-21T12:50:18-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5238296008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff + Sr. Software Engineer, Cloud Inference Launch Engineering",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5238296008",
-      "posted_at": "2026-08-21T12:50:18-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5229345008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Claude Design",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5229345008",
-      "posted_at": "2026-08-21T12:50:16-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5209196008",
-      "employer_name": "Anthropic",
-      "job_title": "Data Scientist, Safeguards",
-      "location": "New York City, NY; San Francisco, CA; Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
-      "posted_at": "2026-08-21T12:50:12-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5205704008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Public Sector",
-      "location": "Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5205704008",
-      "posted_at": "2026-08-21T12:50:11-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5197529008",
-      "employer_name": "Anthropic",
-      "job_title": "Data Scientist, Developer Productivity",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5197529008",
-      "posted_at": "2026-08-21T12:50:09-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5198074008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Machine Learning (RL Velocity)",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5198074008",
-      "posted_at": "2026-08-21T12:50:09-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5198108008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Machine Learning (RL Velocity)",
-      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5198108008",
-      "posted_at": "2026-08-21T12:50:09-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5198255008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Model Evaluations",
-      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5198255008",
-      "posted_at": "2026-08-21T12:50:09-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5196852008",
-      "employer_name": "Anthropic",
-      "job_title": "Data Scientist, GTM",
-      "location": "New York City, NY; San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5196852008",
-      "posted_at": "2026-08-21T12:50:08-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5191226008",
-      "employer_name": "Anthropic",
-      "job_title": "Software Engineer, Research Data Platform",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5191226008",
-      "posted_at": "2026-08-21T12:50:07-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5186067008",
-      "employer_name": "Anthropic",
-      "job_title": "Full-Stack Software Engineer, Reinforcement Learning",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5186067008",
-      "posted_at": "2026-08-21T12:50:06-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5174743008",
-      "employer_name": "Anthropic",
-      "job_title": "Senior Software Engineer, Full-stack",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5174743008",
-      "posted_at": "2026-08-21T12:50:04-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5174755008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Backend",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5174755008",
-      "posted_at": "2026-08-21T12:50:04-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5174747008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Full-stack",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5174747008",
-      "posted_at": "2026-08-21T12:50:04-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5161402008",
-      "employer_name": "Anthropic",
-      "job_title": "Data Scientist, Marketing",
-      "location": "New York City, NY | Seattle, WA; San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008",
-      "posted_at": "2026-08-21T12:50:02-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5160330008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Performance RL (Reinforcement Learning) ",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5160330008",
-      "posted_at": "2026-08-21T12:50:02-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5398227008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Auth & Identity",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5398227008",
-      "posted_at": "2026-08-21T12:50:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5395767008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Claude Managed Agents",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5395767008",
-      "posted_at": "2026-08-21T12:50:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5398218008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Developer Experience",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5398218008",
-      "posted_at": "2026-08-21T12:50:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5157847008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Platform",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5157847008",
-      "posted_at": "2026-08-21T12:50:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5394948008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Platform Connectivity",
-      "location": "London, UK; San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5394948008",
-      "posted_at": "2026-08-21T12:50:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5397005008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Platform Distribution",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5397005008",
-      "posted_at": "2026-08-21T12:50:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5392335008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Platform Ecosystem",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5392335008",
-      "posted_at": "2026-08-21T12:50:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5397131008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Platform Portability ",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5397131008",
-      "posted_at": "2026-08-21T12:50:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5394943008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Product Sandboxing",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5394943008",
-      "posted_at": "2026-08-21T12:50:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5146298008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Billing Platform",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5146298008",
-      "posted_at": "2026-08-21T12:50:01-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5135168008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer / Research Scientist, Pre-training",
-      "location": "Z\u00fcrich, CH",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5135168008",
-      "posted_at": "2026-08-21T12:49:59-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5134895008",
-      "employer_name": "Anthropic",
-      "job_title": "Senior Staff Software Engineer, API",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5134895008",
-      "posted_at": "2026-08-21T12:49:59-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5125387008",
-      "employer_name": "Anthropic",
-      "job_title": "Data Engineering Manager, Product",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5125387008",
-      "posted_at": "2026-08-21T12:49:58-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5119713008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Pretraining",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5119713008",
-      "posted_at": "2026-08-21T12:49:57-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5123039008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Account Abuse",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5123039008",
-      "posted_at": "2026-08-21T12:49:57-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5325909008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Financial Fraud",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5325909008",
-      "posted_at": "2026-08-21T12:49:57-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5270442008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Identity & Access Controls",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5270442008",
-      "posted_at": "2026-08-21T12:49:57-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5119468008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, People Products",
-      "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5119468008",
-      "posted_at": "2026-08-21T12:49:57-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5116820008",
-      "employer_name": "Anthropic",
-      "job_title": "Lead Data Scientist, Platform Product",
-      "location": "New York City, NY | Seattle, WA; San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5116820008",
-      "posted_at": "2026-08-21T12:49:56-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5115935008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Machine Learning (Reinforcement Learning)",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5115935008",
-      "posted_at": "2026-08-21T12:49:56-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5114768008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Data Infrastructure",
-      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5114768008",
-      "posted_at": "2026-08-21T12:49:56-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5112018008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Production Model Post-Training",
-      "location": "Z\u00fcrich, CH",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5112018008",
-      "posted_at": "2026-08-21T12:49:55-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5109273008",
-      "employer_name": "Anthropic",
-      "job_title": "Software Engineer, Human Data Interface",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5109273008",
-      "posted_at": "2026-08-21T12:49:55-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5113224008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, AI Reliability",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5113224008",
-      "posted_at": "2026-08-21T12:49:55-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5290360008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Developer Acceleration",
-      "location": "San Francisco, CA | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5290360008",
-      "posted_at": "2026-08-21T12:49:55-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5110511008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Developer Productivity",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5110511008",
-      "posted_at": "2026-08-21T12:49:55-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5290468008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Experimentation",
-      "location": "San Francisco, CA | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5290468008",
-      "posted_at": "2026-08-21T12:49:55-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5211241008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Kubernetes Platform",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5211241008",
-      "posted_at": "2026-08-21T12:49:54-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5203868008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Node Infra",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5203868008",
-      "posted_at": "2026-08-21T12:49:54-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5101173008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, AI Reliability Engineering",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5101173008",
-      "posted_at": "2026-08-21T12:49:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5101169008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, AI Reliability Engineering",
-      "location": "Dublin, IE",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5101169008",
-      "posted_at": "2026-08-21T12:49:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5097186008",
-      "employer_name": "Anthropic",
-      "job_title": "Full Stack Engineer, Education Labs",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5097186008",
-      "posted_at": "2026-08-21T12:49:52-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5098025008",
-      "employer_name": "Anthropic",
-      "job_title": "Model Performance Software Engineer, Claude Code",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5098025008",
-      "posted_at": "2026-08-21T12:49:52-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5098092008",
-      "employer_name": "Anthropic",
-      "job_title": "Software Engineering Manager, Network Security",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5098092008",
-      "posted_at": "2026-08-21T12:49:52-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5097742008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Inference",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5097742008",
-      "posted_at": "2026-08-21T12:49:52-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5076477008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer / Scientist, Frontier Red Team (Cyber)",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5076477008",
-      "posted_at": "2026-08-21T12:49:51-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5074217008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Visual Knowledge Work",
-      "location": "New York City, NY; San Francisco, CA; Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5074217008",
-      "posted_at": "2026-08-21T12:49:50-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5073998008",
-      "employer_name": "Anthropic",
-      "job_title": " Staff Software Engineer, Continuous Integration",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5073998008",
-      "posted_at": "2026-08-21T12:49:50-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5074908008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Safeguards Infrastructure ",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5074908008",
-      "posted_at": "2026-08-21T12:49:50-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5071132008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Economic Research Data Platform",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5071132008",
-      "posted_at": "2026-08-21T12:49:49-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5065894008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Claude App Infrastructure",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5065894008",
-      "posted_at": "2026-08-21T12:49:49-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5057647008",
-      "employer_name": "Anthropic",
-      "job_title": "Applied AI Engineer, Enterprise Tech",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
-      "posted_at": "2026-08-21T12:49:48-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5061517008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Universes",
-      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5061517008",
-      "posted_at": "2026-08-21T12:49:48-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5063007008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Cybersecurity Products",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5063007008",
-      "posted_at": "2026-08-21T12:49:48-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5025624008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Cybersecurity RL (Reinforcement Learning)",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5025624008",
-      "posted_at": "2026-08-21T12:49:47-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5026097008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Front-End",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5026097008",
-      "posted_at": "2026-08-21T12:49:47-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4980430008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Interpretability",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
-      "posted_at": "2026-08-21T12:49:45-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4981828008",
-      "employer_name": "Anthropic",
-      "job_title": "Software Engineer, Research Tools",
-      "location": "San Francisco, CA | New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4981828008",
-      "posted_at": "2026-08-21T12:49:45-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4956672008",
-      "employer_name": "Anthropic",
-      "job_title": "Data Engineer",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4956672008",
-      "posted_at": "2026-08-21T12:49:43-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4949336008",
-      "employer_name": "Anthropic",
-      "job_title": "ML/Research Engineer, Safeguards",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4949336008",
-      "posted_at": "2026-08-21T12:49:42-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4951814008",
-      "employer_name": "Anthropic",
-      "job_title": " Research Engineer / Research Scientist, Tokens",
-      "location": "New York City, NY; New York City, NY | Seattle, WA; San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4951814008",
-      "posted_at": "2026-08-21T12:49:42-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4952051008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, RL Engineering",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
-      "posted_at": "2026-08-21T12:49:42-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4951844008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Safeguards",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4951844008",
-      "posted_at": "2026-08-21T12:49:42-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4938432008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Pretraining Scaling",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4938432008",
-      "posted_at": "2026-08-21T12:49:41-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4938436008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Pretraining Scaling - London",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4938436008",
-      "posted_at": "2026-08-21T12:49:41-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4970314008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Infrastructure (Distributed Systems)",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4970314008",
-      "posted_at": "2026-08-21T12:49:41-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4669581008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Discovery",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4669581008",
-      "posted_at": "2026-08-21T12:49:40-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4926242008",
-      "employer_name": "Anthropic",
-      "job_title": "Software Engineer, ML Networking",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4926242008",
-      "posted_at": "2026-08-21T12:49:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5211305008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Kubernetes Platform",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5211305008",
-      "posted_at": "2026-08-21T12:49:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5211498008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Node Infra",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5211498008",
-      "posted_at": "2026-08-21T12:49:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4778843008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Safeguards ML Infrastructure",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4778843008",
-      "posted_at": "2026-08-21T12:49:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5150472008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Inference",
-      "location": "Dublin, IE",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5150472008",
-      "posted_at": "2026-08-21T12:49:39-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4616971008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer/Research Scientist, Pre-training",
-      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4616971008",
-      "posted_at": "2026-08-21T12:49:38-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4631822008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer / Scientist, Alignment",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4631822008",
-      "posted_at": "2026-08-21T12:49:38-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4610158008",
-      "employer_name": "Anthropic",
-      "job_title": "[Expression of Interest] Research Engineer / Scientist, Alignment - London",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4610158008",
-      "posted_at": "2026-08-21T12:49:37-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4613568008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Machine Learning (Reinforcement Learning) ",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4613568008",
-      "posted_at": "2026-08-21T12:49:37-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4613592008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Production Model Post-Training",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4613592008",
-      "posted_at": "2026-08-21T12:49:37-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4595463008",
-      "employer_name": "Anthropic",
-      "job_title": "Security Software Engineer, Detection & Response Platform",
-      "location": "New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4595463008",
-      "posted_at": "2026-08-21T12:49:37-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4593216008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Research Engineer, Discovery Team",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4593216008",
-      "posted_at": "2026-08-21T12:49:37-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4899511008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Android",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4899511008",
-      "posted_at": "2026-08-21T12:49:35-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4572744008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, iOS",
-      "location": "San Francisco, CA, New York City, NY, Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4572744008",
-      "posted_at": "2026-08-21T12:49:35-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4017331008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Knowledge Team",
-      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4017331008",
-      "posted_at": "2026-08-21T12:49:34-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8146670",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Unified Gateway",
-      "location": " San Francisco, CA;Seattle, WA;Los Angeles, CA;New York, Ny",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8146670",
-      "posted_at": "2026-08-21T12:48:14-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8034894",
-      "employer_name": "Waymo",
-      "job_title": "Staff Product Data Scientist, Infrastructure",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8034894",
-      "posted_at": "2026-08-21T12:35:51-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8078241",
-      "employer_name": "Waymo",
-      "job_title": "Staff Product Data Scientist, Experimentation",
-      "location": "San Francisco, CA, USA; Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8078241",
-      "posted_at": "2026-08-21T12:35:10-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8082480",
-      "employer_name": "Waymo",
-      "job_title": "Senior Product Data Scientist, Planning",
-      "location": "San Francisco, CA, USA; Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8082480",
-      "posted_at": "2026-08-21T12:34:18-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8031521",
-      "employer_name": "Waymo",
-      "job_title": "Staff Product Data Scientist, Paid Media",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8031521",
-      "posted_at": "2026-08-21T12:31:52-04:00",
-      "category": "Data Scientist",
       "source": "greenhouse"
     }
   ]
