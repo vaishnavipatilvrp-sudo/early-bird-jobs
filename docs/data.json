@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-08-22T06:40:13.516851+00:00",
+  "generated_at": "2026-08-22T08:30:08.832272+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_lyft_8688631002",
+      "employer_name": "Lyft",
+      "job_title": "Staff Software Engineer, Lyft Business",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8688631002?gh_jid=8688631002",
+      "posted_at": "2026-08-22T04:12:57-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7944328",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7944328",
+      "posted_at": "2026-08-22T04:12:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8099162",
+      "employer_name": "Twilio",
+      "job_title": "Senior Software Engineer (L3)",
+      "location": "Remote - Canada",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8099162",
+      "posted_at": "2026-08-22T04:11:51-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_databricks_7619810002",
       "employer_name": "Databricks",
