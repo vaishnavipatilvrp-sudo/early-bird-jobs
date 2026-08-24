@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T16:38:15.516902+00:00",
+  "generated_at": "2026-08-24T18:40:27.861453+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_ec317080-e2d2-4a73-93e6-e0a9ae6fdf96",
@@ -22,12 +22,332 @@
       "source": "ashby"
     },
     {
-      "job_id": "greenhouse_twilio_7647708",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer",
-      "location": "Remote - Estonia",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7647708",
-      "posted_at": "2026-08-24T12:24:44-04:00",
+      "job_id": "greenhouse_stripe_8047083",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Financial Connections",
+      "location": "NYC, Toronto, Remote in Canada",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8047083",
+      "posted_at": "2026-08-24T14:10:07-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8131144",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Link",
+      "location": "NYC, Sea, SF, Tor",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8131144",
+      "posted_at": "2026-08-24T14:10:00-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7782546",
+      "employer_name": "Pinterest",
+      "job_title": "Software Engineer II, Big Data, tvScientific",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7782546",
+      "posted_at": "2026-08-24T13:57:41-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8081430",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Atlas Search Systems",
+      "location": "Toronto",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8081430",
+      "posted_at": "2026-08-24T13:48:06-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7438328",
+      "employer_name": "Waymo",
+      "job_title": "Senior Data Engineer",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7438328",
+      "posted_at": "2026-08-24T13:41:53-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8143263",
+      "employer_name": "Instacart",
+      "job_title": "Machine Learning Engineer II, Ads - Response Prediction",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8143263",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_7793391",
+      "employer_name": "Instacart",
+      "job_title": "Senior Applied Scientist II, Ads Optimization",
+      "location": "United States - Remote",
+      "apply_link": "https://instacart.careers/job/?gh_jid=7793391",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8132846",
+      "employer_name": "Instacart",
+      "job_title": "Senior Data Engineer II, Finance",
+      "location": "United States - Remote",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8132846",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8126023",
+      "employer_name": "Instacart",
+      "job_title": "Senior Data Engineer II, Finance",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8126023",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_4949335",
+      "employer_name": "Instacart",
+      "job_title": "Senior Data Scientist",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=4949335",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_4949339",
+      "employer_name": "Instacart",
+      "job_title": "Senior Data Scientist",
+      "location": "United States - Remote",
+      "apply_link": "https://instacart.careers/job/?gh_jid=4949339",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8143145",
+      "employer_name": "Instacart",
+      "job_title": "Senior Machine Learning Engineer, Digital Twin Platform",
+      "location": "United States - Remote",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8143145",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8143147",
+      "employer_name": "Instacart",
+      "job_title": "Senior Machine Learning Engineer, Digital Twin Platform",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8143147",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_7963838",
+      "employer_name": "Instacart",
+      "job_title": "Senior Machine Learning Engineer II, Ads Response Prediction",
+      "location": "United States - Remote",
+      "apply_link": "https://instacart.careers/job/?gh_jid=7963838",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_7565508",
+      "employer_name": "Instacart",
+      "job_title": "Senior Machine Learning Engineer II, Search & Recommendations Ranking",
+      "location": "US - Remote",
+      "apply_link": "https://instacart.careers/job/?gh_jid=7565508",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_7793089",
+      "employer_name": "Instacart",
+      "job_title": "Senior Machine Learning Engineer, Operations Research",
+      "location": "United States - Remote",
+      "apply_link": "https://instacart.careers/job/?gh_jid=7793089",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_7939947",
+      "employer_name": "Instacart",
+      "job_title": "Senior Software Engineer, Ads",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=7939947",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_7974573",
+      "employer_name": "Instacart",
+      "job_title": "Senior Software Engineer, AI Productivity",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=7974573",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_7951926",
+      "employer_name": "Instacart",
+      "job_title": "Senior Software Engineer, Core Experience",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=7951926",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8113993",
+      "employer_name": "Instacart",
+      "job_title": "Senior Software Engineer - Core Experience, Growth",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8113993",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8130034",
+      "employer_name": "Instacart",
+      "job_title": "Senior Software Engineer, Digital Twin Platform",
+      "location": "United States - Remote",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8130034",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_7979769",
+      "employer_name": "Instacart",
+      "job_title": "Senior Software Engineer I \u2014 Agentic Analytics",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=7979769",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_7951938",
+      "employer_name": "Instacart",
+      "job_title": "Senior Software Engineer II, Ads Data Solutions Engineering",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=7951938",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8141533",
+      "employer_name": "Instacart",
+      "job_title": "Senior Software Engineer II, Marketing Enablement & Technology",
+      "location": "United States - Remote",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8141533",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8141535",
+      "employer_name": "Instacart",
+      "job_title": "Senior Software Engineer II, Marketing Enablement & Technology",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8141535",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8089322",
+      "employer_name": "Instacart",
+      "job_title": "Senior Software Engineer, Marketing Enablement & Technology",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8089322",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8119683",
+      "employer_name": "Instacart",
+      "job_title": "Senior Software Engineer, Marketing Platform Tooling",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8119683",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_7963661",
+      "employer_name": "Instacart",
+      "job_title": "Software Engineer II, Technical Search Visibility",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=7963661",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8080310",
+      "employer_name": "Instacart",
+      "job_title": "Staff Software Engineer, Bazel & Go",
+      "location": "United States - Remote",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8080310",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8080312",
+      "employer_name": "Instacart",
+      "job_title": "Staff Software Engineer, Bazel & Go",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8080312",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_7778693",
+      "employer_name": "Instacart",
+      "job_title": "Staff Software Engineer,  Data Governance & Foundations",
+      "location": "United States - Remote",
+      "apply_link": "https://instacart.careers/job/?gh_jid=7778693",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8110286",
+      "employer_name": "Instacart",
+      "job_title": "Staff Software Engineer, Orders Platform",
+      "location": "United States - Remote",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8110286",
+      "posted_at": "2026-08-24T13:15:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7531466",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer (TLM), Multiverse",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7531466",
+      "posted_at": "2026-08-24T12:46:23-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
