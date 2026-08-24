@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-08-24T06:58:52.501303+00:00",
+  "generated_at": "2026-08-24T08:48:36.070005+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_databricks_8574655002",
+      "job_id": "greenhouse_databricks_8696599002",
       "employer_name": "Databricks",
       "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Seoul, South Korea",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8574655002",
-      "posted_at": "2026-08-23T22:30:26-04:00",
+      "location": "Stockholm, Sweden",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8696599002",
+      "posted_at": "2026-08-24T04:48:16-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8648669002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Amsterdam, Netherlands",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8648669002",
+      "posted_at": "2026-08-24T04:48:13-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
