@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-08-24T18:40:27.861453+00:00",
+  "generated_at": "2026-08-24T19:33:35.664245+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_9248eab6-74e0-4940-98eb-ca09b17da532",
+      "employer_name": "OpenAI",
+      "job_title": "Software Engineer, AI accelerator Runtime",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/9248eab6-74e0-4940-98eb-ca09b17da532",
+      "posted_at": "2026-08-24T18:51:59.391+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "ashby_openai_d1121575-a1a7-47c9-97e6-56c70f441143",
+      "employer_name": "OpenAI",
+      "job_title": "Systems Software Engineer, Silicon Bringup",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/d1121575-a1a7-47c9-97e6-56c70f441143",
+      "posted_at": "2026-08-24T18:48:55.627+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
     {
       "job_id": "ashby_openai_ec317080-e2d2-4a73-93e6-e0a9ae6fdf96",
       "employer_name": "OpenAI",
@@ -10,6 +30,46 @@
       "posted_at": "2026-08-24T16:34:31.338+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "Wk9Xcm1QaW14T1dtWmpkZUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURzlVVnpoclNuazBkemxKT1VKVldHdzNOWFZyUW1sTE1FUmtUVTlPV1hwNU5ERllZbFJsVEhoVlkySmhPV1JUZHkxaExWTkRRbU5LWWtkTWFFbEdOMU5KZGxOT2VHVXhOVUpIWlVKS2VHTTJiSFoxYzJWTGFVZGhRMUZSY1doMFRVdDBZMkpUWnkxMGRVTlBRbmRrZDIxdlNHOHdiV3hFTkhBdGJsRktaa1Z6VG1WR05sa1NGemx3ZFUxaGRUZGpSbGxYV210UVNWQTJZMUJZYlZFNEdpSkJSSE55T1daUlNYTktlQzFJVTNFM05tVnlORmRVYjFGaVRYWXpUemcyU0daUg",
+      "employer_name": "MasterCard",
+      "job_title": "Software Engineer, Launch Program 2027 - United States",
+      "location": "New York, New York",
+      "apply_link": "https://www.ziprecruiter.com/c/Mastercard/Job/Software-Engineer,-Launch-Program-2027-United-States/-in-New-York,NY?jid=22e0d67958174090",
+      "posted_at": "2026-08-24T16:00:00.000Z",
+      "category": "Software Engineer",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5400012008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff + Sr. Software Engineer, Scaling",
+      "location": "San Francisco, CA | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5400012008",
+      "posted_at": "2026-08-24T15:24:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8152556",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer",
+      "location": "Mountain View, CA, USA ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8152556",
+      "posted_at": "2026-08-24T15:15:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8012271",
+      "employer_name": "Waymo",
+      "job_title": "Sr. Staff Software Engineer, DUE Experience",
+      "location": "Mountain View, CA, Seattle, WA, New York City, Los Angeles CA, United States ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8012271",
+      "posted_at": "2026-08-24T14:53:11-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "ashby_notion_1fc309c8-da20-4ff2-84c7-8b863ece2b0a",
@@ -488,16 +548,6 @@
       "location": "Hybrid",
       "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7446310?gh_jid=7446310",
       "posted_at": "2026-08-24T10:25:15-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8350956002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer- Singapore",
-      "location": "Singapore",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8350956002",
-      "posted_at": "2026-08-24T08:54:15-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
