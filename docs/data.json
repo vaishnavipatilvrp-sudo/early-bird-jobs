@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-08-24T15:38:37.255039+00:00",
+  "generated_at": "2026-08-24T16:38:15.516902+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_ec317080-e2d2-4a73-93e6-e0a9ae6fdf96",
+      "employer_name": "OpenAI",
+      "job_title": "Software Engineer, Model Runtime",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/ec317080-e2d2-4a73-93e6-e0a9ae6fdf96",
+      "posted_at": "2026-08-24T16:34:31.338+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
     {
       "job_id": "ashby_notion_1fc309c8-da20-4ff2-84c7-8b863ece2b0a",
       "employer_name": "Notion (bonus, not on your original list)",
@@ -12,24 +22,34 @@
       "source": "ashby"
     },
     {
-      "job_id": "LWE4ZlhqUjNlanUzYThsMUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTVkV0VlVwWllrMDFkMUpOYlRWelNISnZaWE0wY0VGSmVVeENlVXBPUmtNdGRWTlliWEZFVVZnMVlqRlBWalY0VFUxWU9UTXhWazQ0Y2s5QlJUaFlSbVJYTTBab1FVWTRjRzUwTVY5WlMzTk9hWFpXVjFaQ1IyUnNSR2x5U1hCbGFrcGxUVFEzWjFsb0xVaDBlbGgyUldkVGNXNVpkRUV3T0hGVk16TlZVREZ3ZDA1WWJXTVNGazFYVjAxaGMwZDRRbDloVjJ0UVNWQjVUbFJZVlZFYUlrRkVjM0k1WmxKa1F6VTFiRlJvTkdjMWRuZHBOM1YyWkdoa2QzQTNjMVI2V1hj",
-      "employer_name": "Google",
-      "job_title": "Forward Deployed Engineer III, Generative AI, Google Cloud",
-      "location": "Pittsburgh, Pennsylvania",
-      "apply_link": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-iii-generative-ai-google-cloud-at-google-4456886943",
-      "posted_at": "2026-08-24T13:00:00.000Z",
-      "category": "Other",
-      "source": "jsearch"
+      "job_id": "greenhouse_twilio_7647708",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer",
+      "location": "Remote - Estonia",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7647708",
+      "posted_at": "2026-08-24T12:24:44-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
-      "job_id": "LWE4ZlhqUjNlanUzYThsMUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbGg2UlVFNWMzVkdWVmh5TVVzd1Rrb3pTMFZ3UlVaRldsY3hVMjAwYjFKU05YRkNWWFpFUmxCTk1YcHJkM2x5VW0wdE5WVTVVbGsyYURJNFFXdHFZbk4zUlVoTlMydGhNRWx5VkRsTmVrcG5OVFJqVmtkd1EyeG5TVEV6VEV0d1JHNXRZa3BQV2pVMGRXUjZkak5MU21zNFR6Qlhja3BvTkVwMFRrZFpNMnhaTTE4NGRWWVNGMU50VjAxaGNrOW5RVGgyU1d0UVNWQjZOVGRMTFZGckdpSkJSSE55T1daU1lWTk1kM0V5YzBkcldIRXRTMHczUVZkUFdXODNOWEpPU0d4Mw",
-      "employer_name": "Google",
-      "job_title": "Forward Deployed Engineer III, Generative AI, Google Cloud",
-      "location": "Pittsburgh, Pennsylvania",
-      "apply_link": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-iii-generative-ai-google-cloud-at-google-4456886943",
-      "posted_at": "2026-08-24T13:00:00.000Z",
-      "category": "Other",
-      "source": "jsearch"
+      "job_id": "greenhouse_coinbase_8113286",
+      "employer_name": "Coinbase",
+      "job_title": "Software Engineer, Data Platform Team",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8113286?gh_jid=8113286",
+      "posted_at": "2026-08-24T12:00:26-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_4595463008",
+      "employer_name": "Anthropic",
+      "job_title": "Security Software Engineer, Detection & Response Platform",
+      "location": "New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4595463008",
+      "posted_at": "2026-08-24T11:48:12-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_twilio_7394811",
@@ -38,16 +58,6 @@
       "location": "Remote - Ireland",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7394811",
       "posted_at": "2026-08-24T10:34:45-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7647708",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer",
-      "location": "Remote - Estonia",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7647708",
-      "posted_at": "2026-08-24T10:34:22-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -160,56 +170,6 @@
       "posted_at": "2026-08-24T10:25:15-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "UmRYRDR2cTZhNTJvMkQ5N0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURkJsUWxkNmVtWkpiMHBZYzE5cU1HMUNlWE0zVmxCSlFWUnBTVlJZU2w5WU1WUk9aSGczTW5reU9XRTRaa1ZxVTNWd05UWmhaMlF3VHpWRU5sUjBVVloyVEhsMFowUjBPVGcyYjFKSkxXZzJhRlJJWDI1bFVtWm5kblIzV2tOeE5IaFhiREZDVlZjelV6SlBkREZPYTE5UlJqVkdRVGd0U0c5TVZVVkhTRVJRZGpsWlkxOFNGelp0VTAxaGNubFJTbkpxV210UVNWQTFZMkZXTWxGTkdpSkJSSE55T1daU2JrbE9ZbGd5WkdKb2FVRmpMVkJtUTNOR1ZrbFVMWGhITkZGbg",
-      "employer_name": "Google",
-      "job_title": "Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start",
-      "location": "Kirkland, Washington",
-      "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-ai-machine-learning-phd-early-career-2027-start-at-google-4456881359",
-      "posted_at": "2026-08-24T10:00:00.000Z",
-      "category": "ML / AI Engineer",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "UmRYRDR2cTZhNTJvMkQ5N0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbmxIV21odmFHVnJWSGhmYzNBMGVqQTJhMVZqTFdRMlpHZE5ZVFJuUmxwaFJYWkpkWGd6WmxOMFExUTVjRmxoVDFaRlpsTllUVmt5U1hGd1pqZ3hUbU13YlhSYVdrb3lYMDU1ZG5sRGRtZHNjbTEzWlZKQk5VeG1URWRWZWpab1NHMWliME5VYzFWb1pYSnJhblZQVlZBdFpWZ3pRVWROV1VaUVoyb3phVFJwVkc1UFNHRVNGMHhIVjAxaGRsaHpUbDlmUTJ0UVNWQmZPVGRGYVZGUkdpSkJSSE55T1daUmJrNUtRbEZ5YkVWVlZ6aHVXVmRCVmxGeWNHRllNa3hDVWxSQg",
-      "employer_name": "Google",
-      "job_title": "Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start",
-      "location": "Kirkland, Washington",
-      "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-ai-machine-learning-phd-early-career-2027-start-at-google-4456881359",
-      "posted_at": "2026-08-24T10:00:00.000Z",
-      "category": "ML / AI Engineer",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "UmRYRDR2cTZhNTJvMkQ5N0FBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBURVZDZVZOMGJIQnRNVGxXY2xGdGVrNXVSRkV3ZW5GcmVHRXhiMlZqWWt4dWMxaHZiM0Y1YVZOQ1dFVTJWVlkwZGswMlZWVXdhakpSYWxrNGFWUm1SbTVhVkdSRFFqSkdiREJMWVV0VFdFeHVNME5qUzFObE0ySXpUbGM1YmpsQk9GWXplR2w0WDJ0dFoxZEVkbmN4VHpod1dEUlpTSEJuUjBOc2JqZzNRbVJMY0dsTmFYSVNGazFYVjAxaGMwZDRRbDloVjJ0UVNWQjVUbFJZVlZFYUlrRkVjM0k1WmxOQ1EzZFFRVTFLYWtOME0ydHBiRFZCUkhsdlNISmllWGN5VFhj",
-      "employer_name": "Google",
-      "job_title": "Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start",
-      "location": "Kirkland, Washington",
-      "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-ai-machine-learning-phd-early-career-2027-start-at-google-4456881359",
-      "posted_at": "2026-08-24T10:00:00.000Z",
-      "category": "ML / AI Engineer",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "UmRYRDR2cTZhNTJvMkQ5N0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR1pqWVVoMldFMHRhemQ2Ylc5UFZUWkxha2wzV2s1R1JYVlBjWFJDVUhOd1UxSTVOR2RXYjFaWE1rbHpWRkJ2Ym1JNGRYZFpUM0EyV1daSWQweHVaR3huU2taV1FWQkhaRlpJY0RWUGQweDRjMmR6VUdaMGFUZ3daekp4Y0RBeVZpMXhRWEZMZW1wTVMweFpXamhRWldZd0xUQnZURFV6ZURsUGFrWkNTMDFaV1dWdmNFc1NGMVF5VjAxaGRFeDVSazVoV0d0UVNWQjJXblpzTWtGSkdpSkJSSE55T1daVFdWOURjR2RhUW1FNGIzZDFXbXhLT1U1aGVYbG9SVmM0TVd0Mw",
-      "employer_name": "Google",
-      "job_title": "Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start",
-      "location": null,
-      "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-ai-machine-learning-phd-early-career-2027-start-at-google-4456881359",
-      "posted_at": "2026-08-24T10:00:00.000Z",
-      "category": "ML / AI Engineer",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "UmRYRDR2cTZhNTJvMkQ5N0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSGN4Tm00Mk1EbGhUM1JxTkhWNGJFWnBhRlEyYzNGcU5tMXBkbnBMTUZWM1dXSmZUa1ZrZURWQ1UyaDBTVGxUWkdsMlFqZE9kRGxTUTNwQ1oweGtMVUZDWDNrMVJXaGtORXByWVdwNWVFRTFTbVJ5YzBKMVgxQTJhVW8zYVdOeGVVSjBhbXRMTURaclNYaGtZazAxTUVsc1NuUnlMWFZzUlVzME5XTXlWall3WlRjMldESVNGMkZYVjAxaGNtWTRTVFJsYUd0UVNWQTRUblV5YTFFMEdpSkJSSE55T1daVVh6TmxXRFJwTm1aTk9VTm9kRmxJWVZoNVNrZFVMVVJTWTAxUg",
-      "employer_name": "Google",
-      "job_title": "Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start",
-      "location": "Kirkland, Washington",
-      "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-ai-machine-learning-phd-early-career-2027-start-at-google-4456881359",
-      "posted_at": "2026-08-24T10:00:00.000Z",
-      "category": "ML / AI Engineer",
-      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_databricks_8350956002",
