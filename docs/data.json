@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T04:38:58.152081+00:00",
+  "generated_at": "2026-08-25T06:48:46.705369+00:00",
   "jobs": [
     {
       "job_id": "greenhouse_airbnb_8154739",
@@ -29,66 +29,6 @@
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8148653",
       "posted_at": "2026-08-24T21:10:45-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8396751002",
-      "employer_name": "Lyft",
-      "job_title": "Software Engineer, Pricing - Price Orchestration",
-      "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8396751002?gh_jid=8396751002",
-      "posted_at": "2026-08-24T20:35:21-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7959074",
-      "employer_name": "Waymo",
-      "job_title": "Senior Business Intelligence Analyst",
-      "location": "Mountain View, CA USA ; San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7959074",
-      "posted_at": "2026-08-24T20:17:42-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8044370",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Spark Platform",
-      "location": "San Francisco, CA; Seattle, WA; Sunnyvale, CA; New York, NY",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8044370",
-      "posted_at": "2026-08-24T19:31:37-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8140089",
-      "employer_name": "Waymo",
-      "job_title": "Principal Software Engineer, Post Training",
-      "location": "Mountain View, CA. USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8140089",
-      "posted_at": "2026-08-24T19:25:01-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5182605008",
-      "employer_name": "Anthropic",
-      "job_title": "Data Scientist, Product",
-      "location": "New York City, NY; San Francisco, CA; Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5182605008",
-      "posted_at": "2026-08-24T19:19:04-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_7476555",
-      "employer_name": "Stripe",
-      "job_title": "Backend Engineer, Developer & End-user Experience Platform",
-      "location": "SEA, SF, NY, Toronto",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7476555",
-      "posted_at": "2026-08-24T19:07:56-04:00",
-      "category": "Other",
       "source": "greenhouse"
     }
   ]
