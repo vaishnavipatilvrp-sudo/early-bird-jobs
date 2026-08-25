@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-08-25T18:39:23.277070+00:00",
+  "generated_at": "2026-08-25T19:35:08.673807+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_twilio_8100236",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L2)",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8100236",
+      "posted_at": "2026-08-25T15:34:45-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7689461",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L2) Email",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7689461",
+      "posted_at": "2026-08-25T15:34:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8024880",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Analytics Engineer, GFCO Analytics",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
+      "posted_at": "2026-08-25T15:19:00-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8070574",
+      "employer_name": "Coinbase",
+      "job_title": "Software Engineer, Frontend (Coinbase Advisor - Agentic Trading)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8070574?gh_jid=8070574",
+      "posted_at": "2026-08-25T15:18:41-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "ashby_notion_9fc52821-c394-4a80-85ba-5f1d7c36fb2b",
       "employer_name": "Notion (bonus, not on your original list)",
@@ -678,16 +718,6 @@
       "location": "Remote - India",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007449",
       "posted_at": "2026-08-25T10:26:17-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8111979",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3, AI Builder Experience ",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8111979",
-      "posted_at": "2026-08-25T08:58:17-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
