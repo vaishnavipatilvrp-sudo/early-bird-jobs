@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T14:45:49.411530+00:00",
+  "generated_at": "2026-08-25T15:41:59.829434+00:00",
   "jobs": [
     {
       "job_id": "ashby_notion_9fc52821-c394-4a80-85ba-5f1d7c36fb2b",
@@ -10,6 +10,66 @@
       "posted_at": "2026-08-25T14:27:12.904+00:00",
       "category": "Data Scientist",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_5630438",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Android (All Teams)",
+      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630438",
+      "posted_at": "2026-08-25T11:40:30-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_5630445",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Backend (All Teams)",
+      "location": "Sunnyvale, CA; San Francisco, CA; New York, NY; Seattle, WA; Ann Arbor, MI",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630445",
+      "posted_at": "2026-08-25T11:40:30-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_5630454",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, iOS (All Teams)",
+      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630454",
+      "posted_at": "2026-08-25T11:40:30-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8155495",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, Enterprise Integrations",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8155495?gh_jid=8155495",
+      "posted_at": "2026-08-25T11:38:49-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7901943",
+      "employer_name": "Waymo",
+      "job_title": "Sr. Staff Software Engineer, Fleet Orchestration, TLM",
+      "location": "Mountain View, CA, United States; San Francisco, CA, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7901943",
+      "posted_at": "2026-08-25T11:12:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8746134002",
+      "employer_name": "Lyft",
+      "job_title": "Data Scientist, Optimization - Real-Time Supply Management",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8746134002?gh_jid=8746134002",
+      "posted_at": "2026-08-25T10:46:07-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_coinbase_7736521",
