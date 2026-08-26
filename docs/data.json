@@ -1,6 +1,126 @@
 {
-  "generated_at": "2026-08-26T16:48:37.480507+00:00",
+  "generated_at": "2026-08-26T19:46:42.186791+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_ba2ead69-d118-4a91-a4d7-c880d17fa7f9",
+      "employer_name": "OpenAI",
+      "job_title": "Manager, Applied AI Engineering (Digital Natives)",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/ba2ead69-d118-4a91-a4d7-c880d17fa7f9",
+      "posted_at": "2026-08-26T19:26:35.471+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "ashby_openai_bc0d4a9f-235f-4a4b-a854-c6cb0322ccaa",
+      "employer_name": "OpenAI",
+      "job_title": "Analytics Engineer, GTM",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/bc0d4a9f-235f-4a4b-a854-c6cb0322ccaa",
+      "posted_at": "2026-08-26T18:47:47.520+00:00",
+      "category": "Other",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4728014005",
+      "employer_name": "Scale AI",
+      "job_title": "Machine Learning Research Scientist, Evaluations",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4728014005",
+      "posted_at": "2026-08-26T14:51:42-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4528009005",
+      "employer_name": "Scale AI",
+      "job_title": "Machine Learning Research Scientist, Post-Training",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4528009005",
+      "posted_at": "2026-08-26T14:51:05-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8013129",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, CDP - Money Movement ",
+      "location": "Remote - Canada",
+      "apply_link": "https://www.coinbase.com/careers/positions/8013129?gh_jid=8013129",
+      "posted_at": "2026-08-26T14:18:07-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8039191",
+      "employer_name": "Waymo",
+      "job_title": " Software Engineer, Planner",
+      "location": "Mountain View, California; San Francisco, California; Pittsburgh, Pennsylvania",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8039191",
+      "posted_at": "2026-08-26T14:04:07-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7429718",
+      "employer_name": "Waymo",
+      "job_title": "Senior/Staff Machine Learning Engineer, Infrastructure",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7429718",
+      "posted_at": "2026-08-26T14:00:37-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8097801",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern",
+      "location": "Dublin",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "posted_at": "2026-08-26T14:00:11-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8031833",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern",
+      "location": "Bengaluru",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "posted_at": "2026-08-26T13:51:21-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7554830",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer, GPU",
+      "location": "Mountain View, CA, USA; New York, NY, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7554830",
+      "posted_at": "2026-08-26T13:50:10-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8081719",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Driving Behaviors",
+      "location": "Mountain View, CA, US; San Francisco, CA, US; New York, NY, US",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8081719",
+      "posted_at": "2026-08-26T13:49:31-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_5390243",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Durable Objects (DO)",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/5390243?gh_jid=5390243",
+      "posted_at": "2026-08-26T12:58:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_cloudflare_7541032",
       "employer_name": "Cloudflare (bonus, not on your original list)",
