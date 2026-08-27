@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T18:55:12.451573+00:00",
+  "generated_at": "2026-08-27T20:14:12.031308+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_984da843-107f-4ff6-ad27-07a06700e338",
@@ -10,6 +10,36 @@
       "posted_at": "2026-08-27T16:27:41.861+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8064873",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Data Layer",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8064873?gh_jid=8064873",
+      "posted_at": "2026-08-27T16:02:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7921649",
+      "employer_name": "Stripe",
+      "job_title": "Staff Data Analyst",
+      "location": "US",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7921649",
+      "posted_at": "2026-08-27T15:51:54-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7557899",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Developer & End-user Experience Platform",
+      "location": "Toronto, NY, SEA, SF",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7557899",
+      "posted_at": "2026-08-27T15:00:25-04:00",
+      "category": "Other",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_anthropic_4572744008",
@@ -50,16 +80,6 @@
       "posted_at": "2026-08-27T14:27:52-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "ashby_openai_b28b990c-54e4-4be4-a33a-d5518dc3e117",
-      "employer_name": "OpenAI",
-      "job_title": "Manager, Applied AI Engineering (Codex)",
-      "location": "San Francisco",
-      "apply_link": "https://jobs.ashbyhq.com/openai/b28b990c-54e4-4be4-a33a-d5518dc3e117",
-      "posted_at": "2026-08-27T13:49:10.819+00:00",
-      "category": "ML / AI Engineer",
-      "source": "ashby"
     },
     {
       "job_id": "greenhouse_doordashusa_8146670",
@@ -239,36 +259,6 @@
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8102950",
       "posted_at": "2026-08-27T10:25:22-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_5691478",
-      "employer_name": "Pinterest",
-      "job_title": "Sr. Machine Learning Engineer, Core Engineering",
-      "location": "Toronto, ON, CA",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=5691478",
-      "posted_at": "2026-08-27T09:30:06-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5404730008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, RL Data Platform",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5404730008",
-      "posted_at": "2026-08-27T09:21:33-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5404725008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Research Engineer, RL Data Platform",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5404725008",
-      "posted_at": "2026-08-27T09:05:22-04:00",
-      "category": "Other",
       "source": "greenhouse"
     }
   ]
