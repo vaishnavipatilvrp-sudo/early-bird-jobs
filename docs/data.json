@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-08-28T23:52:57.480567+00:00",
+  "generated_at": "2026-08-29T02:01:41.995931+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_waymo_8152556",
+      "employer_name": "Waymo",
+      "job_title": "Staff ML Engineer, Foundation Models",
+      "location": "Mountain View, CA, USA ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8152556",
+      "posted_at": "2026-08-28T21:27:43-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_coinbase_8165441",
       "employer_name": "Coinbase",
@@ -499,206 +509,6 @@
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5390795008",
       "posted_at": "2026-08-28T16:45:54-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8165015",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Frontend (Platform - Identity)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8165015?gh_jid=8165015",
-      "posted_at": "2026-08-28T15:56:50-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8164730",
-      "employer_name": "Coinbase",
-      "job_title": "Software Engineer, CDP - Payment Acceptance ",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8164730?gh_jid=8164730",
-      "posted_at": "2026-08-28T15:50:04-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4717701005",
-      "employer_name": "Scale AI",
-      "job_title": "Team Lead, ARC Software Engineering Team",
-      "location": "Washington, DC",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4717701005",
-      "posted_at": "2026-08-28T15:39:38-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5381381008",
-      "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Data Platform",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5381381008?gh_jid=5381381008",
-      "posted_at": "2026-08-28T15:07:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5400160008",
-      "employer_name": "Anthropic",
-      "job_title": "Software Engineer, Business Technology",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5400160008",
-      "posted_at": "2026-08-28T14:44:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5387083008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Infrastructure (Distributed Systems)",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5387083008",
-      "posted_at": "2026-08-28T14:44:00-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5264619008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, RL Scaling Science",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5264619008",
-      "posted_at": "2026-08-28T14:43:59-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5115935008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Machine Learning (Reinforcement Learning)",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5115935008",
-      "posted_at": "2026-08-28T14:43:58-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5198074008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Machine Learning (RL Velocity)",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5198074008",
-      "posted_at": "2026-08-28T14:43:58-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5119713008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Pretraining",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5119713008",
-      "posted_at": "2026-08-28T14:43:58-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4610158008",
-      "employer_name": "Anthropic",
-      "job_title": "[Expression of Interest] Research Engineer / Scientist, Alignment - London",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4610158008",
-      "posted_at": "2026-08-28T14:43:57-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_4938436008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, Pretraining Scaling - London",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4938436008",
-      "posted_at": "2026-08-28T14:43:57-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5101173008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, AI Reliability Engineering",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5101173008",
-      "posted_at": "2026-08-28T14:43:57-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5073998008",
-      "employer_name": "Anthropic",
-      "job_title": " Staff Software Engineer, Continuous Integration",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5073998008",
-      "posted_at": "2026-08-28T14:43:57-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5097742008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Inference",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5097742008",
-      "posted_at": "2026-08-28T14:43:57-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5211305008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Kubernetes Platform",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5211305008",
-      "posted_at": "2026-08-28T14:43:57-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5074908008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Safeguards Infrastructure ",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5074908008",
-      "posted_at": "2026-08-28T14:43:57-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5211498008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Node Infra",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5211498008",
-      "posted_at": "2026-08-28T14:43:56-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5101169008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, AI Reliability Engineering",
-      "location": "Dublin, IE",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5101169008",
-      "posted_at": "2026-08-28T14:43:33-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5150472008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Inference",
-      "location": "Dublin, IE",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5150472008",
-      "posted_at": "2026-08-28T14:43:33-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
