@@ -1,43 +1,13 @@
 {
-  "generated_at": "2026-08-29T08:56:12.506648+00:00",
+  "generated_at": "2026-08-29T10:52:11.999569+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_mongodb_8035228",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Atlas API Experience",
-      "location": "Dublin",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8035228",
-      "posted_at": "2026-08-29T00:32:59-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7588895",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Atlas Clusters",
-      "location": "Dublin",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7588895",
-      "posted_at": "2026-08-29T00:32:59-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7653008",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Server Networking Security (Rust)",
-      "location": "Cork, Ireland; Dublin, Ireland",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7653008",
-      "posted_at": "2026-08-29T00:32:42-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7696228",
-      "employer_name": "MongoDB",
-      "job_title": "Staff Software Engineer, Server Networking Security (Rust)",
-      "location": "Cork, Ireland; Dublin, Ireland",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7696228",
-      "posted_at": "2026-08-29T00:32:42-04:00",
+      "job_id": "greenhouse_cloudflare_7887609",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, Realtime",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7887609?gh_jid=7887609",
+      "posted_at": "2026-08-29T05:28:18-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
