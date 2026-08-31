@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T22:34:27.720813+00:00",
+  "generated_at": "2026-08-31T23:09:25.915742+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_46703db4-6023-4ac6-93a8-22dc95009945",
@@ -22,12 +22,82 @@
       "source": "ashby"
     },
     {
-      "job_id": "greenhouse_coinbase_8064916",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer, Backend - FinHub (Ledger)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8064916?gh_jid=8064916",
-      "posted_at": "2026-08-31T18:33:22-04:00",
+      "job_id": "greenhouse_instacart_8168338",
+      "employer_name": "Instacart",
+      "job_title": "Senior Data Analyst",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8168338",
+      "posted_at": "2026-08-31T19:08:09-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8168301",
+      "employer_name": "Instacart",
+      "job_title": "Senior Data Analyst",
+      "location": "United States - Remote (except California, Connecticut, New Jersey, New York, and Washington)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8168301",
+      "posted_at": "2026-08-31T19:08:07-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8130881",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad",
+      "location": "Dublin",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130881",
+      "posted_at": "2026-08-31T19:07:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8130922",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad",
+      "location": "Bucharest",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130922",
+      "posted_at": "2026-08-31T19:03:34-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5063490007",
+      "employer_name": "xAI",
+      "job_title": "AI Tutor - Software Engineering Specialist",
+      "location": "Remote International",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5063490007",
+      "posted_at": "2026-08-31T18:59:24-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8128745",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern (Summer or Winter)",
+      "location": "San Francisco, Seattle, New York City",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8128745",
+      "posted_at": "2026-08-31T18:57:06-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8130807",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern ",
+      "location": "Bucharest",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130807",
+      "posted_at": "2026-08-31T18:56:01-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8130927",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad - Frontend",
+      "location": "Barcelona",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130927",
+      "posted_at": "2026-08-31T18:35:45-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -58,16 +128,6 @@
       "location": "San Francisco, Seattle, New York",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8128744",
       "posted_at": "2026-08-31T18:22:27-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8128745",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Intern ",
-      "location": "San Francisco, Seattle, New York City",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8128745",
-      "posted_at": "2026-08-31T18:20:45-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -140,16 +200,6 @@
       "posted_at": "2026-08-31T17:09:27-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "ashby_openai_cadb7c24-2aea-4b98-a793-65ae9388b5d6",
-      "employer_name": "OpenAI",
-      "job_title": "People Research Data Scientist, AI Fairness & Bias",
-      "location": "San Francisco",
-      "apply_link": "https://jobs.ashbyhq.com/openai/cadb7c24-2aea-4b98-a793-65ae9388b5d6",
-      "posted_at": "2026-08-31T16:39:50.950+00:00",
-      "category": "Data Scientist",
-      "source": "ashby"
     },
     {
       "job_id": "greenhouse_waymo_7905643",
@@ -849,56 +899,6 @@
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7845732",
       "posted_at": "2026-08-31T13:22:53-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5406251008",
-      "employer_name": "Block",
-      "job_title": "Staff Software Engineer, Go-to-Market Systems & AI",
-      "location": "Toronto, Ontario, Canada",
-      "apply_link": "http://block.xyz/careers/jobs/5406251008?gh_jid=5406251008",
-      "posted_at": "2026-08-31T13:08:06-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5411025008",
-      "employer_name": "Block",
-      "job_title": "Staff Software Engineer, Go-to-Market Systems & AI",
-      "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5411025008?gh_jid=5411025008",
-      "posted_at": "2026-08-31T13:04:44-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5406249008",
-      "employer_name": "Block",
-      "job_title": "Staff Software Engineer, Go-to-Market Systems & AI",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5406249008?gh_jid=5406249008",
-      "posted_at": "2026-08-31T13:03:36-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7848842",
-      "employer_name": "Waymo",
-      "job_title": "Principal Software Engineer, Onboard Field Response",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7848842",
-      "posted_at": "2026-08-31T13:02:37-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8163689",
-      "employer_name": "Waymo",
-      "job_title": "Senior Data Scientist, Simulation Capacity Optimization",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8163689",
-      "posted_at": "2026-08-31T12:35:16-04:00",
-      "category": "Data Scientist",
       "source": "greenhouse"
     }
   ]
