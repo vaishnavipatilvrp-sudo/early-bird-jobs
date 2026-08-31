@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T17:25:16.383869+00:00",
+  "generated_at": "2026-08-31T17:28:23.861354+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_cadb7c24-2aea-4b98-a793-65ae9388b5d6",
@@ -40,6 +40,16 @@
       "posted_at": "2026-08-31T13:54:24.840+00:00",
       "category": "ML / AI Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8167571",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer, Security Platform",
+      "location": "Remote - India",
+      "apply_link": "https://www.coinbase.com/careers/positions/8167571?gh_jid=8167571",
+      "posted_at": "2026-08-31T13:27:12-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_waymo_7845732",
@@ -309,16 +319,6 @@
       "apply_link": "https://stripe.com/jobs/search?gh_jid=6717520",
       "posted_at": "2026-08-31T08:08:38-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8632126002",
-      "employer_name": "Databricks",
-      "job_title": "Full Stack Developer (AI Agents)",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002",
-      "posted_at": "2026-08-31T07:28:06-04:00",
-      "category": "Other",
       "source": "greenhouse"
     }
   ]
