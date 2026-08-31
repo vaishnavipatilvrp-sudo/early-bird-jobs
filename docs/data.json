@@ -1,4 +1,25 @@
 {
-  "generated_at": "2026-08-31T00:14:17.833985+00:00",
-  "jobs": []
+  "generated_at": "2026-08-31T08:11:54.164655+00:00",
+  "jobs": [
+    {
+      "job_id": "greenhouse_anthropic_5390799008",
+      "employer_name": "Anthropic",
+      "job_title": "Applied AI Engineer",
+      "location": "Tokyo, Japan",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5390799008",
+      "posted_at": "2026-08-31T00:27:01-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8166218",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer, Enterprise Apps",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8166218?gh_jid=8166218",
+      "posted_at": "2026-08-30T23:25:14-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    }
+  ]
 }
