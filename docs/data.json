@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-08-31T20:40:26.705895+00:00",
+  "generated_at": "2026-08-31T22:34:27.720813+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_46703db4-6023-4ac6-93a8-22dc95009945",
+      "employer_name": "OpenAI",
+      "job_title": "Software Engineer, Integrity Foundations - London",
+      "location": "London, UK",
+      "apply_link": "https://jobs.ashbyhq.com/openai/46703db4-6023-4ac6-93a8-22dc95009945",
+      "posted_at": "2026-08-31T22:30:25.325+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
     {
       "job_id": "ashby_openai_9371f837-70ef-4387-a4b7-70f252b04aa5",
       "employer_name": "OpenAI",
@@ -10,6 +20,126 @@
       "posted_at": "2026-08-31T19:44:52.442+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8064916",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer, Backend - FinHub (Ledger)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8064916?gh_jid=8064916",
+      "posted_at": "2026-08-31T18:33:22-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8130930",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad",
+      "location": "London",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130930",
+      "posted_at": "2026-08-31T18:32:53-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8130867",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern",
+      "location": "London",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130867",
+      "posted_at": "2026-08-31T18:30:38-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8128744",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad",
+      "location": "San Francisco, Seattle, New York",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8128744",
+      "posted_at": "2026-08-31T18:22:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8128745",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern ",
+      "location": "San Francisco, Seattle, New York City",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8128745",
+      "posted_at": "2026-08-31T18:20:45-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8021647",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8021647?gh_jid=8021647",
+      "posted_at": "2026-08-31T17:51:50-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8021650",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer",
+      "location": "Remote - Israel",
+      "apply_link": "https://www.coinbase.com/careers/positions/8021650?gh_jid=8021650",
+      "posted_at": "2026-08-31T17:40:48-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8164291",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer, Fleet Optimization",
+      "location": "San Francisco, CA ; Mountain View, CA ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8164291",
+      "posted_at": "2026-08-31T17:38:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5369941008",
+      "employer_name": "Block",
+      "job_title": "Software Engineer, Reconciliation & Reporting",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5369941008?gh_jid=5369941008",
+      "posted_at": "2026-08-31T17:33:33-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_4901418008",
+      "employer_name": "Block",
+      "job_title": "Software Engineer, Finance Applications",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/4901418008?gh_jid=4901418008",
+      "posted_at": "2026-08-31T17:33:16-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8157298",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Multimodal Perception",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8157298",
+      "posted_at": "2026-08-31T17:09:29-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8157152",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Multimodal Perception",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8157152",
+      "posted_at": "2026-08-31T17:09:27-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "ashby_openai_cadb7c24-2aea-4b98-a793-65ae9388b5d6",
@@ -130,16 +260,6 @@
       "posted_at": "2026-08-31T16:04:49-04:00",
       "category": "Data Scientist",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "ashby_cohere_582c4a60-14a2-49d5-b4d3-24c4ec50508d",
-      "employer_name": "Cohere",
-      "job_title": "Senior Technical Program Manager, Machine Learning Infrastructure",
-      "location": "Canada",
-      "apply_link": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d",
-      "posted_at": "2026-08-31T16:04:13.753+00:00",
-      "category": "ML / AI Engineer",
-      "source": "ashby"
     },
     {
       "job_id": "greenhouse_pinterest_7896332",
@@ -779,66 +899,6 @@
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8163689",
       "posted_at": "2026-08-31T12:35:16-04:00",
       "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_7925073",
-      "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer - Premium Merchant Experiences",
-      "location": "Dublin",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7925073",
-      "posted_at": "2026-08-31T12:15:20-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8097801",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Intern (Summer)",
-      "location": "Dublin",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "posted_at": "2026-08-31T12:10:42-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8031833",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Intern",
-      "location": "Bengaluru",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "posted_at": "2026-08-31T12:09:59-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8029497",
-      "employer_name": "Airbnb",
-      "job_title": "Staff Software Engineer, Infrastructure",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/8029497?gh_jid=8029497",
-      "posted_at": "2026-08-31T11:48:45-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8638847002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer \u2014 GTM Analytics",
-      "location": "United States",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002",
-      "posted_at": "2026-08-31T11:47:03-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8161336",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8161336",
-      "posted_at": "2026-08-31T11:15:38-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
