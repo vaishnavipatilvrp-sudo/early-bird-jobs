@@ -1,6 +1,86 @@
 {
-  "generated_at": "2026-09-01T18:09:34.320289+00:00",
+  "generated_at": "2026-09-01T19:14:28.930375+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_doordashusa_8171620",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Data and AI Platform",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8171620",
+      "posted_at": "2026-09-01T15:09:06-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8167460",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer",
+      "location": "New York City",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8167460",
+      "posted_at": "2026-09-01T15:02:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8700605002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Staff Software Engineer, Experimentation Platform",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8700605002",
+      "posted_at": "2026-09-01T15:02:18-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8167458",
+      "employer_name": "Instacart",
+      "job_title": "Analytics Engineer II",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8167458",
+      "posted_at": "2026-09-01T14:54:47-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8749859002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Munich, Germany",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8749859002",
+      "posted_at": "2026-09-01T14:48:46-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8747605002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Amsterdam, Netherlands",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8747605002",
+      "posted_at": "2026-09-01T14:47:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8171539",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Storage Abstractions",
+      "location": "San Francisco, Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8171539",
+      "posted_at": "2026-09-01T14:44:06-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8694476002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Data Platform",
+      "location": "San Francisco Bay Area ",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8694476002",
+      "posted_at": "2026-09-01T14:28:18-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_block_5412832008",
       "employer_name": "Block",
@@ -329,16 +409,6 @@
       "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7655695?gh_jid=7655695",
       "posted_at": "2026-09-01T09:23:35-04:00",
       "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8168866",
-      "employer_name": "DoorDash",
-      "job_title": "Senior Security Data Engineer",
-      "location": "United States - Remote",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8168866",
-      "posted_at": "2026-09-01T08:37:29-04:00",
-      "category": "Data Engineer",
       "source": "greenhouse"
     }
   ]
