@@ -1,13 +1,113 @@
 {
-  "generated_at": "2026-09-01T19:14:28.930375+00:00",
+  "generated_at": "2026-09-01T21:39:44.745414+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_doordashusa_8171620",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Data and AI Platform",
-      "location": "San Francisco, CA; Sunnyvale, CA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8171620",
-      "posted_at": "2026-09-01T15:09:06-04:00",
+      "job_id": "ashby_openai_be7b1bf5-37ab-40f7-9ec1-e9732244f12a",
+      "employer_name": "OpenAI",
+      "job_title": "Applied AI Engineer, Cyber, Government",
+      "location": "Washington, DC",
+      "apply_link": "https://jobs.ashbyhq.com/openai/be7b1bf5-37ab-40f7-9ec1-e9732244f12a",
+      "posted_at": "2026-09-01T21:15:47.771+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_waymo_7222566",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer, Simulator Platform",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7222566",
+      "posted_at": "2026-09-01T17:38:43-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7450706",
+      "employer_name": "Waymo",
+      "job_title": "Staff Tech Lead, Machine Learning Engineer, Perception",
+      "location": "Mountain View, California, United States; San Francisco, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7450706",
+      "posted_at": "2026-09-01T17:31:14-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8171684",
+      "employer_name": "Waymo",
+      "job_title": "Sr Staff Tech Lead, Machine Learning Engineer, Perception",
+      "location": "Mountain View, California, United States, San Francisco, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8171684",
+      "posted_at": "2026-09-01T17:28:10-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8014904",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Machine Learning Engineer, Assistance Engineering",
+      "location": "Remote-USA",
+      "apply_link": "https://careers.airbnb.com/positions/8014904?gh_jid=8014904",
+      "posted_at": "2026-09-01T17:25:47-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8065789",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Machine Learning Engineer, Query Intelligence",
+      "location": "United States",
+      "apply_link": "https://careers.airbnb.com/positions/8065789?gh_jid=8065789",
+      "posted_at": "2026-09-01T16:56:40-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7442152",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer(TLM), Driver Understanding and Evaluation",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7442152",
+      "posted_at": "2026-09-01T16:50:40-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8642085002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Full-Stack Software Engineer, Growth ",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8642085002",
+      "posted_at": "2026-09-01T16:29:31-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8642087002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Growth ",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8642087002",
+      "posted_at": "2026-09-01T16:29:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7964410",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer, Developer Infrastructure (Test Infrastructure)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7964410?gh_jid=7964410",
+      "posted_at": "2026-09-01T16:24:57-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8688631002",
+      "employer_name": "Lyft",
+      "job_title": "Staff Software Engineer, Lyft Business",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8688631002?gh_jid=8688631002",
+      "posted_at": "2026-09-01T16:10:46-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -17,7 +117,17 @@
       "job_title": "Senior Software Engineer",
       "location": "New York City",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8167460",
-      "posted_at": "2026-09-01T15:02:23-04:00",
+      "posted_at": "2026-09-01T15:28:09-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8171620",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Data and AI Platform",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8171620",
+      "posted_at": "2026-09-01T15:09:06-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -219,196 +329,6 @@
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8161512",
       "posted_at": "2026-09-01T11:49:06-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8167389",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8167389",
-      "posted_at": "2026-09-01T11:07:34-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8162237",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Staff Software Engineer, Finhub",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8162237?gh_jid=8162237",
-      "posted_at": "2026-09-01T11:06:10-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8162240",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Staff Software Engineer, Finhub",
-      "location": "Remote - Canada",
-      "apply_link": "https://www.coinbase.com/careers/positions/8162240?gh_jid=8162240",
-      "posted_at": "2026-09-01T11:05:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8060842",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Staff Software Engineer, Payments",
-      "location": "Remote - Canada",
-      "apply_link": "https://www.coinbase.com/careers/positions/8060842?gh_jid=8060842",
-      "posted_at": "2026-09-01T11:04:52-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8056068",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Staff Software Engineer, Payments",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8056068?gh_jid=8056068",
-      "posted_at": "2026-09-01T11:04:01-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8760281002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Berkeley, California; Los Angeles, California; Mountain View, California; Sacramento, California; San Diego, California; San Francisco, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760281002",
-      "posted_at": "2026-09-01T10:46:30-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8760318002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "McLean, Virginia; Reston, Virginia; Richmond, Virginia; Washington, D.C.",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760318002",
-      "posted_at": "2026-09-01T10:45:28-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8760332002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Chicago, Illinois",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760332002",
-      "posted_at": "2026-09-01T10:42:24-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8760319002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Charlotte, North Carolina; Durham, North Carolina; Raleigh, North Carolina",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760319002",
-      "posted_at": "2026-09-01T10:41:27-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8760299002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Denver, Colorado",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760299002",
-      "posted_at": "2026-09-01T10:40:58-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8760298002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Boston, Massachusetts",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760298002",
-      "posted_at": "2026-09-01T10:40:55-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8760283002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Austin, Texas; Dallas, Texas; Houston, Texas; Plano, Texas",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760283002",
-      "posted_at": "2026-09-01T10:40:42-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8760289002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "New York City, New York",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760289002",
-      "posted_at": "2026-09-01T10:40:02-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8760282002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Bellevue, Washington; Seattle, Washington",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760282002",
-      "posted_at": "2026-09-01T10:39:58-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8007449",
-      "employer_name": "Twilio",
-      "job_title": "Senior/Staff Applied Research Software Engineer",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007449",
-      "posted_at": "2026-09-01T10:27:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8760167002",
-      "employer_name": "Databricks",
-      "job_title": "Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
-      "location": "Maryland; Virginia; Washington, D.C.",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002",
-      "posted_at": "2026-09-01T10:17:19-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8102350",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Principal Software Engineer, Data",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8102350?gh_jid=8102350",
-      "posted_at": "2026-09-01T09:35:35-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8042034",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Machine Learning Engineer",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8042034?gh_jid=8042034",
-      "posted_at": "2026-09-01T09:25:40-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7655695",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Data Scientist",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7655695?gh_jid=7655695",
-      "posted_at": "2026-09-01T09:23:35-04:00",
-      "category": "Data Scientist",
       "source": "greenhouse"
     }
   ]
