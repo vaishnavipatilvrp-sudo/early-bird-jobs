@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T21:39:44.745414+00:00",
+  "generated_at": "2026-09-01T22:25:32.896435+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_be7b1bf5-37ab-40f7-9ec1-e9732244f12a",
@@ -10,6 +10,76 @@
       "posted_at": "2026-09-01T21:15:47.771+00:00",
       "category": "ML / AI Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7990090",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer, Edge",
+      "location": "US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7990090",
+      "posted_at": "2026-09-01T18:17:25-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7990086",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer, Service Communications",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7990086",
+      "posted_at": "2026-09-01T18:17:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7961706",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Simulation",
+      "location": "London, UK",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7961706",
+      "posted_at": "2026-09-01T18:14:11-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7961704",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer",
+      "location": "London, UK",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7961704",
+      "posted_at": "2026-09-01T18:12:35-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7986004",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Payments Intelligence",
+      "location": "Seattle, New York, San Francisco",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7986004",
+      "posted_at": "2026-09-01T17:59:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8172164",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Payments and Applied Machine Learning",
+      "location": "Seattle, New York, San Francisco",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8172164",
+      "posted_at": "2026-09-01T17:57:56-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8029497",
+      "employer_name": "Airbnb",
+      "job_title": "Staff Software Engineer, Event logging",
+      "location": "United States",
+      "apply_link": "https://careers.airbnb.com/positions/8029497?gh_jid=8029497",
+      "posted_at": "2026-09-01T17:42:35-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_waymo_7222566",
@@ -278,56 +348,6 @@
       "location": "San Francisco, New York City, Seattle, Chicago, US-Remote",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8127182",
       "posted_at": "2026-09-01T12:44:30-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8584593002",
-      "employer_name": "Lyft",
-      "job_title": "Software Engineer, Fulfillment",
-      "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8584593002?gh_jid=8584593002",
-      "posted_at": "2026-09-01T12:18:58-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_6042172",
-      "employer_name": "Stripe",
-      "job_title": "Backend Engineer, Core Technology",
-      "location": "US-Remote, Chicago, Seattle, San Francisco",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=6042172",
-      "posted_at": "2026-09-01T12:11:43-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_instacart_8168338",
-      "employer_name": "Instacart",
-      "job_title": "Senior Data Analyst",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "apply_link": "https://instacart.careers/job/?gh_jid=8168338",
-      "posted_at": "2026-09-01T11:53:21-04:00",
-      "category": "Data Analyst",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_instacart_8168301",
-      "employer_name": "Instacart",
-      "job_title": "Senior Data Analyst",
-      "location": "United States - Remote (except California, Connecticut, New Jersey, New York, and Washington)",
-      "apply_link": "https://instacart.careers/job/?gh_jid=8168301",
-      "posted_at": "2026-09-01T11:53:15-04:00",
-      "category": "Data Analyst",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8161512",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, SQL Engines",
-      "location": "United States",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8161512",
-      "posted_at": "2026-09-01T11:49:06-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
