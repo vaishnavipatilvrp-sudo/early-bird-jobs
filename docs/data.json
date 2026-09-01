@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-09-01T07:40:32.523040+00:00",
+  "generated_at": "2026-09-01T09:18:25.543662+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_stripe_7618977",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Core Technology",
+      "location": "Bangalore",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7618977",
+      "posted_at": "2026-09-01T05:13:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8106099",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, AI Builder Experience (ABX)",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8106099",
+      "posted_at": "2026-09-01T03:40:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8089124",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "United States",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8089124",
+      "posted_at": "2026-09-01T03:40:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_waymo_8013843",
       "employer_name": "Waymo",
@@ -98,36 +128,6 @@
       "location": "Bengaluru, India",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8210383002",
       "posted_at": "2026-09-01T00:01:38-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8128744",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, New Grad",
-      "location": "San Francisco, Seattle, New York",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8128744",
-      "posted_at": "2026-08-31T22:38:55-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8128745",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Intern (Summer or Winter)",
-      "location": "San Francisco, Seattle, New York City",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8128745",
-      "posted_at": "2026-08-31T22:38:22-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_7975725",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Core Infrastructure",
-      "location": "Sydney, Australia",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7975725",
-      "posted_at": "2026-08-31T22:09:06-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
