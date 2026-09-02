@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-09-02T07:02:32.220528+00:00",
+  "generated_at": "2026-09-02T08:28:40.236971+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_cloudflare_7657028",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Business Development Representative - Danish, Norwegian or Swedish Speaking",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7657028?gh_jid=7657028",
+      "posted_at": "2026-09-02T04:10:15-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8772592002",
+      "employer_name": "Lyft",
+      "job_title": "Data Scientist ",
+      "location": "Seattle, WA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8772592002?gh_jid=8772592002",
+      "posted_at": "2026-09-02T03:14:00-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8772594002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer",
+      "location": "Seattle, WA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8772594002?gh_jid=8772594002",
+      "posted_at": "2026-09-02T03:13:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8772571002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002",
+      "posted_at": "2026-09-02T03:13:51-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_anthropic_5390799008",
       "employer_name": "Anthropic",
@@ -102,21 +142,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8716720002",
-      "employer_name": "Databricks",
-      "job_title": "Sr. Developer Advocate, AI and Machine Learning",
-      "location": "Seattle, Washington",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8716720002",
-      "posted_at": "2026-09-02T01:00:18-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_databricks_8716192002",
       "employer_name": "Databricks",
       "job_title": "Sr. Developer Advocate, AI and Machine Learning",
       "location": "San Francisco, California",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8716192002",
+      "posted_at": "2026-09-02T01:00:18-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8716720002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. Developer Advocate, AI and Machine Learning",
+      "location": "Seattle, Washington",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8716720002",
       "posted_at": "2026-09-02T01:00:18-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -272,11 +312,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8760282002",
+      "job_id": "greenhouse_databricks_8760283002",
       "employer_name": "Databricks",
       "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Bellevue, Washington; Seattle, Washington",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760282002",
+      "location": "Austin, Texas; Dallas, Texas; Houston, Texas; Plano, Texas",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760283002",
       "posted_at": "2026-09-02T00:26:58-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -287,6 +327,46 @@
       "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
       "location": "Berkeley, California; Los Angeles, California; Mountain View, California; Sacramento, California; San Diego, California; San Francisco, California",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760281002",
+      "posted_at": "2026-09-02T00:26:58-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8760289002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "New York City, New York",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760289002",
+      "posted_at": "2026-09-02T00:26:58-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8760282002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Bellevue, Washington; Seattle, Washington",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760282002",
+      "posted_at": "2026-09-02T00:26:58-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8760332002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Chicago, Illinois",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760332002",
+      "posted_at": "2026-09-02T00:26:58-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8760319002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Charlotte, North Carolina; Durham, North Carolina; Raleigh, North Carolina",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760319002",
       "posted_at": "2026-09-02T00:26:58-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -317,46 +397,6 @@
       "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
       "location": "Boston, Massachusetts",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760298002",
-      "posted_at": "2026-09-02T00:26:58-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8760289002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "New York City, New York",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760289002",
-      "posted_at": "2026-09-02T00:26:58-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8760283002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Austin, Texas; Dallas, Texas; Houston, Texas; Plano, Texas",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760283002",
-      "posted_at": "2026-09-02T00:26:58-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8760332002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Chicago, Illinois",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760332002",
-      "posted_at": "2026-09-02T00:26:58-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8760319002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Charlotte, North Carolina; Durham, North Carolina; Raleigh, North Carolina",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760319002",
       "posted_at": "2026-09-02T00:26:58-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -422,6 +462,16 @@
       "source": "greenhouse"
     },
     {
+      "job_id": "greenhouse_databricks_8422484002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
+      "location": "Aarhus, Denmark",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422484002",
+      "posted_at": "2026-09-02T00:16:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "greenhouse_databricks_8422481002",
       "employer_name": "Databricks",
       "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
@@ -447,16 +497,6 @@
       "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
       "location": "Amsterdam, Netherlands",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422477002",
-      "posted_at": "2026-09-02T00:16:04-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8422484002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ",
-      "location": "Aarhus, Denmark",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422484002",
       "posted_at": "2026-09-02T00:16:04-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -522,21 +562,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_databricks_8575251002",
-      "employer_name": "Databricks",
-      "job_title": "Sr. Staff Software Engineer \u2014 Observability, Insights & Governance",
-      "location": "Bellevue, Washington; Seattle, Washington",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575251002",
-      "posted_at": "2026-09-02T00:05:12-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_databricks_8575248002",
       "employer_name": "Databricks",
       "job_title": "Sr. Staff Software Engineer \u2014 Observability, Insights & Governance",
       "location": "Mountain View, California; San Francisco, California",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575248002",
+      "posted_at": "2026-09-02T00:05:12-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8575251002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. Staff Software Engineer \u2014 Observability, Insights & Governance",
+      "location": "Bellevue, Washington; Seattle, Washington",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575251002",
       "posted_at": "2026-09-02T00:05:12-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -558,16 +598,6 @@
       "location": "Toronto, Canada",
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8755550002?gh_jid=8755550002",
       "posted_at": "2026-09-01T23:36:52-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_xai_5108231007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer - X Money",
-      "location": "London, England, United Kingdom",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5108231007",
-      "posted_at": "2026-09-01T21:07:51-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
