@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-09-02T18:26:50.875465+00:00",
+  "generated_at": "2026-09-02T19:15:00.947341+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_scaleai_4729899005",
+      "employer_name": "Scale AI",
+      "job_title": "Senior Data Analyst, Public Sector",
+      "location": "Washington, DC",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4729899005",
+      "posted_at": "2026-09-02T14:44:20-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8094826",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, Spectrum",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8094826?gh_jid=8094826",
+      "posted_at": "2026-09-02T14:29:30-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_scaleai_4729979005",
       "employer_name": "Scale AI",
@@ -109,16 +129,6 @@
       "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8722538002",
       "posted_at": "2026-09-02T12:36:22-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8299493002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Data Engineer, Ads",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8299493002",
-      "posted_at": "2026-09-02T12:36:22-04:00",
-      "category": "Data Engineer",
       "source": "greenhouse"
     },
     {
