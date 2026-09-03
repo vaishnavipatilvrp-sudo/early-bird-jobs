@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-09-03T14:11:41.898769+00:00",
+  "generated_at": "2026-09-03T14:16:34.409513+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_mongodb_8168859",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8168859",
+      "posted_at": "2026-09-03T10:11:30-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_anthropic_5245851008",
       "employer_name": "Anthropic",
