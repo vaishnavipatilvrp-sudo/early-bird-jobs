@@ -1,23 +1,53 @@
 {
-  "generated_at": "2026-09-03T08:37:07.530421+00:00",
+  "generated_at": "2026-09-03T14:11:41.898769+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_airbnb_8154477",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Software Engineer(AI/ML), Trust",
-      "location": "Bangalore, India",
-      "apply_link": "https://careers.airbnb.com/positions/8154477?gh_jid=8154477",
-      "posted_at": "2026-09-03T03:36:48-04:00",
+      "job_id": "greenhouse_anthropic_5245851008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff + Senior Software Engineer, Inference Infrastructure",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5245851008",
+      "posted_at": "2026-09-03T09:29:10-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8160776",
+      "job_id": "greenhouse_databricks_8569392002",
+      "employer_name": "Databricks",
+      "job_title": "Senior AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Tokyo, Japan",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569392002",
+      "posted_at": "2026-09-03T09:18:50-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_6717520",
       "employer_name": "Stripe",
-      "job_title": "Software Engineer, New Grad",
-      "location": "Singapore",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8160776",
-      "posted_at": "2026-09-02T23:28:52-04:00",
+      "job_title": "Software Engineer, Payments and Risk",
+      "location": "Dublin, Ireland",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=6717520",
+      "posted_at": "2026-09-03T09:05:01-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8160660",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, Security Rules",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8160660?gh_jid=8160660",
+      "posted_at": "2026-09-03T08:39:43-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8075888",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer, Web Product Enablement ",
+      "location": "San Francisco, CA, US; Remote, CA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8075888",
+      "posted_at": "2026-09-03T06:32:26-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
