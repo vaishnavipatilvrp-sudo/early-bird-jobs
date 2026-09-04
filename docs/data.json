@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-09-04T21:19:38.182046+00:00",
+  "generated_at": "2026-09-04T22:10:23.356535+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_coinbase_8180833",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Market Data Engineer",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
+      "posted_at": "2026-09-04T17:31:02-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_coinbase_8144836",
       "employer_name": "Coinbase",
@@ -132,21 +142,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8160776",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, New Grad",
-      "location": "Singapore",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8160776",
-      "posted_at": "2026-09-04T14:12:18-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_stripe_8157838",
       "employer_name": "Stripe",
       "job_title": "Software Engineer, New Grad",
       "location": "Toronto",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8157838",
+      "posted_at": "2026-09-04T14:12:18-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8160776",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad",
+      "location": "Singapore",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8160776",
       "posted_at": "2026-09-04T14:12:18-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -222,16 +232,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8128745",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Intern (Summer or Winter)",
-      "location": "San Francisco, Seattle, New York City",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8128745",
-      "posted_at": "2026-09-04T14:12:15-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_stripe_8130805",
       "employer_name": "Stripe",
       "job_title": "Software Engineer, Intern (Summer or Winter)",
@@ -242,21 +242,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8130922",
+      "job_id": "greenhouse_stripe_8128745",
       "employer_name": "Stripe",
-      "job_title": "Software Engineer, New Grad",
-      "location": "Bucharest",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130922",
-      "posted_at": "2026-09-04T14:12:15-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8130881",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, New Grad",
-      "location": "Dublin",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130881",
+      "job_title": "Software Engineer, Intern (Summer or Winter)",
+      "location": "San Francisco, Seattle, New York City",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8128745",
       "posted_at": "2026-09-04T14:12:15-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -272,11 +262,31 @@
       "source": "greenhouse"
     },
     {
+      "job_id": "greenhouse_stripe_8130881",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad",
+      "location": "Dublin",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130881",
+      "posted_at": "2026-09-04T14:12:15-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "greenhouse_stripe_8130930",
       "employer_name": "Stripe",
       "job_title": "Software Engineer, New Grad",
       "location": "London",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8130930",
+      "posted_at": "2026-09-04T14:12:15-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8130922",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad",
+      "location": "Bucharest",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130922",
       "posted_at": "2026-09-04T14:12:15-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -1112,21 +1122,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_lyft_8697679002",
-      "employer_name": "Lyft",
-      "job_title": "Data Analyst, Go-To-Market Sales Insights",
-      "location": "New York, NY",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8697679002?gh_jid=8697679002",
-      "posted_at": "2026-09-04T14:04:34-04:00",
-      "category": "Data Analyst",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_lyft_8697536002",
       "employer_name": "Lyft",
       "job_title": "Data Analyst, Go-To-Market Sales Insights",
       "location": "San Francisco, CA",
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8697536002?gh_jid=8697536002",
+      "posted_at": "2026-09-04T14:04:34-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8697679002",
+      "employer_name": "Lyft",
+      "job_title": "Data Analyst, Go-To-Market Sales Insights",
+      "location": "New York, NY",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8697679002?gh_jid=8697679002",
       "posted_at": "2026-09-04T14:04:34-04:00",
       "category": "Data Analyst",
       "source": "greenhouse"
@@ -1572,21 +1582,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_lyft_8761940002",
-      "employer_name": "Lyft",
-      "job_title": "Staff Software Engineer",
-      "location": "San Francisco, CA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8761940002?gh_jid=8761940002",
-      "posted_at": "2026-09-04T14:04:34-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_lyft_8639319002",
       "employer_name": "Lyft",
       "job_title": "Staff Software Engineer",
       "location": "Ukraine Anywhere",
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8639319002?gh_jid=8639319002",
+      "posted_at": "2026-09-04T14:04:34-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8761940002",
+      "employer_name": "Lyft",
+      "job_title": "Staff Software Engineer",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8761940002?gh_jid=8761940002",
       "posted_at": "2026-09-04T14:04:34-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -2159,96 +2169,6 @@
       "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
       "posted_at": "2026-09-04T12:53:37-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4730845005",
-      "employer_name": "Scale AI",
-      "job_title": "Software Engineering Intern (Summer 2027) ",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
-      "posted_at": "2026-09-04T12:00:19-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_xai_4803905007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer, Observability",
-      "location": " Palo Alto, CA",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4803905007",
-      "posted_at": "2026-09-04T11:59:38-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_xai_5107958007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer, X Money",
-      "location": " Palo Alto, CA",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5107958007",
-      "posted_at": "2026-09-04T11:59:24-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_xai_5007310007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer, X Money",
-      "location": "Tokyo, Japan",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5007310007",
-      "posted_at": "2026-09-04T11:59:07-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_xai_4803862007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer, Data Platform",
-      "location": " Palo Alto, CA",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4803862007",
-      "posted_at": "2026-09-04T11:58:43-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_xai_4805874007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer, Media",
-      "location": " Palo Alto, CA; Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4805874007",
-      "posted_at": "2026-09-04T11:58:01-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8105437",
-      "employer_name": "Coinbase",
-      "job_title": "Software Engineer, Blockchain Platform Nodes",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8105437?gh_jid=8105437",
-      "posted_at": "2026-09-04T11:45:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8106377",
-      "employer_name": "Pinterest",
-      "job_title": "Sr. Software Engineer ",
-      "location": "Dublin, IE",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8106377",
-      "posted_at": "2026-09-04T11:29:26-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5390811008",
-      "employer_name": "Anthropic",
-      "job_title": "Applied AI, Research Engineer ",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5390811008",
-      "posted_at": "2026-09-04T11:26:23-04:00",
-      "category": "Other",
       "source": "greenhouse"
     }
   ]
