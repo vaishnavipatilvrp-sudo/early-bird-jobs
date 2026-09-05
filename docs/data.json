@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-09-05T03:20:05.803151+00:00",
+  "generated_at": "2026-09-05T06:54:55.427024+00:00",
   "jobs": [
-    {
-      "job_id": "ashby_openai_a14780e7-0316-478c-8e6a-d7629c31c49d",
-      "employer_name": "OpenAI",
-      "job_title": "Software Engineer, HSM Infrastructure Security, Consumer Devices",
-      "location": "San Francisco",
-      "apply_link": "https://jobs.ashbyhq.com/openai/a14780e7-0316-478c-8e6a-d7629c31c49d",
-      "posted_at": "2026-09-04T23:40:07.105+00:00",
-      "category": "Software Engineer",
-      "source": "ashby"
-    },
     {
       "job_id": "greenhouse_scaleai_4730845005",
       "employer_name": "Scale AI",
@@ -49,46 +39,6 @@
       "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4661647005",
       "posted_at": "2026-09-04T21:21:44-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8649343002",
-      "employer_name": "Lyft",
-      "job_title": "Staff Applied Scientist",
-      "location": "San Francisco, CA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8649343002?gh_jid=8649343002",
-      "posted_at": "2026-09-04T20:12:26-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7554830",
-      "employer_name": "Waymo",
-      "job_title": "Software Engineer, GPU",
-      "location": "Mountain View, CA, USA; New York, NY, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7554830",
-      "posted_at": "2026-09-04T19:13:48-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8179210",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Staff Software Engineer, Institutional Exchange",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8179210?gh_jid=8179210",
-      "posted_at": "2026-09-04T18:28:44-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8180833",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Market Data Engineer",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
-      "posted_at": "2026-09-04T17:31:02-04:00",
-      "category": "Data Engineer",
       "source": "greenhouse"
     }
   ]
