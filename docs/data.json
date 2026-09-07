@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T15:37:49.606327+00:00",
+  "generated_at": "2026-09-07T19:00:29.511563+00:00",
   "jobs": [
     {
       "job_id": "greenhouse_twilio_7647708",
@@ -129,56 +129,6 @@
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5412334008",
       "posted_at": "2026-09-07T10:22:11-04:00",
       "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8340837002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Solutions Architect (DS/ML/GenAI/LLM)",
-      "location": "London, United Kingdom",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8340837002",
-      "posted_at": "2026-09-07T07:59:33-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8184838",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Security Rules",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8184838?gh_jid=8184838",
-      "posted_at": "2026-09-07T07:21:41-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8160660",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Software Engineer, Security Rules",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8160660?gh_jid=8160660",
-      "posted_at": "2026-09-07T07:21:10-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8140310",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer - Quicksilver - Distributed Key Value",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8140310?gh_jid=8140310",
-      "posted_at": "2026-09-07T07:03:55-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8078337",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Connect Tax Reporting",
-      "location": "Bucharest, Romania",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8078337",
-      "posted_at": "2026-09-07T06:19:47-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
