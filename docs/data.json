@@ -1,4 +1,25 @@
 {
-  "generated_at": "2026-09-06T23:32:44.143491+00:00",
-  "jobs": []
+  "generated_at": "2026-09-07T03:18:19.812849+00:00",
+  "jobs": [
+    {
+      "job_id": "ashby_openai_6668417f-6878-4244-940f-9a99ae4ebcb0",
+      "employer_name": "OpenAI",
+      "job_title": "Applied AI Engineer, Codex | Tokyo",
+      "location": "Tokyo, Japan",
+      "apply_link": "https://jobs.ashbyhq.com/openai/6668417f-6878-4244-940f-9a99ae4ebcb0",
+      "posted_at": "2026-09-07T00:33:34.942+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_discord_8545675002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Safety Processing",
+      "location": "San Francisco Bay Area or Los Angeles Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8545675002",
+      "posted_at": "2026-09-06T20:04:01-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    }
+  ]
 }
