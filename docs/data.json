@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-09-08T03:25:42.347204+00:00",
+  "generated_at": "2026-09-08T07:11:31.569507+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_twilio_7996779",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L3)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996779",
+      "posted_at": "2026-09-07T23:56:24-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7939542",
+      "employer_name": "Waymo",
+      "job_title": "Machine Learning Engineer, Fleet Monitoring & Response",
+      "location": "San Francisco, CA; Mountain  View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7939542",
+      "posted_at": "2026-09-07T23:26:03-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_twilio_8172319",
       "employer_name": "Twilio",
