@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-09-08T19:17:28.344573+00:00",
+  "generated_at": "2026-09-08T21:40:51.070031+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_waymo_7177351",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, ML Evaluation Infra and Efficiency",
+      "location": "Mountain View, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7177351",
+      "posted_at": "2026-09-08T16:59:48-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "ashby_openai_485cda77-5d8f-4aaa-bca5-916b011477e6",
       "employer_name": "OpenAI",
@@ -10,6 +20,86 @@
       "posted_at": "2026-09-08T16:59:01.596+00:00",
       "category": "ML / AI Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_waymo_7121224",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Training Efficiency",
+      "location": "Mountain View, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7121224",
+      "posted_at": "2026-09-08T16:56:15-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7429791",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer, Mapping",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7429791",
+      "posted_at": "2026-09-08T16:34:56-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8031907",
+      "employer_name": "Airbnb",
+      "job_title": "Data Scientist, Community Support (Inference)",
+      "location": "Remote - USA",
+      "apply_link": "https://careers.airbnb.com/positions/8031907?gh_jid=8031907",
+      "posted_at": "2026-09-08T16:29:08-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4730306005",
+      "employer_name": "Scale AI",
+      "job_title": "GenAI Compliance Operations & Programs Associate ",
+      "location": "Mexico City, MX",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4730306005",
+      "posted_at": "2026-09-08T16:27:18-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8649343002",
+      "employer_name": "Lyft",
+      "job_title": "Staff Applied Scientist",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8649343002?gh_jid=8649343002",
+      "posted_at": "2026-09-08T16:10:41-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5418716008",
+      "employer_name": "Block",
+      "job_title": "Senior Data Scientist, Risk and Support",
+      "location": "Seattle, WA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5418716008?gh_jid=5418716008",
+      "posted_at": "2026-09-08T15:56:46-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5412922008",
+      "employer_name": "Block",
+      "job_title": "Senior Data Scientist, Risk and Support",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5412922008?gh_jid=5412922008",
+      "posted_at": "2026-09-08T15:55:55-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_7450356",
+      "employer_name": "Airbnb",
+      "job_title": "Staff Machine Learning Engineer, Relevance and Personalization",
+      "location": "United States",
+      "apply_link": "https://careers.airbnb.com/positions/7450356?gh_jid=7450356",
+      "posted_at": "2026-09-08T15:31:42-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_scaleai_4729899005",
@@ -30,16 +120,6 @@
       "posted_at": "2026-09-08T14:33:14-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "ashby_replit_f2f56292-890e-498c-844c-07f2bea8ea7a",
-      "employer_name": "Replit (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Growth Enablement",
-      "location": "Foster City, CA",
-      "apply_link": "https://jobs.ashbyhq.com/replit/f2f56292-890e-498c-844c-07f2bea8ea7a",
-      "posted_at": "2026-09-08T14:29:48.559+00:00",
-      "category": "Software Engineer",
-      "source": "ashby"
     },
     {
       "job_id": "greenhouse_waymo_7547529",
@@ -172,21 +252,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_twilio_8103253",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L4)",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8103253",
-      "posted_at": "2026-09-08T11:42:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_twilio_8098945",
       "employer_name": "Twilio",
       "job_title": "Software Engineer (L4)",
       "location": "Remote - US",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8098945",
+      "posted_at": "2026-09-08T11:42:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8103253",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L4)",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8103253",
       "posted_at": "2026-09-08T11:42:28-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -428,26 +508,6 @@
       "location": "Remote - US",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7434770",
       "posted_at": "2026-09-08T11:42:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8032339",
-      "employer_name": "Waymo",
-      "job_title": "Senior Business Intelligence Analyst, Growth",
-      "location": "Mountain View, CA, US; San Francisco, CA, US",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8032339",
-      "posted_at": "2026-09-08T11:33:05-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8153462",
-      "employer_name": "Waymo",
-      "job_title": "Software Engineer - Data Importer ",
-      "location": "Warsaw, Poland ",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8153462",
-      "posted_at": "2026-09-08T11:24:55-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
