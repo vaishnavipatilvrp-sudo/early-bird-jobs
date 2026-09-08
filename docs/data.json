@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T18:19:01.972736+00:00",
+  "generated_at": "2026-09-08T19:17:28.344573+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_485cda77-5d8f-4aaa-bca5-916b011477e6",
@@ -12,6 +12,26 @@
       "source": "ashby"
     },
     {
+      "job_id": "greenhouse_scaleai_4729899005",
+      "employer_name": "Scale AI",
+      "job_title": "Senior Data Analyst, Public Sector",
+      "location": "Washington, DC",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4729899005",
+      "posted_at": "2026-09-08T14:51:08-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5381381008",
+      "employer_name": "Block",
+      "job_title": "Senior Software Engineer, Data Platform",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5381381008?gh_jid=5381381008",
+      "posted_at": "2026-09-08T14:33:14-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "ashby_replit_f2f56292-890e-498c-844c-07f2bea8ea7a",
       "employer_name": "Replit (bonus, not on your original list)",
       "job_title": "Senior Software Engineer, Growth Enablement",
@@ -20,6 +40,16 @@
       "posted_at": "2026-09-08T14:29:48.559+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_waymo_7547529",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer, Privacy",
+      "location": "Mountain View, CA, USA ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7547529",
+      "posted_at": "2026-09-08T14:26:36-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_waymo_8027424",
@@ -142,21 +172,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_twilio_8098945",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L4)",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8098945",
-      "posted_at": "2026-09-08T11:42:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_twilio_8103253",
       "employer_name": "Twilio",
       "job_title": "Software Engineer (L4)",
       "location": "Remote - US",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8103253",
+      "posted_at": "2026-09-08T11:42:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8098945",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L4)",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8098945",
       "posted_at": "2026-09-08T11:42:28-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -172,21 +202,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_twilio_8007455",
-      "employer_name": "Twilio",
-      "job_title": "Machine Learning Engineer",
-      "location": "Remote - Spain",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007455",
-      "posted_at": "2026-09-08T11:42:27-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_twilio_7996774",
       "employer_name": "Twilio",
       "job_title": "Machine Learning Engineer",
       "location": "Remote - Ireland",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996774",
+      "posted_at": "2026-09-08T11:42:27-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8007455",
+      "employer_name": "Twilio",
+      "job_title": "Machine Learning Engineer",
+      "location": "Remote - Spain",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007455",
       "posted_at": "2026-09-08T11:42:27-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -418,36 +448,6 @@
       "location": "Warsaw, Poland ",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8153462",
       "posted_at": "2026-09-08T11:24:55-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_7925560002",
-      "employer_name": "Databricks",
-      "job_title": "Sr. Software Engineer - Observability",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7925560002",
-      "posted_at": "2026-09-08T08:45:00-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8602402002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer - Multi Cloud Efficiency",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8602402002",
-      "posted_at": "2026-09-08T08:44:45-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8476582002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer  - Partner Ecosystem",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476582002",
-      "posted_at": "2026-09-08T08:44:08-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
