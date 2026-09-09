@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T21:33:22.067184+00:00",
+  "generated_at": "2026-09-09T22:18:15.714263+00:00",
   "jobs": [
     {
       "job_id": "ashby_replit_b5e81eae-06f9-4798-8988-2d06ca936dbc",
@@ -10,6 +10,26 @@
       "posted_at": "2026-09-09T18:23:24.396+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5420115008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff Software Engineer: Compute",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5420115008",
+      "posted_at": "2026-09-09T18:05:01-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5057647008",
+      "employer_name": "Anthropic",
+      "job_title": "Applied AI Engineer, Enterprise Tech",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
+      "posted_at": "2026-09-09T17:34:03-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_airbnb_8189374",
@@ -508,26 +528,6 @@
       "location": "San Francisco",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8076151",
       "posted_at": "2026-09-09T12:23:06-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8157900",
-      "employer_name": "Pinterest",
-      "job_title": "Staff Software Engineer, Workflow Platform",
-      "location": "Palo Alto, CA, US; Remote, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8157900",
-      "posted_at": "2026-09-09T12:14:51-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7430555",
-      "employer_name": "Waymo",
-      "job_title": "Software Engineer, Simulation Infrastructure",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7430555",
-      "posted_at": "2026-09-09T11:46:08-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
