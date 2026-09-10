@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-09-10T08:42:04.622809+00:00",
+  "generated_at": "2026-09-10T14:06:24.195515+00:00",
   "jobs": [
+    {
+      "job_id": "lever_spotify_56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
+      "employer_name": "Spotify",
+      "job_title": "Data Scientist - Music Promotion",
+      "location": "New York, NY",
+      "apply_link": "https://jobs.lever.co/spotify/56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
+      "posted_at": "2026-09-10T13:13:31.096000+00:00",
+      "category": "Data Scientist",
+      "source": "lever"
+    },
+    {
+      "job_id": "greenhouse_stripe_6717520",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Payments and Risk",
+      "location": "Dublin, Ireland",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=6717520",
+      "posted_at": "2026-09-10T09:26:01-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7208537",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Money Movement ",
+      "location": "London",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7208537",
+      "posted_at": "2026-09-10T06:40:53-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5196196008",
+      "employer_name": "Block",
+      "job_title": "Staff Software Engineer, Cash App Banking",
+      "location": "Toronto, Ontario, Canada",
+      "apply_link": "http://block.xyz/careers/jobs/5196196008?gh_jid=5196196008",
+      "posted_at": "2026-09-10T06:17:44-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5196194008",
+      "employer_name": "Block",
+      "job_title": "Staff Software Engineer, Cash App Banking",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5196194008?gh_jid=5196194008",
+      "posted_at": "2026-09-10T06:17:44-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5207148008",
+      "employer_name": "Block",
+      "job_title": "Staff Software Engineer, Cash App Banking",
+      "location": "New York, NY, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5207148008?gh_jid=5207148008",
+      "posted_at": "2026-09-10T06:17:44-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8790686002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8790686002?gh_jid=8790686002",
+      "posted_at": "2026-09-10T05:39:51-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_scaleai_4732394005",
       "employer_name": "Scale AI",
@@ -28,76 +98,6 @@
       "location": "Doha, Qatar ",
       "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4676606005",
       "posted_at": "2026-09-10T04:29:03-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4665557005",
-      "employer_name": "Scale AI",
-      "job_title": "Infrastructure Software Engineer, Enterprise GenAI",
-      "location": "San Francisco, CA; New York, NY",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4665557005",
-      "posted_at": "2026-09-10T04:04:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4513943005",
-      "employer_name": "Scale AI",
-      "job_title": "Software Engineer, Enterprise AI",
-      "location": "New York, NY; San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4513943005",
-      "posted_at": "2026-09-10T04:04:10-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8679982002",
-      "employer_name": "Databricks",
-      "job_title": "Sr. IT Full Stack Developer (AI Agents)",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002",
-      "posted_at": "2026-09-10T03:33:12-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5196187008",
-      "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Cash App Taxes",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5196187008?gh_jid=5196187008",
-      "posted_at": "2026-09-10T03:03:06-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5207134008",
-      "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Cash App Taxes",
-      "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5207134008?gh_jid=5207134008",
-      "posted_at": "2026-09-10T03:03:06-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5412832008",
-      "employer_name": "Block",
-      "job_title": "Software Engineer, Cash App Taxes",
-      "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5412832008?gh_jid=5412832008",
-      "posted_at": "2026-09-10T03:03:06-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8012271",
-      "employer_name": "Waymo",
-      "job_title": "Sr. Staff Software Engineer, DUE Experience",
-      "location": "Mountain View, CA; Seattle, WA; New York City, NY; Los Angeles, CA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8012271",
-      "posted_at": "2026-09-09T22:49:41-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
