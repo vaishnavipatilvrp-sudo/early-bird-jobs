@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-09-10T07:14:52.714835+00:00",
+  "generated_at": "2026-09-10T08:42:04.622809+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_scaleai_4732394005",
+      "employer_name": "Scale AI",
+      "job_title": "Senior Full-Stack Software Engineer, (Forward deployed), GPS",
+      "location": "Riyadh, Saudi Arabia",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4732394005",
+      "posted_at": "2026-09-10T04:36:38-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4732430005",
+      "employer_name": "Scale AI",
+      "job_title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "location": "Riyadh, Saudi Arabia",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4732430005",
+      "posted_at": "2026-09-10T04:36:21-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4676606005",
+      "employer_name": "Scale AI",
+      "job_title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "location": "Doha, Qatar ",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4676606005",
+      "posted_at": "2026-09-10T04:29:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4665557005",
+      "employer_name": "Scale AI",
+      "job_title": "Infrastructure Software Engineer, Enterprise GenAI",
+      "location": "San Francisco, CA; New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4665557005",
+      "posted_at": "2026-09-10T04:04:25-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4513943005",
+      "employer_name": "Scale AI",
+      "job_title": "Software Engineer, Enterprise AI",
+      "location": "New York, NY; San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4513943005",
+      "posted_at": "2026-09-10T04:04:10-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8679982002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. IT Full Stack Developer (AI Agents)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002",
+      "posted_at": "2026-09-10T03:33:12-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_block_5196187008",
       "employer_name": "Block",
@@ -38,46 +98,6 @@
       "location": "Mountain View, CA; Seattle, WA; New York City, NY; Los Angeles, CA",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8012271",
       "posted_at": "2026-09-09T22:49:41-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8294304002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer (App-Framework)",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002",
-      "posted_at": "2026-09-09T21:43:39-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_7897431002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer - Data + AI Observability",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
-      "posted_at": "2026-09-09T21:43:20-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_7619811002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer - Observability",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619811002",
-      "posted_at": "2026-09-09T21:42:45-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_7619810002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer (Infra)",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002",
-      "posted_at": "2026-09-09T21:42:42-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
