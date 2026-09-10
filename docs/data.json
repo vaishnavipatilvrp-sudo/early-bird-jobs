@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-09-10T03:27:38.901783+00:00",
+  "generated_at": "2026-09-10T07:14:52.714835+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_block_5196187008",
+      "employer_name": "Block",
+      "job_title": "Senior Software Engineer, Cash App Taxes",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5196187008?gh_jid=5196187008",
+      "posted_at": "2026-09-10T03:03:06-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5207134008",
+      "employer_name": "Block",
+      "job_title": "Senior Software Engineer, Cash App Taxes",
+      "location": "New York, NY, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5207134008?gh_jid=5207134008",
+      "posted_at": "2026-09-10T03:03:06-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5412832008",
+      "employer_name": "Block",
+      "job_title": "Software Engineer, Cash App Taxes",
+      "location": "New York, NY, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5412832008?gh_jid=5412832008",
+      "posted_at": "2026-09-10T03:03:06-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_waymo_8012271",
       "employer_name": "Waymo",
@@ -49,166 +79,6 @@
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002",
       "posted_at": "2026-09-09T21:42:42-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8574655002",
-      "employer_name": "Databricks",
-      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-      "location": "Seoul, South Korea",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8574655002",
-      "posted_at": "2026-09-09T20:56:05-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8155366",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Staff Software Engineer, Platform - IAM",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8155366?gh_jid=8155366",
-      "posted_at": "2026-09-09T20:23:49-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8772592002",
-      "employer_name": "Lyft",
-      "job_title": "Data Scientist ",
-      "location": "Seattle, WA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8772592002?gh_jid=8772592002",
-      "posted_at": "2026-09-09T20:08:53-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8180903",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Cloud Infrastructure",
-      "location": "New York, NY",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8180903",
-      "posted_at": "2026-09-09T19:56:13-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8396927002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Software Engineer, Data Platform",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8396927002",
-      "posted_at": "2026-09-09T19:14:37-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8694476002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Data Platform",
-      "location": "San Francisco Bay Area ",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8694476002",
-      "posted_at": "2026-09-09T19:13:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8656854002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Application Security",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8656854002",
-      "posted_at": "2026-09-09T19:12:55-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8498984002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Staff Software Engineer, Data Platform",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8498984002",
-      "posted_at": "2026-09-09T19:08:52-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7991839",
-      "employer_name": "Coinbase",
-      "job_title": "Software Engineer, Developer Infrastructure",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7991839?gh_jid=7991839",
-      "posted_at": "2026-09-09T18:51:43-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8772571002",
-      "employer_name": "Lyft",
-      "job_title": "Software Engineer",
-      "location": "San Francisco, CA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002",
-      "posted_at": "2026-09-09T18:32:16-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8772594002",
-      "employer_name": "Lyft",
-      "job_title": "Software Engineer",
-      "location": "Seattle, WA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8772594002?gh_jid=8772594002",
-      "posted_at": "2026-09-09T18:29:31-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4714527005",
-      "employer_name": "Scale AI",
-      "job_title": "Staff/Senior Machine Learning Research Engineer, Intelligent Systems",
-      "location": "San Francisco, CA; New York, NY",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4714527005",
-      "posted_at": "2026-09-09T18:26:51-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8107088",
-      "employer_name": "Waymo",
-      "job_title": "ML Engineer, Foundation Model Infrastructure",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York, NY, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8107088",
-      "posted_at": "2026-09-09T18:21:01-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8109035",
-      "employer_name": "Waymo",
-      "job_title": "ML Engineer, Foundation Model Recipes",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York, NY, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8109035",
-      "posted_at": "2026-09-09T18:20:31-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5420115008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer: Compute",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5420115008",
-      "posted_at": "2026-09-09T18:05:01-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5057647008",
-      "employer_name": "Anthropic",
-      "job_title": "Applied AI Engineer, Enterprise Tech",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
-      "posted_at": "2026-09-09T17:34:03-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
