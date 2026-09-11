@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-09-11T07:14:31.878335+00:00",
+  "generated_at": "2026-09-11T08:39:41.361320+00:00",
   "jobs": [
     {
-      "job_id": "ashby_cohere_70313283-6532-450a-8cae-18f9e05a7673",
-      "employer_name": "Cohere",
-      "job_title": "Software Engineer, Data Infrastructure",
-      "location": "United States",
-      "apply_link": "https://jobs.ashbyhq.com/cohere/70313283-6532-450a-8cae-18f9e05a7673",
-      "posted_at": "2026-09-11T02:02:46.540+00:00",
-      "category": "Software Engineer",
-      "source": "ashby"
-    },
-    {
-      "job_id": "ashby_openai_b6a86e39-8059-4ccf-8d33-1bf5bd92fa86",
+      "job_id": "ashby_openai_32425ea6-a64b-408d-ae54-38342b83c875",
       "employer_name": "OpenAI",
-      "job_title": "Software Engineer, API Frontiers",
-      "location": "New York City",
-      "apply_link": "https://jobs.ashbyhq.com/openai/b6a86e39-8059-4ccf-8d33-1bf5bd92fa86",
-      "posted_at": "2026-09-11T01:36:02.480+00:00",
-      "category": "Software Engineer",
+      "job_title": "Applied AI Engineer, Codex",
+      "location": "London, UK",
+      "apply_link": "https://jobs.ashbyhq.com/openai/32425ea6-a64b-408d-ae54-38342b83c875",
+      "posted_at": "2026-09-11T07:44:32.667+00:00",
+      "category": "ML / AI Engineer",
       "source": "ashby"
     },
     {
@@ -52,6 +42,16 @@
       "source": "greenhouse"
     },
     {
+      "job_id": "greenhouse_mongodb_8083366",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8083366",
+      "posted_at": "2026-09-11T00:35:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "greenhouse_mongodb_7993984",
       "employer_name": "MongoDB",
       "job_title": "Software Engineer 3",
@@ -67,16 +67,6 @@
       "job_title": "Software Engineer 3",
       "location": "Sydney",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8092317",
-      "posted_at": "2026-09-11T00:35:23-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8083366",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8083366",
       "posted_at": "2026-09-11T00:35:23-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -98,16 +88,6 @@
       "location": "Sydney",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7523878",
       "posted_at": "2026-09-11T00:34:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8798198002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer, Lakeflow Pipelines DR",
-      "location": "Mountain View, California; San Francisco, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8798198002",
-      "posted_at": "2026-09-10T21:50:04-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
