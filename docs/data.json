@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T03:24:22.355941+00:00",
+  "generated_at": "2026-09-11T07:14:31.878335+00:00",
   "jobs": [
     {
       "job_id": "ashby_cohere_70313283-6532-450a-8cae-18f9e05a7673",
@@ -22,14 +22,84 @@
       "source": "ashby"
     },
     {
-      "job_id": "ashby_openai_f7d155c9-06e8-44f0-b2eb-bfa88707f2c1",
-      "employer_name": "OpenAI",
-      "job_title": "Full-Stack Software Engineer, Emerging Products",
-      "location": "San Francisco",
-      "apply_link": "https://jobs.ashbyhq.com/openai/f7d155c9-06e8-44f0-b2eb-bfa88707f2c1",
-      "posted_at": "2026-09-10T21:55:04.531+00:00",
+      "job_id": "greenhouse_mongodb_8161336",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8161336",
+      "posted_at": "2026-09-11T00:35:25-04:00",
       "category": "Software Engineer",
-      "source": "ashby"
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8020377",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer",
+      "location": "Sydney",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8020377",
+      "posted_at": "2026-09-11T00:35:24-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8111979",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3, AI Builder Experience ",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8111979",
+      "posted_at": "2026-09-11T00:35:24-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7993984",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7993984",
+      "posted_at": "2026-09-11T00:35:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8092317",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Sydney",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8092317",
+      "posted_at": "2026-09-11T00:35:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8083366",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8083366",
+      "posted_at": "2026-09-11T00:35:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8106099",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, AI Builder Experience (ABX)",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8106099",
+      "posted_at": "2026-09-11T00:34:32-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7523878",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3, App Analysis & Modelling",
+      "location": "Sydney",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7523878",
+      "posted_at": "2026-09-11T00:34:32-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_databricks_8798198002",
@@ -39,126 +109,6 @@
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8798198002",
       "posted_at": "2026-09-10T21:50:04-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8193862",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Backend (Institutional - ",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8193862?gh_jid=8193862",
-      "posted_at": "2026-09-10T20:20:55-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8194328",
-      "employer_name": "Stripe",
-      "job_title": "Senior Software Engineer, Product Velocity",
-      "location": "Seattle, WA",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8194328",
-      "posted_at": "2026-09-10T20:19:20-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4631848005",
-      "employer_name": "Scale AI",
-      "job_title": "Machine Learning Engineer, Public Sector",
-      "location": "Denver, CO; Honolulu, HI; Washington, DC",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4631848005",
-      "posted_at": "2026-09-10T19:40:50-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4654382005",
-      "employer_name": "Scale AI",
-      "job_title": "Staff Machine Learning Engineer, Public Sector",
-      "location": "Denver, CO; Washington, DC",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4654382005",
-      "posted_at": "2026-09-10T19:27:17-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8109035",
-      "employer_name": "Waymo",
-      "job_title": "ML Engineer, Foundation Model Recipes",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York, NY, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8109035",
-      "posted_at": "2026-09-10T19:01:23-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8107088",
-      "employer_name": "Waymo",
-      "job_title": "ML Engineer, Foundation Model Infrastructure",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York, NY, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8107088",
-      "posted_at": "2026-09-10T19:00:58-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8193295",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
-      "location": "Mountain View, California",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8193295",
-      "posted_at": "2026-09-10T18:57:41-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4732798005",
-      "employer_name": "Scale AI",
-      "job_title": "Senior Machine Learning Engineer, Public Sector",
-      "location": "Denver, CO; Honolulu, HI; Washington, DC",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4732798005",
-      "posted_at": "2026-09-10T18:54:32-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5390966008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff AI Engineer, GTM Claudification ",
-      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5390966008",
-      "posted_at": "2026-09-10T18:07:42-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8177548",
-      "employer_name": "Waymo",
-      "job_title": "Senior Software Engineer, Mapping Data & Eval ",
-      "location": "San Francisco, CA, USA; Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8177548",
-      "posted_at": "2026-09-10T18:04:07-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8177946",
-      "employer_name": "Coinbase",
-      "job_title": "Software Engineer- Money Movement ",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8177946?gh_jid=8177946",
-      "posted_at": "2026-09-10T18:02:58-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8189909",
-      "employer_name": "Stripe",
-      "job_title": "Data Analyst, NYC ",
-      "location": "New York",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8189909",
-      "posted_at": "2026-09-10T17:39:22-04:00",
-      "category": "Data Analyst",
       "source": "greenhouse"
     }
   ]
