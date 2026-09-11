@@ -1,6 +1,346 @@
 {
-  "generated_at": "2026-09-11T14:09:57.098089+00:00",
+  "generated_at": "2026-09-11T18:11:36.633734+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_e7a4ee23-138a-4004-916e-72a452e7d115",
+      "employer_name": "OpenAI",
+      "job_title": "Backend Software Engineer, ChatGPT ImageGen",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/e7a4ee23-138a-4004-916e-72a452e7d115",
+      "posted_at": "2026-09-11T17:11:59.523+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "ashby_replit_790afe73-238a-489c-875e-ac4e15780112",
+      "employer_name": "Replit (bonus, not on your original list)",
+      "job_title": "Staff Software Engineer, Identity & Authorization",
+      "location": "Foster City, CA",
+      "apply_link": "https://jobs.ashbyhq.com/replit/790afe73-238a-489c-875e-ac4e15780112",
+      "posted_at": "2026-09-11T16:14:44.231+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "ashby_openai_cc203d0d-96cd-4615-b5f1-3f25d6b08a95",
+      "employer_name": "OpenAI",
+      "job_title": "Manager, Applied AI Engineering (Codex)",
+      "location": "Munich, Germany",
+      "apply_link": "https://jobs.ashbyhq.com/openai/cc203d0d-96cd-4615-b5f1-3f25d6b08a95",
+      "posted_at": "2026-09-11T14:36:19.087+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7990086",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer, Service Communications",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7990086",
+      "posted_at": "2026-09-11T14:07:59-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8688633002",
+      "employer_name": "Lyft",
+      "job_title": "Machine Learning Engineer, Fulfillment",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8688633002?gh_jid=8688633002",
+      "posted_at": "2026-09-11T13:47:18-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8760350002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer in Test, LUS",
+      "location": "Montreal, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8760350002?gh_jid=8760350002",
+      "posted_at": "2026-09-11T13:17:47-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8642213002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Software Engineer, Notifications",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8642213002",
+      "posted_at": "2026-09-11T13:13:31-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8797819002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer Intern, Frontend (Summer 2027)",
+      "location": "Mexico City, Mexico",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8797819002?gh_jid=8797819002",
+      "posted_at": "2026-09-11T12:50:07-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8767715002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer Intern, Backend (Summer 2027)",
+      "location": "Mexico City, Mexico",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002",
+      "posted_at": "2026-09-11T12:49:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8796054002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer Intern, Backend (Summer 2027)",
+      "location": "Montreal, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002",
+      "posted_at": "2026-09-11T12:49:30-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8767534002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer Intern, Test Automation (Summer 2027)",
+      "location": "Montreal, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002",
+      "posted_at": "2026-09-11T12:49:13-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8797376002",
+      "employer_name": "Lyft",
+      "job_title": "Data Engineer Intern (Summer 2027)",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
+      "posted_at": "2026-09-11T12:48:58-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8797859002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer Intern, Fullstack (Summer 2027)",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002",
+      "posted_at": "2026-09-11T12:48:36-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8767710002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer Intern, Backend (Summer 2027)",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002",
+      "posted_at": "2026-09-11T12:48:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8797837002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer Intern, Fullstack (Summer 2027)",
+      "location": "New York, NY",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002",
+      "posted_at": "2026-09-11T12:47:31-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8767726002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer Intern, Backend (Summer 2027)",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+      "posted_at": "2026-09-11T12:46:45-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8493002002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Staff Software Engineer - Lakeflow Pipelines Datasets",
+      "location": "Mountain View, California; San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8493002002",
+      "posted_at": "2026-09-11T12:46:07-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8791488002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer",
+      "location": "Mexico City, Mexico",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8791488002?gh_jid=8791488002",
+      "posted_at": "2026-09-11T12:41:14-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7947560",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Storage Layer Services",
+      "location": "New York City; United States",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7947560",
+      "posted_at": "2026-09-11T12:33:51-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8795875002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Software Engineer, Data Pipelines",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8795875002?gh_jid=8795875002",
+      "posted_at": "2026-09-11T11:58:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7905695",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer, Booking",
+      "location": "Mountain View, CA, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7905695",
+      "posted_at": "2026-09-11T11:28:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7702644",
+      "employer_name": "Twilio",
+      "job_title": "Machine Learning Engineer",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7702644",
+      "posted_at": "2026-09-11T11:02:49-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7463793",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - Egress (Go/Rust)",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7463793?gh_jid=7463793",
+      "posted_at": "2026-09-11T10:40:10-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8195746",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer - Egress (Go/Rust)",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8195746?gh_jid=8195746",
+      "posted_at": "2026-09-11T10:37:39-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7647708",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer",
+      "location": "Remote - Estonia",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7647708",
+      "posted_at": "2026-09-11T10:31:58-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7716279",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer (L4)",
+      "location": "Remote - Canada",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7716279",
+      "posted_at": "2026-09-11T10:31:18-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7782805",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer (L4) Data Platform",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7782805",
+      "posted_at": "2026-09-11T10:30:58-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8015771",
+      "employer_name": "Twilio",
+      "job_title": "Senior Software Engineer",
+      "location": "Remote - Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8015771",
+      "posted_at": "2026-09-11T10:30:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7996774",
+      "employer_name": "Twilio",
+      "job_title": "Machine Learning Engineer",
+      "location": "Remote - Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996774",
+      "posted_at": "2026-09-11T10:29:26-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8007455",
+      "employer_name": "Twilio",
+      "job_title": "Machine Learning Engineer",
+      "location": "Remote - Spain",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007455",
+      "posted_at": "2026-09-11T10:29:04-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8007449",
+      "employer_name": "Twilio",
+      "job_title": "Senior/Staff Applied Research Software Engineer",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007449",
+      "posted_at": "2026-09-11T10:28:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8172319",
+      "employer_name": "Twilio",
+      "job_title": "Business Intelligence Analyst 2",
+      "location": "Remote - Colombia",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8172319",
+      "posted_at": "2026-09-11T10:25:58-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8102950",
+      "employer_name": "Twilio",
+      "job_title": "Software Development Engineer (L3)",
+      "location": "Remote - Colombia",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8102950",
+      "posted_at": "2026-09-11T10:25:45-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8170597",
+      "employer_name": "Twilio",
+      "job_title": "Software Development Engineer",
+      "location": "Remote - Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8170597",
+      "posted_at": "2026-09-11T10:24:57-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_doordashusa_8191134",
       "employer_name": "DoorDash",
@@ -8,26 +348,6 @@
       "location": "San Francisco, CA; Seattle, WA; New York, NY",
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8191134",
       "posted_at": "2026-09-11T09:30:51-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8127772",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3, AI Framework Integrations",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8127772",
-      "posted_at": "2026-09-11T07:31:43-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7922676",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 2",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7922676",
-      "posted_at": "2026-09-11T07:08:08-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
