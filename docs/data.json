@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-09-11T21:36:11.490647+00:00",
+  "generated_at": "2026-09-11T22:18:00.935444+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_databricks_8285949002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. Staff Software Engineer - Money Team",
+      "location": "Bellevue, Washington",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8285949002",
+      "posted_at": "2026-09-11T17:43:32-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "ashby_openai_e7a4ee23-138a-4004-916e-72a452e7d115",
       "employer_name": "OpenAI",
@@ -50,16 +60,6 @@
       "posted_at": "2026-09-11T16:29:55-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "ashby_replit_790afe73-238a-489c-875e-ac4e15780112",
-      "employer_name": "Replit (bonus, not on your original list)",
-      "job_title": "Staff Software Engineer, Identity & Authorization",
-      "location": "Foster City, CA",
-      "apply_link": "https://jobs.ashbyhq.com/replit/790afe73-238a-489c-875e-ac4e15780112",
-      "posted_at": "2026-09-11T16:14:44.231+00:00",
-      "category": "Software Engineer",
-      "source": "ashby"
     },
     {
       "job_id": "greenhouse_mongodb_8161512",
@@ -738,16 +738,6 @@
       "location": "Mountain View, California; San Francisco, California",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8493002002",
       "posted_at": "2026-09-11T12:46:07-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8795875002",
-      "employer_name": "Lyft",
-      "job_title": "Senior Software Engineer, Data Pipelines",
-      "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8795875002?gh_jid=8795875002",
-      "posted_at": "2026-09-11T11:58:54-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
