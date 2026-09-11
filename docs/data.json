@@ -1,93 +1,33 @@
 {
-  "generated_at": "2026-09-11T08:39:41.361320+00:00",
+  "generated_at": "2026-09-11T14:05:29.649419+00:00",
   "jobs": [
     {
-      "job_id": "ashby_openai_32425ea6-a64b-408d-ae54-38342b83c875",
-      "employer_name": "OpenAI",
-      "job_title": "Applied AI Engineer, Codex",
-      "location": "London, UK",
-      "apply_link": "https://jobs.ashbyhq.com/openai/32425ea6-a64b-408d-ae54-38342b83c875",
-      "posted_at": "2026-09-11T07:44:32.667+00:00",
-      "category": "ML / AI Engineer",
-      "source": "ashby"
+      "job_id": "greenhouse_doordashusa_8191134",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Storage - Distributed Caching",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8191134",
+      "posted_at": "2026-09-11T09:30:51-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_8161336",
+      "job_id": "greenhouse_mongodb_8127772",
       "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
+      "job_title": "Software Engineer 3, AI Framework Integrations",
       "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8161336",
-      "posted_at": "2026-09-11T00:35:25-04:00",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8127772",
+      "posted_at": "2026-09-11T07:31:43-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_8020377",
+      "job_id": "greenhouse_mongodb_7922676",
       "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer",
-      "location": "Sydney",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8020377",
-      "posted_at": "2026-09-11T00:35:24-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8111979",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3, AI Builder Experience ",
+      "job_title": "Software Engineer 2",
       "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8111979",
-      "posted_at": "2026-09-11T00:35:24-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8083366",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8083366",
-      "posted_at": "2026-09-11T00:35:23-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7993984",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7993984",
-      "posted_at": "2026-09-11T00:35:23-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8092317",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Sydney",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8092317",
-      "posted_at": "2026-09-11T00:35:23-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8106099",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, AI Builder Experience (ABX)",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8106099",
-      "posted_at": "2026-09-11T00:34:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7523878",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3, App Analysis & Modelling",
-      "location": "Sydney",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7523878",
-      "posted_at": "2026-09-11T00:34:32-04:00",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7922676",
+      "posted_at": "2026-09-11T07:08:08-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
