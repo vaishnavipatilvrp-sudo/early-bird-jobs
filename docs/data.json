@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T18:11:36.633734+00:00",
+  "generated_at": "2026-09-11T19:00:21.296119+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_e7a4ee23-138a-4004-916e-72a452e7d115",
@@ -22,6 +22,16 @@
       "source": "ashby"
     },
     {
+      "job_id": "greenhouse_waymo_7905678",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer, Trip Platform",
+      "location": "Mountain View, CA, United States ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7905678",
+      "posted_at": "2026-09-11T14:56:24-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "ashby_openai_cc203d0d-96cd-4615-b5f1-3f25d6b08a95",
       "employer_name": "OpenAI",
       "job_title": "Manager, Applied AI Engineering (Codex)",
@@ -30,6 +40,16 @@
       "posted_at": "2026-09-11T14:36:19.087+00:00",
       "category": "ML / AI Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_fetch_4299553009",
+      "employer_name": "Fetch",
+      "job_title": "Actuarial Data Scientist",
+      "location": "Remote",
+      "apply_link": "https://job-boards.greenhouse.io/fetch/jobs/4299553009",
+      "posted_at": "2026-09-11T14:14:09-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_pinterest_7990086",
