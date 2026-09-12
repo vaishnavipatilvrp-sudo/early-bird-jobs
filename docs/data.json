@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-09-12T07:06:00.516992+00:00",
+  "generated_at": "2026-09-12T08:25:29.006102+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_lyft_8791488002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer - Self Service Intelligence, SCC Eng",
+      "location": "Mexico City, Mexico",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8791488002?gh_jid=8791488002",
+      "posted_at": "2026-09-12T04:12:13-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8105437",
+      "employer_name": "Coinbase",
+      "job_title": "Software Engineer, Blockchain Platform Nodes",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8105437?gh_jid=8105437",
+      "posted_at": "2026-09-12T03:32:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_databricks_8761732002",
       "employer_name": "Databricks",
