@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T21:34:40.875303+00:00",
+  "generated_at": "2026-09-14T22:20:46.957791+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_596e543a-0ab9-471e-a1ff-40fd55c74fce",
@@ -20,6 +20,46 @@
       "posted_at": "2026-09-14T18:24:20.408+00:00",
       "category": "ML / AI Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_twilio_7944328",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer",
+      "location": "Remote - Canada",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7944328",
+      "posted_at": "2026-09-14T18:17:15-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8198280",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Backend",
+      "location": "Seattle, WA",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8198280",
+      "posted_at": "2026-09-14T18:11:13-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7647708",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer",
+      "location": "Remote - Estonia",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7647708",
+      "posted_at": "2026-09-14T17:56:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8198207",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Payins Card Networks",
+      "location": "Seattle, WA",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8198207",
+      "posted_at": "2026-09-14T17:46:08-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_stripe_8197135",
@@ -88,16 +128,6 @@
       "location": "Remote - Ireland",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8071710",
       "posted_at": "2026-09-14T17:00:30-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7647708",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer",
-      "location": "Remote - Estonia",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7647708",
-      "posted_at": "2026-09-14T16:59:16-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -1388,36 +1418,6 @@
       "location": "Gurugram",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7922676",
       "posted_at": "2026-09-14T12:25:24-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8197831",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer- Wallets, Liquidity & Bridging",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8197831?gh_jid=8197831",
-      "posted_at": "2026-09-14T12:12:46-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8193731",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, BS/MS, Software Engineer",
-      "location": "San Francisco, California",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
-      "posted_at": "2026-09-14T12:08:24-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8185561",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Internal Fraud Platform",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8185561?gh_jid=8185561",
-      "posted_at": "2026-09-14T11:47:31-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
