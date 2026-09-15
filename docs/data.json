@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-09-15T17:58:20.861094+00:00",
+  "generated_at": "2026-09-15T18:49:37.444481+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_8acfba11-707e-4d8e-a860-88643fae24ba",
+      "employer_name": "OpenAI",
+      "job_title": "Applied AI Engineer",
+      "location": "Singapore",
+      "apply_link": "https://jobs.ashbyhq.com/openai/8acfba11-707e-4d8e-a860-88643fae24ba",
+      "posted_at": "2026-09-15T18:40:04.742+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8163709",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
+      "location": "Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
+      "posted_at": "2026-09-15T14:36:36-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7922676",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 2",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7922676",
+      "posted_at": "2026-09-15T14:22:22-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8204016",
+      "employer_name": "Instacart",
+      "job_title": "Senior Software Engineer II, Developer Experience",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8204016",
+      "posted_at": "2026-09-15T14:05:21-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8202325",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Software Engineer, Tech Foundations",
+      "location": "San Francisco, CA",
+      "apply_link": "https://careers.airbnb.com/positions/8202325?gh_jid=8202325",
+      "posted_at": "2026-09-15T13:59:31-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_airbnb_8197816",
       "employer_name": "Airbnb",
@@ -132,16 +182,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_twilio_8065043",
-      "employer_name": "Twilio",
-      "job_title": "Staff Software Engineer",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8065043",
-      "posted_at": "2026-09-15T11:56:24-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_twilio_8071710",
       "employer_name": "Twilio",
       "job_title": "Staff Software Engineer",
@@ -152,13 +192,13 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_twilio_7996774",
+      "job_id": "greenhouse_twilio_8065043",
       "employer_name": "Twilio",
-      "job_title": "Machine Learning Engineer",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996774",
-      "posted_at": "2026-09-15T11:56:23-04:00",
-      "category": "ML / AI Engineer",
+      "job_title": "Staff Software Engineer",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8065043",
+      "posted_at": "2026-09-15T11:56:24-04:00",
+      "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
@@ -167,6 +207,16 @@
       "job_title": "Machine Learning Engineer",
       "location": "Remote - Spain",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007455",
+      "posted_at": "2026-09-15T11:56:23-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7996774",
+      "employer_name": "Twilio",
+      "job_title": "Machine Learning Engineer",
+      "location": "Remote - Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996774",
       "posted_at": "2026-09-15T11:56:23-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -352,16 +402,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_instacart_8204016",
-      "employer_name": "Instacart",
-      "job_title": "Senior Software Engineer II, Developer Experience",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "apply_link": "https://instacart.careers/job/?gh_jid=8204016",
-      "posted_at": "2026-09-15T09:32:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_databricks_8099751002",
       "employer_name": "Databricks",
       "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
@@ -492,21 +532,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7590735",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Forward Deployed AI Engineer",
-      "location": "Ireland",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7590735",
-      "posted_at": "2026-09-15T09:05:04-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_7392902",
       "employer_name": "MongoDB",
       "job_title": "Senior Software Engineer, Forward Deployed AI Engineer",
       "location": "Cork, Ireland; Dublin, Ireland",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7392902",
+      "posted_at": "2026-09-15T09:05:04-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7590735",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Forward Deployed AI Engineer",
+      "location": "Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7590735",
       "posted_at": "2026-09-15T09:05:04-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -552,21 +592,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7815677",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Server Security",
-      "location": "New York City",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7815677",
-      "posted_at": "2026-09-15T09:05:04-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_7815679",
       "employer_name": "MongoDB",
       "job_title": "Senior Software Engineer, Server Security",
       "location": "Toronto",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7815679",
+      "posted_at": "2026-09-15T09:05:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7815677",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Server Security",
+      "location": "New York City",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7815677",
       "posted_at": "2026-09-15T09:05:04-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -612,11 +652,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7922676",
+      "job_id": "greenhouse_mongodb_7597723",
       "employer_name": "MongoDB",
-      "job_title": "Software Engineer 2",
+      "job_title": "Software Engineer 3",
       "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7922676",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7597723",
       "posted_at": "2026-09-15T09:05:04-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -637,16 +677,6 @@
       "job_title": "Software Engineer 3",
       "location": "Gurugram",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8083366",
-      "posted_at": "2026-09-15T09:05:04-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8107198",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "New York City",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8107198",
       "posted_at": "2026-09-15T09:05:04-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -682,21 +712,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_8167389",
+      "job_id": "greenhouse_mongodb_8107198",
       "employer_name": "MongoDB",
       "job_title": "Software Engineer 3",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8167389",
+      "location": "New York City",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8107198",
       "posted_at": "2026-09-15T09:05:04-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7597723",
+      "job_id": "greenhouse_mongodb_8167389",
       "employer_name": "MongoDB",
       "job_title": "Software Engineer 3",
       "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7597723",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8167389",
       "posted_at": "2026-09-15T09:05:04-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -752,21 +782,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7662950",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3, Atlas Search Systems",
-      "location": "Toronto",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7662950",
-      "posted_at": "2026-09-15T09:05:04-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_7523920",
       "employer_name": "MongoDB",
       "job_title": "Software Engineer 3, Atlas Search Systems",
       "location": "San Francisco",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7523920",
+      "posted_at": "2026-09-15T09:05:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7662950",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3, Atlas Search Systems",
+      "location": "Toronto",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7662950",
       "posted_at": "2026-09-15T09:05:04-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -839,26 +869,6 @@
       "apply_link": "https://instacart.careers/job/?gh_jid=7963840",
       "posted_at": "2026-09-15T08:52:18-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_7897431002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer - Data + AI Observability",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
-      "posted_at": "2026-09-15T08:18:18-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_7654347002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer (Money)",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7654347002",
-      "posted_at": "2026-09-15T08:18:14-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
