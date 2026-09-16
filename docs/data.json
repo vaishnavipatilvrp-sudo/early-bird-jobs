@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-16T04:39:44.598200+00:00",
+  "generated_at": "2026-09-16T07:38:30.197851+00:00",
   "jobs": [
     {
-      "job_id": "ashby_openai_3b08148d-085e-4835-9934-1b7f60e0fdce",
-      "employer_name": "OpenAI",
-      "job_title": "Software Engineer, Manufacturing Infrastructure",
-      "location": "San Francisco",
-      "apply_link": "https://jobs.ashbyhq.com/openai/3b08148d-085e-4835-9934-1b7f60e0fdce",
-      "posted_at": "2026-09-16T00:30:26.055+00:00",
-      "category": "Software Engineer",
-      "source": "ashby"
+      "job_id": "greenhouse_anthropic_5390966008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff Software Engineer, GTM AI Engineering ",
+      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5390966008",
+      "posted_at": "2026-09-16T00:57:35-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_databricks_8210383002",
@@ -28,86 +28,6 @@
       "location": "Bengaluru, India",
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
       "posted_at": "2026-09-15T23:32:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "ashby_openai_4948533f-1df6-49f7-af9e-a2da0e02ebca",
-      "employer_name": "OpenAI",
-      "job_title": "Data Scientist, Inference Capacity Optimization",
-      "location": "San Francisco",
-      "apply_link": "https://jobs.ashbyhq.com/openai/4948533f-1df6-49f7-af9e-a2da0e02ebca",
-      "posted_at": "2026-09-15T23:28:04.361+00:00",
-      "category": "Data Scientist",
-      "source": "ashby"
-    },
-    {
-      "job_id": "greenhouse_databricks_8456277002",
-      "employer_name": "Databricks",
-      "job_title": "Principal Data Scientist",
-      "location": "Mountain View, California; San Francisco, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8456277002",
-      "posted_at": "2026-09-15T21:30:26-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8168315",
-      "employer_name": "Coinbase",
-      "job_title": "Software Engineer Intern",
-      "location": "Hybrid - San Francisco, CA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
-      "posted_at": "2026-09-15T20:18:48-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4720422005",
-      "employer_name": "Scale AI",
-      "job_title": "Senior Mission Software Engineer, Public Sector",
-      "location": "Austin, TX; Colorado Springs, CO; Honolulu, HI; Omaha, NE; St. Louis, MO; Washington, DC",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4720422005",
-      "posted_at": "2026-09-15T19:33:45-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4481921005",
-      "employer_name": "Scale AI",
-      "job_title": "Forward Deployed Software Engineer, Public Sector",
-      "location": "Austin, TX; Colorado Springs, CO; Honolulu, HI; Omaha, NE; St. Louis, MO; Washington, DC",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4481921005",
-      "posted_at": "2026-09-15T19:33:34-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5369947008",
-      "employer_name": "Block",
-      "job_title": "Software Engineer, Financial Platform - Issuing",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5369947008?gh_jid=5369947008",
-      "posted_at": "2026-09-15T19:32:33-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_7988264",
-      "employer_name": "Stripe",
-      "job_title": "Backend Engineer, Intelligent Commerce",
-      "location": "N/A",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7988264",
-      "posted_at": "2026-09-15T19:32:22-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8202325",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Software Engineer, Tech Foundations",
-      "location": "San Francisco, CA",
-      "apply_link": "https://careers.airbnb.com/positions/8202325?gh_jid=8202325",
-      "posted_at": "2026-09-15T19:08:47-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
