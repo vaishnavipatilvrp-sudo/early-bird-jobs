@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-09-16T14:47:59.426513+00:00",
+  "generated_at": "2026-09-16T16:17:36.303235+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_waymo_8202801",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS, Software Engineer",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
+      "posted_at": "2026-09-16T12:16:26-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7988264",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Intelligent Commerce",
+      "location": "Seattle, San Francisco, New York",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7988264",
+      "posted_at": "2026-09-16T11:56:00-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8208005",
+      "employer_name": "DoorDash",
+      "job_title": "Senior Software Engineer, Build Systems & CI",
+      "location": "Bay Area, CA; Seattle, WA; Los Angeles, CA; New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8208005",
+      "posted_at": "2026-09-16T11:30:08-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7377424",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, Workers Deploy & Config",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7377424?gh_jid=7377424",
+      "posted_at": "2026-09-16T11:03:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8055320",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Principal Software Engineer, Workers Deploy & Config",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8055320?gh_jid=8055320",
+      "posted_at": "2026-09-16T11:02:32-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7915330",
+      "employer_name": "MongoDB",
+      "job_title": "Staff Software Engineer - Query Execution",
+      "location": "United States",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7915330",
+      "posted_at": "2026-09-16T11:00:16-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_twilio_7782805",
       "employer_name": "Twilio",
@@ -178,36 +238,6 @@
       "location": "Hybrid",
       "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8178593?gh_jid=8178593",
       "posted_at": "2026-09-16T06:41:56-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8091041002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Applied AI Engineer",
-      "location": "Belgrade, Serbia",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8091041002",
-      "posted_at": "2026-09-16T05:59:33-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8207374",
-      "employer_name": "Coinbase",
-      "job_title": "Software Engineer",
-      "location": "Remote - Canada",
-      "apply_link": "https://www.coinbase.com/careers/positions/8207374?gh_jid=8207374",
-      "posted_at": "2026-09-16T05:53:17-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8159348",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Software Engineer, Rulesets",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8159348?gh_jid=8159348",
-      "posted_at": "2026-09-16T05:16:43-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
