@@ -1,13 +1,73 @@
 {
-  "generated_at": "2026-09-17T17:57:57.477027+00:00",
+  "generated_at": "2026-09-17T18:51:44.807111+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_stripe_8113100",
+      "employer_name": "Stripe",
+      "job_title": "Data Scientist, Fraud",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8113100",
+      "posted_at": "2026-09-17T14:45:22-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8080614",
+      "employer_name": "Stripe",
+      "job_title": "Data Scientist, Core Infrastructure",
+      "location": "Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8080614",
+      "posted_at": "2026-09-17T14:43:40-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8209337",
+      "employer_name": "Stripe",
+      "job_title": "Data Scientist, Experimental Projects",
+      "location": "San Francisco",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8209337",
+      "posted_at": "2026-09-17T14:42:24-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8209790",
+      "employer_name": "Waymo",
+      "job_title": "Staff Tech Lead Manager, Machine Learning, Simulator Evaluation ",
+      "location": "Mountain View, California, United States; San Francisco, California, United States. ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8209790",
+      "posted_at": "2026-09-17T14:34:35-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8208465",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
+      "location": "London, England, United Kingdom",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8208465",
+      "posted_at": "2026-09-17T14:21:40-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8211490",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Machine Learning Platform Engineer",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8211490?gh_jid=8211490",
+      "posted_at": "2026-09-17T14:06:53-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_airbnb_8209244",
       "employer_name": "Airbnb",
       "job_title": "Senior Software Engineer, Tech Foundations",
       "location": "San Francisco, CA",
       "apply_link": "https://careers.airbnb.com/positions/8209244?gh_jid=8209244",
-      "posted_at": "2026-09-17T13:56:20-04:00",
+      "posted_at": "2026-09-17T13:57:34-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
