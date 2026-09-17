@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:00:53.581055+00:00",
+  "generated_at": "2026-09-17T23:56:26.826013+00:00",
   "jobs": [
     {
       "job_id": "ashby_cohere_a10a96b5-f772-466d-9297-f021f78ca9c0",
@@ -10,6 +10,86 @@
       "posted_at": "2026-09-17T19:46:04.566+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_stripe_8212517",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Early Career \u2014 Immediate Start",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8212517",
+      "posted_at": "2026-09-17T19:35:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8157838",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8157838",
+      "posted_at": "2026-09-17T19:34:47-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8212508",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Early Career \u2014 Immediate Start",
+      "location": "San Francisco, Seattle, New York",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8212508",
+      "posted_at": "2026-09-17T19:28:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8209244",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Software Engineer, Tech Foundations",
+      "location": "San Francisco, CA",
+      "apply_link": "https://careers.airbnb.com/positions/8209244?gh_jid=8209244",
+      "posted_at": "2026-09-17T19:18:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_6131089004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer Intern (Winter 2027)",
+      "location": "San Francisco, CA \u2022 New York, NY",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
+      "posted_at": "2026-09-17T19:17:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_6143238004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer Intern (Summer 2027)",
+      "location": "San Francisco, CA \u2022 New York, NY",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
+      "posted_at": "2026-09-17T19:16:13-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8128744",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad",
+      "location": "San Francisco, Seattle, New York",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8128744",
+      "posted_at": "2026-09-17T19:06:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7991839",
+      "employer_name": "Coinbase",
+      "job_title": "Software Engineer, Developer Infrastructure",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7991839?gh_jid=7991839",
+      "posted_at": "2026-09-17T18:35:43-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_stripe_8131144",
@@ -72,16 +152,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_lyft_8797837002",
-      "employer_name": "Lyft",
-      "job_title": "Software Engineer Intern, Fullstack (Summer 2027 - NYC)",
-      "location": "New York, NY",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002",
-      "posted_at": "2026-09-17T17:25:01-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_lyft_8767726002",
       "employer_name": "Lyft",
       "job_title": "Software Engineer Intern, Backend (Summer 2027 - SF)",
@@ -100,26 +170,6 @@
       "posted_at": "2026-09-17T16:47:21-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8211452",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Backend - Platform (Core AI Automation)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8211452?gh_jid=8211452",
-      "posted_at": "2026-09-17T16:09:48-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "aFkzUXRFZkdkWTJVbXJLX0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVTF5YlVkclozTTBOR3g0YmpWTU5ITnNlR1pxYmtoMVIxTnZSMWd4V0daVVJUTkVaRmxSVm5kYU5tSXRPVGN4VmpCYWRWcEZSek50Tm5veFltNWtOeTAwWkVKNVNIUmZXV2wzVFhSclV6VnNWVGRVV1RKSWFtTndhbFZKZEd4dE9VRnhXVEZoTVc1M1kxbE9ielZwVkd0TVIzbHpjWE16VFZWNE1GWTRaMWx2UWpWNFkzRVNGMmh0UzNOaGRtNXBUbkJ5VFd0UVNWQjRkVmR2T0ZGRkdpSkJSSE55T1daU2JIRnFWMkYxVVVFelZTMDBXVUZYWWtjNGFIUkZlbnB1VEZKMw",
-      "employer_name": "Walmart",
-      "job_title": "(USA) Senior, Data Scientist - Last Mile Delivery",
-      "location": "Bentonville, Arkansas",
-      "apply_link": "https://www.indeed.com/viewjob?jk=04b2ed36012fb31f",
-      "posted_at": "2026-09-17T16:00:00.000Z",
-      "category": "Data Scientist",
-      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_waymo_8202801",
@@ -198,76 +248,6 @@
       "location": "London, England, United Kingdom",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8208465",
       "posted_at": "2026-09-17T14:21:40-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8209244",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Software Engineer, Tech Foundations",
-      "location": "San Francisco, CA",
-      "apply_link": "https://careers.airbnb.com/positions/8209244?gh_jid=8209244",
-      "posted_at": "2026-09-17T13:57:34-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_7746721",
-      "employer_name": "Stripe",
-      "job_title": "Senior Staff Software Engineer, Stripe Dashboard",
-      "location": "Seattle",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7746721",
-      "posted_at": "2026-09-17T13:41:58-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5424561008",
-      "employer_name": "Block",
-      "job_title": "Senior Analytics Engineer, AI & DX Analytics",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5424561008?gh_jid=5424561008",
-      "posted_at": "2026-09-17T13:41:01-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4730846005",
-      "employer_name": "Scale AI",
-      "job_title": "Software Engineering Intern (Summer 2027) ",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-      "posted_at": "2026-09-17T12:59:57-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4730834005",
-      "employer_name": "Scale AI",
-      "job_title": "Software Engineering Intern (Summer 2027) ",
-      "location": "Doha, Qatar ",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
-      "posted_at": "2026-09-17T12:59:36-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7939542",
-      "employer_name": "Waymo",
-      "job_title": "Senior Machine Learning Engineer, Fleet Monitoring & Response",
-      "location": "San Francisco, CA; Mountain  View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7939542",
-      "posted_at": "2026-09-17T12:15:24-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8649343002",
-      "employer_name": "Lyft",
-      "job_title": "Staff Applied Scientist",
-      "location": "San Francisco, CA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8649343002?gh_jid=8649343002",
-      "posted_at": "2026-09-17T12:10:48-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
