@@ -1,6 +1,116 @@
 {
-  "generated_at": "2026-09-17T14:52:21.926869+00:00",
+  "generated_at": "2026-09-17T17:57:57.477027+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_airbnb_8209244",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Software Engineer, Tech Foundations",
+      "location": "San Francisco, CA",
+      "apply_link": "https://careers.airbnb.com/positions/8209244?gh_jid=8209244",
+      "posted_at": "2026-09-17T13:56:20-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7746721",
+      "employer_name": "Stripe",
+      "job_title": "Senior Staff Software Engineer, Stripe Dashboard",
+      "location": "Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7746721",
+      "posted_at": "2026-09-17T13:41:58-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5424561008",
+      "employer_name": "Block",
+      "job_title": "Senior Analytics Engineer, AI & DX Analytics",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5424561008?gh_jid=5424561008",
+      "posted_at": "2026-09-17T13:41:01-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4730846005",
+      "employer_name": "Scale AI",
+      "job_title": "Software Engineering Intern (Summer 2027) ",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+      "posted_at": "2026-09-17T12:59:57-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4730834005",
+      "employer_name": "Scale AI",
+      "job_title": "Software Engineering Intern (Summer 2027) ",
+      "location": "Doha, Qatar ",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+      "posted_at": "2026-09-17T12:59:36-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7939542",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Fleet Monitoring & Response",
+      "location": "San Francisco, CA; Mountain  View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7939542",
+      "posted_at": "2026-09-17T12:15:24-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8649343002",
+      "employer_name": "Lyft",
+      "job_title": "Staff Applied Scientist",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8649343002?gh_jid=8649343002",
+      "posted_at": "2026-09-17T12:10:48-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7429828",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Mapping Field Response",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7429828",
+      "posted_at": "2026-09-17T11:34:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7919148",
+      "employer_name": "Twilio",
+      "job_title": "Senior Manager, Machine Learning",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7919148",
+      "posted_at": "2026-09-17T11:33:21-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8067270",
+      "employer_name": "Twilio",
+      "job_title": "Principal Software Engineer - Identity Graph",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8067270",
+      "posted_at": "2026-09-17T11:33:13-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8813515002",
+      "employer_name": "Databricks",
+      "job_title": "AI Forward Deployed Engineer - Sweden",
+      "location": "Stockholm, Sweden",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8813515002",
+      "posted_at": "2026-09-17T11:00:41-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_twilio_7647708",
       "employer_name": "Twilio",
@@ -629,36 +739,6 @@
       "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4733702005",
       "posted_at": "2026-09-17T09:22:17-04:00",
       "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8188899",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Software Engineer, CDN Configuration Group",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8188899?gh_jid=8188899",
-      "posted_at": "2026-09-17T07:10:18-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4717101005",
-      "employer_name": "Scale AI",
-      "job_title": "Senior Software Engineer, Data Platform",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4717101005",
-      "posted_at": "2026-09-17T06:51:56-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7590644",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7590644",
-      "posted_at": "2026-09-17T06:04:23-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
