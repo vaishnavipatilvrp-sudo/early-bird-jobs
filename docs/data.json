@@ -1,15 +1,45 @@
 {
-  "generated_at": "2026-09-18T07:22:28.902577+00:00",
+  "generated_at": "2026-09-18T08:54:30.105859+00:00",
   "jobs": [
     {
-      "job_id": "dkRjTkYwQWU1NFhZQkR6cUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSEJ4T0ZGVExUQkJZVEpzVG5Ga0xXOHlaVUpGVkhkdFMwOWZXVEJ5U1hwMGJ6UjJNbVJPV1RCQlJHVkhlazF2WkhwNmJqVnRaak5DWjFKWFRWbHVVVFJ5UmpSQmNqWlBRblEyUm14NVJVcFJiWGw2Y1cxUVZtRnJhMUZIU2pKeFdrWkpaV28xYUZGcVNVZGtkWE5pVkVWcWJtbFdVbEZ6YVVWTGNubFJialJqTUdzdGRuZ1NGMlpsWVhOaGNYSXhRelJ4VG5KMVJWQnVjRmhaTUZGM0dpSkJSSE55T1daVVdIUXpXV0pZTWtOWU5FRjNUMWQ1Y0d4V2JqRlFORUpLWm5KQg",
-      "employer_name": "Deloitte",
-      "job_title": "Data Scientist Engineer - SFL Scientific",
-      "location": "Los Angeles, California",
-      "apply_link": "https://www.linkedin.com/jobs/view/data-scientist-engineer-sfl-scientific-at-deloitte-4469103728",
-      "posted_at": "2026-09-18T06:00:00.000Z",
-      "category": "Data Scientist",
-      "source": "jsearch"
+      "job_id": "greenhouse_cloudflare_7463793",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - Egress (Go/Rust)",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7463793?gh_jid=7463793",
+      "posted_at": "2026-09-18T04:34:43-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7793013",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - Network Connectivity (Go/Rust)",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7793013?gh_jid=7793013",
+      "posted_at": "2026-09-18T04:34:43-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8195746",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer - Egress (Go/Rust)",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8195746?gh_jid=8195746",
+      "posted_at": "2026-09-18T04:34:43-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8212984",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer",
+      "location": "San Francisco, CA; Seattle, WA; NYC, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8212984",
+      "posted_at": "2026-09-18T04:25:58-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_coinbase_8174949",
@@ -98,16 +128,6 @@
       "location": "San Francisco, New York City, Seattle, Chicago, US-Remote",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8127182",
       "posted_at": "2026-09-18T00:13:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8209244",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Software Engineer, Tech Foundations",
-      "location": "San Francisco, CA",
-      "apply_link": "https://careers.airbnb.com/positions/8209244?gh_jid=8209244",
-      "posted_at": "2026-09-17T21:41:01-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
