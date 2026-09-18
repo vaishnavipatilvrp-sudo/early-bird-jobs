@@ -1,13 +1,103 @@
 {
-  "generated_at": "2026-09-18T03:56:38.165436+00:00",
+  "generated_at": "2026-09-18T07:22:28.902577+00:00",
   "jobs": [
+    {
+      "job_id": "dkRjTkYwQWU1NFhZQkR6cUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSEJ4T0ZGVExUQkJZVEpzVG5Ga0xXOHlaVUpGVkhkdFMwOWZXVEJ5U1hwMGJ6UjJNbVJPV1RCQlJHVkhlazF2WkhwNmJqVnRaak5DWjFKWFRWbHVVVFJ5UmpSQmNqWlBRblEyUm14NVJVcFJiWGw2Y1cxUVZtRnJhMUZIU2pKeFdrWkpaV28xYUZGcVNVZGtkWE5pVkVWcWJtbFdVbEZ6YVVWTGNubFJialJqTUdzdGRuZ1NGMlpsWVhOaGNYSXhRelJ4VG5KMVJWQnVjRmhaTUZGM0dpSkJSSE55T1daVVdIUXpXV0pZTWtOWU5FRjNUMWQ1Y0d4V2JqRlFORUpLWm5KQg",
+      "employer_name": "Deloitte",
+      "job_title": "Data Scientist Engineer - SFL Scientific",
+      "location": "Los Angeles, California",
+      "apply_link": "https://www.linkedin.com/jobs/view/data-scientist-engineer-sfl-scientific-at-deloitte-4469103728",
+      "posted_at": "2026-09-18T06:00:00.000Z",
+      "category": "Data Scientist",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8174949",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Agent Verification ",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8174949?gh_jid=8174949",
+      "posted_at": "2026-09-18T03:04:13-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8170956",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer, Developer Infrastructure ",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8170956?gh_jid=8170956",
+      "posted_at": "2026-09-18T03:04:10-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7964410",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer, Developer Infrastructure (Test Infrastructure)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7964410?gh_jid=7964410",
+      "posted_at": "2026-09-18T03:03:57-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7991839",
+      "employer_name": "Coinbase",
+      "job_title": "Software Engineer, Developer Infrastructure",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7991839?gh_jid=7991839",
+      "posted_at": "2026-09-18T03:03:47-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7964398",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Developer Infrastructure",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7964398?gh_jid=7964398",
+      "posted_at": "2026-09-18T03:03:44-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5390966008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff Software Engineer, GTM AI Engineering ",
+      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5390966008",
+      "posted_at": "2026-09-18T02:03:05-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8632126002",
+      "employer_name": "Databricks",
+      "job_title": "Full Stack Developer (AI Agents)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002",
+      "posted_at": "2026-09-18T01:53:38-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8679982002",
+      "employer_name": "Databricks",
+      "job_title": "Sr Full Stack Developer (AI Agents)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002",
+      "posted_at": "2026-09-18T01:47:00-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_stripe_8127182",
       "employer_name": "Stripe",
-      "job_title": "Software Engineer, Product Platform (Metronome)",
+      "job_title": "Software Engineer, Billing Platform",
       "location": "San Francisco, New York City, Seattle, Chicago, US-Remote",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8127182",
-      "posted_at": "2026-09-17T22:57:34-04:00",
+      "posted_at": "2026-09-18T00:13:40-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -18,86 +108,6 @@
       "location": "San Francisco, CA",
       "apply_link": "https://careers.airbnb.com/positions/8209244?gh_jid=8209244",
       "posted_at": "2026-09-17T21:41:01-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5424111008",
-      "employer_name": "Anthropic",
-      "job_title": "Recruiting Analytics Data Engineer ",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5424111008",
-      "posted_at": "2026-09-17T20:04:58-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8212517",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Early Career \u2014 Immediate Start",
-      "location": "Toronto",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8212517",
-      "posted_at": "2026-09-17T19:35:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8157838",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, New Grad",
-      "location": "Toronto",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8157838",
-      "posted_at": "2026-09-17T19:34:47-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8212508",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Early Career \u2014 Immediate Start",
-      "location": "San Francisco, Seattle, New York",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8212508",
-      "posted_at": "2026-09-17T19:28:54-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_6131089004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Software Engineer Intern (Winter 2027)",
-      "location": "San Francisco, CA \u2022 New York, NY",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
-      "posted_at": "2026-09-17T19:17:03-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_6143238004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Software Engineer Intern (Summer 2027)",
-      "location": "San Francisco, CA \u2022 New York, NY",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
-      "posted_at": "2026-09-17T19:16:13-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8128744",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, New Grad",
-      "location": "San Francisco, Seattle, New York",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8128744",
-      "posted_at": "2026-09-17T19:06:55-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7991839",
-      "employer_name": "Coinbase",
-      "job_title": "Software Engineer, Developer Infrastructure",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7991839?gh_jid=7991839",
-      "posted_at": "2026-09-17T18:35:43-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
