@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-09-19T03:31:35.365330+00:00",
+  "generated_at": "2026-09-19T07:18:52.802494+00:00",
   "jobs": [
+    {
+      "job_id": "eG9UVjU4bXNMMzRyYTQ0VkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURFYwTkVkaWJYUjNNMFZJTTFoVVMzTk1VR3hZZFVweU5FczVVVVJ1UlZvdE9WOTBNbDh5TVhsRFJIUkpZMnRVTjBWalUweGZZakpLT1ZSTE0xbzBiSG8xWkUxaU4xRTRia2N0WjJoSlRVcHRMVzVmU2t3NFZFdHlRek5aZWpSMWRUWlhRMUJTVlhoU1JFMUpVV3BaU0VKak5XODRWQzFNZEhobE1YcGhSelpITW0xeWNsUVNGMVJVWlhWaGNrOTVTVXAxU2pkT1dWQm5Xak5UT0ZGekdpSkJSSE55T1daVGFIaFpPRXBwVmtRNFUzbEdjVVZKVmtSbFRtRmlORE0zUldSUg",
+      "employer_name": "T-Mobile",
+      "job_title": "AI Engineer (Multiple Roles)",
+      "location": "Frisco, Texas",
+      "apply_link": "https://www.linkedin.com/jobs/view/ai-engineer-multiple-roles-at-t-mobile-4469501334",
+      "posted_at": "2026-09-19T04:00:00.000Z",
+      "category": "ML / AI Engineer",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_block_5426213008",
+      "employer_name": "Block",
+      "job_title": "Software Engineer",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5426213008?gh_jid=5426213008",
+      "posted_at": "2026-09-19T02:11:12-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_airbnb_7463421",
       "employer_name": "Airbnb",
@@ -48,196 +68,6 @@
       "location": "Remote - US",
       "apply_link": "https://careers.airbnb.com/positions/8130787?gh_jid=8130787",
       "posted_at": "2026-09-18T22:03:10-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8213988",
-      "employer_name": "Pinterest",
-      "job_title": "Software Engineer II, Data Analytics & Engineering",
-      "location": "San Francisco, CA, US; Remote, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8213988",
-      "posted_at": "2026-09-18T20:32:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_instacart_8132846",
-      "employer_name": "Instacart",
-      "job_title": "Senior Data Engineer II, Finance",
-      "location": "United States - Remote",
-      "apply_link": "https://instacart.careers/job/?gh_jid=8132846",
-      "posted_at": "2026-09-18T19:27:56-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_instacart_8126023",
-      "employer_name": "Instacart",
-      "job_title": "Senior Data Engineer II, Finance",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "apply_link": "https://instacart.careers/job/?gh_jid=8126023",
-      "posted_at": "2026-09-18T19:27:56-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8209835",
-      "employer_name": "Waymo",
-      "job_title": "Staff Tech Lead Software Engineer, Vehicle Realism Platform",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8209835",
-      "posted_at": "2026-09-18T19:25:20-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8214519",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
-      "location": "Mountain View, California, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
-      "posted_at": "2026-09-18T19:01:38-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8806570002",
-      "employer_name": "Lyft",
-      "job_title": "Backend Software Engineer, Airports",
-      "location": "San Francisco, CA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8806570002?gh_jid=8806570002",
-      "posted_at": "2026-09-18T18:40:33-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8806560002",
-      "employer_name": "Lyft",
-      "job_title": "Backend Software Engineer, Airports",
-      "location": "Mexico City, Mexico",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8806560002?gh_jid=8806560002",
-      "posted_at": "2026-09-18T18:40:18-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8017277",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Staff Software Engineer, Guest & Host",
-      "location": "Remote - USA",
-      "apply_link": "https://careers.airbnb.com/positions/8017277?gh_jid=8017277",
-      "posted_at": "2026-09-18T18:38:58-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_7998356",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Staff Data Engineer - Data Stewardship",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/7998356?gh_jid=7998356",
-      "posted_at": "2026-09-18T18:38:21-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8209244",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Software Engineer, Tech Foundations",
-      "location": "San Francisco, CA",
-      "apply_link": "https://careers.airbnb.com/positions/8209244?gh_jid=8209244",
-      "posted_at": "2026-09-18T18:34:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8209061",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Software Engineer, Tech Foundations",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/8209061?gh_jid=8209061",
-      "posted_at": "2026-09-18T18:33:07-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8197816",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Software Engineer, Tech Foundations",
-      "location": "USA",
-      "apply_link": "https://careers.airbnb.com/positions/8197816?gh_jid=8197816",
-      "posted_at": "2026-09-18T18:22:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8070121",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Manager, Machine Learning Engineering - Communication & Connectivity",
-      "location": "Remote - US",
-      "apply_link": "https://careers.airbnb.com/positions/8070121?gh_jid=8070121",
-      "posted_at": "2026-09-18T18:20:30-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8130355",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Machine Learning Engineer, Trust",
-      "location": "San Francisco, CA",
-      "apply_link": "https://careers.airbnb.com/positions/8130355?gh_jid=8130355",
-      "posted_at": "2026-09-18T18:18:47-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8065789",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Machine Learning Engineer, Query Intelligence",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/8065789?gh_jid=8065789",
-      "posted_at": "2026-09-18T18:18:12-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_7955579",
-      "employer_name": "Airbnb",
-      "job_title": "Principal Machine Learning Engineer- LLM Fine-tuning and Optimization ",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/7955579?gh_jid=7955579",
-      "posted_at": "2026-09-18T18:12:08-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_7708224",
-      "employer_name": "Airbnb",
-      "job_title": "Machine Learning Engineer, Relevance and Personalization",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/7708224?gh_jid=7708224",
-      "posted_at": "2026-09-18T18:10:57-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8214729",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer, RO Performance team, Release Evaluation (Simulation)",
-      "location": "Warsaw, Poland",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8214729",
-      "posted_at": "2026-09-18T18:07:50-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8187190",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Staff Software Engineer, Tech Foundations",
-      "location": "Remote",
-      "apply_link": "https://careers.airbnb.com/positions/8187190?gh_jid=8187190",
-      "posted_at": "2026-09-18T17:34:41-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
