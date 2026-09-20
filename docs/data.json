@@ -1,4 +1,25 @@
 {
-  "generated_at": "2026-09-19T23:55:45.295039+00:00",
-  "jobs": []
+  "generated_at": "2026-09-20T03:57:34.262989+00:00",
+  "jobs": [
+    {
+      "job_id": "greenhouse_airbnb_7975743",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Machine Learning Engineer, Assistance Engineering",
+      "location": "China",
+      "apply_link": "https://careers.airbnb.com/positions/7975743?gh_jid=7975743",
+      "posted_at": "2026-09-19T23:33:39-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_7716341",
+      "employer_name": "Airbnb",
+      "job_title": "Machine Learning Engineer, Assistance Engineering",
+      "location": "China",
+      "apply_link": "https://careers.airbnb.com/positions/7716341?gh_jid=7716341",
+      "posted_at": "2026-09-19T23:32:51-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    }
+  ]
 }
