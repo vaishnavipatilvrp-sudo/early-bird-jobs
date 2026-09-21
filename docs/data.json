@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T21:45:55.754204+00:00",
+  "generated_at": "2026-09-21T22:33:00.492031+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_80f9f564-d789-47bc-91c3-3babf5a1a33d",
@@ -12,6 +12,16 @@
       "source": "ashby"
     },
     {
+      "job_id": "greenhouse_mongodb_7870876",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Query Optimization",
+      "location": "United States",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7870876",
+      "posted_at": "2026-09-21T17:07:39-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "ashby_openai_e42305bf-2266-4dff-82ad-42be7ddac495",
       "employer_name": "OpenAI",
       "job_title": "Software Engineer, Plugin Ecosystem",
@@ -20,6 +30,16 @@
       "posted_at": "2026-09-21T17:03:31.264+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "Z01XOFpXNk0tNmhOci1lYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURU16T1dSeU5tNUtkWGd6Tm1SUE1YTnJSbmR1TkhWV2NGRXRObEl6UlV4RmRGcDZRVVptY1hCcmRVWkJZMDFYTm5FeUxUaG1YM3BYWm1OSE4xSjRhMmd5TTI5T1JtdzJlVm96VUhad2NFNVhMVVJ1ZG0xTVJtWlJNVVpOTW05eWJrVnhkVGhTTkVSYVoybFNZVkUxV0hWalVIcGxXVkZIYXpGRWJXNWpOSG8zYVhoT1p6WVNGMVZNUTNoaGMyVXpTa3RsUTJoaVNWQnpjVWhFWjBGekdpSkJSSE55T1daVWRFNDRhbXQ0WlVGMk5VOXBTalUyYVVKSFMwUlRWSFZpZWtKUg",
+      "employer_name": "TikTok",
+      "job_title": "Research Engineer - Foundation Models, Ads Integrity",
+      "location": "San Jose, California",
+      "apply_link": "https://www.linkedin.com/jobs/view/research-engineer-foundation-models-ads-integrity-at-tiktok-4467678107",
+      "posted_at": "2026-09-21T17:00:00.000Z",
+      "category": "Other",
+      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_doordashusa_7967918",
@@ -2579,36 +2599,6 @@
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8197886",
       "posted_at": "2026-09-21T12:52:34-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8211732",
-      "employer_name": "Waymo",
-      "job_title": "Senior Software Engineer, Mission Planning ",
-      "location": "Warsaw, Poland ",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8211732",
-      "posted_at": "2026-09-21T12:12:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8157281",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Staff Software Engineer - Integrated Network Strategy",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8157281?gh_jid=8157281",
-      "posted_at": "2026-09-21T11:52:41-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5426213008",
-      "employer_name": "Block",
-      "job_title": "Software Engineer, Payment Interfaces",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5426213008?gh_jid=5426213008",
-      "posted_at": "2026-09-21T11:47:14-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
