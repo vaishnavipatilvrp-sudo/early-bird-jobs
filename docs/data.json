@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T16:16:33.836742+00:00",
+  "generated_at": "2026-09-21T16:22:49.105400+00:00",
   "jobs": [
     {
       "job_id": "ashby_notion_e9bf7ffa-9cf2-4360-a2e4-e9fa66859927",
@@ -20,26 +20,6 @@
       "posted_at": "2026-09-21T13:26:05.965+00:00",
       "category": "Software Engineer",
       "source": "ashby"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8157281",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Staff Software Engineer - Integrated Network Strategy",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8157281?gh_jid=8157281",
-      "posted_at": "2026-09-21T11:52:41-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8074762",
-      "employer_name": "Twilio",
-      "job_title": "Staff, Business Intelligence Engineer",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8074762",
-      "posted_at": "2026-09-21T11:41:26-04:00",
-      "category": "Other",
-      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_anthropic_5383114008",
