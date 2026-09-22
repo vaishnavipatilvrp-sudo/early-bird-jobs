@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-09-22T13:09:34.354665+00:00",
+  "generated_at": "2026-09-22T14:31:17.734599+00:00",
   "jobs": [
+    {
+      "job_id": "aWI5d2RyOV9wZVFqMkt4T0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM0pJWVd0dVZteE9iVWt5WkRaTFdEWnphVFZDVjJKYU16aHdNVmd0WkY4M1NYVk9TV2d5UlZodlEwVlpTR1pDV1hnM1NsTmhlWFpDVlhKUWFVaHRSbUYyUzNwRlNIUmlTbmxOVjBSSk0weFBkbEpxV21wVVZWSldhWFJqYmtJeGNsSkxTbkZ2VkVkUFdVWTJWMUpPV2s1ZmNERjNNVXhNUW1GelUwOXpUMWR1WTNGaFJsVVNGMk0xUTNsaGRXNWFSbVZJWVRWUFZWQTBUbDlFTWxFNEdpSkJSSE55T1daVWRtcG9kRUZRWmxvdGRHSlpZM2RhVVRWbFh6Sk9OVVJzUmtsQg",
+      "employer_name": "Lexical Intelligence, LLC",
+      "job_title": "Data Engineer / Backend Developer",
+      "location": "Bethesda, Maryland",
+      "apply_link": "https://www.ziprecruiter.com/c/lexical-intelligence/Job/Data-Engineer-Backend-Developer/-in-Bethesda,MD?jid=157f80f19a3ddcaf",
+      "posted_at": "2026-09-22T12:00:00.000Z",
+      "category": "Data Engineer",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_twilio_8007449",
+      "employer_name": "Twilio",
+      "job_title": "Senior/Staff Applied Research Software Engineer",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007449",
+      "posted_at": "2026-09-22T10:26:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_6166497004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer - Machine Learning (London, United Kingdom)",
+      "location": "London, England",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/6166497004?gh_jid=6166497004",
+      "posted_at": "2026-09-22T10:18:32-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "NGo4WjZjLXc5NUdfNnN5QkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV3BCVFV3d2MweEJlalV6YVZWT2JubGpaMHBFT1dKc2VXTldYekJ0YVZoSVIzSTBOMUo2Y3kxTlVsQTFjMnhrWnpOTWJHRlVVMVpGYVVoQ1NGTkdWMnBhUW1WWk5GUlhiMFJxWXpsT2RIWmxORVpuY0VGMmVFaGtNRTVITlZSUVFVbFlXV2R6V0dGUWFHNUNVMk01VFRkNVpXWXRZVWxOT0RneVYxODJWazA0VUdoTFVWTVNGMGx3UjNsaGNUWlhTRWxUWVdwMVRWQnBOalpZTWtFd0dpSkJSSE55T1daVFNWbHhaSGxOUTJsdlkwdHZZVTVVVmtwTlFsVnJaMkZYUzE5Qg",
+      "employer_name": "Cisco",
+      "job_title": "Software Engineer Data & AI I (Intern) \u2013 United States",
+      "location": "Milpitas, California",
+      "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-data-ai-i-intern-%E2%80%93-united-states-at-cisco-4470403298",
+      "posted_at": "2026-09-22T10:00:00.000Z",
+      "category": "Software Engineer",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "TUZVY1NkTDRJZnJJUFk2b0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM1pEZG1oSE4xazVSbHB0TUdZNGRqVm1kWEpyTUVJNGRUZFBZVkJ4ZUMxWWFFRm1WbTFZTmpsSVluSlNhR1l6TlhSdlV6SndhR1ppUVdkUVExQTRTMjlNUzNWSU1DMWZiWFpRVW1VeWJFVk1SelJZWkVseWQybEpRbmhXTVRkUVNITkhlVXM1VDBGSVJWYzJRWEUyV0doTVFVWlhWbWxGZEZNMFUwVTNhMEZyUWs5VFdHOFNGMG8xUjNsaGRucHJUemhtYUhObFRWQTJZWFZPYzFGTkdpSkJSSE55T1daU1NESnRkRlZzWlZKQldXczJlRGg2WVVsdU4wWm5RMlZMUlRoMw",
+      "employer_name": "UnitedHealthcare",
+      "job_title": "Principal AI Data Scientist, E&I Affordability",
+      "location": "Las Vegas, Nevada",
+      "apply_link": "https://www.linkedin.com/jobs/view/principal-ai-data-scientist-e-i-affordability-at-unitedhealthcare-4470408112",
+      "posted_at": "2026-09-22T09:00:00.000Z",
+      "category": "Data Scientist",
+      "source": "jsearch"
+    },
     {
       "job_id": "ashby_openai_e1d8b590-8a91-42bb-ba2e-64b99c87e4ac",
       "employer_name": "OpenAI",
@@ -19,16 +69,6 @@
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8130883",
       "posted_at": "2026-09-22T08:26:10-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5364922008",
-      "employer_name": "Block",
-      "job_title": "Staff Data Scientist, Pricing",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5364922008?gh_jid=5364922008",
-      "posted_at": "2026-09-22T03:10:59-04:00",
-      "category": "Data Scientist",
       "source": "greenhouse"
     }
   ]
