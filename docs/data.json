@@ -1,6 +1,186 @@
 {
-  "generated_at": "2026-09-22T18:33:58.244971+00:00",
+  "generated_at": "2026-09-22T21:11:44.508357+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_ac442f1f-c0d2-4608-a155-bfc89190e01c",
+      "employer_name": "OpenAI",
+      "job_title": "Fullstack Software Engineer, Child Safety Tools & Systems",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/ac442f1f-c0d2-4608-a155-bfc89190e01c",
+      "posted_at": "2026-09-22T19:29:04.677+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8171041",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Intern (Summer 2027) - US",
+      "location": "New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
+      "posted_at": "2026-09-22T17:00:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8024644",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Storage",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8024644",
+      "posted_at": "2026-09-22T17:00:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8223735",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
+      "location": "San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8223735",
+      "posted_at": "2026-09-22T16:22:25-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8211452",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Backend - Platform (Core AI Automation)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8211452?gh_jid=8211452",
+      "posted_at": "2026-09-22T15:53:10-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8049465",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Machine Learning Engineer, Shopping Ads",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8049465",
+      "posted_at": "2026-09-22T15:39:23-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8026607",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Data Scientist, Ads Delivery",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8026607",
+      "posted_at": "2026-09-22T15:39:22-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8011452",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Machine Learning Engineer, Ads Conversion Core Modeling",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8011452",
+      "posted_at": "2026-09-22T15:38:54-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8010903",
+      "employer_name": "Pinterest",
+      "job_title": "Manager II, Machine Learning \u2013 Conversion Visibility",
+      "location": "Seattle, WA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8010903",
+      "posted_at": "2026-09-22T15:38:52-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7963755",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Data Scientist, Ads Product",
+      "location": "San Francisco, CA, US; Seattle, WA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7963755",
+      "posted_at": "2026-09-22T15:38:47-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7770918",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Staff Software Engineer, Merchants",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7770918",
+      "posted_at": "2026-09-22T15:37:53-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7494904",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer, Ads Measurement Signal ",
+      "location": "Seattle, WA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7494904",
+      "posted_at": "2026-09-22T15:37:15-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_6963868",
+      "employer_name": "Pinterest",
+      "job_title": "Principal Machine Learning Engineer, Ads Delivery",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=6963868",
+      "posted_at": "2026-09-22T15:35:57-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8130883",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern",
+      "location": "Singapore",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130883",
+      "posted_at": "2026-09-22T15:14:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8224032",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Staff Data Engineer, Foundational Data",
+      "location": "United States",
+      "apply_link": "https://careers.airbnb.com/positions/8224032?gh_jid=8224032",
+      "posted_at": "2026-09-22T14:58:28-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8080909",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer - Vision-Language Foundation Models",
+      "location": "Mountain View, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8080909",
+      "posted_at": "2026-09-22T14:43:34-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8017556",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Software Engineer, Assistance Engineering",
+      "location": "San Francisco, CA",
+      "apply_link": "https://careers.airbnb.com/positions/8017556?gh_jid=8017556",
+      "posted_at": "2026-09-22T14:42:39-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8212352",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - Load Balancing",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8212352?gh_jid=8212352",
+      "posted_at": "2026-09-22T14:38:56-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_figma_5551730004",
       "employer_name": "Figma (bonus, not on your original list)",
@@ -50,26 +230,6 @@
       "posted_at": "2026-09-22T13:06:04-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "Qnp3d1JPSlNCdGRleVFVdkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURGRFT1RoblZERmpjbnB3U0dZMVoxZDZZbkJVWkZadE5rMDNUalZxVVRobFNrbzVNRGcwY0ZremNsSlJSMmhoZFVSTE9VUllRbUl6WTAxWVJWTlVPRmxoYkhGb05GUTBYMDE0TjNoaGFFNWtOM1oxUldGaU1uSnpjVU5zV25kbFdWZG5RbGsyWVhWTlNFSkNRMFpIUlMxMVVESkhibXhCVHpSNlJGRlFNR0pJVG1Ka05IVVNGMTg0YVhsaGRYSklUSEZQZEhWeU9GQjZTMmxVWjBGbkdpSkJSSE55T1daVFRIaFRRM1J6UXpKdk9XUlpVbFZrTFhSWWFUSk9WVlZ4YTJ4bg",
-      "employer_name": "Cisco",
-      "job_title": "Software Engineer Full Stack / Backend I (Full Time) - United States",
-      "location": "Boston, Massachusetts",
-      "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-backend-i-full-time-united-states-at-cisco-4461286654",
-      "posted_at": "2026-09-22T13:00:00.000Z",
-      "category": "Software Engineer",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "UW02dnlnNVo0eWJvNzJ3R0FBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTblUwU2xST1RYTkdVSGg1YzJ4WldVbGlaVkEwTFdaUFdteG9MVVJDV0dGdGRXRmplbGQzU3pBMk1rUnROMk5QV0ZvdFZ6bHpjMUJwT0hWd2FYWXpjRWwzTVdGbmJHdEJaRUpSWWxoUWRIUnBiMDU0ZFhFNVdGZzNTVVpJWlROM1pHWjZXRnBzU0dwaGJrZGxUelp0Y0ZWRmNrTnFWMUUwYTJoWmJFRk5Nbk5OYVhGNlpXNFNGbm80YlhsaGRtUnFlVGQyYWpSUlgzTm5OMDlCUWxFYUlrRkVjM0k1WmxGRE1XaDNPRVl0VFZsT2VWaFJSVFpCTTFSalJGRkNXREk1UlVF",
-      "employer_name": "Google",
-      "job_title": "Software Engineer, Applied Research, YouTube Languages Capabilities",
-      "location": "Mountain View, California",
-      "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-applied-research-youtube-languages-capabilities-at-google-4468790965",
-      "posted_at": "2026-09-22T13:00:00.000Z",
-      "category": "Software Engineer",
-      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_anthropic_5074217008",
@@ -139,36 +299,6 @@
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8207877",
       "posted_at": "2026-09-22T11:35:06-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8049465",
-      "employer_name": "Pinterest",
-      "job_title": "Staff Machine Learning Engineer, Shopping Ads",
-      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8049465",
-      "posted_at": "2026-09-22T11:22:38-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8007449",
-      "employer_name": "Twilio",
-      "job_title": "Senior/Staff Applied Research Software Engineer",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007449",
-      "posted_at": "2026-09-22T10:26:54-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_6166497004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Software Engineer - Machine Learning (London, United Kingdom)",
-      "location": "London, England",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/6166497004?gh_jid=6166497004",
-      "posted_at": "2026-09-22T10:18:32-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
