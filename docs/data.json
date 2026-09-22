@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-09-22T07:39:51.415593+00:00",
+  "generated_at": "2026-09-22T13:09:34.354665+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_e1d8b590-8a91-42bb-ba2e-64b99c87e4ac",
+      "employer_name": "OpenAI",
+      "job_title": "Applied AI Engineer, Codex",
+      "location": "Sydney, Australia",
+      "apply_link": "https://jobs.ashbyhq.com/openai/e1d8b590-8a91-42bb-ba2e-64b99c87e4ac",
+      "posted_at": "2026-09-22T08:51:54.660+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_stripe_8130883",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern",
+      "location": "Singapore",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130883",
+      "posted_at": "2026-09-22T08:26:10-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_block_5364922008",
       "employer_name": "Block",
@@ -9,26 +29,6 @@
       "apply_link": "http://block.xyz/careers/jobs/5364922008?gh_jid=5364922008",
       "posted_at": "2026-09-22T03:10:59-04:00",
       "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "Q3VoSU9SUl91UzBwWk9xNkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbWszUTBkMVgzUnlOV2gxZVU1d1FrVk5hVU5mVFdkVmJXRkdSMWxvT1Zod2FsVnhRM0pCTjNsV1pVZEVaekZ1Vm1Kb1lqaGpjelEyZGpCblNsRk9PVGRrZFd4UmJHUXRlRzFhVFUxcFZVZFhaMjloUzJSZk5WZEpSRXh0TFVneldtdHVVV0p1YlhGd1QyRjBWWEI1VTA1bFZqRmpNMWgxZEZBeE9GYzVNbmx2YW5GVE1WQVNGMGhVUTNsaGNsQXpTSEpUVXpWUFZWQnlTM2xJZVVGdkdpSkJSSE55T1daVU5HNXRPWGMxWjBWUlZrdEdjR3Q0UWs1SVVteE5YMUYxVW5Wbg",
-      "employer_name": "Cisco",
-      "job_title": "Software Engineer Full Stack / Backend I (Intern) \u2013 United States",
-      "location": "San Jose, California",
-      "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-backend-i-intern-%E2%80%93-united-states-at-cisco-4470234932",
-      "posted_at": "2026-09-22T03:00:00.000Z",
-      "category": "Software Engineer",
-      "source": "jsearch"
-    },
-    {
-      "job_id": "greenhouse_stripe_7618977",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Core Technology",
-      "location": "Bangalore",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7618977",
-      "posted_at": "2026-09-21T23:51:56-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
