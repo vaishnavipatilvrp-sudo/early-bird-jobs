@@ -1,34 +1,64 @@
 {
-  "generated_at": "2026-09-23T07:42:25.282427+00:00",
+  "generated_at": "2026-09-23T13:24:16.387500+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_anthropic_5017202008",
-      "employer_name": "Anthropic",
-      "job_title": "Software Engineer, Labs",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5017202008",
-      "posted_at": "2026-09-23T02:18:24-04:00",
+      "job_id": "ashby_openai_21ee6dd3-dcd0-425a-91e9-34a23ab3e434",
+      "employer_name": "OpenAI",
+      "job_title": "Applied AI Engineer, Codex",
+      "location": "Paris, France",
+      "apply_link": "https://jobs.ashbyhq.com/openai/21ee6dd3-dcd0-425a-91e9-34a23ab3e434",
+      "posted_at": "2026-09-23T08:53:59.346+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "ashby_openai_6a7cedbd-0a7c-4f3e-8389-55357ad444b3",
+      "employer_name": "OpenAI",
+      "job_title": "Applied AI Engineer, Codex",
+      "location": "Munich, Germany",
+      "apply_link": "https://jobs.ashbyhq.com/openai/6a7cedbd-0a7c-4f3e-8389-55357ad444b3",
+      "posted_at": "2026-09-23T08:53:56.426+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "ashby_openai_566a5565-925c-4367-9912-6b64841beba2",
+      "employer_name": "OpenAI",
+      "job_title": "Applied AI Engineer, Codex",
+      "location": "Madrid, Spain",
+      "apply_link": "https://jobs.ashbyhq.com/openai/566a5565-925c-4367-9912-6b64841beba2",
+      "posted_at": "2026-09-23T08:53:15.399+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7657028",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Business Development Representative - Danish, Norwegian or Swedish Speaking",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7657028?gh_jid=7657028",
+      "posted_at": "2026-09-23T07:22:05-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_anthropic_5432558008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer: Compute",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5432558008",
-      "posted_at": "2026-09-23T02:17:20-04:00",
+      "job_id": "greenhouse_stripe_6717520",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Payments and Risk",
+      "location": "Dublin, Ireland",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=6717520",
+      "posted_at": "2026-09-23T06:02:25-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_airbnb_7702714",
-      "employer_name": "Airbnb",
-      "job_title": "Staff Software Engineer, Infrastructure",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/7702714?gh_jid=7702714",
-      "posted_at": "2026-09-23T00:20:07-04:00",
-      "category": "Software Engineer",
+      "job_id": "greenhouse_anthropic_5432575008",
+      "employer_name": "Anthropic",
+      "job_title": "Applied AI Engineer, Startups",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5432575008",
+      "posted_at": "2026-09-23T05:01:26-04:00",
+      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
