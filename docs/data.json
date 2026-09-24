@@ -1,15 +1,65 @@
 {
-  "generated_at": "2026-09-24T03:31:58.686016+00:00",
+  "generated_at": "2026-09-24T07:34:56.659893+00:00",
   "jobs": [
     {
-      "job_id": "ashby_notion_ab383335-1dd5-4d6a-971f-439cebf48a9d",
-      "employer_name": "Notion (bonus, not on your original list)",
-      "job_title": "Software Engineer, Model Capabilities",
-      "location": "San Francisco, California",
-      "apply_link": "https://jobs.ashbyhq.com/notion/ab383335-1dd5-4d6a-971f-439cebf48a9d",
-      "posted_at": "2026-09-23T23:30:04.563+00:00",
+      "job_id": "ZTZ2R241V0k0Nmk3OHp0QUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR1JSUjNKUk9UbFBSamhET1hodllrTTJRV05TVFMwNGNsZFROMFpTWm1zMFRqTk5VMXBUY21aV05FdzJUamhhT0hCU01HNVFhMFF5Y2xFNFFWQm5SVzVmU1RKR2MzbHJkekZVTTJ4NldqaGxlVmhqYzNFeFUwbGFjV2xaUm5aUlNIcE5UbmRPTjFBdFRXOU9OM1J1ZG1ObllXdDZjR3hQYUMxU1JIbHVhWEJyYlVOVE0yMFNGM1k1UnpCaGRsZHNTVXBNV0RWT2IxQnBMVE5FYlZGUkdpSkJSSE55T1daVVNGVnNUelJYWm1wSVVqZHZXbkl4UmxsbVdUaFlkVzlRWWpGbg",
+      "employer_name": "CVS Health",
+      "job_title": "Encounter Data Analyst- DSNP (Dual Eligible Special Needs Plan)",
+      "location": "Wisconsin",
+      "apply_link": "https://www.simplyhired.com/job/PmcbMVq5gYndJhHEuC3CjyikRJhc64_kugKUUf33in5pNfXsM9yTCg",
+      "posted_at": "2026-09-24T04:00:00.000Z",
+      "category": "Data Analyst",
+      "source": "jsearch"
+    },
+    {
+      "job_id": "ZzdCYW4zV3M1aUdSYnNqcEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVUZWVDJSaVozTm9SM1pwYTBGMmVXaFZWbUZDYVVsbWNIWXpTa1oyTlRaR05rOXBkV1owVm1SM1JGQmZZblIxUVd0UmRVNXFaSHByYjBjeVowMHRYMVV5U1VGUlJIWnBSVkJJWTBwSVYxbHhVemxSVW1kVU1FVkhNa0Z6T0RGUFREQkJhRzV0VUdoUVV6bDBkVEUwVkhsRFNWTXRNV1Z1VVRWT2RIRnBiV05SYTNGamExb1NGM05rUnpCaGNXMU1Temd5Vm5KMVJWQjBTblZrZVZFNEdpSkJSSE55T1daVFEydHlibTFSVkd4S1NHUlJPR050Y0dReVEweGFSbEY0TVdsbg",
+      "employer_name": "Cisco",
+      "job_title": "Software Engineer Full Stack / Backend II (Full-Time) - United States",
+      "location": "Boulder, Colorado",
+      "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-backend-ii-full-time-united-states-at-cisco-4471187619",
+      "posted_at": "2026-09-24T03:00:00.000Z",
       "category": "Software Engineer",
-      "source": "ashby"
+      "source": "jsearch"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5433813008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Account Creation",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5433813008",
+      "posted_at": "2026-09-24T01:57:12-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5433814008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Access Programs",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5433814008",
+      "posted_at": "2026-09-24T01:54:13-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7975725",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Core Infrastructure",
+      "location": "Sydney, Australia",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7975725",
+      "posted_at": "2026-09-24T00:19:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8165656",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Software Engineer, Storage",
+      "location": "United States",
+      "apply_link": "https://careers.airbnb.com/positions/8165656?gh_jid=8165656",
+      "posted_at": "2026-09-23T23:53:47-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_xai_5063490007",
@@ -319,46 +369,6 @@
       "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5167318007",
       "posted_at": "2026-09-23T23:22:06-04:00",
       "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8014904",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Machine Learning Engineer, Assistance Engineering",
-      "location": "Remote-USA",
-      "apply_link": "https://careers.airbnb.com/positions/8014904?gh_jid=8014904",
-      "posted_at": "2026-09-23T21:05:18-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8209014",
-      "employer_name": "Pinterest",
-      "job_title": "Sr. Technical Program Manager, Data Engineering",
-      "location": "San Francisco, CA, US; Remote, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8209014",
-      "posted_at": "2026-09-23T20:02:25-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8817776002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer - Safety Experience",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8817776002",
-      "posted_at": "2026-09-23T18:21:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7484358",
-      "employer_name": "Waymo",
-      "job_title": "Senior Software Engineer, Configuration & Experiments",
-      "location": "Mountain View, CA, US; San Francisco, CA, US",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7484358",
-      "posted_at": "2026-09-23T17:35:06-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
