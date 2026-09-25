@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-09-25T22:06:41.143181+00:00",
+  "generated_at": "2026-09-25T23:07:47.343475+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_replit_659a8e1e-69ba-44c0-a632-96665051a3e8",
+      "employer_name": "Replit (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Compute Platform",
+      "location": "Foster City, CA",
+      "apply_link": "https://jobs.ashbyhq.com/replit/659a8e1e-69ba-44c0-a632-96665051a3e8",
+      "posted_at": "2026-09-25T23:02:42.491+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
     {
       "job_id": "ashby_replit_4df82fb0-0bcb-4034-89ce-09e679b00fe7",
       "employer_name": "Replit (bonus, not on your original list)",
@@ -12,24 +22,34 @@
       "source": "ashby"
     },
     {
-      "job_id": "a3MwN0hBZ29JWmVJOVhKMkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMDVOV0hRMVozQkhjVlJqUVZWUWJrWllSelpmTWxCdmJrOWFVMHBCUjBseFR6aE9SbDlvY25WMlJXTm5jalpKVldodGFFSm1VM1ptVFVZd1JESjBaMVpsTVV0TFVFWlFUbFpIWmtRelFWZHhja1V6Um1neVVqWm1NRUZETWtOeVlWRjZUbU4wZERKQlkxTjNNV0pvYWtwT1ZVWlNaVWRUVWs0MmFtbHBOSE16ZVhVelJWOFNGelF0TFRKaGMzcERVRXBoWjJsTVRWQTJPRkJMWjFGTkdpSkJSSE55T1daVE5WQjVkMlZYVFhaTE4wUnliRnBvVldabmRWWk1SM1U0V0VOUg",
-      "employer_name": "Snap Inc.",
-      "job_title": "Senior Business Intelligence Engineer",
-      "location": "Los Angeles, California",
-      "apply_link": "https://www.linkedin.com/jobs/view/senior-business-intelligence-engineer-at-snap-inc-4472067077",
-      "posted_at": "2026-09-25T18:00:00.000Z",
-      "category": "Other",
-      "source": "jsearch"
+      "job_id": "greenhouse_waymo_8227411",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Perception, Machine Learning",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8227411",
+      "posted_at": "2026-09-25T18:46:35-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
     },
     {
-      "job_id": "Z1ZoZFpvSk9tZlZNSmtTZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTelp5Ym5GRVUzUnBRMTlVV1RVME9VRlZNVTV1VEhWVGNuWlROMWQzU3pjdFNESlhlSEZsZGpaTGNXTnZVME5OY0hkT2JuaFJVWEZ4VkhJek1IVnZkVmRWZFVVNWNrZEZNbE14ZVV4V1RFUk1TbXcyUW5sV1ZXaG9jV1pWZVV4RE5ucEhTVTkwZUhoNVQyRmpaREp3WDNjeFUyWXlVSEJFVDJKRlIwTkZRV3MxYVhsUVZVVVNGMEoyUXpKaGRXSktRbVYxWlhCMFVWQnNZbkpCYlVGSkdpSkJSSE55T1daU1VtSnBWVEo0UjFkd05sZ3dVekpUTUVNeFVqZ3hUMUpMTUY5bg",
-      "employer_name": "Apple Inc.",
-      "job_title": "Machine Learning/ Search Engineer - Services Special Projects",
-      "location": "Bagdad, Kentucky",
-      "apply_link": "https://www.jobserve.com/us/en/extjob/MACHINE-LEARNING-SEARCH-ENGINEER-SERVICES-SPECIAL-PROJECTS-in-Kentucky-USA-C2D4B9FEA7429345B1/",
-      "posted_at": "2026-09-25T18:00:00.000Z",
-      "category": "ML / AI Engineer",
-      "source": "jsearch"
+      "job_id": "greenhouse_block_5281312008",
+      "employer_name": "Block",
+      "job_title": "Senior Data Engineer, Risk",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008",
+      "posted_at": "2026-09-25T18:33:37-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8204243",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer (Platform - Financial Engineering)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8204243?gh_jid=8204243",
+      "posted_at": "2026-09-25T18:23:59-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_waymo_8234161",
@@ -362,21 +382,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8130867",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Intern",
-      "location": "London",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130867",
-      "posted_at": "2026-09-25T16:44:55-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_stripe_8130883",
       "employer_name": "Stripe",
       "job_title": "Software Engineer, Intern",
       "location": "Singapore",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8130883",
+      "posted_at": "2026-09-25T16:44:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8130867",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern",
+      "location": "London",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130867",
       "posted_at": "2026-09-25T16:44:55-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -392,6 +412,16 @@
       "source": "greenhouse"
     },
     {
+      "job_id": "greenhouse_stripe_8130805",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern (Summer or Winter)",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130805",
+      "posted_at": "2026-09-25T16:44:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "greenhouse_stripe_8128745",
       "employer_name": "Stripe",
       "job_title": "Software Engineer, Intern (Summer or Winter)",
@@ -402,11 +432,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8130805",
+      "job_id": "greenhouse_stripe_8130881",
       "employer_name": "Stripe",
-      "job_title": "Software Engineer, Intern (Summer or Winter)",
-      "location": "Toronto",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130805",
+      "job_title": "Software Engineer, New Grad",
+      "location": "Dublin",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130881",
       "posted_at": "2026-09-25T16:44:55-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -427,16 +457,6 @@
       "job_title": "Software Engineer, New Grad",
       "location": "Bucharest",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8130922",
-      "posted_at": "2026-09-25T16:44:55-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8130881",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, New Grad",
-      "location": "Dublin",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130881",
       "posted_at": "2026-09-25T16:44:55-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -1209,16 +1229,6 @@
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7347335",
       "posted_at": "2026-09-25T13:42:10-04:00",
       "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_5551730004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Software Engineer - AI Product",
-      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/5551730004?gh_jid=5551730004",
-      "posted_at": "2026-09-25T12:21:12-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
