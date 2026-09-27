@@ -1,14 +1,34 @@
 {
-  "generated_at": "2026-09-27T11:33:05.808577+00:00",
+  "generated_at": "2026-09-27T15:05:03.093408+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_coinbase_8168315",
-      "employer_name": "Coinbase",
-      "job_title": "Software Engineer Intern",
-      "location": "Hybrid - San Francisco, CA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
-      "posted_at": "2026-09-27T01:33:48-04:00",
-      "category": "Software Engineer",
+      "job_id": "greenhouse_databricks_8403943002",
+      "employer_name": "Databricks",
+      "job_title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
+      "location": "Remote - United Kingdom",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8403943002",
+      "posted_at": "2026-09-27T10:14:23-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8233953",
+      "employer_name": "DoorDash",
+      "job_title": "Machine Learning Intern (PhD) - Summer 2027",
+      "location": "San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8233953",
+      "posted_at": "2026-09-27T09:16:32-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8204111",
+      "employer_name": "DoorDash",
+      "job_title": "Machine Learning Intern (Masters) - Summer 2027",
+      "location": "San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8204111",
+      "posted_at": "2026-09-27T09:15:30-04:00",
+      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
