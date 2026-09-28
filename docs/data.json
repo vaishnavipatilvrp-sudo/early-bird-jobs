@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T23:11:04.374408+00:00",
+  "generated_at": "2026-09-28T23:49:19.217803+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_9909555b-3dc4-4ba2-859e-43eae7c97a34",
@@ -10,6 +10,26 @@
       "posted_at": "2026-09-28T22:14:02.004+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8238630",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Backend - Overseer (Platform)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8238630?gh_jid=8238630",
+      "posted_at": "2026-09-28T19:31:58-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5436293008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Account Abuse (Machine Learning)",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5436293008",
+      "posted_at": "2026-09-28T19:25:54-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_waymo_8237997",
@@ -128,16 +148,6 @@
       "location": "London, UK",
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5435282008",
       "posted_at": "2026-09-28T17:13:27-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5436293008",
-      "employer_name": "Anthropic",
-      "job_title": "Software Engineer, Account Abuse (Machine Learning)",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5436293008",
-      "posted_at": "2026-09-28T16:48:57-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
     },
@@ -309,26 +319,6 @@
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8214350",
       "posted_at": "2026-09-28T14:15:17-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8236946",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Full Stack - Experimentation Platform",
-      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York, NY; Los Angeles, CA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8236946",
-      "posted_at": "2026-09-28T13:40:08-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8074762",
-      "employer_name": "Twilio",
-      "job_title": "Senior, Business Intelligence Engineer",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8074762",
-      "posted_at": "2026-09-28T13:34:02-04:00",
-      "category": "Other",
       "source": "greenhouse"
     }
   ]
