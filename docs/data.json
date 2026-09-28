@@ -1,4 +1,135 @@
 {
-  "generated_at": "2026-09-28T00:19:34.306439+00:00",
-  "jobs": []
+  "generated_at": "2026-09-28T08:19:32.756094+00:00",
+  "jobs": [
+    {
+      "job_id": "greenhouse_coinbase_7930686",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Backend (Consumer - Risk)",
+      "location": "Remote - Canada",
+      "apply_link": "https://www.coinbase.com/careers/positions/7930686?gh_jid=7930686",
+      "posted_at": "2026-09-28T03:06:45-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7866674",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer - Trading",
+      "location": "Remote - Singapore",
+      "apply_link": "https://www.coinbase.com/careers/positions/7866674?gh_jid=7866674",
+      "posted_at": "2026-09-28T03:06:31-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5114747008",
+      "employer_name": "Block",
+      "job_title": "Staff Data Analyst, Block Compliance",
+      "location": "New York, NY, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5114747008?gh_jid=5114747008",
+      "posted_at": "2026-09-28T03:04:40-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5098519008",
+      "employer_name": "Block",
+      "job_title": "Staff Data Analyst, Block Compliance",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5098519008?gh_jid=5098519008",
+      "posted_at": "2026-09-28T03:04:40-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5114793008",
+      "employer_name": "Block",
+      "job_title": "Staff Data Analyst, Block Compliance",
+      "location": "Denver, CO, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5114793008?gh_jid=5114793008",
+      "posted_at": "2026-09-28T03:04:40-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8099751002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Remote - India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002",
+      "posted_at": "2026-09-28T01:46:53-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8015848002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer, FDE (Forward Deployed Engineer)",
+      "location": "Bengaluru, India; Delhi, India; Mumbai, India; Pune, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8015848002",
+      "posted_at": "2026-09-28T01:46:37-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8021650",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer",
+      "location": "Remote - Israel",
+      "apply_link": "https://www.coinbase.com/careers/positions/8021650?gh_jid=8021650",
+      "posted_at": "2026-09-28T01:38:26-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8021647",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8021647?gh_jid=8021647",
+      "posted_at": "2026-09-28T01:38:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7991691",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer, Core AI Infrastructure",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7991691?gh_jid=7991691",
+      "posted_at": "2026-09-28T01:18:42-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7847431",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Core AI Infrastructure",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7847431?gh_jid=7847431",
+      "posted_at": "2026-09-28T01:18:36-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8221290",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3 - Enterprise Architecture",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8221290",
+      "posted_at": "2026-09-28T01:07:13-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5198255008",
+      "employer_name": "Anthropic",
+      "job_title": "Research Engineer, Post-Training Model Evaluations",
+      "location": "San Francisco, CA | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5198255008",
+      "posted_at": "2026-09-27T23:35:11-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    }
+  ]
 }
