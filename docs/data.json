@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-09-29T22:54:53.842653+00:00",
+  "generated_at": "2026-09-29T23:29:06.352797+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_c7bcdaec-9714-44b0-8ba8-adc824594b54",
+      "employer_name": "OpenAI",
+      "job_title": "Software Engineer, Implicit Signals",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/c7bcdaec-9714-44b0-8ba8-adc824594b54",
+      "posted_at": "2026-09-29T23:06:45.847+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
     {
       "job_id": "greenhouse_coinbase_8241522",
       "employer_name": "Coinbase",
@@ -42,16 +52,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "ashby_openai_3254f6a7-6353-4a77-beec-f37b832c99ae",
-      "employer_name": "OpenAI",
-      "job_title": "Applied AI Engineer, Digital Natives",
-      "location": "New York City",
-      "apply_link": "https://jobs.ashbyhq.com/openai/3254f6a7-6353-4a77-beec-f37b832c99ae",
-      "posted_at": "2026-09-29T17:22:50.889+00:00",
-      "category": "ML / AI Engineer",
-      "source": "ashby"
-    },
-    {
       "job_id": "greenhouse_lyft_8856442002",
       "employer_name": "Lyft",
       "job_title": "Data Scientist, Decisions - Mapping",
@@ -70,16 +70,6 @@
       "posted_at": "2026-09-29T17:10:41-04:00",
       "category": "Other",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "czctRDhmU1RnMDFkSFpubkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTblZXU0VaRFJGRjRPVXhUY1hCVGIxQkxkR1JCV21sSFJtRXpOVXRRYUdOWFMxZENXQzFWTkc0NU1YQjNVRTVDTjFkVU1tcDNWazAxVDFNemVubHNaVEJzUzNSbmN6VXdWVmhSVGtzME1FMWhNWGN0VW5OalYySkpjR3R1T1hCS1VHbEplRWxtVjJoUWVEVTVkR1J6VnpkcWMyd3pSbXhKUzA0eFQwbzVaWGRqZDFCVVMzSVNGMUF3UnpoaGIwTnNTVTVsVFRRdFJWQnhaRU54YlVGakdpSkJSSE55T1daU1VsOHdZelJtYmw5TWJFVmZUM2x2WVdSRVVEVkNhbk53TlZsMw",
-      "employer_name": "ByteDance",
-      "job_title": "Agent Evaluation & Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer",
-      "location": "Seattle, Washington",
-      "apply_link": "https://www.linkedin.com/jobs/view/agent-evaluation-evolution-machine-learning-engineer-intern-aml-ark-us-2027-summer-at-bytedance-4473501614",
-      "posted_at": "2026-09-29T17:00:00.000Z",
-      "category": "ML / AI Engineer",
-      "source": "jsearch"
     },
     {
       "job_id": "greenhouse_twilio_8240288",
@@ -739,16 +729,6 @@
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5438030008",
       "posted_at": "2026-09-29T15:03:34-04:00",
       "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8238630",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Backend - Overseer (Platform)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8238630?gh_jid=8238630",
-      "posted_at": "2026-09-29T13:13:30-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
