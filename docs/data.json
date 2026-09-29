@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T04:38:51.778861+00:00",
+  "generated_at": "2026-09-29T08:21:42.037098+00:00",
   "jobs": [
     {
       "job_id": "greenhouse_stripe_8069941",
@@ -39,66 +39,6 @@
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8214616",
       "posted_at": "2026-09-28T22:54:32-04:00",
       "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5435665008",
-      "employer_name": "Anthropic",
-      "job_title": "Senior+ Software Engineer, Legal Tech",
-      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5435665008",
-      "posted_at": "2026-09-28T21:57:37-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5436293008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Account Abuse (Machine Learning)",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5436293008",
-      "posted_at": "2026-09-28T20:13:15-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8237997",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8237997",
-      "posted_at": "2026-09-28T19:52:06-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8238630",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Backend - Overseer (Platform)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8238630?gh_jid=8238630",
-      "posted_at": "2026-09-28T19:31:58-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8199958",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Software Engineer Intern (2027) - Austin, TX",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958",
-      "posted_at": "2026-09-28T19:04:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8656854002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Application Security",
-      "location": "San Francisco Bay Area or Remote",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8656854002",
-      "posted_at": "2026-09-28T18:41:14-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
