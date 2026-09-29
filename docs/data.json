@@ -1,44 +1,54 @@
 {
-  "generated_at": "2026-09-29T08:21:42.037098+00:00",
+  "generated_at": "2026-09-29T12:16:52.245237+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_stripe_8069941",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Authorization Infrastructure",
-      "location": "N/A",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8069941",
-      "posted_at": "2026-09-28T23:03:37-04:00",
+      "job_id": "greenhouse_mongodb_8222977",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8222977",
+      "posted_at": "2026-09-29T07:26:48-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8214618",
-      "employer_name": "Stripe",
-      "job_title": "Full Stack Engineer, Enterprise Engineering",
-      "location": "N/A",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8214618",
-      "posted_at": "2026-09-28T22:57:48-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5437172008",
+      "job_id": "greenhouse_anthropic_5435282008",
       "employer_name": "Anthropic",
-      "job_title": "Applied AI Engineer, Beneficial Deployments (Life Sciences)",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5437172008",
-      "posted_at": "2026-09-28T22:57:03-04:00",
+      "job_title": "Applied AI Engineer, DNB",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5435282008",
+      "posted_at": "2026-09-29T06:21:03-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8214616",
-      "employer_name": "Stripe",
-      "job_title": "Full Stack Engineer, Enterprise Engineering",
-      "location": "N/A",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8214616",
-      "posted_at": "2026-09-28T22:54:32-04:00",
-      "category": "Other",
+      "job_id": "greenhouse_mongodb_7613665",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Dublin",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7613665",
+      "posted_at": "2026-09-29T06:05:01-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5248983008",
+      "employer_name": "Anthropic",
+      "job_title": "Applied AI Engineer",
+      "location": "Sydney, Australia",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5248983008",
+      "posted_at": "2026-09-29T06:00:37-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8237801",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, KPI & Cryptographic Systems",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8237801?gh_jid=8237801",
+      "posted_at": "2026-09-29T05:18:28-04:00",
+      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
