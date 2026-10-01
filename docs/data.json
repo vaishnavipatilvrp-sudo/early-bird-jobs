@@ -1,13 +1,353 @@
 {
-  "generated_at": "2026-10-01T12:36:04.315181+00:00",
+  "generated_at": "2026-10-01T16:58:55.958495+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_stripe_8232358",
+      "job_id": "ashby_openai_c25fd30e-056e-4a26-af80-7ea1074fc56e",
+      "employer_name": "OpenAI",
+      "job_title": "Data Engineer, Hardware & Consumer Devices",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/c25fd30e-056e-4a26-af80-7ea1074fc56e",
+      "posted_at": "2026-10-01T14:49:22.943+00:00",
+      "category": "Data Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "ashby_notion_95800771-37a4-4226-b03f-d4fc6ea88f65",
+      "employer_name": "Notion (bonus, not on your original list)",
+      "job_title": "Software Engineer, Mobile Platform (iOS)",
+      "location": "San Francisco, California",
+      "apply_link": "https://jobs.ashbyhq.com/notion/95800771-37a4-4226-b03f-d4fc6ea88f65",
+      "posted_at": "2026-10-01T14:00:20.638+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_instacart_8244914",
+      "employer_name": "Instacart",
+      "job_title": "Software Engineer II, CRM & SEO",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8244914",
+      "posted_at": "2026-10-01T12:24:52-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8141535",
+      "employer_name": "Instacart",
+      "job_title": "Senior Software Engineer II, Marketing Enablement & Technology",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8141535",
+      "posted_at": "2026-10-01T12:19:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8141533",
+      "employer_name": "Instacart",
+      "job_title": "Senior Software Engineer II, Marketing Enablement & Technology",
+      "location": "United States - Remote",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8141533",
+      "posted_at": "2026-10-01T12:19:22-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8829029002",
+      "employer_name": "Databricks",
+      "job_title": "IT Software Engineer, Infrastructure",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
+      "posted_at": "2026-10-01T12:10:06-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8241882",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Fullstack Engineer, Infrastructure",
+      "location": "United States",
+      "apply_link": "https://careers.airbnb.com/positions/8241882?gh_jid=8241882",
+      "posted_at": "2026-10-01T12:06:42-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8230778",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Security Software Engineer, Security Operations   ",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8230778",
+      "posted_at": "2026-10-01T12:04:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8095365",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Staff Software Engineer, Marketing Technology",
+      "location": "Remote, USA",
+      "apply_link": "https://careers.airbnb.com/positions/8095365?gh_jid=8095365",
+      "posted_at": "2026-10-01T12:02:11-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8052068",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L2), Identity",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8052068",
+      "posted_at": "2026-10-01T11:49:31-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_4952051008",
+      "employer_name": "Anthropic",
+      "job_title": "Research Engineer, RL Engineering",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
+      "posted_at": "2026-10-01T11:38:02-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8243556",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8243556",
+      "posted_at": "2026-10-01T11:38:02-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5440427008",
+      "employer_name": "Anthropic",
+      "job_title": "Software Engineer, Sandboxing",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5440427008",
+      "posted_at": "2026-10-01T11:33:26-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8637143002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer, Foundation Model Inference ",
+      "location": "San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8637143002",
+      "posted_at": "2026-10-01T11:27:34-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8246054",
+      "employer_name": "Instacart",
+      "job_title": "Senior Software Engineer II, Ads Data Solutions Engineering",
+      "location": "United States - Remote",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8246054",
+      "posted_at": "2026-10-01T11:26:44-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8194287",
       "employer_name": "Stripe",
-      "job_title": " Software Engineer, Stripe Tax",
-      "location": "Barcelona",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8232358",
-      "posted_at": "2026-10-01T05:59:51-04:00",
+      "job_title": "Data Analyst, Intern",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8194287",
+      "posted_at": "2026-10-01T11:05:36-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8194285",
+      "employer_name": "Stripe",
+      "job_title": "PhD Data Scientist, Intern",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8194285",
+      "posted_at": "2026-10-01T11:05:33-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8194291",
+      "employer_name": "Stripe",
+      "job_title": "Data Analyst, Intern",
+      "location": "New York, Seattle, South San Francisco HQ",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8194291",
+      "posted_at": "2026-10-01T11:05:29-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8194283",
+      "employer_name": "Stripe",
+      "job_title": "PhD Data Scientist, Intern",
+      "location": "New York, Seattle, South San Francisco HQ",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8194283",
+      "posted_at": "2026-10-01T11:05:25-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8204111",
+      "employer_name": "DoorDash",
+      "job_title": "Machine Learning Intern (Masters) - Summer 2027",
+      "location": "San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8204111",
+      "posted_at": "2026-10-01T10:54:44-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8760176002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer, Data Collection (Tags & SDKs)",
+      "location": "New York City, New York",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760176002",
+      "posted_at": "2026-10-01T10:50:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7716279",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer (L4)",
+      "location": "Remote - Canada",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7716279",
+      "posted_at": "2026-10-01T10:36:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8015771",
+      "employer_name": "Twilio",
+      "job_title": "Senior Software Engineer",
+      "location": "Remote - Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8015771",
+      "posted_at": "2026-10-01T10:34:18-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7996774",
+      "employer_name": "Twilio",
+      "job_title": "Machine Learning Engineer",
+      "location": "Remote - Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996774",
+      "posted_at": "2026-10-01T10:33:33-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8007455",
+      "employer_name": "Twilio",
+      "job_title": "Machine Learning Engineer",
+      "location": "Remote - Spain",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007455",
+      "posted_at": "2026-10-01T10:32:54-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8007449",
+      "employer_name": "Twilio",
+      "job_title": "Senior/Staff Applied Research Software Engineer",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007449",
+      "posted_at": "2026-10-01T10:32:51-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8102950",
+      "employer_name": "Twilio",
+      "job_title": "Software Development Engineer (L3)",
+      "location": "Remote - Colombia",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8102950",
+      "posted_at": "2026-10-01T10:29:22-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8172319",
+      "employer_name": "Twilio",
+      "job_title": "Business Intelligence Analyst 2",
+      "location": "Remote - Colombia",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8172319",
+      "posted_at": "2026-10-01T10:28:39-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8071710",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer",
+      "location": "Remote - Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8071710",
+      "posted_at": "2026-10-01T10:28:30-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8240288",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer (L4)",
+      "location": "Remote - Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8240288",
+      "posted_at": "2026-10-01T10:27:50-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8212478",
+      "employer_name": "Waymo",
+      "job_title": "Machine Learning Engineer, Driver Refinement & Validation, Perception",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8212478",
+      "posted_at": "2026-10-01T10:14:48-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8243517",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Backend (Retail DEX)",
+      "location": "Remote - Canada",
+      "apply_link": "https://www.coinbase.com/careers/positions/8243517?gh_jid=8243517",
+      "posted_at": "2026-10-01T10:11:48-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_7361224",
+      "employer_name": "Instacart",
+      "job_title": "Staff Software Engineer, FoodStorm",
+      "location": "United States - Remote",
+      "apply_link": "https://instacart.careers/job/?gh_jid=7361224",
+      "posted_at": "2026-10-01T09:56:30-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8233953",
+      "employer_name": "DoorDash",
+      "job_title": "Machine Learning Intern (PhD) - Summer 2027",
+      "location": "San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8233953",
+      "posted_at": "2026-10-01T09:50:11-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7737233002",
+      "employer_name": "Databricks",
+      "job_title": "Software Engineer - Backend",
+      "location": "Aarhus, Denmark",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7737233002",
+      "posted_at": "2026-10-01T09:33:10-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
