@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-10-02T08:22:34.446179+00:00",
+  "generated_at": "2026-10-02T12:00:11.840209+00:00",
   "jobs": [
-    {
-      "job_id": "M1F2WGFGYjZtcUpOU1NSYUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM1l0TlRKT01UaDFRbVJNVUhSVlpHUk9hbmxIZDBKWmIzVk5XVmREYTBZeWFscG1kMGxCWDA5d1ZVMHdNRFpoV2xWVGIyWmtRMXBYUldOUVgxRndhRUpoVTE5QlNUWlFaV1ZzYTJkdWNXMTJXRzVSTkVKSmMwRnBZbkpIYWs5QlVERjJSVlI1VFhKV1kyOTBVa1F6YTBSbVQxQmhSbVpJTlRocVpXaFJPSFY2U1hKdVR6Y1NGMnN5YlY5aGRESjNSRWxtTFhCMFVWQm5ZV1Z5ZVVGTkdpSkJSSE55T1daVFdXRlBOR05zUnpoMmRteEtZMmhVYUdkV1MyZGZWVmN4YW5aMw",
-      "employer_name": "MasterCard",
-      "job_title": "Data Engineer I, Launch Program 2027 - Arlington, VA, US",
-      "location": "Arlington, Virginia",
-      "apply_link": "https://www.theladders.com/job/data-engineer-i-launch-program-2027-arlington-va-us-mastercard-arlington-va_89145562",
-      "posted_at": "2026-10-02T03:00:00.000Z",
-      "category": "Data Engineer",
-      "source": "jsearch"
-    },
     {
       "job_id": "greenhouse_lyft_8860861002",
       "employer_name": "Lyft",
@@ -18,46 +8,6 @@
       "location": "Toronto, Canada",
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8860861002?gh_jid=8860861002",
       "posted_at": "2026-10-02T02:56:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8099162",
-      "employer_name": "Twilio",
-      "job_title": "Senior Software Engineer (L3)",
-      "location": "Remote - Canada; Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8099162",
-      "posted_at": "2026-10-02T01:35:43-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8211452",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Backend - Platform (Core AI Automation)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8211452?gh_jid=8211452",
-      "posted_at": "2026-10-02T00:59:56-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8241260",
-      "employer_name": "Stripe",
-      "job_title": "High School Internship, Software Engineering (Summer 2027)",
-      "location": "Seattle, San Francisco",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8241260",
-      "posted_at": "2026-10-01T23:54:21-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_xai_5209858007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer, Data Center - Memphis",
-      "location": " Southaven, MS; Memphis, TN",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5209858007",
-      "posted_at": "2026-10-01T22:31:21-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
