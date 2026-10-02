@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-10-02T21:54:03.957021+00:00",
+  "generated_at": "2026-10-02T22:52:53.210643+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_stripe_8127182",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Revenue and Finance Automation",
+      "location": "San Francisco, New York City, Seattle, Chicago, US-Remote",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8127182",
+      "posted_at": "2026-10-02T18:47:45-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8076616",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Revenue and Financial Automation",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8076616",
+      "posted_at": "2026-10-02T18:37:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8663972002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer - Streaming",
+      "location": "Bellevue, Washington; Seattle, Washington",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8663972002",
+      "posted_at": "2026-10-02T18:20:52-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8234357",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Revenue",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8234357",
+      "posted_at": "2026-10-02T18:15:23-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_6567104",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Developer & End User Experience Platform",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=6567104",
+      "posted_at": "2026-10-02T18:12:39-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8154342",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer (Institutional, FCM)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8154342?gh_jid=8154342",
+      "posted_at": "2026-10-02T18:04:08-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_waymo_8248394",
       "employer_name": "Waymo",
@@ -1182,6 +1242,16 @@
       "source": "greenhouse"
     },
     {
+      "job_id": "UzhadTFYN1FBdjBUdTI3a0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMkZsUWpCeU1rMW5NRzU2UVVOMFJYQXljRlF5VUZCQ1JFZDZTR3BEUkVOSFFubGhkbk5EVkZVelMycENOMlJzU1dKM1EycGplRWxqV2t0cmVrTkpia0pVTjBKMmIwaGZjV3B4YlRkVllWQnlTakl0ZDBVd1lrUmFaMFJIV1RkbFl6SnZNSEZUWDIxSVEzZG5RMlpKWm1zeVZFbDZObWw0Wms1ME1HNHhOblk1ZGpWTU9IY1NGMmRxV0VGaGNtMTJSM0JwTFd0UVNWQjVkRFoxYVZFNEdpSkJSSE55T1daU01FMXNZVVpKVEZreFprRjBiSFJxZEd0VFdUQTVXV1J1VmxSMw",
+      "employer_name": "Amazon",
+      "job_title": "Applied Scientist, North America Sort Centers, Amazon Transportation Services",
+      "location": "Bellevue, Washington",
+      "apply_link": "https://www.linkedin.com/jobs/view/applied-scientist-north-america-sort-centers-amazon-transportation-services-at-amazon-4474793827",
+      "posted_at": "2026-10-02T17:00:00.000Z",
+      "category": "ML / AI Engineer",
+      "source": "jsearch"
+    },
+    {
       "job_id": "greenhouse_coinbase_8248766",
       "employer_name": "Coinbase",
       "job_title": "Senior Software Engineer (Institutional, Financing)",
@@ -2159,66 +2229,6 @@
       "apply_link": "https://careers.airbnb.com/positions/8249626?gh_jid=8249626",
       "posted_at": "2026-10-02T14:02:00-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7891045",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Machine Learning Engineer(Platform - Identity)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7891045?gh_jid=7891045",
-      "posted_at": "2026-10-02T12:19:53-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8212984",
-      "employer_name": "DoorDash",
-      "job_title": "Staff Software Engineer, Data Visualization",
-      "location": "San Francisco, CA; Seattle, WA; NYC, NY",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8212984",
-      "posted_at": "2026-10-02T12:09:09-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8249493",
-      "employer_name": "DoorDash",
-      "job_title": "Senior Machine Learning Engineer - New Verticals Agentic Foundations",
-      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA; NewYork, NY",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8249493",
-      "posted_at": "2026-10-02T12:05:50-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8024644",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Storage",
-      "location": "San Francisco, CA; Seattle, WA; New York, NY",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8024644",
-      "posted_at": "2026-10-02T11:58:59-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8299493002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Data Engineer, Ads",
-      "location": "Remote (U.S.)",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8299493002",
-      "posted_at": "2026-10-02T11:55:34-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_7755758",
-      "employer_name": "Airbnb",
-      "job_title": " Senior Machine Learning Engineer, Payments",
-      "location": "Remote-USA",
-      "apply_link": "https://careers.airbnb.com/positions/7755758?gh_jid=7755758",
-      "posted_at": "2026-10-02T11:54:30-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
