@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-10-03T20:40:45.217975+00:00",
+  "generated_at": "2026-10-03T22:01:25.146546+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_databricks_8294304002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer (App-Framework)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002",
+      "posted_at": "2026-10-03T17:43:38-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7647369002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer (Data Platform)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002",
+      "posted_at": "2026-10-03T17:43:14-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_stripe_8127182",
       "employer_name": "Stripe",
@@ -8,16 +28,6 @@
       "location": "San Francisco, New York City, Seattle, Chicago, US-Remote",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8127182",
       "posted_at": "2026-10-03T16:18:56-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_6717520",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Payments and Risk",
-      "location": "Dublin, Ireland",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=6717520",
-      "posted_at": "2026-10-03T11:53:06-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
