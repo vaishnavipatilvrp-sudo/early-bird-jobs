@@ -1,4 +1,25 @@
 {
-  "generated_at": "2026-10-03T13:06:14.402807+00:00",
-  "jobs": []
+  "generated_at": "2026-10-03T14:39:09.394903+00:00",
+  "jobs": [
+    {
+      "job_id": "ashby_cohere_582c4a60-14a2-49d5-b4d3-24c4ec50508d",
+      "employer_name": "Cohere",
+      "job_title": "Staff Technical Program Manager, Machine Learning",
+      "location": "London",
+      "apply_link": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d",
+      "posted_at": "2026-10-03T14:11:59.285+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "QnYxTC1BaFBRQzBqazBhWUFBQUFBQT09OkVza0JDb3dCUVVwcFZEUjBTa1pSZEdkb2RVWm9NWEpyU0RKWE0xQndiakF6YmxVd1l5MUNZMkZwZFZsbFltVnVTa3Q2WkZaMlQwOTFiSEJRUTJOUlR6RmxYMkkzWVUxNWVuWmFaVWN0ZFZSWWMyVTBVbU5sWW5WM1FqSXplVkl0ZVVsRVMybFdUbGxqT1dKSlgwcEVTRlptTjBsRFExbEVaRUZ3ZWtsUWFVWmplbmN6YVdaSGVVNXFOVXRaZEVGdWFVc1NGRXRTVUVKaGRsa3phVnBpYWpSUlgyMXdkazV2R2lKQlJITnlPV1pVYkdoaVUyTm1aazEwUTFWSlFYaDZWWEZMVmpFNVgyVmtaRGQz",
+      "employer_name": "Amazon Web Services (AWS)",
+      "job_title": "Senior Applied Scientist, SageMaker AI",
+      "location": "New York, New York",
+      "apply_link": "https://www.linkedin.com/jobs/view/senior-applied-scientist-sagemaker-ai-at-amazon-web-services-aws-4475310727",
+      "posted_at": "2026-10-03T11:00:00.000Z",
+      "category": "ML / AI Engineer",
+      "source": "jsearch"
+    }
+  ]
 }
