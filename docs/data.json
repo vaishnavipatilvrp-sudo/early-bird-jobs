@@ -1,14 +1,34 @@
 {
-  "generated_at": "2026-10-05T00:28:50.380008+00:00",
+  "generated_at": "2026-10-05T08:29:48.337473+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_anthropic_5435282008",
-      "employer_name": "Anthropic",
-      "job_title": "Applied AI Engineer, DNB",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5435282008",
-      "posted_at": "2026-10-04T17:15:51-04:00",
-      "category": "ML / AI Engineer",
+      "job_id": "greenhouse_databricks_7477633002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer (L6) - Distributed Data Systems",
+      "location": "Amsterdam, Netherlands",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7477633002",
+      "posted_at": "2026-10-05T02:42:49-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7477627002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. Software Engineer (L5) - Distributed Data Systems",
+      "location": "Amsterdam, Netherlands",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7477627002",
+      "posted_at": "2026-10-05T02:39:11-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_6972536",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer - Platforms & Productivity",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/6972536?gh_jid=6972536",
+      "posted_at": "2026-10-05T01:51:20-04:00",
+      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
