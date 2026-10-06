@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T22:24:56.230624+00:00",
+  "generated_at": "2026-10-06T22:55:47.883202+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_2796d32a-9f7c-4008-a2c5-50dd53b0f2fe",
@@ -20,6 +20,16 @@
       "posted_at": "2026-10-06T19:50:26.215+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_pinterest_7577227",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Staff Software Engineer, AI Platform",
+      "location": "Palo Alto, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7577227",
+      "posted_at": "2026-10-06T18:32:59-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_pinterest_8258175",
@@ -922,21 +932,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_8221182",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Cluster Scalability",
-      "location": "United States",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8221182",
-      "posted_at": "2026-10-06T13:44:14-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_8221184",
       "employer_name": "MongoDB",
       "job_title": "Senior Software Engineer, Cluster Scalability",
       "location": "British Columbia; Ontario",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8221184",
+      "posted_at": "2026-10-06T13:44:14-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8221182",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Cluster Scalability",
+      "location": "United States",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8221182",
       "posted_at": "2026-10-06T13:44:14-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -978,36 +988,6 @@
       "location": "San Francisco Bay Area",
       "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8823881002",
       "posted_at": "2026-10-06T13:01:04-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8846732002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Software Engineer, Consumer Revenue",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8846732002",
-      "posted_at": "2026-10-06T12:42:12-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8026211",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer, Platform Access (L2)",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8026211",
-      "posted_at": "2026-10-06T12:34:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8046860",
-      "employer_name": "Pinterest",
-      "job_title": "Sr. Staff Software Engineer, Product ML Infrastructure",
-      "location": "Palo Alto, CA, US; San Francisco, CA, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8046860",
-      "posted_at": "2026-10-06T12:32:43-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
