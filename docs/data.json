@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-10-06T00:38:53.304710+00:00",
+  "generated_at": "2026-10-06T01:09:43.651453+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_airbnb_8257909",
+      "employer_name": "Airbnb",
+      "job_title": "Staff Software Engineer, Cloud Infrastructure ",
+      "location": "Remote, USA",
+      "apply_link": "https://careers.airbnb.com/positions/8257909?gh_jid=8257909",
+      "posted_at": "2026-10-05T20:47:52-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8172100",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Core Infra Systems",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8172100?gh_jid=8172100",
+      "posted_at": "2026-10-05T20:40:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_pinterest_8095343",
       "employer_name": "Pinterest",
@@ -699,16 +719,6 @@
       "apply_link": "https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004",
       "posted_at": "2026-10-05T15:17:42-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8241790",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "People Analytics Data Engineering Intern (Winter/Spring 2027)",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790",
-      "posted_at": "2026-10-05T15:03:24-04:00",
-      "category": "Data Engineer",
       "source": "greenhouse"
     }
   ]
