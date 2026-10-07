@@ -1,14 +1,184 @@
 {
-  "generated_at": "2026-10-07T17:19:55.475280+00:00",
+  "generated_at": "2026-10-07T19:46:01.717724+00:00",
   "jobs": [
     {
       "job_id": "greenhouse_discord_8828229002",
       "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Staff Software Engineer, Privacy Engineering",
+      "job_title": "Senior Software Engineer, Privacy Engineering",
       "location": "Amsterdam, NL",
       "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8828229002",
-      "posted_at": "2026-10-07T13:04:03-04:00",
+      "posted_at": "2026-10-07T15:45:48-04:00",
       "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8243615",
+      "employer_name": "Stripe",
+      "job_title": "Staff Machine Learning Engineer, Radar",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8243615",
+      "posted_at": "2026-10-07T15:43:57-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8243201",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - Security Platform",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8243201?gh_jid=8243201",
+      "posted_at": "2026-10-07T15:41:24-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8828379002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Staff Software Engineer, Privacy Engineering",
+      "location": "Amsterdam, NL",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8828379002",
+      "posted_at": "2026-10-07T15:38:41-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_6121551",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Machine Learning Engineer, EPD Ads",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=6121551",
+      "posted_at": "2026-10-07T15:33:38-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_6121543",
+      "employer_name": "Pinterest",
+      "job_title": "Machine Learning Engineer, EPD Ads",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=6121543",
+      "posted_at": "2026-10-07T15:32:34-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7917911",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer,  Real-Time Communication Infrastructure",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7917911",
+      "posted_at": "2026-10-07T15:21:32-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8231071",
+      "employer_name": "Pinterest",
+      "job_title": "Sr Software Engineer, EPD Ads",
+      "location": "San Francisco, CA; Palo Alto, CA; Seattle, WA; New York, NY; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8231071",
+      "posted_at": "2026-10-07T15:08:48-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8227344",
+      "employer_name": "Pinterest",
+      "job_title": "Software Engineer II, EPD Ads",
+      "location": "San Francisco, CA; Palo Alto, CA; Seattle, WA; New York, NY; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8227344",
+      "posted_at": "2026-10-07T15:08:14-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8224032",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Staff Data Engineer, Foundational Data",
+      "location": "United States",
+      "apply_link": "https://careers.airbnb.com/positions/8224032?gh_jid=8224032",
+      "posted_at": "2026-10-07T14:30:30-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8128745",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern (Summer or Winter)",
+      "location": "San Francisco, Seattle, New York City",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8128745",
+      "posted_at": "2026-10-07T14:21:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8247397",
+      "employer_name": "Coinbase",
+      "job_title": "Software Engineer, Backend - Payments Platform",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8247397?gh_jid=8247397",
+      "posted_at": "2026-10-07T14:17:47-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_6717520",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Payments and Risk",
+      "location": "Dublin, Ireland",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=6717520",
+      "posted_at": "2026-10-07T13:50:49-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8679982002",
+      "employer_name": "Databricks",
+      "job_title": "Sr Software Engineer - Agentic Applications (Full Stack)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002",
+      "posted_at": "2026-10-07T13:49:21-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8829029002",
+      "employer_name": "Databricks",
+      "job_title": "Software Engineer, Infrastructure",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
+      "posted_at": "2026-10-07T13:48:09-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8236946",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Full Stack - Experimentation Platform",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York, NY; Los Angeles, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8236946",
+      "posted_at": "2026-10-07T13:47:43-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7292520",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Developer & End-user Experience Platform",
+      "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7292520",
+      "posted_at": "2026-10-07T13:46:24-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7557899",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Developer SDKs",
+      "location": "Toronto, NY, SEA, SF",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7557899",
+      "posted_at": "2026-10-07T13:44:40-04:00",
+      "category": "Other",
       "source": "greenhouse"
     },
     {
@@ -169,86 +339,6 @@
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8236865",
       "posted_at": "2026-10-07T10:25:33-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8679982002",
-      "employer_name": "Databricks",
-      "job_title": "Sr Full Stack Developer (AI Agents)",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002",
-      "posted_at": "2026-10-07T09:30:10-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8232806",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Digital Customer Engineer - Swedish or Russian Speaker",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8232806?gh_jid=8232806",
-      "posted_at": "2026-10-07T08:41:33-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8120494",
-      "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer, Financial Crimes",
-      "location": "Toronto",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8120494",
-      "posted_at": "2026-10-07T08:01:30-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8205280",
-      "employer_name": "Stripe",
-      "job_title": "Engineering Manager, Machine Learning - Credit Risk",
-      "location": "N/A",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8205280",
-      "posted_at": "2026-10-07T08:01:09-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8069506",
-      "employer_name": "Stripe",
-      "job_title": "Engineering Manager, Machine Learning - Fraud Detection",
-      "location": "N/A",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8069506",
-      "posted_at": "2026-10-07T08:01:09-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8022713",
-      "employer_name": "Stripe",
-      "job_title": "ML Engineer Manager, AI Conversation Platform",
-      "location": "Toronto, Canada",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8022713",
-      "posted_at": "2026-10-07T07:54:25-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8039548",
-      "employer_name": "Stripe",
-      "job_title": "Full Stack Engineer, Support Experience (Greater China Support)",
-      "location": "US",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8039548",
-      "posted_at": "2026-10-07T07:51:41-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8044924",
-      "employer_name": "Stripe",
-      "job_title": "Data Analyst, Payments",
-      "location": "Singapore",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8044924",
-      "posted_at": "2026-10-07T07:49:54-04:00",
-      "category": "Data Analyst",
       "source": "greenhouse"
     }
   ]
