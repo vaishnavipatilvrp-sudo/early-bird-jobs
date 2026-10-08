@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-10-07T23:29:49.630281+00:00",
+  "generated_at": "2026-10-08T00:02:02.477316+00:00",
   "jobs": [
+    {
+      "job_id": "lever_palantir_1b690123-1766-4e75-a0ef-0f58afa864b4",
+      "employer_name": "Palantir",
+      "job_title": "Data Engineer - Talent Acquisition Operations",
+      "location": "New York, NY",
+      "apply_link": "https://jobs.lever.co/palantir/1b690123-1766-4e75-a0ef-0f58afa864b4",
+      "posted_at": "2026-10-07T23:35:44.350000+00:00",
+      "category": "Data Engineer",
+      "source": "lever"
+    },
     {
       "job_id": "greenhouse_stripe_8172503",
       "employer_name": "Stripe",
@@ -42,21 +52,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_7476555",
-      "employer_name": "Stripe",
-      "job_title": "Backend Engineer, Developer & End-user Experience Platform",
-      "location": "SEA, SF, NY, Toronto",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7476555",
-      "posted_at": "2026-10-07T19:02:27-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_stripe_7292520",
       "employer_name": "Stripe",
       "job_title": "Backend Engineer, Developer & End-user Experience Platform",
       "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=7292520",
+      "posted_at": "2026-10-07T19:02:27-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7476555",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Developer & End-user Experience Platform",
+      "location": "SEA, SF, NY, Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7476555",
       "posted_at": "2026-10-07T19:02:27-04:00",
       "category": "Other",
       "source": "greenhouse"
@@ -122,21 +132,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8194291",
-      "employer_name": "Stripe",
-      "job_title": "Data Analyst, Intern",
-      "location": "New York, Seattle, South San Francisco HQ",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8194291",
-      "posted_at": "2026-10-07T19:02:27-04:00",
-      "category": "Data Analyst",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_stripe_8194287",
       "employer_name": "Stripe",
       "job_title": "Data Analyst, Intern",
       "location": "Toronto",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8194287",
+      "posted_at": "2026-10-07T19:02:27-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8194291",
+      "employer_name": "Stripe",
+      "job_title": "Data Analyst, Intern",
+      "location": "New York, Seattle, South San Francisco HQ",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8194291",
       "posted_at": "2026-10-07T19:02:27-04:00",
       "category": "Data Analyst",
       "source": "greenhouse"
@@ -172,21 +182,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_5895430",
-      "employer_name": "Stripe",
-      "job_title": "Data Scientist",
-      "location": "Toronto",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=5895430",
-      "posted_at": "2026-10-07T19:02:27-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_stripe_5601879",
       "employer_name": "Stripe",
       "job_title": "Data Scientist",
       "location": "N/A",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=5601879",
+      "posted_at": "2026-10-07T19:02:27-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_5895430",
+      "employer_name": "Stripe",
+      "job_title": "Data Scientist",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=5895430",
       "posted_at": "2026-10-07T19:02:27-04:00",
       "category": "Data Scientist",
       "source": "greenhouse"
@@ -282,21 +292,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8214618",
-      "employer_name": "Stripe",
-      "job_title": "Full Stack Engineer, Enterprise Engineering",
-      "location": "N/A",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8214618",
-      "posted_at": "2026-10-07T19:02:27-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_stripe_8214616",
       "employer_name": "Stripe",
       "job_title": "Full Stack Engineer, Enterprise Engineering",
       "location": "N/A",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8214616",
+      "posted_at": "2026-10-07T19:02:27-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8214618",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Enterprise Engineering",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8214618",
       "posted_at": "2026-10-07T19:02:27-04:00",
       "category": "Other",
       "source": "greenhouse"
@@ -572,21 +582,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8212508",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Early Career \u2014 Immediate Start",
-      "location": "San Francisco, Seattle, New York",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8212508",
-      "posted_at": "2026-10-07T19:02:27-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_stripe_8212517",
       "employer_name": "Stripe",
       "job_title": "Software Engineer, Early Career \u2014 Immediate Start",
       "location": "Toronto",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8212517",
+      "posted_at": "2026-10-07T19:02:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8212508",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Early Career \u2014 Immediate Start",
+      "location": "San Francisco, Seattle, New York",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8212508",
       "posted_at": "2026-10-07T19:02:27-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -662,11 +672,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8097801",
+      "job_id": "greenhouse_stripe_8130805",
       "employer_name": "Stripe",
       "job_title": "Software Engineer, Intern (Summer or Winter)",
-      "location": "Dublin",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130805",
       "posted_at": "2026-10-07T19:02:27-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -682,11 +692,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8130805",
+      "job_id": "greenhouse_stripe_8097801",
       "employer_name": "Stripe",
       "job_title": "Software Engineer, Intern (Summer or Winter)",
-      "location": "Toronto",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130805",
+      "location": "Dublin",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8097801",
       "posted_at": "2026-10-07T19:02:27-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -712,31 +722,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8160776",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, New Grad",
-      "location": "Singapore",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8160776",
-      "posted_at": "2026-10-07T19:02:27-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_stripe_8157838",
       "employer_name": "Stripe",
       "job_title": "Software Engineer, New Grad",
       "location": "Toronto",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8157838",
-      "posted_at": "2026-10-07T19:02:27-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8128744",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, New Grad",
-      "location": "San Francisco, Seattle, New York",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8128744",
       "posted_at": "2026-10-07T19:02:27-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -752,6 +742,16 @@
       "source": "greenhouse"
     },
     {
+      "job_id": "greenhouse_stripe_8130930",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad",
+      "location": "London",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130930",
+      "posted_at": "2026-10-07T19:02:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "greenhouse_stripe_8130922",
       "employer_name": "Stripe",
       "job_title": "Software Engineer, New Grad",
@@ -762,11 +762,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8130930",
+      "job_id": "greenhouse_stripe_8160776",
       "employer_name": "Stripe",
       "job_title": "Software Engineer, New Grad",
-      "location": "London",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130930",
+      "location": "Singapore",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8160776",
+      "posted_at": "2026-10-07T19:02:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8128744",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad",
+      "location": "San Francisco, Seattle, New York",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8128744",
       "posted_at": "2026-10-07T19:02:27-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -1299,36 +1309,6 @@
       "apply_link": "https://careers.airbnb.com/positions/8224032?gh_jid=8224032",
       "posted_at": "2026-10-07T14:30:30-04:00",
       "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8679982002",
-      "employer_name": "Databricks",
-      "job_title": "Sr Software Engineer - Agentic Applications (Full Stack)",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002",
-      "posted_at": "2026-10-07T13:49:21-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8829029002",
-      "employer_name": "Databricks",
-      "job_title": "Software Engineer, Infrastructure",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
-      "posted_at": "2026-10-07T13:48:09-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8236946",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Full Stack - Experimentation Platform",
-      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York, NY; Los Angeles, CA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8236946",
-      "posted_at": "2026-10-07T13:47:43-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
