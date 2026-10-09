@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T23:04:56.966368+00:00",
+  "generated_at": "2026-10-09T23:50:49.938964+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_a6ab3111-7092-4da2-a7a6-71e01351bfda",
@@ -10,6 +10,16 @@
       "posted_at": "2026-10-09T20:39:11.993+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5442934008",
+      "employer_name": "Anthropic",
+      "job_title": "Manager, Applied AI Engineering (Megas) ",
+      "location": "San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5442934008",
+      "posted_at": "2026-10-09T19:29:46-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_twilio_7944328",
@@ -438,56 +448,6 @@
       "location": "USA",
       "apply_link": "https://careers.airbnb.com/positions/8242248?gh_jid=8242248",
       "posted_at": "2026-10-09T14:07:33-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8119841",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3, Networking & Observability",
-      "location": "New York City; United States",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8119841",
-      "posted_at": "2026-10-09T13:40:12-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8119843",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3, Networking & Observability",
-      "location": "Alberta; British Columbia; Ontario; Quebec",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8119843",
-      "posted_at": "2026-10-09T13:40:12-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8178879",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Operator Tooling",
-      "location": "Bucharest",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8178879",
-      "posted_at": "2026-10-09T13:38:47-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8221184",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Cluster Scalability",
-      "location": "British Columbia; Ontario",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8221184",
-      "posted_at": "2026-10-09T13:30:16-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8221182",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Cluster Scalability",
-      "location": "United States",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8221182",
-      "posted_at": "2026-10-09T13:30:16-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
