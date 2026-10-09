@@ -1,34 +1,54 @@
 {
-  "generated_at": "2026-10-09T08:49:26.134014+00:00",
+  "generated_at": "2026-10-09T12:42:30.135238+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_databricks_7011263002",
+      "job_id": "greenhouse_cloudflare_8264664",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8264664?gh_jid=8264664",
+      "posted_at": "2026-10-09T07:28:16-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7477633002",
       "employer_name": "Databricks",
-      "job_title": "PhD GenAI Research Scientist Intern",
-      "location": "San Francisco, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
-      "posted_at": "2026-10-09T00:21:54-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8262769",
-      "employer_name": "Airbnb",
-      "job_title": "Staff Software Engineer, iOS Platform",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/8262769?gh_jid=8262769",
-      "posted_at": "2026-10-09T00:06:42-04:00",
+      "job_title": "Staff Software Engineer - Storage I/O",
+      "location": "Amsterdam, Netherlands",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7477633002",
+      "posted_at": "2026-10-09T06:47:36-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_airbnb_8262812",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Software Engineer, iOS Platform",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/8262812?gh_jid=8262812",
-      "posted_at": "2026-10-09T00:03:32-04:00",
+      "job_id": "greenhouse_databricks_7477627002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. Software Engineer - Storage I/O",
+      "location": "Amsterdam, Netherlands",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7477627002",
+      "posted_at": "2026-10-09T06:46:52-04:00",
       "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8258279",
+      "employer_name": "MongoDB",
+      "job_title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship",
+      "location": "Dublin",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8258279",
+      "posted_at": "2026-10-09T06:31:26-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8035723",
+      "employer_name": "Stripe",
+      "job_title": "Staff Backend Engineer, Data Platform",
+      "location": "Dublin ",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8035723",
+      "posted_at": "2026-10-09T05:22:30-04:00",
+      "category": "Other",
       "source": "greenhouse"
     }
   ]
