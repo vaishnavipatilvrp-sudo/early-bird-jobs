@@ -1,43 +1,23 @@
 {
-  "generated_at": "2026-10-10T04:42:38.406080+00:00",
+  "generated_at": "2026-10-10T08:21:55.918229+00:00",
   "jobs": [
-    {
-      "job_id": "greenhouse_coinbase_8269081",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Certificate Management",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8269081?gh_jid=8269081",
-      "posted_at": "2026-10-09T20:07:30-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8021647",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Secrets Management",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8021647?gh_jid=8021647",
-      "posted_at": "2026-10-09T20:04:13-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5442934008",
-      "employer_name": "Anthropic",
-      "job_title": "Manager, Applied AI Engineering (Megas) ",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5442934008",
-      "posted_at": "2026-10-09T19:29:46-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
     {
       "job_id": "greenhouse_twilio_7944328",
       "employer_name": "Twilio",
       "job_title": "Staff Software Engineer",
       "location": "Remote - Canada",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7944328",
-      "posted_at": "2026-10-09T19:02:39-04:00",
+      "posted_at": "2026-10-10T03:32:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4711898005",
+      "employer_name": "Scale AI",
+      "job_title": "Senior Software Engineer, Identity",
+      "location": "San Francisco, CA; New York, NY; Washington, DC",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4711898005",
+      "posted_at": "2026-10-10T01:30:24-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
