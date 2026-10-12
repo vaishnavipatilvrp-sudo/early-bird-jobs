@@ -1,6 +1,276 @@
 {
-  "generated_at": "2026-10-12T14:37:56.703140+00:00",
+  "generated_at": "2026-10-12T19:40:40.971348+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_anthropic_5450099008",
+      "employer_name": "Anthropic",
+      "job_title": "Data Engineer, Billing & Payments",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5450099008",
+      "posted_at": "2026-10-12T15:04:10-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8243617",
+      "employer_name": "Stripe",
+      "job_title": "Machine Learning Engineer, Radar",
+      "location": "Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8243617",
+      "posted_at": "2026-10-12T14:55:17-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8193862",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer (Institutional, Client Lifecycle)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8193862?gh_jid=8193862",
+      "posted_at": "2026-10-12T14:48:35-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8274765",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer (SRE), Infrastructure Security",
+      "location": "Austin; New York City",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8274765",
+      "posted_at": "2026-10-12T14:34:30-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5412734008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Claude Science",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5412734008",
+      "posted_at": "2026-10-12T14:31:57-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8100066",
+      "employer_name": "Coinbase",
+      "job_title": "Software Engineer, EAA ",
+      "location": "Remote - Brazil",
+      "apply_link": "https://www.coinbase.com/careers/positions/8100066?gh_jid=8100066",
+      "posted_at": "2026-10-12T14:12:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8054153",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer, Customer Administration",
+      "location": "Remote - India",
+      "apply_link": "https://www.coinbase.com/careers/positions/8054153?gh_jid=8054153",
+      "posted_at": "2026-10-12T14:11:50-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8267151",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Machine Learning Engineer",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8267151?gh_jid=8267151",
+      "posted_at": "2026-10-12T14:11:48-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8031260",
+      "employer_name": "Coinbase",
+      "job_title": "Machine Learning Engineer, CX Intelligence",
+      "location": "Remote - Brazil",
+      "apply_link": "https://www.coinbase.com/careers/positions/8031260?gh_jid=8031260",
+      "posted_at": "2026-10-12T14:11:42-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8166218",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer, Enterprise Apps",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8166218?gh_jid=8166218",
+      "posted_at": "2026-10-12T14:11:37-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8024880",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Analytics Engineer, GFCO Analytics",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
+      "posted_at": "2026-10-12T14:11:31-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8003605",
+      "employer_name": "Coinbase",
+      "job_title": "Software Engineer",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8003605?gh_jid=8003605",
+      "posted_at": "2026-10-12T14:11:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8008569",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Machine Learning Engineer, CX Intelligence ",
+      "location": "Remote - Brazil",
+      "apply_link": "https://www.coinbase.com/careers/positions/8008569?gh_jid=8008569",
+      "posted_at": "2026-10-12T14:11:24-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7985187",
+      "employer_name": "Coinbase",
+      "job_title": "Machine Learning Engineer",
+      "location": "Remote - India",
+      "apply_link": "https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187",
+      "posted_at": "2026-10-12T14:10:41-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7961318",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7961318?gh_jid=7961318",
+      "posted_at": "2026-10-12T14:10:32-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7739592",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Machine Learning Engineer",
+      "location": "Remote - India",
+      "apply_link": "https://www.coinbase.com/careers/positions/7739592?gh_jid=7739592",
+      "posted_at": "2026-10-12T14:10:28-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7483221",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer (EAA)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7483221?gh_jid=7483221",
+      "posted_at": "2026-10-12T14:09:01-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_6784618",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer, EAA CX",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/6784618?gh_jid=6784618",
+      "posted_at": "2026-10-12T14:08:41-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8224641",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer, Backend - Autonomous Delivery Platform",
+      "location": "San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8224641",
+      "posted_at": "2026-10-12T14:01:42-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7991691",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer, Core AI Infrastructure",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7991691?gh_jid=7991691",
+      "posted_at": "2026-10-12T13:09:22-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7847431",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Core AI Infrastructure",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7847431?gh_jid=7847431",
+      "posted_at": "2026-10-12T13:09:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8264664",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, Infrastructure Engineering",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8264664?gh_jid=8264664",
+      "posted_at": "2026-10-12T12:43:29-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_6865687002",
+      "employer_name": "Databricks",
+      "job_title": "Software Engineering Intern (2027)",
+      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
+      "posted_at": "2026-10-12T12:34:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8067027",
+      "employer_name": "Twilio",
+      "job_title": "Staff Mobile Software Engineer (P4)",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8067027",
+      "posted_at": "2026-10-12T12:01:36-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7595407",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer, Fraud",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7595407",
+      "posted_at": "2026-10-12T11:29:37-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8178879",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Operator Tooling",
+      "location": "Bucharest",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8178879",
+      "posted_at": "2026-10-12T11:14:32-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4732394005",
+      "employer_name": "Scale AI",
+      "job_title": "Senior Full-Stack Software Engineer, (Forward deployed), GPS",
+      "location": "Riyadh, Saudi Arabia",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4732394005",
+      "posted_at": "2026-10-12T10:42:53-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_cloudflare_8174207",
       "employer_name": "Cloudflare (bonus, not on your original list)",
@@ -267,16 +537,6 @@
       "job_title": "Software Engineer, Backend (All Teams)",
       "location": "Sunnyvale, CA; San Francisco, CA; New York, NY; Seattle, WA; Ann Arbor, MI",
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630445",
-      "posted_at": "2026-10-12T09:42:31-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8224641",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Backend - Autonomous Delivery Platform",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8224641",
       "posted_at": "2026-10-12T09:42:31-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -608,96 +868,6 @@
       "location": "New York, NY; Bay Area, CA; Seattle, WA",
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8207891",
       "posted_at": "2026-10-12T09:42:31-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7276690",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, R2 Metadata",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7276690?gh_jid=7276690",
-      "posted_at": "2026-10-12T09:38:08-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_5390243",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Durable Objects (DO)",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/5390243?gh_jid=5390243",
-      "posted_at": "2026-10-12T09:37:46-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7896462",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Distributed Databases",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7896462?gh_jid=7896462",
-      "posted_at": "2026-10-12T09:36:58-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8080780",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Cloudflare Queues",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8080780?gh_jid=8080780",
-      "posted_at": "2026-10-12T09:36:37-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8016162",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Cloudflare Hyperdrive",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8016162?gh_jid=8016162",
-      "posted_at": "2026-10-12T09:36:10-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8262000",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Agentic Discovery",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8262000?gh_jid=8262000",
-      "posted_at": "2026-10-12T09:35:42-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8264687",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Software Engineer, Agentic Discovery",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8264687?gh_jid=8264687",
-      "posted_at": "2026-10-12T09:35:42-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8043974",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Machine Learning Engineer",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8043974?gh_jid=8043974",
-      "posted_at": "2026-10-12T09:34:57-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8264664",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Software Engineer, Infrastructure Engineering",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8264664?gh_jid=8264664",
-      "posted_at": "2026-10-12T08:54:33-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
