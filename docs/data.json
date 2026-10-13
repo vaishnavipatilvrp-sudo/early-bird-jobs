@@ -1,13 +1,53 @@
 {
-  "generated_at": "2026-10-13T09:15:06.918777+00:00",
+  "generated_at": "2026-10-13T13:42:20.266335+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_cloudflare_8259402",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Software Engineer, AI Agents",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8259402?gh_jid=8259402",
-      "posted_at": "2026-10-13T03:36:36-04:00",
+      "job_id": "greenhouse_waymo_8212440",
+      "employer_name": "Waymo",
+      "job_title": "Machine Learning Engineer - Gen SWE",
+      "location": "Mountain View, CA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8212440",
+      "posted_at": "2026-10-13T09:20:32-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5150472008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff Software Engineer, Inference",
+      "location": "Dublin, IE",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5150472008",
+      "posted_at": "2026-10-13T09:03:08-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_4641822008",
+      "employer_name": "Anthropic",
+      "job_title": "Senior Software Engineer, Inference",
+      "location": "Dublin, IE",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4641822008",
+      "posted_at": "2026-10-13T09:03:05-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5440821008",
+      "employer_name": "Anthropic",
+      "job_title": "Applied AI Engineer, Beneficial Deployments (Lab Automation)",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5440821008",
+      "posted_at": "2026-10-13T07:46:09-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5412272008",
+      "employer_name": "Anthropic",
+      "job_title": "Software Engineer, Observability & Profiling",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5412272008",
+      "posted_at": "2026-10-13T06:11:02-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
