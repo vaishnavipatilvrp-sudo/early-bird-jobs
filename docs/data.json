@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-10-14T22:07:03.602642+00:00",
+  "generated_at": "2026-10-14T22:59:55.521994+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_8cad7bcc-3720-4534-822d-d9722599e8a6",
+      "employer_name": "OpenAI",
+      "job_title": "Applied AI Engineer, Startups",
+      "location": "S\u00e3o Paulo",
+      "apply_link": "https://jobs.ashbyhq.com/openai/8cad7bcc-3720-4534-822d-d9722599e8a6",
+      "posted_at": "2026-10-14T22:57:58.883+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_twilio_8081530",
+      "employer_name": "Twilio",
+      "job_title": "Principal Software Engineer",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8081530",
+      "posted_at": "2026-10-14T18:33:12-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8888403002",
+      "employer_name": "Lyft",
+      "job_title": "ML Software Engineer, Routing",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8888403002?gh_jid=8888403002",
+      "posted_at": "2026-10-14T18:13:31-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_waymo_7719332",
       "employer_name": "Waymo",
@@ -62,26 +92,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "ashby_openai_e808f3eb-f1bc-42ed-bf0c-12e339cabc92",
-      "employer_name": "OpenAI",
-      "job_title": "Partner Applied AI Engineer - LATAM",
-      "location": "S\u00e3o Paulo",
-      "apply_link": "https://jobs.ashbyhq.com/openai/e808f3eb-f1bc-42ed-bf0c-12e339cabc92",
-      "posted_at": "2026-10-14T16:57:49.829+00:00",
-      "category": "ML / AI Engineer",
-      "source": "ashby"
-    },
-    {
-      "job_id": "greenhouse_twilio_8081530",
-      "employer_name": "Twilio",
-      "job_title": "Principal Software Engineer",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8081530",
-      "posted_at": "2026-10-14T16:48:23-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_anthropic_5432558008",
       "employer_name": "Anthropic",
       "job_title": "Staff Software Engineer: Compute",
@@ -100,16 +110,6 @@
       "posted_at": "2026-10-14T16:30:26-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "lever_spotify_05b8d6ee-0773-4255-b8b9-ae73d74a5ee5",
-      "employer_name": "Spotify",
-      "job_title": "Senior Machine Learning Engineer, Personalization",
-      "location": "New York, NY",
-      "apply_link": "https://jobs.lever.co/spotify/05b8d6ee-0773-4255-b8b9-ae73d74a5ee5",
-      "posted_at": "2026-10-14T16:28:30.066000+00:00",
-      "category": "ML / AI Engineer",
-      "source": "lever"
     },
     {
       "job_id": "greenhouse_cloudflare_8105716",
