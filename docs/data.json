@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T18:20:51.786834+00:00",
+  "generated_at": "2026-10-14T19:09:47.013350+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_e808f3eb-f1bc-42ed-bf0c-12e339cabc92",
@@ -10,6 +10,66 @@
       "posted_at": "2026-10-14T16:57:49.829+00:00",
       "category": "ML / AI Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "lever_spotify_05b8d6ee-0773-4255-b8b9-ae73d74a5ee5",
+      "employer_name": "Spotify",
+      "job_title": "Senior Machine Learning Engineer, Personalization",
+      "location": "New York, NY",
+      "apply_link": "https://jobs.lever.co/spotify/05b8d6ee-0773-4255-b8b9-ae73d74a5ee5",
+      "posted_at": "2026-10-14T16:28:30.066000+00:00",
+      "category": "ML / AI Engineer",
+      "source": "lever"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8267151",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Machine Learning Engineer",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8267151?gh_jid=8267151",
+      "posted_at": "2026-10-14T15:09:16-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8279479",
+      "employer_name": "Coinbase",
+      "job_title": "Software Engineer, Enterprise Apps ",
+      "location": "Remote - Brazil",
+      "apply_link": "https://www.coinbase.com/careers/positions/8279479?gh_jid=8279479",
+      "posted_at": "2026-10-14T15:09:09-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8243617",
+      "employer_name": "Stripe",
+      "job_title": "Machine Learning Engineer, Radar",
+      "location": "Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8243617",
+      "posted_at": "2026-10-14T14:38:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5437172008",
+      "employer_name": "Anthropic",
+      "job_title": "Applied AI Engineer, Beneficial Deployments (Life Sciences)",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5437172008",
+      "posted_at": "2026-10-14T14:29:40-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8205488",
+      "employer_name": "DoorDash",
+      "job_title": "Principal Machine Learning Engineer, Causal Decisioning",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8205488",
+      "posted_at": "2026-10-14T14:26:40-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_pinterest_8015543",
