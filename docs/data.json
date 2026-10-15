@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-10-15T21:59:49.499163+00:00",
+  "generated_at": "2026-10-15T22:55:24.715679+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_anthropic_5454673008",
+      "employer_name": "Anthropic",
+      "job_title": "Applied AI Engineer, Startups (Physical AI)",
+      "location": "San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5454673008",
+      "posted_at": "2026-10-15T18:50:02-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5454650008",
+      "employer_name": "Anthropic",
+      "job_title": "Applied AI Engineer, Startups (Life Sciences)",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5454650008",
+      "posted_at": "2026-10-15T18:47:12-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5445760008",
+      "employer_name": "Anthropic",
+      "job_title": "Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases)",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008",
+      "posted_at": "2026-10-15T18:47:02-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8120494",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Risk Engineering",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8120494",
+      "posted_at": "2026-10-15T18:20:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_anthropic_5283063008",
       "employer_name": "Anthropic",
@@ -352,21 +392,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_8221184",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Cluster Scalability",
-      "location": "British Columbia; Ontario",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8221184",
-      "posted_at": "2026-10-15T14:33:17-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_8221182",
       "employer_name": "MongoDB",
       "job_title": "Senior Software Engineer, Cluster Scalability",
       "location": "United States",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8221182",
+      "posted_at": "2026-10-15T14:33:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8221184",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Cluster Scalability",
+      "location": "British Columbia; Ontario",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8221184",
       "posted_at": "2026-10-15T14:33:17-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -652,16 +692,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_8281626",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Query Execution",
-      "location": "Denmark",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8281626",
-      "posted_at": "2026-10-15T12:56:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_8281679",
       "employer_name": "MongoDB",
       "job_title": "Senior Software Engineer, Query Execution",
@@ -672,71 +702,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_8281673",
+      "job_id": "greenhouse_mongodb_8055471",
       "employer_name": "MongoDB",
       "job_title": "Senior Software Engineer, Query Execution",
-      "location": "Sweden",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8281673",
-      "posted_at": "2026-10-15T12:56:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8281670",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Query Execution",
-      "location": "Spain",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8281670",
-      "posted_at": "2026-10-15T12:56:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8281662",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Query Execution",
-      "location": "Netherlands",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8281662",
-      "posted_at": "2026-10-15T12:56:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8281657",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Query Execution",
-      "location": "Germany",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8281657",
-      "posted_at": "2026-10-15T12:56:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8281639",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Query Execution",
-      "location": "France",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8281639",
-      "posted_at": "2026-10-15T12:56:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8281631",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Query Execution",
-      "location": "Finland",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8281631",
-      "posted_at": "2026-10-15T12:56:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8281577",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Query Execution",
-      "location": "Belgium",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8281577",
+      "location": "Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8055471",
       "posted_at": "2026-10-15T12:56:28-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -752,11 +722,81 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_8055471",
+      "job_id": "greenhouse_mongodb_8281577",
       "employer_name": "MongoDB",
       "job_title": "Senior Software Engineer, Query Execution",
-      "location": "Ireland",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8055471",
+      "location": "Belgium",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8281577",
+      "posted_at": "2026-10-15T12:56:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8281626",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Query Execution",
+      "location": "Denmark",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8281626",
+      "posted_at": "2026-10-15T12:56:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8281631",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Query Execution",
+      "location": "Finland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8281631",
+      "posted_at": "2026-10-15T12:56:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8281639",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Query Execution",
+      "location": "France",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8281639",
+      "posted_at": "2026-10-15T12:56:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8281657",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Query Execution",
+      "location": "Germany",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8281657",
+      "posted_at": "2026-10-15T12:56:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8281662",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Query Execution",
+      "location": "Netherlands",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8281662",
+      "posted_at": "2026-10-15T12:56:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8281670",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Query Execution",
+      "location": "Spain",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8281670",
+      "posted_at": "2026-10-15T12:56:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8281673",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Query Execution",
+      "location": "Sweden",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8281673",
       "posted_at": "2026-10-15T12:56:28-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -782,11 +822,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7613665",
+      "job_id": "greenhouse_mongodb_8083366",
       "employer_name": "MongoDB",
       "job_title": "Software Engineer 3",
-      "location": "Dublin",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7613665",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8083366",
       "posted_at": "2026-10-15T12:56:28-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -802,11 +842,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_8083366",
+      "job_id": "greenhouse_mongodb_8208074",
       "employer_name": "MongoDB",
       "job_title": "Software Engineer 3",
       "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8083366",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8208074",
       "posted_at": "2026-10-15T12:56:28-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -822,21 +862,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_8208074",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8208074",
-      "posted_at": "2026-10-15T12:56:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_8239047",
       "employer_name": "MongoDB",
       "job_title": "Software Engineer 3",
       "location": "Gurugram",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8239047",
+      "posted_at": "2026-10-15T12:56:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7613665",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Dublin",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7613665",
       "posted_at": "2026-10-15T12:56:28-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -888,16 +928,6 @@
       "location": "Gurugram",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8221290",
       "posted_at": "2026-10-15T12:56:28-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8269100",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Distributed Databases",
-      "location": "In-Office",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8269100?gh_jid=8269100",
-      "posted_at": "2026-10-15T12:21:29-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
