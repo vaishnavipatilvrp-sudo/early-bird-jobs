@@ -1,6 +1,296 @@
 {
-  "generated_at": "2026-10-15T19:43:40.188295+00:00",
+  "generated_at": "2026-10-15T21:59:49.499163+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_anthropic_5283063008",
+      "employer_name": "Anthropic",
+      "job_title": "Software Engineer, Research Productivity",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5283063008",
+      "posted_at": "2026-10-15T17:32:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8445493002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Software Engineer, Lyft Business",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8445493002?gh_jid=8445493002",
+      "posted_at": "2026-10-15T16:51:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7932280002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Security Software Engineer - Agentic Security Engineering ",
+      "location": "United States",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7932280002",
+      "posted_at": "2026-10-15T16:36:51-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8247182",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L2) Messaging Channels Team ",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8247182",
+      "posted_at": "2026-10-15T16:16:44-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8840756002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Data Scientist - Client Platform",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8840756002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8722538002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Engineering Manager, Machine Learning (Safety)",
+      "location": "San Francisco Bay Area (or Remote U.S.)",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8722538002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8485884002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Data Engineer",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8485884002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8299493002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Data Engineer, Ads",
+      "location": "Remote (U.S.)",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8299493002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8730666002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Data Scientist, Causal Inference + Experimentation",
+      "location": "San Francisco Bay Area ",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8730666002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8659978002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Full-Stack Software Engineer, Ads",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8659978002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8811574002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Full-Stack Software Engineer, Developer Success",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8811574002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8856467002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Full-Stack Software Engineer, Engagement",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8856467002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8642085002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Full-Stack Software Engineer, Growth ",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8642085002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8604768002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Full-Stack Software Engineer, Social Commerce",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8604768002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8697883002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Ads",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8697883002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8460791002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Consumer Revenue",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8460791002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8642087002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Growth ",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8642087002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8369347002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Machine Learning (Safety)",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8369347002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8817776002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - Safety Experience",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8817776002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8545675002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Safety Processing",
+      "location": "San Francisco Bay Area or Los Angeles Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8545675002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8846732002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Software Engineer, Consumer Revenue",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8846732002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8642213002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Software Engineer, Notifications",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8642213002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8652853002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Staff Data Scientist, Causal Inference & Experimentation",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8652853002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8464570002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Staff Software Engineer - Consumer Revenue",
+      "location": "Remote",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8464570002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8675185002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Staff Software Engineer, Enterprise Platform",
+      "location": "San Francisco Bay Area or Remote (West Coast)",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8675185002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8700605002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Staff Software Engineer, Experimentation Platform",
+      "location": "Remote (U.S.)",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8700605002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8802354002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Staff Software Engineer, Machine Learning (Consumer Revenue)",
+      "location": "San Francisco Bay Area or Remote (U.S.)",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8802354002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8214127002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Staff Software Engineer, Safety Processing",
+      "location": "San Francisco Bay Area or Los Angeles Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8214127002",
+      "posted_at": "2026-10-15T16:08:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8109620",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Data Analyst",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8109620?gh_jid=8109620",
+      "posted_at": "2026-10-15T16:05:13-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_mongodb_8274765",
       "employer_name": "MongoDB",
@@ -190,16 +480,6 @@
       "posted_at": "2026-10-15T14:24:44-04:00",
       "category": "Other",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "ashby_cohere_14aef6d9-763e-4f56-a498-206fb31dd0c6",
-      "employer_name": "Cohere",
-      "job_title": "Senior/Staff Software Engineer (Back-End), Inference",
-      "location": "Canada",
-      "apply_link": "https://jobs.ashbyhq.com/cohere/14aef6d9-763e-4f56-a498-206fb31dd0c6",
-      "posted_at": "2026-10-15T14:07:47.333+00:00",
-      "category": "Software Engineer",
-      "source": "ashby"
     },
     {
       "job_id": "greenhouse_stripe_8257935",
@@ -618,116 +898,6 @@
       "location": "In-Office",
       "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8269100?gh_jid=8269100",
       "posted_at": "2026-10-15T12:21:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8743231002",
-      "employer_name": "Lyft",
-      "job_title": "Senior Software Engineer \u2013 Mapping & Geospatial Systems",
-      "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8743231002?gh_jid=8743231002",
-      "posted_at": "2026-10-15T11:56:35-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8265868",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, PhD, Machine Learning, Simulation Realism",
-      "location": "London, England, United Kingdom",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8265868",
-      "posted_at": "2026-10-15T11:39:41-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8054153",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer, Customer Administration",
-      "location": "Remote - India",
-      "apply_link": "https://www.coinbase.com/careers/positions/8054153?gh_jid=8054153",
-      "posted_at": "2026-10-15T11:35:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8081530",
-      "employer_name": "Twilio",
-      "job_title": "Principal Software Engineer",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8081530",
-      "posted_at": "2026-10-15T10:49:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8015771",
-      "employer_name": "Twilio",
-      "job_title": "Senior Software Engineer",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8015771",
-      "posted_at": "2026-10-15T10:32:45-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7996774",
-      "employer_name": "Twilio",
-      "job_title": "Machine Learning Engineer",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996774",
-      "posted_at": "2026-10-15T10:32:41-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8007455",
-      "employer_name": "Twilio",
-      "job_title": "Machine Learning Engineer",
-      "location": "Remote - Spain",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007455",
-      "posted_at": "2026-10-15T10:32:33-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8071710",
-      "employer_name": "Twilio",
-      "job_title": "Staff Software Engineer",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8071710",
-      "posted_at": "2026-10-15T10:31:00-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8258593",
-      "employer_name": "Twilio",
-      "job_title": "Staff Machine Learning Engineer (L4)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258593",
-      "posted_at": "2026-10-15T10:27:05-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8258587",
-      "employer_name": "Twilio",
-      "job_title": "Machine Learning Engineer (L3)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258587",
-      "posted_at": "2026-10-15T10:26:53-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8240288",
-      "employer_name": "Twilio",
-      "job_title": "Staff Software Engineer (L4)",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8240288",
-      "posted_at": "2026-10-15T10:26:25-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
