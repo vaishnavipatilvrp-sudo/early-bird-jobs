@@ -1,74 +1,44 @@
 {
-  "generated_at": "2026-10-15T03:32:52.130295+00:00",
+  "generated_at": "2026-10-15T07:16:30.364236+00:00",
   "jobs": [
     {
-      "job_id": "ashby_openai_8cad7bcc-3720-4534-822d-d9722599e8a6",
-      "employer_name": "OpenAI",
-      "job_title": "Applied AI Engineer, Startups",
-      "location": "S\u00e3o Paulo",
-      "apply_link": "https://jobs.ashbyhq.com/openai/8cad7bcc-3720-4534-822d-d9722599e8a6",
-      "posted_at": "2026-10-14T22:57:58.883+00:00",
-      "category": "ML / AI Engineer",
-      "source": "ashby"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8283735",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, ML Infrastructure (MDX)",
-      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8283735",
-      "posted_at": "2026-10-14T20:31:07-04:00",
+      "job_id": "greenhouse_cloudflare_8168623",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer - Platforms & Productivity",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8168623?gh_jid=8168623",
+      "posted_at": "2026-10-15T02:12:11-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_twilio_8081530",
-      "employer_name": "Twilio",
-      "job_title": "Principal Software Engineer",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8081530",
-      "posted_at": "2026-10-14T18:33:12-04:00",
+      "job_id": "greenhouse_mongodb_7696633",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Data Analyst",
+      "location": "United States",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7696633",
+      "posted_at": "2026-10-15T01:14:21-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8135458",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Data Scientist",
+      "location": "Cork, Ireland; Dublin, Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8135458",
+      "posted_at": "2026-10-15T00:48:06-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8238630",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Backend - Overseer (Platform)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8238630?gh_jid=8238630",
+      "posted_at": "2026-10-15T00:34:23-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8888403002",
-      "employer_name": "Lyft",
-      "job_title": "ML Software Engineer, Routing",
-      "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8888403002?gh_jid=8888403002",
-      "posted_at": "2026-10-14T18:13:31-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7719332",
-      "employer_name": "Waymo",
-      "job_title": "Staff Machine Learning Engineer, TLM , Labeling Automation",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7719332",
-      "posted_at": "2026-10-14T18:06:24-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8065028",
-      "employer_name": "Twilio",
-      "job_title": "Senior Software Engineer",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8065028",
-      "posted_at": "2026-10-14T17:48:43-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8027424",
-      "employer_name": "Waymo",
-      "job_title": "Staff ML Engineer, Generative Model Performance & Efficiency",
-      "location": "Mountain View, California, United States; New York City, New York, United States",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8027424",
-      "posted_at": "2026-10-14T17:32:48-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
