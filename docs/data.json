@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-10-16T06:59:24.986181+00:00",
+  "generated_at": "2026-10-16T08:47:38.714195+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_airbnb_8281533",
+      "employer_name": "Airbnb",
+      "job_title": "Staff Software Engineer - Hosting Services",
+      "location": "London, United Kingdom",
+      "apply_link": "https://careers.airbnb.com/positions/8281533?gh_jid=8281533",
+      "posted_at": "2026-10-16T04:21:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8088867",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Staff Software Engineer, Pinterest Assistant",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8088867",
+      "posted_at": "2026-10-16T03:07:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8015360",
+      "employer_name": "Pinterest",
+      "job_title": "Manager II, Engineering- Analytics Engineering, Core Data Science",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8015360",
+      "posted_at": "2026-10-16T03:06:48-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8015346",
+      "employer_name": "Pinterest",
+      "job_title": " Staff Software, Engineering \u2013 Analytics Engineering, Core Data Science",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8015346",
+      "posted_at": "2026-10-16T03:06:45-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_coinbase_8287662",
       "employer_name": "Coinbase",
@@ -48,16 +88,6 @@
       "location": "San Francisco, CA | New York City, NY",
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5454882008",
       "posted_at": "2026-10-15T23:38:43-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8445493002",
-      "employer_name": "Lyft",
-      "job_title": "Senior Software Engineer, Lyft Business",
-      "location": "San Francisco, CA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8445493002?gh_jid=8445493002",
-      "posted_at": "2026-10-15T21:08:05-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
