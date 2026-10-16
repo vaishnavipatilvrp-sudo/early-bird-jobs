@@ -1,6 +1,386 @@
 {
-  "generated_at": "2026-10-16T19:22:40.326615+00:00",
+  "generated_at": "2026-10-16T21:57:04.697796+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_coinbase_8292793",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Machine Learning Engineer, CX ",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8292793?gh_jid=8292793",
+      "posted_at": "2026-10-16T17:54:16-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8097944",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Core Reliability",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8097944?gh_jid=8097944",
+      "posted_at": "2026-10-16T17:50:51-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7701645",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Compute Platform",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7701645?gh_jid=7701645",
+      "posted_at": "2026-10-16T17:43:24-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8154705",
+      "employer_name": "Airbnb",
+      "job_title": "Staff Software Engineer, Data Catalog",
+      "location": "USA",
+      "apply_link": "https://careers.airbnb.com/positions/8154705?gh_jid=8154705",
+      "posted_at": "2026-10-16T17:30:35-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_7998356",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Staff Data Engineer - Data Stewardship",
+      "location": "United States",
+      "apply_link": "https://careers.airbnb.com/positions/7998356?gh_jid=7998356",
+      "posted_at": "2026-10-16T17:25:29-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8221198",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8268204",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+      "location": "Warsaw, Poland",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8268204",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8214729",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)",
+      "location": "Warsaw, Poland",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8214729",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8224900",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8238525",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, BS, Software Engineering, Labeling",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8238525",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8257660",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, BS, Software Engineer, Model Eval",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8257660",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8257237",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, BS, Waymo ML Ops & Automation",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8257237",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8243556",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8243556",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8223735",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
+      "location": "San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8223735",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8214350",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation",
+      "location": "San Francisco, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8214350",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8279620",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8279620",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8208465",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
+      "location": "London, England, United Kingdom",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8208465",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8227411",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Perception, Machine Learning",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8227411",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8250220",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS, PhD, Software Engineer ",
+      "location": "Mountain View, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8250220",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8224729",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer",
+      "location": "Mountain View, California",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8224729",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8257205",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8257205",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8234161",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Software Engineering, Onboard Software Integrity",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8234161",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8214519",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8240198",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8240198",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8221795",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8233746",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8233746",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8221851",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8262154",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, PhD, Machine Learning, Planning/Prediction",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8262154",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8237997",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8237997",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8265868",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, PhD, Machine Learning, Simulation Realism",
+      "location": "London, England, United Kingdom",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8265868",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8224746",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, PhD, Perception/Road Understanding, ML Engineer",
+      "location": "Mountain View, California",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8234876",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, PhD, Planner Machine Learning",
+      "location": "San Francisco, California",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8234876",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8227640",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8227640",
+      "posted_at": "2026-10-16T16:52:03-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8198218",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+      "location": "Mountain View, California, United States; San Francisco, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+      "posted_at": "2026-10-16T16:52:02-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8202801",
+      "employer_name": "Waymo",
+      "job_title": " 2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
+      "posted_at": "2026-10-16T16:52:02-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8174504",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS, Software Engineering, Behavior Test ",
+      "location": "San Francisco, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
+      "posted_at": "2026-10-16T16:52:02-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8202025",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
+      "location": "Mountain View, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8202025",
+      "posted_at": "2026-10-16T16:52:02-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8197554",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, PhD, Quantitative Software Engineer",
+      "location": "Mountain View, California, United States | San Francisco, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
+      "posted_at": "2026-10-16T16:52:02-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_pinterest_8284744",
       "employer_name": "Pinterest",
@@ -18,16 +398,6 @@
       "location": "Remote - USA",
       "apply_link": "https://www.coinbase.com/careers/positions/7847431?gh_jid=7847431",
       "posted_at": "2026-10-16T14:35:03-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8097944",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Core Reliability",
-      "location": "Remote - Canada",
-      "apply_link": "https://www.coinbase.com/careers/positions/8097944?gh_jid=8097944",
-      "posted_at": "2026-10-16T14:26:04-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -82,336 +452,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_waymo_8221198",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8268204",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
-      "location": "Warsaw, Poland",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8268204",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8214729",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)",
-      "location": "Warsaw, Poland",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8214729",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8224900",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8238525",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, BS, Software Engineering, Labeling",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8238525",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8257660",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, BS, Software Engineer, Model Eval",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8257660",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8257237",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, BS, Waymo ML Ops & Automation",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8257237",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8243556",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8243556",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8223735",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
-      "location": "San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8223735",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8279620",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8279620",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8227411",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS/PhD, Perception, Machine Learning",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8227411",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8250220",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS, PhD, Software Engineer ",
-      "location": "Mountain View, California, United States",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8250220",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8224729",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer",
-      "location": "Mountain View, California",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8224729",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8257205",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8257205",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8234161",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS/PhD, Software Engineering, Onboard Software Integrity",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8234161",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8214519",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
-      "location": "Mountain View, California, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8240198",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8240198",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8221795",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model",
-      "location": "Mountain View, California, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8233746",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8233746",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8221851",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
-      "location": "Mountain View, California, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8262154",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, PhD, Machine Learning, Planning/Prediction",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8262154",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8237997",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8237997",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8265868",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, PhD, Machine Learning, Simulation Realism",
-      "location": "London, England, United Kingdom",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8265868",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8224746",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, PhD, Perception/Road Understanding, ML Engineer",
-      "location": "Mountain View, California",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8234876",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, PhD, Planner Machine Learning",
-      "location": "San Francisco, California",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8234876",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8227640",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8227640",
-      "posted_at": "2026-10-16T12:42:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8198218",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
-      "location": "Mountain View, California, United States; San Francisco, California, United States",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
-      "posted_at": "2026-10-16T12:42:24-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8214350",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation",
-      "location": "San Francisco, California, United States",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8214350",
-      "posted_at": "2026-10-16T12:42:24-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8208465",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
-      "location": "London, England, United Kingdom",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8208465",
-      "posted_at": "2026-10-16T12:42:24-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8202801",
-      "employer_name": "Waymo",
-      "job_title": " 2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation",
-      "location": "Mountain View, California, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
-      "posted_at": "2026-10-16T12:42:24-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8174504",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS, Software Engineering, Behavior Test ",
-      "location": "San Francisco, California, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
-      "posted_at": "2026-10-16T12:42:24-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8202025",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
-      "location": "Mountain View, California, United States",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8202025",
-      "posted_at": "2026-10-16T12:42:24-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8197554",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, PhD, Quantitative Software Engineer",
-      "location": "Mountain View, California, United States | San Francisco, California, United States",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
-      "posted_at": "2026-10-16T12:42:24-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_airbnb_8284841",
       "employer_name": "Airbnb",
       "job_title": "Staff Data Engineer, Tech Foundations",
@@ -429,96 +469,6 @@
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
       "posted_at": "2026-10-16T12:03:14-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7613665",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3, Data Pipeline",
-      "location": "Dublin, Ireland",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7613665",
-      "posted_at": "2026-10-16T11:13:21-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8015771",
-      "employer_name": "Twilio",
-      "job_title": "Senior Software Engineer",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8015771",
-      "posted_at": "2026-10-16T10:33:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_7996774",
-      "employer_name": "Twilio",
-      "job_title": "Machine Learning Engineer",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996774",
-      "posted_at": "2026-10-16T10:33:24-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8007455",
-      "employer_name": "Twilio",
-      "job_title": "Machine Learning Engineer",
-      "location": "Remote - Spain",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8007455",
-      "posted_at": "2026-10-16T10:33:17-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8071710",
-      "employer_name": "Twilio",
-      "job_title": "Staff Software Engineer",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8071710",
-      "posted_at": "2026-10-16T10:31:47-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8258593",
-      "employer_name": "Twilio",
-      "job_title": "Staff Machine Learning Engineer (L4)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258593",
-      "posted_at": "2026-10-16T10:27:29-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8258587",
-      "employer_name": "Twilio",
-      "job_title": "Machine Learning Engineer (L3)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258587",
-      "posted_at": "2026-10-16T10:27:16-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8240288",
-      "employer_name": "Twilio",
-      "job_title": "Staff Software Engineer (L4)",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8240288",
-      "posted_at": "2026-10-16T10:26:47-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7657028",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Business Development Representative - Danish, Norwegian or Swedish Speaking",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7657028?gh_jid=7657028",
-      "posted_at": "2026-10-16T10:04:08-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
