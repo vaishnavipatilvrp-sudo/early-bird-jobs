@@ -1,13 +1,53 @@
 {
-  "generated_at": "2026-10-16T03:28:44.887720+00:00",
+  "generated_at": "2026-10-16T06:59:24.986181+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_coinbase_8287662",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer, Backend - FinHub (Transfers)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8287662?gh_jid=8287662",
+      "posted_at": "2026-10-16T02:25:34-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7618977",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Core Technology",
+      "location": "Bangalore",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7618977",
+      "posted_at": "2026-10-16T00:38:53-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8269100",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Distributed Databases",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8269100?gh_jid=8269100",
+      "posted_at": "2026-10-16T00:13:26-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_anthropic_5288742008",
       "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Enterprise \u2014 Platform",
+      "job_title": "Staff+ Software Engineer, Enterprise (Platform)",
       "location": "San Francisco, CA | New York City, NY",
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5288742008",
-      "posted_at": "2026-10-15T23:25:32-04:00",
+      "posted_at": "2026-10-15T23:43:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5454882008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Enterprise (Full Stack)",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5454882008",
+      "posted_at": "2026-10-15T23:38:43-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -18,86 +58,6 @@
       "location": "San Francisco, CA",
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8445493002?gh_jid=8445493002",
       "posted_at": "2026-10-15T21:08:05-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8065028",
-      "employer_name": "Twilio",
-      "job_title": "Senior Software Engineer",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8065028",
-      "posted_at": "2026-10-15T19:48:34-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7629141",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer, Frontend (Consumer - Advanced Trading)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7629141?gh_jid=7629141",
-      "posted_at": "2026-10-15T19:45:40-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8287668",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Data Scientist, Product",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8287668?gh_jid=8287668",
-      "posted_at": "2026-10-15T19:40:55-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5454673008",
-      "employer_name": "Anthropic",
-      "job_title": "Applied AI Engineer, Startups (Physical AI)",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5454673008",
-      "posted_at": "2026-10-15T18:50:02-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5454650008",
-      "employer_name": "Anthropic",
-      "job_title": "Applied AI Engineer, Startups (Life Sciences)",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5454650008",
-      "posted_at": "2026-10-15T18:47:12-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5445760008",
-      "employer_name": "Anthropic",
-      "job_title": "Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases)",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008",
-      "posted_at": "2026-10-15T18:47:02-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8120494",
-      "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer, Risk Engineering",
-      "location": "Toronto",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8120494",
-      "posted_at": "2026-10-15T18:20:00-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5283063008",
-      "employer_name": "Anthropic",
-      "job_title": "Software Engineer, Research Productivity",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5283063008",
-      "posted_at": "2026-10-15T17:32:54-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
