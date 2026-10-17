@@ -1,6 +1,126 @@
 {
-  "generated_at": "2026-10-17T06:49:20.244596+00:00",
+  "generated_at": "2026-10-17T08:18:12.507229+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_databricks_7652016002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer (Data Platform)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7652016002",
+      "posted_at": "2026-10-17T03:41:14-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7934782002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer - Ingestion",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7934782002",
+      "posted_at": "2026-10-17T03:41:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8602402002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer - Multi Cloud Efficiency",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8602402002",
+      "posted_at": "2026-10-17T03:40:57-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8433583002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Staff Software Engineer- Networking",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8433583002",
+      "posted_at": "2026-10-17T03:40:52-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8200692002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer - Ingestion",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200692002",
+      "posted_at": "2026-10-17T03:40:36-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7601565002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer - Databases",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7601565002",
+      "posted_at": "2026-10-17T03:40:33-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8421894002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Staff Software Engineer - Backend",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8421894002",
+      "posted_at": "2026-10-17T03:40:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7897431002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer - Data + AI Observability",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
+      "posted_at": "2026-10-17T03:40:25-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_6709301002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer (Backend)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002",
+      "posted_at": "2026-10-17T03:40:22-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7619810002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer (Infra)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002",
+      "posted_at": "2026-10-17T03:40:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7955594002",
+      "employer_name": "Databricks",
+      "job_title": "Software Engineer (Backend - SDE 2)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7955594002",
+      "posted_at": "2026-10-17T03:33:08-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8294468",
+      "employer_name": "DoorDash",
+      "job_title": "Staff Software Engineer, Data - Experimentation",
+      "location": "California, CA; San Francisco, CA; Seattle, WA; New York,NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8294468",
+      "posted_at": "2026-10-17T03:28:44-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_anthropic_5057647008",
       "employer_name": "Anthropic",
