@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T19:40:43.036887+00:00",
+  "generated_at": "2026-10-19T20:21:07.511367+00:00",
   "jobs": [
     {
       "job_id": "ashby_notion_8c0bf773-e536-45c9-9a6c-8ee478148cc8",
@@ -30,6 +30,56 @@
       "posted_at": "2026-10-19T15:52:31.558+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_waymo_8027386",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer, Compute Reliability",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8027386",
+      "posted_at": "2026-10-19T15:42:13-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8013843",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer/ Tech Lead - Onboard Model Consolidation",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8013843",
+      "posted_at": "2026-10-19T15:42:00-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7845732",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Runtime and Serving",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7845732",
+      "posted_at": "2026-10-19T15:41:35-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7719332",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer, TLM , Labeling Automation",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7719332",
+      "posted_at": "2026-10-19T15:41:21-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7466529",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Bulk/Interactive Inference",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7466529",
+      "posted_at": "2026-10-19T15:40:38-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_waymo_8191840",
@@ -672,16 +722,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_waymo_7845732",
-      "employer_name": "Waymo",
-      "job_title": "Senior Machine Learning Engineer, Runtime and Serving",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7845732",
-      "posted_at": "2026-10-19T14:56:32-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_waymo_8001797",
       "employer_name": "Waymo",
       "job_title": "Senior Machine Learning Engineer, Simulation Evaluation",
@@ -707,16 +747,6 @@
       "job_title": "Senior Software Engineer, Agentic Test Systems",
       "location": "Mountain View, CA, USA",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8279903",
-      "posted_at": "2026-10-19T14:56:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7466529",
-      "employer_name": "Waymo",
-      "job_title": "Senior Software Engineer, Bulk/Interactive Inference",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7466529",
       "posted_at": "2026-10-19T14:56:32-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -1212,16 +1242,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_waymo_7719332",
-      "employer_name": "Waymo",
-      "job_title": "Staff Machine Learning Engineer, TLM , Labeling Automation",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7719332",
-      "posted_at": "2026-10-19T14:56:32-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_waymo_8080909",
       "employer_name": "Waymo",
       "job_title": "Staff Machine Learning Engineer - Vision-Language Foundation Models",
@@ -1312,16 +1332,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_waymo_8027386",
-      "employer_name": "Waymo",
-      "job_title": "Staff Software Engineer, Compute Reliability",
-      "location": "Mountain View, California, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8027386",
-      "posted_at": "2026-10-19T14:56:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_waymo_7912801",
       "employer_name": "Waymo",
       "job_title": "Staff Software Engineer, Driver Validation ",
@@ -1387,16 +1397,6 @@
       "job_title": "Staff Software Engineer, Speciality PUDO",
       "location": "Warsaw, Poland",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7902617",
-      "posted_at": "2026-10-19T14:56:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8013843",
-      "employer_name": "Waymo",
-      "job_title": "Staff Software Engineer/ Tech Lead - Onboard Model Consolidation",
-      "location": "Mountain View, California, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8013843",
       "posted_at": "2026-10-19T14:56:32-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -1728,26 +1728,6 @@
       "location": "Remote - Ireland",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8240288",
       "posted_at": "2026-10-19T10:27:17-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5440427008",
-      "employer_name": "Anthropic",
-      "job_title": "Software Engineer, Sandboxing",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5440427008",
-      "posted_at": "2026-10-19T10:20:34-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8274802",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Software Engineer, Payments Platform",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/8274802?gh_jid=8274802",
-      "posted_at": "2026-10-19T09:55:00-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
