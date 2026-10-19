@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-10-19T22:49:14.608739+00:00",
+  "generated_at": "2026-10-19T23:22:19.327385+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_mongodb_8208074",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8208074",
+      "posted_at": "2026-10-19T19:10:22-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7944328",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer",
+      "location": "Remote - Canada",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7944328",
+      "posted_at": "2026-10-19T19:03:50-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8099162",
+      "employer_name": "Twilio",
+      "job_title": "Senior Software Engineer (L3)",
+      "location": "Remote - Canada; Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8099162",
+      "posted_at": "2026-10-19T19:03:45-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_airbnb_8250093",
       "employer_name": "Airbnb",
@@ -112,21 +142,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_lyft_8896675002",
-      "employer_name": "Lyft",
-      "job_title": "Data Scientist",
-      "location": "New York, NY",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8896675002?gh_jid=8896675002",
-      "posted_at": "2026-10-19T18:43:36-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_lyft_8896671002",
       "employer_name": "Lyft",
       "job_title": "Data Scientist",
       "location": "San Francisco, CA",
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8896671002?gh_jid=8896671002",
+      "posted_at": "2026-10-19T18:43:36-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8896675002",
+      "employer_name": "Lyft",
+      "job_title": "Data Scientist",
+      "location": "New York, NY",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8896675002?gh_jid=8896675002",
       "posted_at": "2026-10-19T18:43:36-04:00",
       "category": "Data Scientist",
       "source": "greenhouse"
@@ -242,21 +272,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_lyft_8806969002",
-      "employer_name": "Lyft",
-      "job_title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
-      "location": "Seattle, WA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8806969002?gh_jid=8806969002",
-      "posted_at": "2026-10-19T18:43:36-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_lyft_8806580002",
       "employer_name": "Lyft",
       "job_title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
       "location": "San Francisco, CA",
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8806580002?gh_jid=8806580002",
+      "posted_at": "2026-10-19T18:43:36-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8806969002",
+      "employer_name": "Lyft",
+      "job_title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
+      "location": "Seattle, WA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8806969002?gh_jid=8806969002",
       "posted_at": "2026-10-19T18:43:36-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -282,6 +312,16 @@
       "source": "greenhouse"
     },
     {
+      "job_id": "greenhouse_lyft_8584695002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Data Scientist, Causal Inference",
+      "location": "Seattle, WA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8584695002?gh_jid=8584695002",
+      "posted_at": "2026-10-19T18:43:36-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "greenhouse_lyft_8584688002",
       "employer_name": "Lyft",
       "job_title": "Senior Data Scientist, Causal Inference",
@@ -297,16 +337,6 @@
       "job_title": "Senior Data Scientist, Causal Inference",
       "location": "San Francisco, CA",
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8584595002?gh_jid=8584595002",
-      "posted_at": "2026-10-19T18:43:36-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8584695002",
-      "employer_name": "Lyft",
-      "job_title": "Senior Data Scientist, Causal Inference",
-      "location": "Seattle, WA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8584695002?gh_jid=8584695002",
       "posted_at": "2026-10-19T18:43:36-04:00",
       "category": "Data Scientist",
       "source": "greenhouse"
@@ -442,6 +472,16 @@
       "source": "greenhouse"
     },
     {
+      "job_id": "greenhouse_lyft_8896679002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002",
+      "posted_at": "2026-10-19T18:43:36-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "greenhouse_lyft_8772594002",
       "employer_name": "Lyft",
       "job_title": "Software Engineer",
@@ -457,16 +497,6 @@
       "job_title": "Software Engineer",
       "location": "San Francisco, CA",
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002",
-      "posted_at": "2026-10-19T18:43:36-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8896679002",
-      "employer_name": "Lyft",
-      "job_title": "Software Engineer",
-      "location": "San Francisco, CA",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002",
       "posted_at": "2026-10-19T18:43:36-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -832,21 +862,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_waymo_8268204",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
-      "location": "Warsaw, Poland",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8268204",
-      "posted_at": "2026-10-19T14:56:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_waymo_8198218",
       "employer_name": "Waymo",
       "job_title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
       "location": "Mountain View, California, United States; San Francisco, California, United States",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+      "posted_at": "2026-10-19T14:56:32-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8268204",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+      "location": "Warsaw, Poland",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8268204",
       "posted_at": "2026-10-19T14:56:32-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -2279,16 +2309,6 @@
       "apply_link": "https://boards.greenhouse.io/figma/jobs/6223657004?gh_jid=6223657004",
       "posted_at": "2026-10-19T13:49:15-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5450099008",
-      "employer_name": "Anthropic",
-      "job_title": "Data Engineer, Billing & Payments",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5450099008",
-      "posted_at": "2026-10-19T12:57:53-04:00",
-      "category": "Data Engineer",
       "source": "greenhouse"
     }
   ]
