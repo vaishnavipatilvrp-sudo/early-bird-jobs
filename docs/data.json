@@ -1,15 +1,585 @@
 {
-  "generated_at": "2026-10-19T07:37:10.231663+00:00",
+  "generated_at": "2026-10-19T12:22:00.208191+00:00",
   "jobs": [
     {
-      "job_id": "ashby_openai_502fcf97-75b2-4e54-9957-a29cee8eb1ca",
-      "employer_name": "OpenAI",
-      "job_title": "Applied AI Engineer, Startups (Mandarin-speaking)",
-      "location": "Singapore",
-      "apply_link": "https://jobs.ashbyhq.com/openai/502fcf97-75b2-4e54-9957-a29cee8eb1ca",
-      "posted_at": "2026-10-19T04:30:59.906+00:00",
+      "job_id": "greenhouse_cloudflare_7657028",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Business Development Representative - Danish, Norwegian or Swedish Speaking",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7657028?gh_jid=7657028",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8109620",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Data Analyst",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8109620?gh_jid=8109620",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8232806",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Digital Customer Engineer - Swedish or Russian Speaker",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8232806?gh_jid=8232806",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8175615",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Principal Data Scientist, Detection",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8175615?gh_jid=8175615",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8038898",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Principal Software Engineer: Distributed Systems (Config, Test, & Deployment)",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8038898?gh_jid=8038898",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8155495",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Principal Software Engineer, Enterprise Integrations",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8155495?gh_jid=8155495",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8055320",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Principal Software Engineer, Workers Deploy & Config",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8055320?gh_jid=8055320",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7610071",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Customer Engineer, Sweden",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7610071?gh_jid=7610071",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8055118",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Data Engineer",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7655695",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Data Scientist",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7655695?gh_jid=7655695",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8042034",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Machine Learning Engineer",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8042034?gh_jid=8042034",
+      "posted_at": "2026-10-19T05:39:19-04:00",
       "category": "ML / AI Engineer",
-      "source": "ashby"
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8043974",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Machine Learning Engineer",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8043974?gh_jid=8043974",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8221248",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Oracle Security and AI Engineer",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8221248?gh_jid=8221248",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8164694",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - Addressing Team",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8164694?gh_jid=8164694",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8262000",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Agentic Discovery",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8262000?gh_jid=8262000",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8250155",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Cloudflare for SaaS",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8250155?gh_jid=8250155",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8016162",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Cloudflare Hyperdrive",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8016162?gh_jid=8016162",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8080780",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Cloudflare Queues",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8080780?gh_jid=8080780",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8178593",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Deploy at Scale",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8178593?gh_jid=8178593",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8269100",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Distributed Databases",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8269100?gh_jid=8269100",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_5390243",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Durable Objects (DO)",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/5390243?gh_jid=5390243",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7463793",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - Egress (Go/Rust)",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7463793?gh_jid=7463793",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8105716",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - Fintech",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8105716?gh_jid=8105716",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8185561",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Internal Fraud Platform",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8185561?gh_jid=8185561",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8212352",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - Load Balancing",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8212352?gh_jid=8212352",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7793013",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - Network Connectivity (Go/Rust)",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7793013?gh_jid=7793013",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8164724",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Network On-Ramps",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8164724?gh_jid=8164724",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7541032",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - Network Platforms",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7541032?gh_jid=7541032",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8140310",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - Quicksilver - Distributed Key Value",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8140310?gh_jid=8140310",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8174207",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, R2 Gateway",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8174207?gh_jid=8174207",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7276690",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, R2 Metadata",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7276690?gh_jid=7276690",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8243201",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - Security Platform",
+      "location": "Distributed",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8243201?gh_jid=8243201",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8184838",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Security Rules",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8184838?gh_jid=8184838",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8204256",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Zero Trust Client",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8204256?gh_jid=8204256",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8212060",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8212060?gh_jid=8212060",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8264687",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, Agentic Discovery",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8264687?gh_jid=8264687",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7831810",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, AI Agents",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7831810?gh_jid=7831810",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8259402",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, AI Agents",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8259402?gh_jid=8259402",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8188899",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, CDN Configuration Group",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8188899?gh_jid=8188899",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8088751",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, Cloudflare Network Interconnect",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8088751?gh_jid=8088751",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7302931",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, Deploy at Scale",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7302931?gh_jid=7302931",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8195746",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer - Egress (Go/Rust)",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8195746?gh_jid=8195746",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8158920",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, FL",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8158920?gh_jid=8158920",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8245211",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer Intern (2027)",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8245197",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer Intern (2027)",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8199958",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer Intern (2027) - Austin, TX",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8248635",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, Mobile SDK",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8248635?gh_jid=8248635",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7446310",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, Network Performance & Reliability (Argo)",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7446310?gh_jid=7446310",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8168623",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer - Platforms & Productivity",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8168623?gh_jid=8168623",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_6972536",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer - Platforms & Productivity",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/6972536?gh_jid=6972536",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8155463",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, R2 Gateway",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8155463?gh_jid=8155463",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8159348",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, Rulesets",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8159348?gh_jid=8159348",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8160660",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, Security Rules",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8160660?gh_jid=8160660",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7377424",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, Workers Deploy & Config",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7377424?gh_jid=7377424",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7053411",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Staff/Principal Software Engineer - Security Platform",
+      "location": "Distributed",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7053411?gh_jid=7053411",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8157281",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Staff Software Engineer - Integrated Network Strategy",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8157281?gh_jid=8157281",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7309174",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Threat Intelligence Software Engineer, Cloudforce One",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7309174?gh_jid=7309174",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8245503",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Vulnerability Defense Software Engineer, Cloudforce One",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8245503?gh_jid=8245503",
+      "posted_at": "2026-10-19T05:39:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_twilio_7944328",
@@ -48,126 +618,6 @@
       "location": "Remote - USA",
       "apply_link": "https://www.coinbase.com/careers/positions/8287662?gh_jid=8287662",
       "posted_at": "2026-10-19T03:08:45-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5456453008",
-      "employer_name": "Anthropic",
-      "job_title": "Software Engineer, Memory & Search",
-      "location": "New York City, NY; New York City, NY | Seattle, WA; Remote-Friendly, United States; San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5456453008",
-      "posted_at": "2026-10-19T01:09:10-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7947560",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Storage Layer Services",
-      "location": "New York City; United States",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7947560",
-      "posted_at": "2026-10-19T00:38:23-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8140620",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Identity & Access Management (FedRamp)",
-      "location": "Austin; Boston; Chicago; New York City; Palo Alto; Philadelphia; San Francisco",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8140620",
-      "posted_at": "2026-10-19T00:38:20-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8829029002",
-      "employer_name": "Databricks",
-      "job_title": "Software Engineer, Infrastructure",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
-      "posted_at": "2026-10-18T23:43:47-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8679982002",
-      "employer_name": "Databricks",
-      "job_title": "Sr Software Engineer - Agentic Applications (Full Stack)",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002",
-      "posted_at": "2026-10-18T23:43:42-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8433583002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Staff Software Engineer- Networking",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8433583002",
-      "posted_at": "2026-10-18T23:23:03-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_7651326002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Staff Software Engineer (Backend)",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7651326002",
-      "posted_at": "2026-10-18T23:23:01-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8320183002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer - Backend",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8320183002",
-      "posted_at": "2026-10-18T23:22:56-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_7897431002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer - Data + AI Observability",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
-      "posted_at": "2026-10-18T23:22:51-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_7601572002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer - Data Platform",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7601572002",
-      "posted_at": "2026-10-18T23:22:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_7601565002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer - Databases",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7601565002",
-      "posted_at": "2026-10-18T23:22:27-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_6716344002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer (Core Experiences) ",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6716344002",
-      "posted_at": "2026-10-18T23:22:24-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
