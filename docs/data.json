@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-10-20T19:51:39.938626+00:00",
+  "generated_at": "2026-10-20T22:09:15.080309+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_1f148786-2e00-472a-96b9-0b29015980e1",
+      "employer_name": "OpenAI",
+      "job_title": "Product Data Scientist - Youth, Families and Learning",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/1f148786-2e00-472a-96b9-0b29015980e1",
+      "posted_at": "2026-10-20T21:21:22.316+00:00",
+      "category": "Data Scientist",
+      "source": "ashby"
+    },
     {
       "job_id": "ashby_openai_0a6f6736-8743-4528-b17c-4e1f4f8ea45c",
       "employer_name": "OpenAI",
@@ -12,12 +22,362 @@
       "source": "ashby"
     },
     {
-      "job_id": "greenhouse_coinbase_8097944",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Core Reliability",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8097944?gh_jid=8097944",
-      "posted_at": "2026-10-20T15:34:21-04:00",
+      "job_id": "greenhouse_waymo_6688617",
+      "employer_name": "Waymo",
+      "job_title": "Machine Learning Engineer, Simulation ",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=6688617",
+      "posted_at": "2026-10-20T17:55:28-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8287912",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Radar",
+      "location": "San Francisco, Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8287912",
+      "posted_at": "2026-10-20T17:27:24-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8243617",
+      "employer_name": "Stripe",
+      "job_title": "Machine Learning Engineer, Radar",
+      "location": "Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8243617",
+      "posted_at": "2026-10-20T17:27:23-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8267736",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer",
+      "location": "Seattle, WA",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8267736",
+      "posted_at": "2026-10-20T17:27:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8249901",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer",
+      "location": "Seattle, WA",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8249901",
+      "posted_at": "2026-10-20T17:27:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8265763",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Internal Identity",
+      "location": "na",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8265763",
+      "posted_at": "2026-10-20T17:27:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8243615",
+      "employer_name": "Stripe",
+      "job_title": "Staff Machine Learning Engineer, Radar",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8243615",
+      "posted_at": "2026-10-20T17:27:23-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8257935",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Alloy Integrations",
+      "location": "Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8257935",
+      "posted_at": "2026-10-20T17:27:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8222149",
+      "employer_name": "Stripe",
+      "job_title": "Data Scientist",
+      "location": "Seattle, WA",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8222149",
+      "posted_at": "2026-10-20T17:27:22-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8224915",
+      "employer_name": "Stripe",
+      "job_title": "Machine Learning Engineer, Growth Platform",
+      "location": "San Francisco",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8224915",
+      "posted_at": "2026-10-20T17:27:22-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8230952",
+      "employer_name": "Stripe",
+      "job_title": "Senior Software Engineer, Backend",
+      "location": "Seattle, WA",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8230952",
+      "posted_at": "2026-10-20T17:27:22-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8194291",
+      "employer_name": "Stripe",
+      "job_title": "Data Analyst, Intern",
+      "location": "New York, Seattle, South San Francisco HQ",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8194291",
+      "posted_at": "2026-10-20T17:27:21-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8206731",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Builder Experience",
+      "location": "San Francisco",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8206731",
+      "posted_at": "2026-10-20T17:27:21-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8214618",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Enterprise Engineering",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8214618",
+      "posted_at": "2026-10-20T17:27:21-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8197886",
+      "employer_name": "Stripe",
+      "job_title": "Machine Learning Engineer, Link",
+      "location": "New York City ",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8197886",
+      "posted_at": "2026-10-20T17:27:21-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8198280",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Backend",
+      "location": "Seattle, WA",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8198280",
+      "posted_at": "2026-10-20T17:27:21-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8197135",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, High Availability and Disaster Recovery",
+      "location": "Seattle, WA",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8197135",
+      "posted_at": "2026-10-20T17:27:21-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8197891",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Online Database Infrastructure",
+      "location": "Seattle, WA",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8197891",
+      "posted_at": "2026-10-20T17:27:21-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8198207",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Payins Card Networks",
+      "location": "Seattle, WA",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8198207",
+      "posted_at": "2026-10-20T17:27:21-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8209967",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, High Availability and Disaster Recovery",
+      "location": "Seattle, San Francisco, Seattle, New York, Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8209967",
+      "posted_at": "2026-10-20T17:27:21-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8189909",
+      "employer_name": "Stripe",
+      "job_title": "Data Analyst, NYC ",
+      "location": "New York",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8189909",
+      "posted_at": "2026-10-20T17:27:20-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8194283",
+      "employer_name": "Stripe",
+      "job_title": "PhD Data Scientist, Intern",
+      "location": "New York, Seattle, South San Francisco HQ",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8194283",
+      "posted_at": "2026-10-20T17:27:20-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8194328",
+      "employer_name": "Stripe",
+      "job_title": "Senior Software Engineer, Product Velocity",
+      "location": "Seattle, WA",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8194328",
+      "posted_at": "2026-10-20T17:27:20-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8172503",
+      "employer_name": "Stripe",
+      "job_title": "Abuse Research Engineer",
+      "location": "Remote from the US",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8172503",
+      "posted_at": "2026-10-20T17:27:19-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8175099",
+      "employer_name": "Stripe",
+      "job_title": "Senior Software Engineer",
+      "location": "South San Francisco, CA",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8175099",
+      "posted_at": "2026-10-20T17:27:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8177860",
+      "employer_name": "Stripe",
+      "job_title": "Senior Software Engineer, Docs Product",
+      "location": "New York, NY",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8177860",
+      "posted_at": "2026-10-20T17:27:19-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8148653",
+      "employer_name": "Stripe",
+      "job_title": "Staff Machine Learning Engineer, Financial Connections",
+      "location": "New York",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8148653",
+      "posted_at": "2026-10-20T17:27:18-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8163540",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, IAM Control Plane",
+      "location": "San Francisco",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8163540",
+      "posted_at": "2026-10-20T17:27:18-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8144196",
+      "employer_name": "Stripe",
+      "job_title": "AI Engineer",
+      "location": "Chicago",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8144196",
+      "posted_at": "2026-10-20T17:27:17-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8142764",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Bridge",
+      "location": "San Francisco, NYC",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8142764",
+      "posted_at": "2026-10-20T17:27:17-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8118929",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Enterprise & Ecosystem",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8118929",
+      "posted_at": "2026-10-20T17:27:17-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8137972",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer",
+      "location": "Chicago, IL",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8137972",
+      "posted_at": "2026-10-20T17:27:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8212508",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Early Career \u2014 Immediate Start",
+      "location": "San Francisco, Seattle, New York",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8212508",
+      "posted_at": "2026-10-20T17:27:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8128745",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern (Summer or Winter)",
+      "location": "San Francisco, Seattle, New York City",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8128745",
+      "posted_at": "2026-10-20T17:27:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8128744",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad",
+      "location": "San Francisco, Seattle, New York",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8128744",
+      "posted_at": "2026-10-20T17:27:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8127182",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Revenue and Financial Automation",
+      "location": "San Francisco, New York City, Seattle, Chicago, US-Remote",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8127182",
+      "posted_at": "2026-10-20T17:27:17-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -27,7 +387,2367 @@
       "job_title": "Staff Software Engineer, Link - Consumer Identity ",
       "location": "San Francisco, Seattle, New York",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8142952",
-      "posted_at": "2026-10-20T15:24:13-04:00",
+      "posted_at": "2026-10-20T17:27:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8257354",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Link - Consumer Preference",
+      "location": "San Francisco, NYC, Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8257354",
+      "posted_at": "2026-10-20T17:27:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8205280",
+      "employer_name": "Stripe",
+      "job_title": "Engineering Manager, Machine Learning - Credit Risk",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8205280",
+      "posted_at": "2026-10-20T17:27:16-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8069506",
+      "employer_name": "Stripe",
+      "job_title": "Engineering Manager, Machine Learning - Fraud Detection",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8069506",
+      "posted_at": "2026-10-20T17:27:16-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8241260",
+      "employer_name": "Stripe",
+      "job_title": "High School Internship, Software Engineering (Summer 2027)",
+      "location": "Seattle, San Francisco",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8241260",
+      "posted_at": "2026-10-20T17:27:16-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8089353",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Vulnerability Management",
+      "location": "US - Remote",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8089353",
+      "posted_at": "2026-10-20T17:27:16-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8055701",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, API Platform",
+      "location": "San Francisco, Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8055701",
+      "posted_at": "2026-10-20T17:27:16-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8076151",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Dashboard Product",
+      "location": "San Francisco",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8076151",
+      "posted_at": "2026-10-20T17:27:16-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8090141",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Service Infrastructure",
+      "location": "AMER",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8090141",
+      "posted_at": "2026-10-20T17:27:16-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8039548",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Support Experience (Greater China Support)",
+      "location": "US",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8039548",
+      "posted_at": "2026-10-20T17:27:15-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8038771",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Deployment Platform",
+      "location": "Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8038771",
+      "posted_at": "2026-10-20T17:27:15-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8112043",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Risk Data Engineering",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8112043",
+      "posted_at": "2026-10-20T17:27:15-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7921649",
+      "employer_name": "Stripe",
+      "job_title": "Staff Data Analyst",
+      "location": "US",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7921649",
+      "posted_at": "2026-10-20T17:27:14-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7939868",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Machine Learning Platform",
+      "location": "San Francisco, Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7939868",
+      "posted_at": "2026-10-20T17:27:14-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7986004",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Payments Intelligence",
+      "location": "Seattle, New York, San Francisco",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7986004",
+      "posted_at": "2026-10-20T17:27:14-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7476555",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Developer & End-user Experience Platform",
+      "location": "SEA, SF, NY, Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7476555",
+      "posted_at": "2026-10-20T17:27:13-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7746721",
+      "employer_name": "Stripe",
+      "job_title": "Senior Staff Software Engineer, Stripe Dashboard",
+      "location": "Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7746721",
+      "posted_at": "2026-10-20T17:27:13-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7517535",
+      "employer_name": "Stripe",
+      "job_title": "Staff Product Manager, ML Foundations and GenAI",
+      "location": "Seattle, San Francisco, New York, US - Remote",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7517535",
+      "posted_at": "2026-10-20T17:27:13-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_6042172",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Core Technology",
+      "location": "US-Remote, Chicago, Seattle, San Francisco",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=6042172",
+      "posted_at": "2026-10-20T17:27:12-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7235875",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Privy",
+      "location": "NYC-Privy",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7235875",
+      "posted_at": "2026-10-20T17:27:12-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7277110",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Bridge",
+      "location": "San Francisco, NY, Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7277110",
+      "posted_at": "2026-10-20T17:27:12-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7396679",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Secrets Infrastructure",
+      "location": "na",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7396679",
+      "posted_at": "2026-10-20T17:27:12-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8177513",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Money Movement Platform",
+      "location": "SEA, San Francisco",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8177513",
+      "posted_at": "2026-10-20T17:27:12-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8131144",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Link",
+      "location": "NYC, Sea, SF, Tor",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8131144",
+      "posted_at": "2026-10-20T17:27:11-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_5601879",
+      "employer_name": "Stripe",
+      "job_title": "Data Scientist",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=5601879",
+      "posted_at": "2026-10-20T17:27:11-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8274582",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer - Stripe Tax",
+      "location": "Dublin ",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8274582",
+      "posted_at": "2026-10-20T17:26:02-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8260985",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Payments & Risk",
+      "location": "Toronto, Canada",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8260985",
+      "posted_at": "2026-10-20T17:26:01-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8234357",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Revenue",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8234357",
+      "posted_at": "2026-10-20T17:25:59-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8231439",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Metronome Infrastructure",
+      "location": "Toronto, Vancouver, Canada-Remote",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8231439",
+      "posted_at": "2026-10-20T17:25:59-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8231178",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Storage Integrations",
+      "location": "Bucharest",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8231178",
+      "posted_at": "2026-10-20T17:25:59-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8232358",
+      "employer_name": "Stripe",
+      "job_title": " Software Engineer, Stripe Tax",
+      "location": "Barcelona",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8232358",
+      "posted_at": "2026-10-20T17:25:59-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8230296",
+      "employer_name": "Stripe",
+      "job_title": "Data Analyst, Global Growth",
+      "location": "Singapore",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8230296",
+      "posted_at": "2026-10-20T17:25:58-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8214616",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Enterprise Engineering",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8214616",
+      "posted_at": "2026-10-20T17:25:58-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8209970",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Stripe Data Pipeline",
+      "location": "Bangalore",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8209970",
+      "posted_at": "2026-10-20T17:25:57-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8194287",
+      "employer_name": "Stripe",
+      "job_title": "Data Analyst, Intern",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8194287",
+      "posted_at": "2026-10-20T17:25:56-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8194285",
+      "employer_name": "Stripe",
+      "job_title": "PhD Data Scientist, Intern",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8194285",
+      "posted_at": "2026-10-20T17:25:56-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8186442",
+      "employer_name": "Stripe",
+      "job_title": "Financial Data Analyst Intern, Technical Operations",
+      "location": "Singapore",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8186442",
+      "posted_at": "2026-10-20T17:25:55-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8178879",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Operator Tooling",
+      "location": "Bucharest",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8178879",
+      "posted_at": "2026-10-20T17:25:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8185012",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Payin",
+      "location": "Bengaluru",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8185012",
+      "posted_at": "2026-10-20T17:25:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8175656",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Security Business Enablement",
+      "location": "Dublin",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8175656",
+      "posted_at": "2026-10-20T17:25:54-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8160776",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad",
+      "location": "Singapore",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8160776",
+      "posted_at": "2026-10-20T17:25:53-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8212517",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Early Career \u2014 Immediate Start",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8212517",
+      "posted_at": "2026-10-20T17:25:52-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8157838",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8157838",
+      "posted_at": "2026-10-20T17:25:52-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8130930",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad",
+      "location": "London",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130930",
+      "posted_at": "2026-10-20T17:25:51-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8130867",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern",
+      "location": "London",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130867",
+      "posted_at": "2026-10-20T17:25:50-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8130883",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern",
+      "location": "Singapore",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130883",
+      "posted_at": "2026-10-20T17:25:50-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8130807",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern ",
+      "location": "Bucharest",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130807",
+      "posted_at": "2026-10-20T17:25:50-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8130805",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern (Summer or Winter)",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130805",
+      "posted_at": "2026-10-20T17:25:50-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8130922",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad",
+      "location": "Bucharest",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130922",
+      "posted_at": "2026-10-20T17:25:50-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8130881",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad",
+      "location": "Dublin",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130881",
+      "posted_at": "2026-10-20T17:25:50-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8130927",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad - Frontend",
+      "location": "Barcelona",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130927",
+      "posted_at": "2026-10-20T17:25:50-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8097801",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern (Summer or Winter)",
+      "location": "Dublin",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "posted_at": "2026-10-20T17:25:49-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8120494",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Risk Engineering",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8120494",
+      "posted_at": "2026-10-20T17:25:49-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8078337",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Connect Tax Reporting",
+      "location": "Bucharest, Romania",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8078337",
+      "posted_at": "2026-10-20T17:25:48-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8076626",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Stripe Tax ",
+      "location": "Dublin, Ireland",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8076626",
+      "posted_at": "2026-10-20T17:25:48-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8089815",
+      "employer_name": "Stripe",
+      "job_title": "Staff Backend Engineer - CI Services  ",
+      "location": "Dublin",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8089815",
+      "posted_at": "2026-10-20T17:25:48-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8044924",
+      "employer_name": "Stripe",
+      "job_title": "Data Analyst, Payments",
+      "location": "Singapore",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8044924",
+      "posted_at": "2026-10-20T17:25:47-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8014859",
+      "employer_name": "Stripe",
+      "job_title": "Machine Learning Engineer",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8014859",
+      "posted_at": "2026-10-20T17:25:46-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8022713",
+      "employer_name": "Stripe",
+      "job_title": "ML Engineer Manager, AI Conversation Platform",
+      "location": "Toronto, Canada",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8022713",
+      "posted_at": "2026-10-20T17:25:46-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8031833",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern",
+      "location": "Bengaluru",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "posted_at": "2026-10-20T17:25:46-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8035723",
+      "employer_name": "Stripe",
+      "job_title": "Staff Backend Engineer, Data Platform",
+      "location": "Dublin ",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8035723",
+      "posted_at": "2026-10-20T17:25:46-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7975725",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Core Infrastructure",
+      "location": "Sydney, Australia",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7975725",
+      "posted_at": "2026-10-20T17:25:45-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7716032",
+      "employer_name": "Stripe",
+      "job_title": "Staff Backend Engineer - API Platform",
+      "location": "Dublin",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7716032",
+      "posted_at": "2026-10-20T17:25:41-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7712852",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Machine Learning Platform",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7712852",
+      "posted_at": "2026-10-20T17:25:41-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7436086",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Web Presence and Platform",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7436086",
+      "posted_at": "2026-10-20T17:25:39-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7543868",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Internal Systems",
+      "location": "Bengaluru, India",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7543868",
+      "posted_at": "2026-10-20T17:25:39-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7292520",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Developer & End-user Experience Platform",
+      "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7292520",
+      "posted_at": "2026-10-20T17:25:38-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7557899",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Developer SDKs",
+      "location": "Toronto, NY, SEA, SF",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7557899",
+      "posted_at": "2026-10-20T17:25:38-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8226261",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Money Movement",
+      "location": "London",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8226261",
+      "posted_at": "2026-10-20T17:25:38-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7230670",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Data Orchestration",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7230670",
+      "posted_at": "2026-10-20T17:25:38-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7208537",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Money Movement ",
+      "location": "London",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7208537",
+      "posted_at": "2026-10-20T17:25:38-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_6606581",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Money as a Service",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=6606581",
+      "posted_at": "2026-10-20T17:25:37-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_6717520",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Payments and Risk",
+      "location": "Dublin, Ireland",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=6717520",
+      "posted_at": "2026-10-20T17:25:37-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_6567104",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Developer & End User Experience Platform",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=6567104",
+      "posted_at": "2026-10-20T17:25:36-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_6447175",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Link",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=6447175",
+      "posted_at": "2026-10-20T17:25:36-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8113100",
+      "employer_name": "Stripe",
+      "job_title": "Data Scientist, Fraud",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8113100",
+      "posted_at": "2026-10-20T17:25:35-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_5416444",
+      "employer_name": "Stripe",
+      "job_title": "Data Analyst",
+      "location": "Canada",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=5416444",
+      "posted_at": "2026-10-20T17:25:34-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_5895430",
+      "employer_name": "Stripe",
+      "job_title": "Data Scientist",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=5895430",
+      "posted_at": "2026-10-20T17:25:34-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8304034",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8304034?gh_jid=8304034",
+      "posted_at": "2026-10-20T17:06:08-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_7826337",
+      "employer_name": "Airbnb",
+      "job_title": "Machine Learning Engineer, Assistance Engineering",
+      "location": "Remote-USA",
+      "apply_link": "https://careers.airbnb.com/positions/7826337?gh_jid=7826337",
+      "posted_at": "2026-10-20T17:06:05-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8900188002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer, Luxury",
+      "location": "Mexico City, Mexico",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8900188002?gh_jid=8900188002",
+      "posted_at": "2026-10-20T17:03:48-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8221198",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8268204",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+      "location": "Warsaw, Poland",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8268204",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8198218",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+      "location": "Mountain View, California, United States; San Francisco, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8214729",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)",
+      "location": "Warsaw, Poland",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8214729",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8224900",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8238525",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, BS, Software Engineering, Labeling",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8238525",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8257660",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, BS, Software Engineer, Model Eval",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8257660",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8243556",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8243556",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8223735",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
+      "location": "San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8223735",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8214350",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation",
+      "location": "San Francisco, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8214350",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8279620",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8279620",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8208465",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
+      "location": "London, England, United Kingdom",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8208465",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8202801",
+      "employer_name": "Waymo",
+      "job_title": " 2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8227411",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Perception, Machine Learning",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8227411",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8250220",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS, PhD, Software Engineer ",
+      "location": "Mountain View, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8250220",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8224729",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer",
+      "location": "Mountain View, California",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8224729",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8257205",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8257205",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8234161",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Software Engineering, Onboard Software Integrity",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8234161",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8214519",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8240198",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8240198",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8221795",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8233746",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8233746",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8221851",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8174504",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, MS, Software Engineering, Behavior Test ",
+      "location": "San Francisco, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8202025",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
+      "location": "Mountain View, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8202025",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8262154",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, PhD, Machine Learning, Planning/Prediction",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8262154",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8237997",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8237997",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8283558",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training",
+      "location": "Mountain View, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8283558",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8265868",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, PhD, Machine Learning, Simulation Realism",
+      "location": "London, England, United Kingdom",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8265868",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8224746",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, PhD, Perception/Road Understanding, ML Engineer",
+      "location": "Mountain View, California",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8234876",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, PhD, Planner Machine Learning",
+      "location": "San Francisco, California",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8234876",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8197554",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, PhD, Quantitative Software Engineer",
+      "location": "Mountain View, California, United States | San Francisco, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8227640",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8227640",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7455592",
+      "employer_name": "Waymo",
+      "job_title": "Data Scientist",
+      "location": "Mountain View, California, USA; San Francisco, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7455592",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7309064",
+      "employer_name": "Waymo",
+      "job_title": "Machine Learning Engineer / Applied Scientist, Prediction & Planning ",
+      "location": "Mountain View, CA USA; San Francisco, CA USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7309064",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8212478",
+      "employer_name": "Waymo",
+      "job_title": "Machine Learning Engineer, Driver Refinement & Validation, Perception",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8212478",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8212440",
+      "employer_name": "Waymo",
+      "job_title": "Machine Learning Engineer - Gen SWE",
+      "location": "Mountain View, CA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8212440",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8039191",
+      "employer_name": "Waymo",
+      "job_title": "Machine Learning Engineer, Maneuvering Tech",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Pittsburgh, PA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8039191",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7905643",
+      "employer_name": "Waymo",
+      "job_title": "Machine Learning Engineer, Marketplace Pricing",
+      "location": "MountainView, CA, United States  ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7905643",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7488508",
+      "employer_name": "Waymo",
+      "job_title": "Machine Learning Engineer Perception LLM/VLM (PhD, New Grad)",
+      "location": "Mountain View, CA USA;  San Francisco, CA USA;",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7488508",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_6506689",
+      "employer_name": "Waymo",
+      "job_title": "Machine Learning Engineer, Prediction & Planning",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=6506689",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_6499165",
+      "employer_name": "Waymo",
+      "job_title": "Machine Learning Engineer, Simulation Realism",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=6499165",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8127006",
+      "employer_name": "Waymo",
+      "job_title": "Perception Machine Learning Engineer - Continuous Learning",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8127006",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7848842",
+      "employer_name": "Waymo",
+      "job_title": "Principal Software Engineer, Onboard Field Response",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7848842",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8140089",
+      "employer_name": "Waymo",
+      "job_title": "Principal Software Engineer, Post Training",
+      "location": "Mountain View, CA. USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8140089",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7347335",
+      "employer_name": "Waymo",
+      "job_title": "Senior Backend Engineer, Security",
+      "location": "Mountain View, CA, USA ; San Francsico, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7347335",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7959074",
+      "employer_name": "Waymo",
+      "job_title": "Senior Business Intelligence Analyst",
+      "location": "Mountain View, CA USA ; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7959074",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8032339",
+      "employer_name": "Waymo",
+      "job_title": "Senior Business Intelligence Analyst, Growth",
+      "location": "Mountain View, CA, US; San Francisco, CA, US",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8032339",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7438328",
+      "employer_name": "Waymo",
+      "job_title": "Senior Data Engineer",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7438328",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7456042",
+      "employer_name": "Waymo",
+      "job_title": "Senior Data Scientist",
+      "location": "Mountain View, California, USA; San Francisco, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7456042",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8163689",
+      "employer_name": "Waymo",
+      "job_title": "Senior Data Scientist, Simulation Capacity Optimization",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8163689",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7426952",
+      "employer_name": "Waymo",
+      "job_title": "Senior Fullstack Software Engineer, Workshop Management",
+      "location": "San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7426952",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7249525",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Computer Vision/VLM",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7249525",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7939542",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Fleet Monitoring & Response",
+      "location": "San Francisco, CA; Mountain  View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7939542",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8274710",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Growth",
+      "location": "San Francisco, CA, USA; Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8274710",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7819951",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer (Infra), Driver Understanding and Evaluation",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7819951",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7456936",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Maneuvering Tech",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Pittsburgh, PA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7456936",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8157152",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Multimodal Perception",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8157152",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7488596",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Perception LLM/VLM",
+      "location": "Mountain View, CA USA;  San Francisco, CA USA;",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7488596",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8191840",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Predictive Planner, Systems Arch",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8191840",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7456696",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Robotics",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7456696",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7845732",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Runtime and Serving",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7845732",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8001797",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Simulation Evaluation",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8001797",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8157298",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Vehicle Interaction & Behavior Policy ML",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8157298",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8279903",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Agentic Test Systems",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8279903",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7466529",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Bulk/Interactive Inference",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7466529",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8240632",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Chassis ",
+      "location": "San Francisco, CA, USA; Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8240632",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8173977",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Compute Software",
+      "location": "Bangalore, Karnataka, India",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8173977",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7747032",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Eval Authoring APIs",
+      "location": "Mountain View,CA, USA; San Francisco, CA, USA; New York, NY, USA ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7747032",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8248394",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Eval Efficiency & Optimization",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA; New York, NY, USA; Pittsburgh, PA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8248394",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8211704",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Fleet Response Efficiency & Optimization",
+      "location": "Mountain View ; CA San Francisco, CA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8211704",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7947243",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Fleet Response Infrastructure",
+      "location": "Mountain View, California, United States of America",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7947243",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8279506",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, GPU",
+      "location": "Mountain View, CA, USA; New York, NY, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8279506",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8070602",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, ICX Graphics",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8070602",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7510368",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Inertial Navigation",
+      "location": "Mountain View, California, US",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7510368",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7429795",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Internal Tooling",
+      "location": "Mountain View, CA, US",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7429795",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7028511",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Linux Kernel",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7028511",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7703602",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Machine Learning Performance",
+      "location": "Taipei, Taiwan; Hsinchu, Taiwan",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7703602",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8177548",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Mapping Data & Eval ",
+      "location": "San Francisco, CA, USA; Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8177548",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7429828",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Mapping Field Response",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7429828",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8211732",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Mission Planning ",
+      "location": "Warsaw, Poland ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8211732",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7991303",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, ML/Eval Data Platforms & Infrastructure",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7991303",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8211608",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer - ML/ Fraud Prevention ",
+      "location": "Warsaw, Poland ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8211608",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_6773081",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer - Multiverse",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA;",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=6773081",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7477172",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Quantitative Evaluations",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7477172",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7978589",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Simulator Orchestration",
+      "location": "Mountain View, California, United States; San Francisco, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7978589",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8211728",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Supply Infrastructure ",
+      "location": "Warsaw, Poland ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8211728",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7121224",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Training Efficiency",
+      "location": "Mountain View, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7121224",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8249941",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Vehicle Interaction",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8249941",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7822756",
+      "employer_name": "Waymo",
+      "job_title": "Senior Software Engineer, Vehicle Platforms C++",
+      "location": "Mountain View, CA, US",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7822756",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8052746",
+      "employer_name": "Waymo",
+      "job_title": "Senior Staff Engineer, Agentic AI Engineering",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8052746",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8022298",
+      "employer_name": "Waymo",
+      "job_title": "Senior Staff Machine Learning Engineer, LLM/VLM Model Architecture & Optimization",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA; ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8022298",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_6669555",
+      "employer_name": "Waymo",
+      "job_title": "Senior/Staff ML Engineer, 3D/4D World Modeling, Simulation ",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=6669555",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7421737",
+      "employer_name": "Waymo",
+      "job_title": "Senior Staff ML Engineer, Driver Understanding and Evaluation",
+      "location": "Mountain View,  CA, United States ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7421737",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8301918",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer",
+      "location": "PERM - N/A",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8301918",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7698498",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer, Machine Learning Tooling",
+      "location": "Taipei, Taiwan; Hsinchu, Taiwan",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7698498",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7905709",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer, Marketplace Logistic",
+      "location": "Mountain View, CA, United States ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7905709",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7449712",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer, Perception Scaling Evaluation",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7449712",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7917911",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer,  Real-Time Communication Infrastructure",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7917911",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7429873",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer, Vehicle Platforms C++",
+      "location": "Mountain View, CA, US",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7429873",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7905693",
+      "employer_name": "Waymo",
+      "job_title": "Sr. Machine Learning Engineer, Marketplace ML Platform",
+      "location": "Mountain View, CA, United States ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7905693",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7438665",
+      "employer_name": "Waymo",
+      "job_title": "Sr Software Engineer, Android Automotive",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7438665",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7438645",
+      "employer_name": "Waymo",
+      "job_title": "Sr Software Engineer, Telematics",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7438645",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8012271",
+      "employer_name": "Waymo",
+      "job_title": "Sr. Staff Software Engineer, DUE Experience",
+      "location": "Mountain View, CA; Seattle, WA; New York City, NY; Los Angeles, CA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8012271",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7901943",
+      "employer_name": "Waymo",
+      "job_title": "Sr. Staff Software Engineer, Fleet Orchestration, TLM",
+      "location": "Mountain View, CA, United States; San Francisco, CA, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7901943",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8171684",
+      "employer_name": "Waymo",
+      "job_title": "Sr Staff Tech Lead, Machine Learning Engineer, Perception",
+      "location": "Mountain View, California, United States, San Francisco, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8171684",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7458013",
+      "employer_name": "Waymo",
+      "job_title": "Staff Data Scientist",
+      "location": "Mountain View, California, USA; San Francisco, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7458013",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7593522",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer, Data Flywheel",
+      "location": "Mountain View, CA USA;  San Francisco, CA USA;",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7593522",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7429718",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer, Infrastructure",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7429718",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8001059",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer, Maneuvering Tech",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Pittsburgh, PA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8001059",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7429791",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer, Mapping",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7429791",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8056720",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer, Simulation ",
+      "location": "Mountain View, CA, USA; New York, NY, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8056720",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8027348",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer, Simulation Realism ",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8027348",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8064716",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer (TLM), Driver Understanding and Evaluation",
+      "location": "London, UK",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8064716",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7442152",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer(TLM), Driver Understanding and Evaluation",
+      "location": "Mountain View, CA, USA; New York, NY, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7442152",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7719332",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer, TLM , Labeling Automation",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7719332",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8080909",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer - Vision-Language Foundation Models",
+      "location": "Mountain View, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8080909",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7595124",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer \u2013 VLM/LLM",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA; New York City, NY, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7595124",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8027424",
+      "employer_name": "Waymo",
+      "job_title": "Staff ML Engineer, Generative Model Performance & Efficiency",
+      "location": "Mountain View, California, United States; New York City, New York, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8027424",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8034894",
+      "employer_name": "Waymo",
+      "job_title": "Staff Product Data Scientist, Infrastructure",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8034894",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7909457",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer, 3D & Data Visualization Tools",
+      "location": "Mountain View, CA, US; San Francisco, CA, US",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7909457",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7905695",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer, Booking",
+      "location": "Mountain View, CA, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7905695",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7912831",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer, Chassis",
+      "location": "Warsaw, Poland ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7912831",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8110366",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer, Collision Avoidance Testing ",
+      "location": "Mountain View, Ca, USA;San Francisco, Ca, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8110366",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8027386",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer, Compute Reliability",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8027386",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7912801",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer, Driver Validation ",
+      "location": "Warsaw, Poland ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7912801",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8012269",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer, DUE Experience",
+      "location": "Mountain View, CA, United States ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8012269",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8164291",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer, Fleet Optimization",
+      "location": "San Francisco, CA ; Mountain View, CA ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8164291",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7943238",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer, Quantitative Evaluations",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA; New York, NY, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7943238",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8031615",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer - Simulation Realism",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8031615",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7222566",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer, Simulator Platform",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7222566",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7902617",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer, Speciality PUDO",
+      "location": "Warsaw, Poland",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7902617",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8013843",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer/ Tech Lead - Onboard Model Consolidation",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8013843",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7680942",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer / Technical Lead Manager ",
+      "location": "San Francisco, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7680942",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8067489",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer (TLM), Field Response",
+      "location": "Tokyo, Japan",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8067489",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8244908",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer, TLM, Quantitative Evaluations",
+      "location": "San Francisco, CA, USA; Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8244908",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7450706",
+      "employer_name": "Waymo",
+      "job_title": "Staff Tech Lead, Machine Learning Engineer, Perception",
+      "location": "Mountain View, California, United States; San Francisco, California, United States",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7450706",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8209790",
+      "employer_name": "Waymo",
+      "job_title": "Staff Tech Lead Manager, Machine Learning, Simulator Evaluation ",
+      "location": "Mountain View, California, United States; San Francisco, California, United States. ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8209790",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8209835",
+      "employer_name": "Waymo",
+      "job_title": "Staff Tech Lead Software Engineer, Vehicle Realism Platform",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8209835",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7483051",
+      "employer_name": "Waymo",
+      "job_title": "Staff Technical Lead Manager, Simulation, Machine Learning ",
+      "location": "New York, NY, USA; Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7483051",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7947334",
+      "employer_name": "Waymo",
+      "job_title": "Tech Lead Manager, Data Engineer",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7947334",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7460470",
+      "employer_name": "Waymo",
+      "job_title": "Technical Lead Manager, Machine Learning, Maneuvering Tech",
+      "location": "Mountain View, California, USA; San Francisco, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7460470",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7917933",
+      "employer_name": "Waymo",
+      "job_title": "Technical Lead Manager, Query & Storage SWE",
+      "location": "Mountain View, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7917933",
+      "posted_at": "2026-10-20T17:00:55-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8304487",
+      "employer_name": "Instacart",
+      "job_title": "Senior Software Engineer - Ads Manager",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8304487",
+      "posted_at": "2026-10-20T16:58:36-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5025624008",
+      "employer_name": "Anthropic",
+      "job_title": "Research Engineer, Cybersecurity RL (Reinforcement Learning)",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5025624008",
+      "posted_at": "2026-10-20T16:53:20-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_4980430008",
+      "employer_name": "Anthropic",
+      "job_title": "Research Engineer, Interpretability",
+      "location": "San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
+      "posted_at": "2026-10-20T16:52:41-04:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8209244",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Software Engineer, Tech Foundations",
+      "location": "San Francisco, CA",
+      "apply_link": "https://careers.airbnb.com/positions/8209244?gh_jid=8209244",
+      "posted_at": "2026-10-20T16:49:50-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8304373",
+      "employer_name": "DoorDash",
+      "job_title": "Staff Software Engineer, Planner",
+      "location": "United States - Remote",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8304373",
+      "posted_at": "2026-10-20T16:47:18-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8896671002",
+      "employer_name": "Lyft",
+      "job_title": "Data Scientist",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8896671002?gh_jid=8896671002",
+      "posted_at": "2026-10-20T16:45:42-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8896675002",
+      "employer_name": "Lyft",
+      "job_title": "Data Scientist",
+      "location": "New York, NY",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8896675002?gh_jid=8896675002",
+      "posted_at": "2026-10-20T16:45:26-04:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8896679002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002",
+      "posted_at": "2026-10-20T16:44:39-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8896685002",
+      "employer_name": "Lyft",
+      "job_title": "Data Analyst",
+      "location": "New York, NY",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8896685002?gh_jid=8896685002",
+      "posted_at": "2026-10-20T16:41:56-04:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7653008",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Server Networking Security (Rust)",
+      "location": "Cork, Ireland; Dublin, Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7653008",
+      "posted_at": "2026-10-20T16:30:29-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5057647008",
+      "employer_name": "Anthropic",
+      "job_title": "Applied AI Engineer, Enterprise ",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
+      "posted_at": "2026-10-20T16:19:04-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8304279",
+      "employer_name": "Instacart",
+      "job_title": "Senior Software Engineer II - Enterprise Foundations",
+      "location": "United States - Remote",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8304279",
+      "posted_at": "2026-10-20T16:00:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8097944",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Core Reliability",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8097944?gh_jid=8097944",
+      "posted_at": "2026-10-20T15:34:21-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -368,136 +3088,6 @@
       "location": "San Francisco, CA | New York City, NY",
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5428950008",
       "posted_at": "2026-10-20T12:23:00-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8287912",
-      "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer, Radar",
-      "location": "San Francisco, Seattle",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8287912",
-      "posted_at": "2026-10-20T12:07:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_7763610",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Software Engineer,  Cloud Experience",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/7763610?gh_jid=7763610",
-      "posted_at": "2026-10-20T12:03:29-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8300359",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer",
-      "location": "New York City",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8300359",
-      "posted_at": "2026-10-20T12:01:42-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8044650",
-      "employer_name": "Twilio",
-      "job_title": "Senior Analytics Engineer",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8044650",
-      "posted_at": "2026-10-20T11:59:54-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8286842",
-      "employer_name": "Waymo",
-      "job_title": "Product Data Scientist - Marketplace Logistics",
-      "location": "Mountain View, CA, USA, San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8286842",
-      "posted_at": "2026-10-20T11:34:31-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_6447175",
-      "employer_name": "Stripe",
-      "job_title": "Full Stack Engineer, Link",
-      "location": "Toronto",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=6447175",
-      "posted_at": "2026-10-20T11:19:29-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8214745",
-      "employer_name": "Pinterest",
-      "job_title": "Software Engineering Intern 2027 (Zurich)",
-      "location": "Zurich, CH",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8214745",
-      "posted_at": "2026-10-20T11:04:31-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8267930",
-      "employer_name": "Pinterest",
-      "job_title": "University Grad Machine Learning Engineer 2027 (Zurich)",
-      "location": "Zurich, CH",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8267930",
-      "posted_at": "2026-10-20T10:55:09-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8163540",
-      "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer, IAM Control Plane",
-      "location": "San Francisco",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8163540",
-      "posted_at": "2026-10-20T10:51:05-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8175615",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Principal Data Scientist, Detection",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8175615?gh_jid=8175615",
-      "posted_at": "2026-10-20T10:44:50-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8258593",
-      "employer_name": "Twilio",
-      "job_title": "Staff Machine Learning Engineer (L4)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258593",
-      "posted_at": "2026-10-20T10:26:10-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8258587",
-      "employer_name": "Twilio",
-      "job_title": "Machine Learning Engineer (L3)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258587",
-      "posted_at": "2026-10-20T10:26:06-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8067027",
-      "employer_name": "Twilio",
-      "job_title": "Staff Mobile Software Engineer (P4)",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8067027",
-      "posted_at": "2026-10-20T09:55:17-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
