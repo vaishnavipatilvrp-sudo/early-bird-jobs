@@ -1,194 +1,24 @@
 {
-  "generated_at": "2026-10-21T03:37:42.558848+00:00",
+  "generated_at": "2026-10-21T07:24:47.364656+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_discord_8811574002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Full-Stack Software Engineer, Developer Success",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8811574002",
-      "posted_at": "2026-10-20T20:24:55-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8817776002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer - Safety Experience",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8817776002",
-      "posted_at": "2026-10-20T20:22:42-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8840756002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Data Scientist - Client Platform",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8840756002",
-      "posted_at": "2026-10-20T20:14:41-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8299493002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Data Engineer, Ads",
-      "location": "Remote (U.S.)",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8299493002",
-      "posted_at": "2026-10-20T20:13:36-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8846732002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Software Engineer, Consumer Revenue",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8846732002",
-      "posted_at": "2026-10-20T20:12:02-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8485884002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Data Engineer",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8485884002",
-      "posted_at": "2026-10-20T20:11:23-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8856467002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Full-Stack Software Engineer, Engagement",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8856467002",
-      "posted_at": "2026-10-20T20:09:18-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8172100",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Core Infra Systems",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8172100?gh_jid=8172100",
-      "posted_at": "2026-10-20T20:02:45-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5057647008",
-      "employer_name": "Anthropic",
-      "job_title": "Applied AI Engineer, Enterprise ",
-      "location": "San Francisco, CA | New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
-      "posted_at": "2026-10-20T19:56:30-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8604768002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Senior Full-Stack Software Engineer, Social Commerce",
-      "location": "San Francisco Bay Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8604768002",
-      "posted_at": "2026-10-20T19:49:00-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8304373",
+      "job_id": "greenhouse_doordashusa_8304878",
       "employer_name": "DoorDash",
-      "job_title": "Staff Software Engineer, Planner",
-      "location": "United States - Remote",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8304373",
-      "posted_at": "2026-10-20T19:25:29-04:00",
+      "job_title": "Software Engineer, Reliability Platform",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8304878",
+      "posted_at": "2026-10-21T03:23:06-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_coinbase_8160557",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer, Compute Platform (Routing)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8160557?gh_jid=8160557",
-      "posted_at": "2026-10-20T19:18:12-04:00",
+      "job_id": "greenhouse_mongodb_8300245",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Query",
+      "location": "Dublin, Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8300245",
+      "posted_at": "2026-10-21T03:16:02-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7701645",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Compute Platform",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7701645?gh_jid=7701645",
-      "posted_at": "2026-10-20T19:18:06-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5458420008",
-      "employer_name": "Anthropic",
-      "job_title": "Security Engineer / Research Engineer, RL Security",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5458420008",
-      "posted_at": "2026-10-20T19:17:54-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4735665005",
-      "employer_name": "Scale AI",
-      "job_title": "Machine Learning Research Intern (Summer 2027)",
-      "location": "New York, NY; San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
-      "posted_at": "2026-10-20T18:28:07-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8243615",
-      "employer_name": "Stripe",
-      "job_title": "Staff Machine Learning Engineer, Radar",
-      "location": "N/A",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8243615",
-      "posted_at": "2026-10-20T18:16:41-04:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8142952",
-      "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer, Link - Consumer Identity ",
-      "location": "San Francisco, Seattle, New York",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8142952",
-      "posted_at": "2026-10-20T18:14:46-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_lyft_8643108002",
-      "employer_name": "Lyft",
-      "job_title": "Senior Financial Data Analyst (Manager)",
-      "location": "Toronto, Canada",
-      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8643108002?gh_jid=8643108002",
-      "posted_at": "2026-10-20T18:10:35-04:00",
-      "category": "Data Analyst",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_6688617",
-      "employer_name": "Waymo",
-      "job_title": "Machine Learning Engineer, Simulation ",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=6688617",
-      "posted_at": "2026-10-20T17:55:28-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
