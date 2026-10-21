@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-10-21T19:06:15.632295+00:00",
+  "generated_at": "2026-10-21T19:56:32.832683+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_6ef9babb-e210-496f-a004-fed919a9ed2d",
+      "employer_name": "OpenAI",
+      "job_title": "Applied Scientist, Product Policy",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/6ef9babb-e210-496f-a004-fed919a9ed2d",
+      "posted_at": "2026-10-21T19:11:47.392+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
     {
       "job_id": "ashby_openai_74842880-e750-4664-9e2e-83b4c96c5a03",
       "employer_name": "OpenAI",
@@ -12,12 +22,22 @@
       "source": "ashby"
     },
     {
-      "job_id": "greenhouse_discord_8214127002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Staff Software Engineer, Safety Processing",
-      "location": "San Francisco Bay Area or Los Angeles Area",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8214127002",
-      "posted_at": "2026-10-21T15:04:49-04:00",
+      "job_id": "greenhouse_waymo_8310722",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer",
+      "location": "PERM - N/A",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8310722",
+      "posted_at": "2026-10-21T15:48:43-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8310693",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer",
+      "location": "PERM - N/A",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8310693",
+      "posted_at": "2026-10-21T15:43:39-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -27,8 +47,28 @@
       "job_title": "Research Engineer, Chip Design RL",
       "location": "San Francisco, CA",
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5459098008",
-      "posted_at": "2026-10-21T15:04:35-04:00",
+      "posted_at": "2026-10-21T15:30:55-04:00",
       "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8203200",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
+      "location": "San Francisco, California",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
+      "posted_at": "2026-10-21T15:28:58-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8214127002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Staff Software Engineer, Safety Processing",
+      "location": "San Francisco Bay Area or Los Angeles Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8214127002",
+      "posted_at": "2026-10-21T15:04:49-04:00",
+      "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
@@ -1998,16 +2038,6 @@
       "location": "Cork, Ireland; Dublin, Ireland",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8300245",
       "posted_at": "2026-10-21T10:25:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5379140008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, Safeguards Data ",
-      "location": "New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5379140008",
-      "posted_at": "2026-10-21T09:43:18-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
