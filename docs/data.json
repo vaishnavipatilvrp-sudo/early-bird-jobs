@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-10-21T07:24:47.364656+00:00",
+  "generated_at": "2026-10-21T09:09:57.609787+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_lyft_8901107002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer, Growth Platforms",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8901107002?gh_jid=8901107002",
+      "posted_at": "2026-10-21T04:48:13-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8305331",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, App Modernization",
+      "location": "Sydney",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8305331",
+      "posted_at": "2026-10-21T04:38:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8300499",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Customer Experience Manager - Dutch or Swedish Speaking",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8300499?gh_jid=8300499",
+      "posted_at": "2026-10-21T03:52:23-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8107301",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, AI Framework Integrations",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8107301",
+      "posted_at": "2026-10-21T03:47:18-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8106099",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, AI Builder Experience (ABX)",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8106099",
+      "posted_at": "2026-10-21T03:46:42-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_doordashusa_8304878",
       "employer_name": "DoorDash",
