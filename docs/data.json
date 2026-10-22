@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T03:37:06.474296+00:00",
+  "generated_at": "2026-10-22T07:25:21.636622+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_83730f3e-3a96-476e-afb0-15f1f045ab03",
@@ -32,16 +32,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "ashby_openai_a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3",
-      "employer_name": "OpenAI",
-      "job_title": "Software Engineer, Privacy Engineering (Lawful Access) ",
-      "location": "London, UK",
-      "apply_link": "https://jobs.ashbyhq.com/openai/a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3",
-      "posted_at": "2026-10-21T23:06:51.805+00:00",
-      "category": "Software Engineer",
-      "source": "ashby"
-    },
-    {
       "job_id": "greenhouse_databricks_8582276002",
       "employer_name": "Databricks",
       "job_title": "Senior Software Engineer, AI Runtime",
@@ -59,106 +49,6 @@
       "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582271002",
       "posted_at": "2026-10-21T23:05:43-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "ashby_openai_e99105f1-0a15-4f25-9538-60312568f835",
-      "employer_name": "OpenAI",
-      "job_title": "Software Engineer, Privacy Engineering (Lawful Access) ",
-      "location": "San Francisco",
-      "apply_link": "https://jobs.ashbyhq.com/openai/e99105f1-0a15-4f25-9538-60312568f835",
-      "posted_at": "2026-10-21T22:55:41.495+00:00",
-      "category": "Software Engineer",
-      "source": "ashby"
-    },
-    {
-      "job_id": "greenhouse_stripe_8038771",
-      "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer, Deployment Platform",
-      "location": "Seattle",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8038771",
-      "posted_at": "2026-10-21T20:34:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5457716008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff Software Engineer, Finance Engineering",
-      "location": "San Francisco, CA | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5457716008",
-      "posted_at": "2026-10-21T20:29:11-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8280222",
-      "employer_name": "Airbnb",
-      "job_title": "Software Engineer, DevAI",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/8280222?gh_jid=8280222",
-      "posted_at": "2026-10-21T19:20:53-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8214745",
-      "employer_name": "Pinterest",
-      "job_title": "Software Engineering Intern 2027 (Zurich)",
-      "location": "Zurich, CH",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8214745",
-      "posted_at": "2026-10-21T19:08:01-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8241522",
-      "employer_name": "Coinbase",
-      "job_title": "Software Engineer, CDP - Foundations ",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8241522?gh_jid=8241522",
-      "posted_at": "2026-10-21T18:39:44-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8179210",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Staff Software Engineer, Institutional Exchange",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8179210?gh_jid=8179210",
-      "posted_at": "2026-10-21T18:39:30-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8248766",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer (Institutional, Financing)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8248766?gh_jid=8248766",
-      "posted_at": "2026-10-21T18:39:27-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8180833",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Market Data Engineer",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
-      "posted_at": "2026-10-21T18:39:15-04:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8144836",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Data Engineer, Market Data",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836",
-      "posted_at": "2026-10-21T18:39:12-04:00",
-      "category": "Data Engineer",
       "source": "greenhouse"
     }
   ]
