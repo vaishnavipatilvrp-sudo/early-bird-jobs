@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-10-22T22:10:32.450005+00:00",
+  "generated_at": "2026-10-22T22:59:51.847521+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_dd9c7c04-7181-4c65-9c6a-0e04313e3707",
+      "employer_name": "OpenAI",
+      "job_title": "Principal Software Engineer, Productivity",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/dd9c7c04-7181-4c65-9c6a-0e04313e3707",
+      "posted_at": "2026-10-22T22:35:52.950+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
     {
       "job_id": "lever_palantir_b3d81928-6c26-432f-8a0a-36602c2eefcb",
       "employer_name": "Palantir",
@@ -90,16 +100,6 @@
       "posted_at": "2026-10-22T16:50:51-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "ashby_openai_551b0d0d-46c2-42fb-bb05-46e2fba8d4db",
-      "employer_name": "OpenAI",
-      "job_title": "Software Engineer, Identity Infrastructure ",
-      "location": "San Francisco",
-      "apply_link": "https://jobs.ashbyhq.com/openai/551b0d0d-46c2-42fb-bb05-46e2fba8d4db",
-      "posted_at": "2026-10-22T16:41:00.891+00:00",
-      "category": "Software Engineer",
-      "source": "ashby"
     },
     {
       "job_id": "greenhouse_cloudflare_7302931",
@@ -532,11 +532,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_scaleai_4730846005",
+      "job_id": "greenhouse_scaleai_4730845005",
       "employer_name": "Scale AI",
       "job_title": "Software Engineering Intern (Summer 2027) ",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+      "location": "San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
       "posted_at": "2026-10-22T14:10:38-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -552,11 +552,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_scaleai_4730845005",
+      "job_id": "greenhouse_scaleai_4730846005",
       "employer_name": "Scale AI",
       "job_title": "Software Engineering Intern (Summer 2027) ",
-      "location": "San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
       "posted_at": "2026-10-22T14:10:38-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -772,21 +772,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_waymo_8268204",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
-      "location": "Warsaw, Poland",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8268204",
-      "posted_at": "2026-10-22T13:40:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_waymo_8198218",
       "employer_name": "Waymo",
       "job_title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
       "location": "Mountain View, California, United States; San Francisco, California, United States",
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+      "posted_at": "2026-10-22T13:40:32-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8268204",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+      "location": "Warsaw, Poland",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8268204",
       "posted_at": "2026-10-22T13:40:32-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -1108,76 +1108,6 @@
       "location": "South San Francisco, CA",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8314283",
       "posted_at": "2026-10-22T13:01:03-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_7705262",
-      "employer_name": "Airbnb",
-      "job_title": "Staff Data Scientist, Marketplace Intelligence and Forecasting",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/7705262?gh_jid=7705262",
-      "posted_at": "2026-10-22T12:55:43-04:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8304878",
-      "employer_name": "DoorDash",
-      "job_title": "Software Engineer, Reliability Platform",
-      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8304878",
-      "posted_at": "2026-10-22T12:48:08-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8274582",
-      "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer - Stripe Tax",
-      "location": "Dublin ",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8274582",
-      "posted_at": "2026-10-22T12:45:49-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8035723",
-      "employer_name": "Stripe",
-      "job_title": "Staff Backend Engineer, Data Platform",
-      "location": "Dublin ",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8035723",
-      "posted_at": "2026-10-22T12:45:29-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8089815",
-      "employer_name": "Stripe",
-      "job_title": "Staff Backend Engineer - CI Services  ",
-      "location": "Dublin",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8089815",
-      "posted_at": "2026-10-22T12:45:09-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_7716032",
-      "employer_name": "Stripe",
-      "job_title": "Staff Backend Engineer - API Platform",
-      "location": "Dublin",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7716032",
-      "posted_at": "2026-10-22T12:44:49-04:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8314235",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Resource Automation",
-      "location": "South San Francisco, CA",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8314235",
-      "posted_at": "2026-10-22T12:43:29-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
