@@ -1,26 +1,6 @@
 {
-  "generated_at": "2026-10-22T07:25:21.636622+00:00",
+  "generated_at": "2026-10-22T09:12:31.610356+00:00",
   "jobs": [
-    {
-      "job_id": "ashby_openai_83730f3e-3a96-476e-afb0-15f1f045ab03",
-      "employer_name": "OpenAI",
-      "job_title": "Applied AI Engineer",
-      "location": "Sydney, Australia",
-      "apply_link": "https://jobs.ashbyhq.com/openai/83730f3e-3a96-476e-afb0-15f1f045ab03",
-      "posted_at": "2026-10-22T02:57:37.622+00:00",
-      "category": "ML / AI Engineer",
-      "source": "ashby"
-    },
-    {
-      "job_id": "ashby_cohere_529b2dd6-4be3-49db-97cd-781f4897540b",
-      "employer_name": "Cohere",
-      "job_title": "Senior Software Engineer, Agent Infrastructure",
-      "location": "Toronto",
-      "apply_link": "https://jobs.ashbyhq.com/cohere/529b2dd6-4be3-49db-97cd-781f4897540b",
-      "posted_at": "2026-10-22T01:52:35.722+00:00",
-      "category": "Software Engineer",
-      "source": "ashby"
-    },
     {
       "job_id": "greenhouse_coinbase_8175873",
       "employer_name": "Coinbase",
@@ -28,26 +8,6 @@
       "location": "Hybrid - Singapore",
       "apply_link": "https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873",
       "posted_at": "2026-10-21T23:19:41-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8582276002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer, AI Runtime",
-      "location": "Mountain View, California; San Francisco, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582276002",
-      "posted_at": "2026-10-21T23:06:45-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8582271002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer, AI Runtime",
-      "location": "Mountain View, California; San Francisco, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582271002",
-      "posted_at": "2026-10-21T23:05:43-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
