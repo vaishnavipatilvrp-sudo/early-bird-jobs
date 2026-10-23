@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:19:08.704927+00:00",
+  "generated_at": "2026-10-23T09:08:59.367032+00:00",
   "jobs": [
     {
       "job_id": "greenhouse_coinbase_8175873",
@@ -28,26 +28,6 @@
       "location": "Singapore",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8160776",
       "posted_at": "2026-10-22T23:20:50-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7309174",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Software Engineer (Threat Intelligence), Cloudforce One",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7309174?gh_jid=7309174",
-      "posted_at": "2026-10-22T22:55:24-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8231439",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Metronome Infrastructure",
-      "location": "Toronto, Vancouver, Canada-Remote",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8231439",
-      "posted_at": "2026-10-22T22:20:06-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
