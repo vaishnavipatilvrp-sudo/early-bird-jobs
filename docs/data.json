@@ -1,33 +1,133 @@
 {
-  "generated_at": "2026-10-23T09:08:59.367032+00:00",
+  "generated_at": "2026-10-23T14:42:04.043868+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_coinbase_8175873",
-      "employer_name": "Coinbase",
-      "job_title": "Software Engineer Intern",
-      "location": "Hybrid - Singapore",
-      "apply_link": "https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873",
-      "posted_at": "2026-10-23T02:27:21-04:00",
+      "job_id": "greenhouse_twilio_8015771",
+      "employer_name": "Twilio",
+      "job_title": "Senior Software Engineer",
+      "location": "Remote - Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8015771",
+      "posted_at": "2026-10-23T10:36:10-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8202299",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, New Grad",
-      "location": "Taiwan",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8202299",
-      "posted_at": "2026-10-22T23:22:57-04:00",
+      "job_id": "greenhouse_twilio_7996774",
+      "employer_name": "Twilio",
+      "job_title": "Machine Learning Engineer",
+      "location": "Remote - Spain",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7996774",
+      "posted_at": "2026-10-23T10:35:50-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8108771",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (Observability)",
+      "location": "Remote - Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8108771",
+      "posted_at": "2026-10-23T10:32:08-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_stripe_8160776",
+      "job_id": "greenhouse_twilio_8071710",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer",
+      "location": "Remote - Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8071710",
+      "posted_at": "2026-10-23T10:31:14-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8240288",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer (L4)",
+      "location": "Remote - Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8240288",
+      "posted_at": "2026-10-23T10:30:09-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8170597",
+      "employer_name": "Twilio",
+      "job_title": "Software Development Engineer",
+      "location": "Remote - Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8170597",
+      "posted_at": "2026-10-23T10:30:01-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8258593",
+      "employer_name": "Twilio",
+      "job_title": "Staff Machine Learning Engineer (L4)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258593",
+      "posted_at": "2026-10-23T10:29:57-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8258587",
+      "employer_name": "Twilio",
+      "job_title": "Machine Learning Engineer (L3)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258587",
+      "posted_at": "2026-10-23T10:29:45-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8209134",
+      "employer_name": "MongoDB",
+      "job_title": "2027 - Software Engineering Intern, AMER",
+      "location": "Austin; New York City; Palo Alto; San Francisco; Seattle",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
+      "posted_at": "2026-10-23T10:15:06-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_7980080",
+      "employer_name": "DoorDash",
+      "job_title": "Senior Staff Machine Learning Engineer, Ads",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7980080",
+      "posted_at": "2026-10-23T09:35:22-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8267099",
+      "employer_name": "MongoDB",
+      "job_title": "2027 - Summer Software Engineer Intern, Dublin",
+      "location": "Dublin",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8267099",
+      "posted_at": "2026-10-23T08:54:59-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8286403",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Dublin, Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8286403",
+      "posted_at": "2026-10-23T07:37:24-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7543868",
       "employer_name": "Stripe",
-      "job_title": "Software Engineer, New Grad",
-      "location": "Singapore",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8160776",
-      "posted_at": "2026-10-22T23:20:50-04:00",
+      "job_title": "Software Engineer, Financial Business Insights",
+      "location": "Bengaluru, India",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7543868",
+      "posted_at": "2026-10-23T06:06:36-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
