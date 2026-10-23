@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T21:54:33.015894+00:00",
+  "generated_at": "2026-10-23T22:55:55.208414+00:00",
   "jobs": [
     {
       "job_id": "ashby_replit_659a8e1e-69ba-44c0-a632-96665051a3e8",
@@ -22,6 +22,26 @@
       "source": "ashby"
     },
     {
+      "job_id": "greenhouse_airbnb_8197715",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Software Engineer, Tech Foundations",
+      "location": "USA",
+      "apply_link": "https://careers.airbnb.com/positions/8197715?gh_jid=8197715",
+      "posted_at": "2026-10-23T18:28:08-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8202299",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad",
+      "location": "Taiwan",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8202299",
+      "posted_at": "2026-10-23T17:54:30-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "greenhouse_waymo_7438645",
       "employer_name": "Waymo",
       "job_title": "Senior Software Engineer, Telematics",
@@ -39,26 +59,6 @@
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7917911",
       "posted_at": "2026-10-23T17:47:38-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8202299",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, New Grad",
-      "location": "Taiwan",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8202299",
-      "posted_at": "2026-10-23T17:42:15-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8144196",
-      "employer_name": "Stripe",
-      "job_title": "AI Engineer",
-      "location": "Chicago",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8144196",
-      "posted_at": "2026-10-23T17:34:05-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     },
     {
@@ -130,16 +130,6 @@
       "posted_at": "2026-10-23T16:54:29-04:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "lever_spotify_19c12e29-b6d4-4d97-9053-48238fb7c381",
-      "employer_name": "Spotify",
-      "job_title": "Machine Learning Engineer - Subscriptions",
-      "location": "London",
-      "apply_link": "https://jobs.lever.co/spotify/19c12e29-b6d4-4d97-9053-48238fb7c381",
-      "posted_at": "2026-10-23T16:53:57.686000+00:00",
-      "category": "ML / AI Engineer",
-      "source": "lever"
     },
     {
       "job_id": "greenhouse_waymo_8319342",
@@ -279,56 +269,6 @@
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8071710",
       "posted_at": "2026-10-23T13:19:05-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_6865687002",
-      "employer_name": "Databricks",
-      "job_title": "Software Engineering Intern (2027)",
-      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
-      "posted_at": "2026-10-23T12:48:00-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8154749",
-      "employer_name": "Airbnb",
-      "job_title": "Software Engineer, Tech Foundations",
-      "location": "Sao Paulo - Brazil",
-      "apply_link": "https://careers.airbnb.com/positions/8154749?gh_jid=8154749",
-      "posted_at": "2026-10-23T12:38:57-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8179210",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Staff Software Engineer, Institutional Exchange",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8179210?gh_jid=8179210",
-      "posted_at": "2026-10-23T12:34:44-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_7812407",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer - Data Platform ",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/7812407?gh_jid=7812407",
-      "posted_at": "2026-10-23T12:34:25-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8258589",
-      "employer_name": "Twilio",
-      "job_title": "Staff Machine Learning Engineer",
-      "location": "Remote - Ontario, Canada (DNU)",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258589",
-      "posted_at": "2026-10-23T12:27:07-04:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
