@@ -1,73 +1,103 @@
 {
-  "generated_at": "2026-10-24T03:36:15.672974+00:00",
+  "generated_at": "2026-10-24T07:08:08.494502+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_waymo_8304574",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
-      "location": "San Francisco, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8304574",
-      "posted_at": "2026-10-23T20:36:01-04:00",
-      "category": "ML / AI Engineer",
+      "job_id": "greenhouse_anthropic_5161402008",
+      "employer_name": "Anthropic",
+      "job_title": "Data Scientist, Growth",
+      "location": "New York City, NY | Seattle, WA; San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008",
+      "posted_at": "2026-10-24T02:38:13-04:00",
+      "category": "Data Scientist",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_8209134",
+      "job_id": "greenhouse_databricks_8679982002",
+      "employer_name": "Databricks",
+      "job_title": "Sr Software Engineer - Agentic Applications (Full Stack)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002",
+      "posted_at": "2026-10-24T01:05:36-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7601565002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer - Databases",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7601565002",
+      "posted_at": "2026-10-24T01:05:33-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7651345002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Staff Software Engineer (Backend)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7651345002",
+      "posted_at": "2026-10-24T01:05:30-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_6709301002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer (Backend)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002",
+      "posted_at": "2026-10-24T01:05:24-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8210383002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer (App-Framework)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8210383002",
+      "posted_at": "2026-10-24T01:05:22-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8421894002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Staff Software Engineer - Backend",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8421894002",
+      "posted_at": "2026-10-24T01:05:17-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7897431002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer - Data + AI Observability",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
+      "posted_at": "2026-10-24T01:04:57-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8829029002",
+      "employer_name": "Databricks",
+      "job_title": "Software Engineer, Infrastructure",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
+      "posted_at": "2026-10-24T00:58:36-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8274765",
       "employer_name": "MongoDB",
-      "job_title": "2027 - Software Engineering Intern, AMER",
-      "location": "Austin; New York City; San Francisco",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
-      "posted_at": "2026-10-23T20:00:06-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8267099",
-      "employer_name": "MongoDB",
-      "job_title": "2027 - Summer Software Engineer Intern, Dublin",
-      "location": "Dublin",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8267099",
-      "posted_at": "2026-10-23T19:58:04-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8197715",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Software Engineer, Tech Foundations",
-      "location": "USA",
-      "apply_link": "https://careers.airbnb.com/positions/8197715?gh_jid=8197715",
-      "posted_at": "2026-10-23T18:28:08-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8202299",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, New Grad",
-      "location": "Taiwan",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8202299",
-      "posted_at": "2026-10-23T17:54:30-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7438645",
-      "employer_name": "Waymo",
-      "job_title": "Senior Software Engineer, Telematics",
-      "location": "Mountain View, California, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7438645",
-      "posted_at": "2026-10-23T17:51:04-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7917911",
-      "employer_name": "Waymo",
-      "job_title": "Senior Software Engineer,  Real-Time Communication Infrastructure",
-      "location": "Mountain View, CA, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7917911",
-      "posted_at": "2026-10-23T17:47:38-04:00",
+      "job_title": "Senior Software Engineer (SRE), Infrastructure Security",
+      "location": "Austin; New York City; United States",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8274765",
+      "posted_at": "2026-10-24T00:38:39-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
