@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T22:21:42.489833+00:00",
+  "generated_at": "2026-10-26T23:03:20.778351+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_2c646ef9-6f93-4124-9d51-964d2c5aa783",
@@ -10,6 +10,66 @@
       "posted_at": "2026-10-26T22:18:02.107+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_figma_5551686004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer - Data Infrastructure",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5551686004?gh_jid=5551686004",
+      "posted_at": "2026-10-26T19:02:47-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5552549004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer - Distributed Systems",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5552549004?gh_jid=5552549004",
+      "posted_at": "2026-10-26T19:01:09-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_figma_5790627004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Software Engineer - Developer Experience",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/5790627004?gh_jid=5790627004",
+      "posted_at": "2026-10-26T19:00:34-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_7826337",
+      "employer_name": "Airbnb",
+      "job_title": "Machine Learning Engineer, Assistance Engineering",
+      "location": "Remote-USA",
+      "apply_link": "https://careers.airbnb.com/positions/7826337?gh_jid=7826337",
+      "posted_at": "2026-10-26T18:52:31-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5462966008",
+      "employer_name": "Anthropic",
+      "job_title": "Security Data Engineer",
+      "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5462966008",
+      "posted_at": "2026-10-26T18:47:43-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8209134",
+      "employer_name": "MongoDB",
+      "job_title": "2027 - Software Engineering Intern, AMER",
+      "location": "Austin; New York City; San Francisco",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
+      "posted_at": "2026-10-26T18:40:04-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_airbnb_8325753",
@@ -748,16 +808,6 @@
       "location": "Remote - US",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7595407",
       "posted_at": "2026-10-26T13:49:33-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_instacart_8315996",
-      "employer_name": "Instacart",
-      "job_title": " Senior Software Engineer, Fulfillment",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "apply_link": "https://instacart.careers/job/?gh_jid=8315996",
-      "posted_at": "2026-10-26T12:40:50-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
