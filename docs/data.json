@@ -1,6 +1,146 @@
 {
-  "generated_at": "2026-10-26T16:38:14.094442+00:00",
+  "generated_at": "2026-10-26T20:17:34.959212+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_instacart_8233716",
+      "employer_name": "Instacart",
+      "job_title": "Software Engineer II, Advertiser Optimization",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8233716",
+      "posted_at": "2026-10-26T16:16:39-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8154749",
+      "employer_name": "Airbnb",
+      "job_title": "Early Career Software Engineer, Tech Foundations",
+      "location": "Sao Paulo - Brazil",
+      "apply_link": "https://careers.airbnb.com/positions/8154749?gh_jid=8154749",
+      "posted_at": "2026-10-26T16:12:52-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8240355",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Machine Learning Engineer",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8240355",
+      "posted_at": "2026-10-26T15:44:30-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_6688617",
+      "employer_name": "Waymo",
+      "job_title": "Machine Learning Engineer, Simulation Realism (World Model)",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=6688617",
+      "posted_at": "2026-10-26T15:36:46-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8268204",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+      "location": "Warsaw, Poland",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8268204",
+      "posted_at": "2026-10-26T15:01:27-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8260980",
+      "employer_name": "Stripe",
+      "job_title": "Staff Software Engineer, Payments Intelligence",
+      "location": "New York, Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8260980",
+      "posted_at": "2026-10-26T14:45:20-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8214745",
+      "employer_name": "Pinterest",
+      "job_title": "Software Engineering Intern 2027 (Zurich)",
+      "location": "Zurich, CH",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8214745",
+      "posted_at": "2026-10-26T14:39:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8244922",
+      "employer_name": "Pinterest",
+      "job_title": "Machine Learning Intern 2027 (Dublin)",
+      "location": "Dublin, IE",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8244922",
+      "posted_at": "2026-10-26T14:37:05-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8214757",
+      "employer_name": "Pinterest",
+      "job_title": "Machine Learning Intern 2027 (Zurich)",
+      "location": "Zurich, CH",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8214757",
+      "posted_at": "2026-10-26T14:32:45-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8138080",
+      "employer_name": "Pinterest",
+      "job_title": "Machine Learning Intern 2027 (Toronto)",
+      "location": "Toronto, ON, CA",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
+      "posted_at": "2026-10-26T14:29:59-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8138034",
+      "employer_name": "Pinterest",
+      "job_title": "Software Engineering Intern 2027 (Dublin)",
+      "location": "Dublin, IE",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8138034",
+      "posted_at": "2026-10-26T14:28:28-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8138039",
+      "employer_name": "Pinterest",
+      "job_title": "Software Engineering Intern 2027 (Toronto)",
+      "location": "Toronto, ON, CA",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8138039",
+      "posted_at": "2026-10-26T14:26:45-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_7595407",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer, Fraud",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7595407",
+      "posted_at": "2026-10-26T13:49:33-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8315996",
+      "employer_name": "Instacart",
+      "job_title": " Senior Software Engineer, Fulfillment",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8315996",
+      "posted_at": "2026-10-26T12:40:50-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_scaleai_4536653005",
       "employer_name": "Scale AI",
@@ -109,16 +249,6 @@
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258587",
       "posted_at": "2026-10-26T10:30:20-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8029679002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer - Fullstack",
-      "location": "Amsterdam, Netherlands",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002",
-      "posted_at": "2026-10-26T08:41:45-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
