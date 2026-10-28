@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T15:01:25.148742+00:00",
+  "generated_at": "2026-10-28T16:29:00.776147+00:00",
   "jobs": [
     {
       "job_id": "lever_palantir_491a0133-b580-45c3-9fd4-2314faf82fb9",
@@ -10,6 +10,36 @@
       "posted_at": "2026-10-28T13:56:03.882000+00:00",
       "category": "Software Engineer",
       "source": "lever"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8055118",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Data Engineer",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118",
+      "posted_at": "2026-10-28T12:23:23-04:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8247401",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Backend - Payments Platform",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8247401?gh_jid=8247401",
+      "posted_at": "2026-10-28T12:18:53-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8546367002",
+      "employer_name": "Databricks",
+      "job_title": "AI Engineer \u2013 Forward Deployed Engineering (AI FDE)",
+      "location": "United States",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
+      "posted_at": "2026-10-28T11:47:25-04:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_cloudflare_8269100",
@@ -58,16 +88,6 @@
       "location": "Remote - Ireland",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8170597",
       "posted_at": "2026-10-28T10:29:32-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8240288",
-      "employer_name": "Twilio",
-      "job_title": "Staff Software Engineer (L4)",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8240288",
-      "posted_at": "2026-10-28T10:29:22-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -138,16 +158,6 @@
       "location": "Cork, Ireland; Dublin, Ireland",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8300245",
       "posted_at": "2026-10-28T07:41:44-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8130876",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, New Grad",
-      "location": "Bangalore",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130876",
-      "posted_at": "2026-10-28T05:19:59-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
