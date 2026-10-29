@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-10-29T22:30:03.519514+00:00",
+  "generated_at": "2026-10-29T23:07:09.343042+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_coinbase_8335547",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Backend (Coinbase One)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8335547?gh_jid=8335547",
+      "posted_at": "2026-10-29T18:43:45-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_waymo_8080909",
       "employer_name": "Waymo",
@@ -239,36 +249,6 @@
       "apply_link": "https://stripe.com/jobs/search?gh_jid=7983456",
       "posted_at": "2026-10-29T13:08:34-04:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_7685466",
-      "employer_name": "Pinterest",
-      "job_title": "Principal Software Engineer, ML & Media Infra",
-      "location": "Palo Alto, CA; US;  San Francisco, CA, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7685466",
-      "posted_at": "2026-10-29T12:50:31-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8046838",
-      "employer_name": "Pinterest",
-      "job_title": "Staff Software Engineer, Service Configuration Deployments",
-      "location": "San Francisco, CA, US; Remote, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8046838",
-      "posted_at": "2026-10-29T12:34:57-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_7947334",
-      "employer_name": "Waymo",
-      "job_title": "Tech Lead Manager, Data Engineer",
-      "location": "Mountain View, California, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7947334",
-      "posted_at": "2026-10-29T12:32:03-04:00",
-      "category": "Data Engineer",
       "source": "greenhouse"
     }
   ]
