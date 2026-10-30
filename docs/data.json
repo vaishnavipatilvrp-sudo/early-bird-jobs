@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-10-30T04:43:04.263204+00:00",
+  "generated_at": "2026-10-30T08:27:03.208213+00:00",
   "jobs": [
     {
-      "job_id": "greenhouse_cloudflare_8243201",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer - Security Platform",
-      "location": "Distributed",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8243201?gh_jid=8243201",
-      "posted_at": "2026-10-29T19:55:27-04:00",
-      "category": "Software Engineer",
+      "job_id": "greenhouse_stripe_8214618",
+      "employer_name": "Stripe",
+      "job_title": "Full Stack Engineer, Enterprise Engineering",
+      "location": "N/A",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8214618",
+      "posted_at": "2026-10-30T02:27:00-04:00",
+      "category": "Other",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_airbnb_8307226",
-      "employer_name": "Airbnb",
-      "job_title": "Staff Software Engineer AI, Platform",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/8307226?gh_jid=8307226",
-      "posted_at": "2026-10-29T19:27:23-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8335547",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Backend (Coinbase One)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8335547?gh_jid=8335547",
-      "posted_at": "2026-10-29T18:43:45-04:00",
+      "job_id": "greenhouse_stripe_8202299",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, New Grad",
+      "location": "Taiwan",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8202299",
+      "posted_at": "2026-10-30T01:27:35-04:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
