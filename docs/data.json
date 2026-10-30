@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-10-30T08:27:03.208213+00:00",
+  "generated_at": "2026-10-30T12:16:29.511047+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_mongodb_8286403",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3, Query Optimization",
+      "location": "Dublin, Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8286403",
+      "posted_at": "2026-10-30T06:13:14-04:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_stripe_8214618",
       "employer_name": "Stripe",
@@ -9,16 +19,6 @@
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8214618",
       "posted_at": "2026-10-30T02:27:00-04:00",
       "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8202299",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, New Grad",
-      "location": "Taiwan",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8202299",
-      "posted_at": "2026-10-30T01:27:35-04:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
