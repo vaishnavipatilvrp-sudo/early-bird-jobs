@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T08:17:32.335080+00:00",
+  "generated_at": "2026-10-31T11:47:51.752766+00:00",
   "jobs": [
     {
       "job_id": "greenhouse_doordashusa_8161616",
@@ -59,46 +59,6 @@
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8141072",
       "posted_at": "2026-10-31T01:49:15-04:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7947560",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Storage Layer Services",
-      "location": "New York City; United States",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7947560",
-      "posted_at": "2026-10-31T00:37:49-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8140620",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Identity & Access Management (FedRamp)",
-      "location": "Austin; Boston; Chicago; New York City; Palo Alto; Philadelphia; San Francisco",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8140620",
-      "posted_at": "2026-10-31T00:37:47-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8260982",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Payments",
-      "location": "N/A",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8260982",
-      "posted_at": "2026-10-31T00:34:48-04:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8047150",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Analytics Engineer",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8047150?gh_jid=8047150",
-      "posted_at": "2026-10-30T22:38:29-04:00",
-      "category": "Other",
       "source": "greenhouse"
     }
   ]
