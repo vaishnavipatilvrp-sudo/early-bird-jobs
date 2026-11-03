@@ -1,6 +1,146 @@
 {
-  "generated_at": "2026-11-03T17:37:25.447353+00:00",
+  "generated_at": "2026-11-03T19:10:58.888756+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_mongodb_8241351",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Product Security",
+      "location": "Cork, Ireland; Dublin, Ireland; Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8241351",
+      "posted_at": "2026-11-03T14:01:11-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5467893008",
+      "employer_name": "Anthropic",
+      "job_title": "Data Scientist, Finance Forecasting",
+      "location": "San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5467893008",
+      "posted_at": "2026-11-03T13:42:48-05:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8055266",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer, Delivery Platform",
+      "location": "Palo Alto, CA, US; San Francisco, CA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8055266",
+      "posted_at": "2026-11-03T13:23:24-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8026199",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L3) Email",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8026199",
+      "posted_at": "2026-11-03T13:22:02-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8328202",
+      "employer_name": "Waymo",
+      "job_title": "Staff Product Data Scientist, Marketplace ML",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA ",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8328202",
+      "posted_at": "2026-11-03T13:04:40-05:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7601572002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer - Data Platform",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7601572002",
+      "posted_at": "2026-11-03T13:03:13-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7601565002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer - Databases",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7601565002",
+      "posted_at": "2026-11-03T13:03:10-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_6716344002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer (Core Experiences) ",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6716344002",
+      "posted_at": "2026-11-03T13:03:08-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7651346002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer ",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7651346002",
+      "posted_at": "2026-11-03T13:03:06-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8320187002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer - Backend",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8320187002",
+      "posted_at": "2026-11-03T13:02:54-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7897431002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer - Data + AI Observability",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
+      "posted_at": "2026-11-03T13:02:49-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7652016002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer (Data Platform)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7652016002",
+      "posted_at": "2026-11-03T13:02:36-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7647369002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer (Data Platform)",
+      "location": "Bengaluru, India",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002",
+      "posted_at": "2026-11-03T13:02:32-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7982720",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Secure Devices",
+      "location": "New York, New York ",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7982720",
+      "posted_at": "2026-11-03T12:44:52-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_stripe_8261010",
       "employer_name": "Stripe",
