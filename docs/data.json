@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-11-03T23:52:34.459354+00:00",
+  "generated_at": "2026-11-04T00:25:32.896967+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_02b170ae-de32-46f5-8ef1-844b268681fe",
+      "employer_name": "OpenAI",
+      "job_title": "Staff Backend Engineer, Financial Engineering",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/02b170ae-de32-46f5-8ef1-844b268681fe",
+      "posted_at": "2026-11-04T00:02:33.947+00:00",
+      "category": "Other",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_figma_6008752004",
+      "employer_name": "Figma (bonus, not on your original list)",
+      "job_title": "Manager, Software Engineering - DevEx AI Tools",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "apply_link": "https://boards.greenhouse.io/figma/jobs/6008752004?gh_jid=6008752004",
+      "posted_at": "2026-11-03T19:14:48-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5052040007",
+      "employer_name": "xAI",
+      "job_title": "Software Engineer, Kernels/CUDA (C++)",
+      "location": " Palo Alto, CA; Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5052040007",
+      "posted_at": "2026-11-03T19:13:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8034894",
+      "employer_name": "Waymo",
+      "job_title": "Staff Product Data Scientist, Infrastructure",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8034894",
+      "posted_at": "2026-11-03T19:01:02-05:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8829053002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer, IT Digital Employee Experience",
+      "location": "San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829053002",
+      "posted_at": "2026-11-03T18:54:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8802354002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Staff Software Engineer, Machine Learning (Consumer Revenue)",
+      "location": "San Francisco Bay Area or Remote (U.S.)",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8802354002",
+      "posted_at": "2026-11-03T18:52:48-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_figma_6223657004",
       "employer_name": "Figma (bonus, not on your original list)",
@@ -82,11 +142,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_8323897",
+      "job_id": "greenhouse_mongodb_8178900",
       "employer_name": "MongoDB",
       "job_title": "Senior Software Engineer",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8323897",
+      "location": "Bengaluru",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8178900",
       "posted_at": "2026-11-03T18:10:15-05:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -102,11 +162,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_8178900",
+      "job_id": "greenhouse_mongodb_8323897",
       "employer_name": "MongoDB",
       "job_title": "Senior Software Engineer",
-      "location": "Bengaluru",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8178900",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8323897",
       "posted_at": "2026-11-03T18:10:15-05:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -192,21 +252,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_8221184",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Cluster Scalability",
-      "location": "British Columbia; Ontario",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8221184",
-      "posted_at": "2026-11-03T18:10:15-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_8221182",
       "employer_name": "MongoDB",
       "job_title": "Senior Software Engineer, Cluster Scalability",
       "location": "United States",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8221182",
+      "posted_at": "2026-11-03T18:10:15-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8221184",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Cluster Scalability",
+      "location": "British Columbia; Ontario",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8221184",
       "posted_at": "2026-11-03T18:10:15-05:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -242,21 +302,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7590735",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Forward Deployed AI Engineer",
-      "location": "Ireland",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7590735",
-      "posted_at": "2026-11-03T18:10:15-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_7392902",
       "employer_name": "MongoDB",
       "job_title": "Senior Software Engineer, Forward Deployed AI Engineer",
       "location": "Cork, Ireland; Dublin, Ireland",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7392902",
+      "posted_at": "2026-11-03T18:10:15-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7590735",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Forward Deployed AI Engineer",
+      "location": "Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7590735",
       "posted_at": "2026-11-03T18:10:15-05:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -382,21 +442,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_8239047",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8239047",
-      "posted_at": "2026-11-03T18:10:15-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_8208074",
       "employer_name": "MongoDB",
       "job_title": "Software Engineer 3",
       "location": "Gurugram",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8208074",
+      "posted_at": "2026-11-03T18:10:15-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8239047",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Gurugram",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8239047",
       "posted_at": "2026-11-03T18:10:15-05:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -652,21 +712,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_block_5369959008",
-      "employer_name": "Block",
-      "job_title": "Business Intelligence Analyst",
-      "location": "Toronto, Ontario, Canada",
-      "apply_link": "http://block.xyz/careers/jobs/5369959008?gh_jid=5369959008",
-      "posted_at": "2026-11-03T16:51:26-05:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_block_5439140008",
       "employer_name": "Block",
       "job_title": "Business Intelligence Analyst",
       "location": "San Francisco, CA, United States of America",
       "apply_link": "http://block.xyz/careers/jobs/5439140008?gh_jid=5439140008",
+      "posted_at": "2026-11-03T16:51:26-05:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5369959008",
+      "employer_name": "Block",
+      "job_title": "Business Intelligence Analyst",
+      "location": "Toronto, Ontario, Canada",
+      "apply_link": "http://block.xyz/careers/jobs/5369959008?gh_jid=5369959008",
       "posted_at": "2026-11-03T16:51:26-05:00",
       "category": "Other",
       "source": "greenhouse"
@@ -749,116 +809,6 @@
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5467893008",
       "posted_at": "2026-11-03T13:42:48-05:00",
       "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8055266",
-      "employer_name": "Pinterest",
-      "job_title": "Staff Software Engineer, Delivery Platform",
-      "location": "Palo Alto, CA, US; San Francisco, CA, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8055266",
-      "posted_at": "2026-11-03T13:23:24-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8026199",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L3) Email",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8026199",
-      "posted_at": "2026-11-03T13:22:02-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8328202",
-      "employer_name": "Waymo",
-      "job_title": "Staff Product Data Scientist, Marketplace ML",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA ",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8328202",
-      "posted_at": "2026-11-03T13:04:40-05:00",
-      "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_7601572002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer - Data Platform",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7601572002",
-      "posted_at": "2026-11-03T13:03:13-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_7601565002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer - Databases",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7601565002",
-      "posted_at": "2026-11-03T13:03:10-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_6716344002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer (Core Experiences) ",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6716344002",
-      "posted_at": "2026-11-03T13:03:08-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_7651346002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer ",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7651346002",
-      "posted_at": "2026-11-03T13:03:06-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8320187002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer - Backend",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8320187002",
-      "posted_at": "2026-11-03T13:02:54-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_7897431002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer - Data + AI Observability",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
-      "posted_at": "2026-11-03T13:02:49-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_7652016002",
-      "employer_name": "Databricks",
-      "job_title": "Staff Software Engineer (Data Platform)",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7652016002",
-      "posted_at": "2026-11-03T13:02:36-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_7647369002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer (Data Platform)",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002",
-      "posted_at": "2026-11-03T13:02:32-05:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
