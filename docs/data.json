@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-11-05T21:19:34.971630+00:00",
+  "generated_at": "2026-11-05T21:47:58.623310+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_openai_a36322aa-829e-47b0-821d-d15a40733b83",
+      "employer_name": "OpenAI",
+      "job_title": "Software Engineer, Guardian ",
+      "location": "London, UK",
+      "apply_link": "https://jobs.ashbyhq.com/openai/a36322aa-829e-47b0-821d-d15a40733b83",
+      "posted_at": "2026-11-05T21:26:03.138+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
     {
       "job_id": "ashby_openai_783704d7-5afa-45aa-899b-1d6799f73004",
       "employer_name": "OpenAI",
@@ -10,26 +20,6 @@
       "posted_at": "2026-11-05T19:33:17.025+00:00",
       "category": "Software Engineer",
       "source": "ashby"
-    },
-    {
-      "job_id": "lever_palantir_40840cef-bbd7-4557-bb21-cbdcf4be616e",
-      "employer_name": "Palantir",
-      "job_title": "Software Engineer, Internship - Sovereign AI Systems",
-      "location": "London, United Kingdom",
-      "apply_link": "https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e",
-      "posted_at": "2026-11-05T18:34:04.843000+00:00",
-      "category": "Software Engineer",
-      "source": "lever"
-    },
-    {
-      "job_id": "lever_palantir_cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
-      "employer_name": "Palantir",
-      "job_title": "Software Engineer, Internship - Sovereign AI Systems",
-      "location": "New York, NY",
-      "apply_link": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
-      "posted_at": "2026-11-05T18:29:35.363000+00:00",
-      "category": "Software Engineer",
-      "source": "lever"
     },
     {
       "job_id": "greenhouse_coinbase_8174232",
@@ -1229,46 +1219,6 @@
       "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8139094",
       "posted_at": "2026-11-05T10:51:30-05:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8015771",
-      "employer_name": "Twilio",
-      "job_title": "Senior Software Engineer",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8015771",
-      "posted_at": "2026-11-05T10:32:00-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8258589",
-      "employer_name": "Twilio",
-      "job_title": "Staff Machine Learning Engineer",
-      "location": "Remote - Ontario, Canada (DNU)",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258589",
-      "posted_at": "2026-11-05T10:28:58-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8258581",
-      "employer_name": "Twilio",
-      "job_title": "Staff Machine Learning Engineer",
-      "location": "Remote - Ontario, Canada (DNU)",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258581",
-      "posted_at": "2026-11-05T10:27:26-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8355717",
-      "employer_name": "DoorDash",
-      "job_title": "Full Stack Engineer, Applied AI",
-      "location": "San Francisco, CA; Sunnyvale, CA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8355717",
-      "posted_at": "2026-11-05T10:22:38-05:00",
-      "category": "Other",
       "source": "greenhouse"
     }
   ]
