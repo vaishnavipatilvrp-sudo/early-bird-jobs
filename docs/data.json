@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T22:46:24.949417+00:00",
+  "generated_at": "2026-11-06T23:40:08.040789+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_087aa4f5-1192-413a-ba34-3ae324cf90e5",
@@ -40,6 +40,26 @@
       "posted_at": "2026-11-06T18:41:27.009+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8360609",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer - Load Balancing",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8360609?gh_jid=8360609",
+      "posted_at": "2026-11-06T18:35:42-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8274765",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer (SRE), Infrastructure Security",
+      "location": "Austin; Boston; Chicago; Dallas; Denver; New York City; San Francisco; Seattle; United States; Washington DC",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8274765",
+      "posted_at": "2026-11-06T17:48:19-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_waymo_7449712",
@@ -849,126 +869,6 @@
       "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8039191",
       "posted_at": "2026-11-06T12:45:13-05:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8211648002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer, Model Serving",
-      "location": "San Francisco, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211648002",
-      "posted_at": "2026-11-06T12:34:23-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8582276002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Software Engineer, AI Runtime",
-      "location": "Mountain View, California; San Francisco, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582276002",
-      "posted_at": "2026-11-06T12:34:14-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8035969002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Backend Software Engineer- (AI Platform)",
-      "location": "Mountain View, California; San Francisco, California",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8035969002",
-      "posted_at": "2026-11-06T12:33:59-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8337438",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Cork, Ireland; Dublin; Ireland",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8337438",
-      "posted_at": "2026-11-06T12:31:27-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8208005",
-      "employer_name": "DoorDash",
-      "job_title": "Senior Software Engineer, Build Systems & CI",
-      "location": "Bay Area, CA; Seattle, WA; Los Angeles, CA; New York, NY",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8208005",
-      "posted_at": "2026-11-06T12:24:02-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8359515",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer - Backend (Consumer - Agentic Trading)",
-      "location": "Remote - Canada",
-      "apply_link": "https://www.coinbase.com/careers/positions/8359515?gh_jid=8359515",
-      "posted_at": "2026-11-06T12:12:07-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8356846",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer - Backend (Consumer - Agentic Trading)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8356846?gh_jid=8356846",
-      "posted_at": "2026-11-06T12:12:06-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_figma_6242561004",
-      "employer_name": "Figma (bonus, not on your original list)",
-      "job_title": "Software Engineer - Application Platform",
-      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-      "apply_link": "https://boards.greenhouse.io/figma/jobs/6242561004?gh_jid=6242561004",
-      "posted_at": "2026-11-06T12:11:16-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_7763610",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Software Engineer,  Cloud Experience",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/7763610?gh_jid=7763610",
-      "posted_at": "2026-11-06T12:08:51-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8359446",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer, Frontend/Mobile (Consumer - Agentic Trading)",
-      "location": "Remote - Canada",
-      "apply_link": "https://www.coinbase.com/careers/positions/8359446?gh_jid=8359446",
-      "posted_at": "2026-11-06T11:55:54-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8356850",
-      "employer_name": "Coinbase",
-      "job_title": "Staff Software Engineer, Frontend/Mobile (Consumer - Agentic Trading)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8356850?gh_jid=8356850",
-      "posted_at": "2026-11-06T11:47:32-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8335547",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, (Coinbase One)",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8335547?gh_jid=8335547",
-      "posted_at": "2026-11-06T11:47:17-05:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
