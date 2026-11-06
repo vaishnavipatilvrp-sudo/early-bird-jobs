@@ -1,14 +1,44 @@
 {
-  "generated_at": "2026-11-06T17:14:58.402773+00:00",
+  "generated_at": "2026-11-06T20:41:16.613743+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_notion_43ffba97-b64a-4c6a-ac13-c803253c9413",
+      "employer_name": "Notion (bonus, not on your original list)",
+      "job_title": "Software Engineering Intern, Frontend (Summer 2027)",
+      "location": "New York, New York",
+      "apply_link": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413",
+      "posted_at": "2026-11-06T18:42:11.019+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "ashby_notion_27090d0f-07d3-419b-adaa-837b5e22f947",
+      "employer_name": "Notion (bonus, not on your original list)",
+      "job_title": "Software Engineering Intern, iOS (Summer 2027)",
+      "location": "New York, New York",
+      "apply_link": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947",
+      "posted_at": "2026-11-06T18:41:27.009+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
     {
       "job_id": "ashby_cohere_2a9a9b65-4f1b-4387-aa7f-d58c78e738c4",
       "employer_name": "Cohere",
-      "job_title": "Member of Technical Staff, ML Ops",
+      "job_title": "Senior Software Engineer, ML Ops",
       "location": "London",
       "apply_link": "https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4",
       "posted_at": "2026-11-06T15:53:30.169+00:00",
-      "category": "Other",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "ashby_cohere_8f60b8e2-55b9-4258-a4cc-813273161f97",
+      "employer_name": "Cohere",
+      "job_title": "Staff Software Engineer, ML Workload Platform",
+      "location": "Canada",
+      "apply_link": "https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97",
+      "posted_at": "2026-11-06T15:27:08.011+00:00",
+      "category": "Software Engineer",
       "source": "ashby"
     },
     {
@@ -20,6 +50,176 @@
       "posted_at": "2026-11-06T15:01:46.288+00:00",
       "category": "Data Scientist",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_stripe_8353516",
+      "employer_name": "Stripe",
+      "job_title": "Backend Engineer, Internationalisation",
+      "location": "Barcelona",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8353516",
+      "posted_at": "2026-11-06T14:41:16-05:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8110366",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer, Collision Avoidance Testing",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8110366",
+      "posted_at": "2026-11-06T14:29:45-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8582271002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer, AI Runtime",
+      "location": "Mountain View, California; San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582271002",
+      "posted_at": "2026-11-06T14:15:09-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8649279002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer- Foundation Model Inference",
+      "location": "San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8649279002",
+      "posted_at": "2026-11-06T14:15:02-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8367021002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Backend Software Engineer- (AI Platform)",
+      "location": "San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8367021002",
+      "posted_at": "2026-11-06T14:14:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7793013",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - Network Connectivity (Go/Rust)",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7793013?gh_jid=7793013",
+      "posted_at": "2026-11-06T13:48:44-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7463793",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - Egress (Go/Rust)",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7463793?gh_jid=7463793",
+      "posted_at": "2026-11-06T13:48:31-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8155495",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Principal Software Engineer, Enterprise Integrations",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8155495?gh_jid=8155495",
+      "posted_at": "2026-11-06T12:59:07-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8328562",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, AI & Infrastructure Planning",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8328562?gh_jid=8328562",
+      "posted_at": "2026-11-06T12:58:26-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8001059",
+      "employer_name": "Waymo",
+      "job_title": "Staff Machine Learning Engineer, Driver Refinement & Validation",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Pittsburgh, PA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8001059",
+      "posted_at": "2026-11-06T12:46:30-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_7456936",
+      "employer_name": "Waymo",
+      "job_title": "Senior Machine Learning Engineer, Driver Refinement & Validation",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Pittsburgh, PA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7456936",
+      "posted_at": "2026-11-06T12:46:16-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8039191",
+      "employer_name": "Waymo",
+      "job_title": "Machine Learning Engineer, Driver Refinement & Validation",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Pittsburgh, PA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8039191",
+      "posted_at": "2026-11-06T12:45:13-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8211648002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer, Model Serving",
+      "location": "San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211648002",
+      "posted_at": "2026-11-06T12:34:23-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8582276002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer, AI Runtime",
+      "location": "Mountain View, California; San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582276002",
+      "posted_at": "2026-11-06T12:34:14-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8035969002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Backend Software Engineer- (AI Platform)",
+      "location": "Mountain View, California; San Francisco, California",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8035969002",
+      "posted_at": "2026-11-06T12:33:59-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8337438",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Cork, Ireland; Dublin; Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8337438",
+      "posted_at": "2026-11-06T12:31:27-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8208005",
+      "employer_name": "DoorDash",
+      "job_title": "Senior Software Engineer, Build Systems & CI",
+      "location": "Bay Area, CA; Seattle, WA; Los Angeles, CA; New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8208005",
+      "posted_at": "2026-11-06T12:24:02-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_coinbase_8359515",
@@ -198,46 +398,6 @@
       "location": "Remote - India",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8319434",
       "posted_at": "2026-11-06T10:23:03-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4751059005",
-      "employer_name": "Scale AI",
-      "job_title": "Applied AI Engineer",
-      "location": "Kuwait City, Kuwait",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4751059005",
-      "posted_at": "2026-11-06T09:25:57-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8350832",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
-      "location": "San Francisco, California, USA",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8350832",
-      "posted_at": "2026-11-06T09:21:23-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8349239",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Cluster to Cluster Synchronization, Migration Tooling",
-      "location": "Dublin",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8349239",
-      "posted_at": "2026-11-06T09:01:15-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_waymo_8197554",
-      "employer_name": "Waymo",
-      "job_title": "2027 Summer Intern, MS/PhD, Quantitative Software Engineer",
-      "location": "Mountain View, California, United States | San Francisco, California, United States",
-      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
-      "posted_at": "2026-11-06T07:24:45-05:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
