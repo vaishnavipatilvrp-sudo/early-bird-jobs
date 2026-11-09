@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T23:40:58.656787+00:00",
+  "generated_at": "2026-11-09T23:58:40.960457+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_8ddb799f-f0c7-4df8-9665-5016a1f39da3",
@@ -30,6 +30,16 @@
       "posted_at": "2026-11-09T22:13:58.693+00:00",
       "category": "ML / AI Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_waymo_8350832",
+      "employer_name": "Waymo",
+      "job_title": "2027 Summer Intern, BS/MS, Software Engineer, Multiverse",
+      "location": "San Francisco, California, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8350832",
+      "posted_at": "2026-11-09T18:54:21-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "ashby_cohere_39cab400-c976-41d9-9002-880ac6985b64",
