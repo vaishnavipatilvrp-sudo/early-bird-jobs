@@ -1,54 +1,544 @@
 {
-  "generated_at": "2026-11-10T09:35:06.675887+00:00",
+  "generated_at": "2026-11-10T16:09:25.832202+00:00",
   "jobs": [
     {
-      "job_id": "ashby_openai_ceca6916-b8d8-42cc-a32a-c27e06744b31",
-      "employer_name": "OpenAI",
-      "job_title": "Applied AI Engineering Manager, Startups | Core",
-      "location": "London, UK",
-      "apply_link": "https://jobs.ashbyhq.com/openai/ceca6916-b8d8-42cc-a32a-c27e06744b31",
-      "posted_at": "2026-11-10T09:01:00.320+00:00",
-      "category": "ML / AI Engineer",
-      "source": "ashby"
+      "job_id": "greenhouse_lyft_8931413002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer, Ad Infra",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8931413002?gh_jid=8931413002",
+      "posted_at": "2026-11-10T10:58:08-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
-      "job_id": "ashby_openai_c0586c46-6b10-482f-af1c-a5b7eb196b3b",
-      "employer_name": "OpenAI",
-      "job_title": "Applied AI Engineering Manager, Startups | Greenfield",
-      "location": "London, UK",
-      "apply_link": "https://jobs.ashbyhq.com/openai/c0586c46-6b10-482f-af1c-a5b7eb196b3b",
-      "posted_at": "2026-11-10T09:00:55.862+00:00",
-      "category": "ML / AI Engineer",
-      "source": "ashby"
-    },
-    {
-      "job_id": "greenhouse_stripe_8335426",
+      "job_id": "greenhouse_stripe_8187574",
       "employer_name": "Stripe",
-      "job_title": "Software Engineer, Supportability Decisions ",
-      "location": "Dublin",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8335426",
-      "posted_at": "2026-11-10T03:56:55-05:00",
+      "job_title": "Machine Learning Engineer, Transaction Risk",
+      "location": "Seattle",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8187574",
+      "posted_at": "2026-11-10T10:52:46-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8743513002",
+      "employer_name": "Lyft",
+      "job_title": "Android Software Engineer, Lyft Urban Solutions",
+      "location": "Montreal, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8743513002?gh_jid=8743513002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_xai_5209858007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer, Data Center - Memphis",
-      "location": " Southaven, MS; Memphis, TN",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5209858007",
-      "posted_at": "2026-11-10T03:11:32-05:00",
+      "job_id": "greenhouse_lyft_8843341002",
+      "employer_name": "Lyft",
+      "job_title": "Applied Scientist Intern, PhD (Summer 2027)",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8806570002",
+      "employer_name": "Lyft",
+      "job_title": "Backend Software Engineer, Airports",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8806570002?gh_jid=8806570002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_anthropic_5161402008",
-      "employer_name": "Anthropic",
-      "job_title": "Data Scientist, Growth",
-      "location": "New York City, NY | Seattle, WA; San Francisco, CA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008",
-      "posted_at": "2026-11-10T00:41:11-05:00",
+      "job_id": "greenhouse_lyft_8662205002",
+      "employer_name": "Lyft",
+      "job_title": "Data Engineer",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8797376002",
+      "employer_name": "Lyft",
+      "job_title": "Data Engineer Intern (Summer 2027)",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8772592002",
+      "employer_name": "Lyft",
+      "job_title": "Data Scientist ",
+      "location": "Seattle, WA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8772592002?gh_jid=8772592002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
       "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8856443002",
+      "employer_name": "Lyft",
+      "job_title": "Data Scientist, Algorithms - Dynamic Pricing",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8856443002?gh_jid=8856443002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8733597002",
+      "employer_name": "Lyft",
+      "job_title": "Data Scientist - Algorithms, Mapping",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8733597002?gh_jid=8733597002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8908005002",
+      "employer_name": "Lyft",
+      "job_title": "Data Scientist, Algorithms - Pricing - Rider Engagement",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8908005002?gh_jid=8908005002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8856442002",
+      "employer_name": "Lyft",
+      "job_title": "Data Scientist, Decisions - Mapping",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8856442002?gh_jid=8856442002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8689127002",
+      "employer_name": "Lyft",
+      "job_title": "Machine Learning Engineer",
+      "location": "New York, NY",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8689127002?gh_jid=8689127002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8688633002",
+      "employer_name": "Lyft",
+      "job_title": "Machine Learning Engineer, Fulfillment",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8688633002?gh_jid=8688633002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8684440002",
+      "employer_name": "Lyft",
+      "job_title": "Machine Learning Engineer, Safety and Customer Care AI",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8684440002?gh_jid=8684440002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8639200002",
+      "employer_name": "Lyft",
+      "job_title": "ML Software Engineer, ETA",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8639200002?gh_jid=8639200002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8888403002",
+      "employer_name": "Lyft",
+      "job_title": "ML Software Engineer, Routing",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8888403002?gh_jid=8888403002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8817974002",
+      "employer_name": "Lyft",
+      "job_title": "PhD Machine Learning Software Engineer Intern (Summer 2027)",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8806969002",
+      "employer_name": "Lyft",
+      "job_title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
+      "location": "Seattle, WA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8806969002?gh_jid=8806969002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8806580002",
+      "employer_name": "Lyft",
+      "job_title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8806580002?gh_jid=8806580002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8620998002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Data Scientist, Algorithm, Lyft Biz",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8620998002?gh_jid=8620998002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8621789002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Data Scientist, Algorithms, Lyft Biz",
+      "location": "New York, NY",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8621789002?gh_jid=8621789002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8603653002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Machine Learning Engineer, Recommendations",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8603653002?gh_jid=8603653002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8430552002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Machine Learning Engineer, Recommendations",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8430552002?gh_jid=8430552002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8657497002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Software Engineer, AI Entries",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8657497002?gh_jid=8657497002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8795875002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Software Engineer, Data Pipelines",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8795875002?gh_jid=8795875002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8927263002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Software Engineer, Forecasting & Real-Time Optimization",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8927263002?gh_jid=8927263002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8927340002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Software Engineer, Forecasting & Real-Time Optimization",
+      "location": "Seattle, WA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8927340002?gh_jid=8927340002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8857056002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Software Engineer, Foundational Infrastructure & Networking",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8857056002?gh_jid=8857056002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8780012002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Software Engineer - iOS",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8780012002?gh_jid=8780012002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8445493002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Software Engineer, Lyft Business",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8445493002?gh_jid=8445493002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8743231002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Software Engineer \u2013 Mapping & Geospatial Systems",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8743231002?gh_jid=8743231002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8693500002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Software Engineer, Places and Search",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8693500002?gh_jid=8693500002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8716218002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Software Engineer, Recommendations",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8716218002?gh_jid=8716218002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8831430002",
+      "employer_name": "Lyft",
+      "job_title": "Senior Software Engineer, Rider",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8831430002?gh_jid=8831430002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8772594002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer",
+      "location": "Seattle, WA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8772594002?gh_jid=8772594002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8828273002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer, Driver Experience",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8828273002?gh_jid=8828273002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8584593002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer, Fulfillment",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8584593002?gh_jid=8584593002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8901107002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer, Growth Platforms",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8901107002?gh_jid=8901107002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8806552002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer, Identity",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8806552002?gh_jid=8806552002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8767715002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer Intern, Backend (Summer 2027 - Mexico)",
+      "location": "Mexico City, Mexico",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8796054002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer Intern, Backend (Summer 2027 - Montreal)",
+      "location": "Montreal, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8767726002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer Intern, Backend (Summer 2027 - SF)",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8767710002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer Intern, Backend (Summer 2027 - Toronto)",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8797819002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer Intern, Frontend (Summer 2027)",
+      "location": "Mexico City, Mexico",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8797819002?gh_jid=8797819002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8797859002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer Intern, Fullstack (Summer 2027 - Toronto)",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8802332002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer Intern, Machine Learning (Summer 2027 - Toronto)",
+      "location": "Toronto, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8767534002",
+      "employer_name": "Lyft",
+      "job_title": "Software Engineer Intern, Test Automation (Summer 2027)",
+      "location": "Montreal, Canada",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_lyft_8688631002",
+      "employer_name": "Lyft",
+      "job_title": "Staff Software Engineer, Lyft Business",
+      "location": "San Francisco, CA",
+      "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8688631002?gh_jid=8688631002",
+      "posted_at": "2026-11-10T10:52:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8236865",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer (L4)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8236865",
+      "posted_at": "2026-11-10T10:24:48-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8319386",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L3)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8319386",
+      "posted_at": "2026-11-10T10:23:16-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8319434",
+      "employer_name": "Twilio",
+      "job_title": "Staff, Software Engineer (L4)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8319434",
+      "posted_at": "2026-11-10T10:23:10-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4751149005",
+      "employer_name": "Scale AI",
+      "job_title": "Senior Applied AI Engineer",
+      "location": "Kuwait City, Kuwait",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4751149005",
+      "posted_at": "2026-11-10T09:48:49-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5467305008",
+      "employer_name": "Anthropic",
+      "job_title": "[C] Research Engineer, Discovery",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5467305008",
+      "posted_at": "2026-11-10T07:05:53-05:00",
+      "category": "Other",
       "source": "greenhouse"
     }
   ]
