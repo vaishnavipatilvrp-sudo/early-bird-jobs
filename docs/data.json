@@ -1,6 +1,146 @@
 {
-  "generated_at": "2026-11-11T13:41:21.173448+00:00",
+  "generated_at": "2026-11-11T17:45:29.942952+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_cloudflare_8055118",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Data Engineer",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118",
+      "posted_at": "2026-11-11T12:36:13-05:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_instacart_8379682",
+      "employer_name": "Instacart",
+      "job_title": "Senior Software Engineer, Catalog Store",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "apply_link": "https://instacart.careers/job/?gh_jid=8379682",
+      "posted_at": "2026-11-11T12:31:15-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5461961008",
+      "employer_name": "Block",
+      "job_title": "Senior Software Engineer, Developer Experience",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5461961008?gh_jid=5461961008",
+      "posted_at": "2026-11-11T11:17:25-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5453094008",
+      "employer_name": "Block",
+      "job_title": "Senior Software Engineer, Developer Platform",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5453094008?gh_jid=5453094008",
+      "posted_at": "2026-11-11T11:16:58-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7463793",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - Egress (Go/Rust)",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7463793?gh_jid=7463793",
+      "posted_at": "2026-11-11T10:57:26-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_7793013",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - Network Connectivity (Go/Rust)",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7793013?gh_jid=7793013",
+      "posted_at": "2026-11-11T10:57:26-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8195746",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer - Egress (Go/Rust)",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8195746?gh_jid=8195746",
+      "posted_at": "2026-11-11T10:57:26-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8015771",
+      "employer_name": "Twilio",
+      "job_title": "Senior Software Engineer",
+      "location": "Remote - Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8015771",
+      "posted_at": "2026-11-11T10:29:36-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8258589",
+      "employer_name": "Twilio",
+      "job_title": "Staff Machine Learning Engineer",
+      "location": "Remote - Ontario, Canada (DNU)",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258589",
+      "posted_at": "2026-11-11T10:28:25-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8240288",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer (L4)",
+      "location": "Remote - Ireland",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8240288",
+      "posted_at": "2026-11-11T10:27:37-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8236865",
+      "employer_name": "Twilio",
+      "job_title": "Staff Software Engineer (L4)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8236865",
+      "posted_at": "2026-11-11T10:27:12-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8258581",
+      "employer_name": "Twilio",
+      "job_title": "Staff Machine Learning Engineer",
+      "location": "Remote - Ontario, Canada (DNU)",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258581",
+      "posted_at": "2026-11-11T10:26:39-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8319434",
+      "employer_name": "Twilio",
+      "job_title": "Staff, Software Engineer (L4)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8319434",
+      "posted_at": "2026-11-11T10:23:05-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8209134",
+      "employer_name": "MongoDB",
+      "job_title": "2027 - Software Engineering Intern, AMER",
+      "location": "Austin; New York City; San Francisco",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
+      "posted_at": "2026-11-11T10:08:48-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_stripe_8364868",
       "employer_name": "Stripe",
