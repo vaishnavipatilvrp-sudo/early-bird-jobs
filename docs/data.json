@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T21:04:55.300699+00:00",
+  "generated_at": "2026-11-11T21:43:33.889949+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_edfaa3d2-3434-4e51-af74-3945d63ad871",
@@ -20,6 +20,66 @@
       "posted_at": "2026-11-11T19:28:01.397+00:00",
       "category": "ML / AI Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_databricks_8923831002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Machine Learning Engineer, CustomerLake (ML/LLM)",
+      "location": "New York City, New York",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8923831002",
+      "posted_at": "2026-11-11T16:28:42-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8760165002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer, Ads Measurement & Orchestration",
+      "location": "New York City, New York",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760165002",
+      "posted_at": "2026-11-11T16:28:42-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8760176002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer, Data Collection (Tags & SDKs)",
+      "location": "New York City, New York",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760176002",
+      "posted_at": "2026-11-11T16:28:42-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8509534002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer, Fullstack - AI Product (NYC)",
+      "location": "New York City, New York",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8509534002",
+      "posted_at": "2026-11-11T16:28:42-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8760171002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer, Sales Data & Agents",
+      "location": "New York City, New York",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760171002",
+      "posted_at": "2026-11-11T16:28:42-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_7867435",
+      "employer_name": "Airbnb",
+      "job_title": "Staff Software Engineer, Tech Foundations",
+      "location": "Brazil",
+      "apply_link": "https://careers.airbnb.com/positions/7867435?gh_jid=7867435",
+      "posted_at": "2026-11-11T16:14:10-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_anthropic_5026097008",
@@ -138,76 +198,6 @@
       "location": "Hybrid",
       "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8195746?gh_jid=8195746",
       "posted_at": "2026-11-11T10:57:26-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8015771",
-      "employer_name": "Twilio",
-      "job_title": "Senior Software Engineer",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8015771",
-      "posted_at": "2026-11-11T10:29:36-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8258589",
-      "employer_name": "Twilio",
-      "job_title": "Staff Machine Learning Engineer",
-      "location": "Remote - Ontario, Canada (DNU)",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258589",
-      "posted_at": "2026-11-11T10:28:25-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8240288",
-      "employer_name": "Twilio",
-      "job_title": "Staff Software Engineer (L4)",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8240288",
-      "posted_at": "2026-11-11T10:27:37-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8236865",
-      "employer_name": "Twilio",
-      "job_title": "Staff Software Engineer (L4)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8236865",
-      "posted_at": "2026-11-11T10:27:12-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8258581",
-      "employer_name": "Twilio",
-      "job_title": "Staff Machine Learning Engineer",
-      "location": "Remote - Ontario, Canada (DNU)",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258581",
-      "posted_at": "2026-11-11T10:26:39-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8319434",
-      "employer_name": "Twilio",
-      "job_title": "Staff, Software Engineer (L4)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8319434",
-      "posted_at": "2026-11-11T10:23:05-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8209134",
-      "employer_name": "MongoDB",
-      "job_title": "2027 - Software Engineering Intern, AMER",
-      "location": "Austin; New York City; San Francisco",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
-      "posted_at": "2026-11-11T10:08:48-05:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
