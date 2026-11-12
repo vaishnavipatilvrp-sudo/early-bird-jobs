@@ -1,4 +1,25 @@
 {
-  "generated_at": "2026-11-12T09:38:43.538416+00:00",
-  "jobs": []
+  "generated_at": "2026-11-12T12:15:31.856250+00:00",
+  "jobs": [
+    {
+      "job_id": "greenhouse_cloudflare_8346149",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - ZTC",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8346149?gh_jid=8346149",
+      "posted_at": "2026-11-12T06:57:31-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_8916552002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Forward Deployed Engineer (Full Stack Engineers)",
+      "location": "London, United Kingdom",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8916552002",
+      "posted_at": "2026-11-12T05:17:51-05:00",
+      "category": "Other",
+      "source": "greenhouse"
+    }
+  ]
 }
