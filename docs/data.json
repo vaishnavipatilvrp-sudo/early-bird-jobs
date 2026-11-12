@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T21:43:33.889949+00:00",
+  "generated_at": "2026-11-12T01:20:44.060761+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_edfaa3d2-3434-4e51-af74-3945d63ad871",
@@ -20,6 +20,46 @@
       "posted_at": "2026-11-11T19:28:01.397+00:00",
       "category": "ML / AI Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7947560",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Storage Layer Services",
+      "location": "New York City; United States",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7947560",
+      "posted_at": "2026-11-11T19:23:54-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5125621007",
+      "employer_name": "xAI",
+      "job_title": "Sr. Machine Learning Engineer, Search Ranking",
+      "location": "Palo Alto, CA",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5125621007",
+      "posted_at": "2026-11-11T19:02:21-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8130805",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern (Summer)",
+      "location": "Toronto",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8130805",
+      "posted_at": "2026-11-11T17:22:06-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8128745",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Intern (Summer)",
+      "location": "San Francisco, Seattle, New York City",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8128745",
+      "posted_at": "2026-11-11T17:17:25-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_databricks_8923831002",
@@ -88,116 +128,6 @@
       "location": "San Francisco, CA | New York City, NY | Seattle, WA",
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5026097008",
       "posted_at": "2026-11-11T15:41:16-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5207134008",
-      "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Cash App Taxes",
-      "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5207134008?gh_jid=5207134008",
-      "posted_at": "2026-11-11T13:46:49-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5412832008",
-      "employer_name": "Block",
-      "job_title": "Software Engineer, Cash App Taxes",
-      "location": "New York, NY, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5412832008?gh_jid=5412832008",
-      "posted_at": "2026-11-11T13:46:49-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5196187008",
-      "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Cash App Taxes",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5196187008?gh_jid=5196187008",
-      "posted_at": "2026-11-11T13:46:48-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8189909",
-      "employer_name": "Stripe",
-      "job_title": "Data Analyst, SF",
-      "location": "San Francisco",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8189909",
-      "posted_at": "2026-11-11T12:48:21-05:00",
-      "category": "Data Analyst",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8055118",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Data Engineer",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118",
-      "posted_at": "2026-11-11T12:36:13-05:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_instacart_8379682",
-      "employer_name": "Instacart",
-      "job_title": "Senior Software Engineer, Catalog Store",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "apply_link": "https://instacart.careers/job/?gh_jid=8379682",
-      "posted_at": "2026-11-11T12:31:15-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5461961008",
-      "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Developer Experience",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5461961008?gh_jid=5461961008",
-      "posted_at": "2026-11-11T11:17:25-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5453094008",
-      "employer_name": "Block",
-      "job_title": "Senior Software Engineer, Developer Platform",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5453094008?gh_jid=5453094008",
-      "posted_at": "2026-11-11T11:16:58-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7463793",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer - Egress (Go/Rust)",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7463793?gh_jid=7463793",
-      "posted_at": "2026-11-11T10:57:26-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_7793013",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer - Network Connectivity (Go/Rust)",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7793013?gh_jid=7793013",
-      "posted_at": "2026-11-11T10:57:26-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8195746",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Software Engineer - Egress (Go/Rust)",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8195746?gh_jid=8195746",
-      "posted_at": "2026-11-11T10:57:26-05:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
