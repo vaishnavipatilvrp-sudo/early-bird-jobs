@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T17:33:26.874428+00:00",
+  "generated_at": "2026-11-13T19:17:43.764909+00:00",
   "jobs": [
     {
       "job_id": "ashby_cohere_5831a16f-745b-4d49-bc7a-a371b4686ab4",
@@ -10,6 +10,116 @@
       "posted_at": "2026-11-13T15:39:48.183+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8262940",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer",
+      "location": "San Francisco, CA, US; Los Angeles, CA, US; Seattle, WA, US; New York, NY, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8262940",
+      "posted_at": "2026-11-13T14:14:57-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8131793",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Software Engineer, App Promotion ",
+      "location": "San Francisco, CA, US; Seattle, WA, US; Remote, CA, WA, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8131793",
+      "posted_at": "2026-11-13T14:14:55-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8240355",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Machine Learning Engineer",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8240355",
+      "posted_at": "2026-11-13T14:14:51-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8247246",
+      "employer_name": "Pinterest",
+      "job_title": "Staff Machine Learning Engineer, Content Visual AI",
+      "location": "San Francisco, CA, US; New York, NY, US; Seattle, WA, US; Remote, US",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8247246",
+      "posted_at": "2026-11-13T14:10:07-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5477652008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Consumer",
+      "location": "San Francisco, CA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5477652008",
+      "posted_at": "2026-11-13T13:51:11-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8384567",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Vulnerability Management",
+      "location": "na",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8384567",
+      "posted_at": "2026-11-13T13:29:47-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5481096008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff Software Engineer, Internal Products",
+      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5481096008",
+      "posted_at": "2026-11-13T13:27:45-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_6103225",
+      "employer_name": "DoorDash",
+      "job_title": "Data Scientist / Senior Data Scientist",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY; Los Angeles, CA; Chicago, IL; Austin, TX; Washington D.C.",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/6103225",
+      "posted_at": "2026-11-13T12:47:23-05:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8386083",
+      "employer_name": "Airbnb",
+      "job_title": "Software Engineer, Profile & Community, Android",
+      "location": "Remote, USA",
+      "apply_link": "https://careers.airbnb.com/positions/8386083?gh_jid=8386083",
+      "posted_at": "2026-11-13T12:46:04-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8386065",
+      "employer_name": "Airbnb",
+      "job_title": "Software Engineer, Profile & Community, Web",
+      "location": "Remote, USA",
+      "apply_link": "https://careers.airbnb.com/positions/8386065?gh_jid=8386065",
+      "posted_at": "2026-11-13T12:39:47-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5477746008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Claude Design",
+      "location": "San Francisco, CA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5477746008",
+      "posted_at": "2026-11-13T12:35:50-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_coinbase_8368472",
@@ -68,36 +178,6 @@
       "location": "Remote - India",
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8319434",
       "posted_at": "2026-11-13T10:22:29-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_databricks_8829029002",
-      "employer_name": "Databricks",
-      "job_title": "Software Engineer, Infrastructure",
-      "location": "Bengaluru, India",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
-      "posted_at": "2026-11-13T07:59:33-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8140310",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer - Quicksilver - Distributed Key Value",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8140310?gh_jid=8140310",
-      "posted_at": "2026-11-13T07:52:43-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8384127",
-      "employer_name": "DoorDash",
-      "job_title": "Senior Software Engineer, ML Serving Platform",
-      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8384127",
-      "posted_at": "2026-11-13T07:07:33-05:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
