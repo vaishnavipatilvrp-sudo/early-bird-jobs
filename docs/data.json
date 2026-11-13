@@ -1,14 +1,44 @@
 {
-  "generated_at": "2026-11-13T09:22:53.292792+00:00",
+  "generated_at": "2026-11-13T11:54:35.816211+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_cloudflare_7302931",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Software Engineer, Deploy at Scale",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7302931?gh_jid=7302931",
+      "posted_at": "2026-11-13T05:43:38-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8178593",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Deploy at Scale",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8178593?gh_jid=8178593",
+      "posted_at": "2026-11-13T05:41:52-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_lyft_8940409002",
       "employer_name": "Lyft",
       "job_title": "Data Engineer, Marketplace",
       "location": "Ukraine Anywhere",
       "apply_link": "https://app.careerpuck.com/job-board/lyft/job/8940409002?gh_jid=8940409002",
-      "posted_at": "2026-11-13T04:17:01-05:00",
+      "posted_at": "2026-11-13T04:59:14-05:00",
       "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_cloudflare_8080780",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Cloudflare Queues",
+      "location": "In-Office",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8080780?gh_jid=8080780",
+      "posted_at": "2026-11-13T04:51:33-05:00",
+      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
