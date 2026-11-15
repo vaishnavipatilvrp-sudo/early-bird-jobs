@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T23:19:49.862719+00:00",
+  "generated_at": "2026-11-15T23:47:46.871357+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_2320fe69-df26-4d1d-ada6-d1a46c0e68a1",
@@ -10,6 +10,16 @@
       "posted_at": "2026-11-15T21:10:17.443+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5468901008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, STEM",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5468901008",
+      "posted_at": "2026-11-15T18:34:51-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     }
   ]
 }
