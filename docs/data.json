@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-11-16T05:09:37.334356+00:00",
+  "generated_at": "2026-11-16T09:23:52.860635+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_twilio_8319442",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L1)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8319442",
+      "posted_at": "2026-11-16T01:27:58-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_xai_5295932007",
       "employer_name": "xAI",
       "job_title": "Software Engineer, Super Intelligence",
-      "location": "Palo Alto, CA",
+      "location": "Palo Alto, CA; Seattle, WA",
       "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5295932007",
-      "posted_at": "2026-11-15T23:46:50-05:00",
+      "posted_at": "2026-11-16T00:17:45-05:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     },
@@ -18,16 +28,6 @@
       "location": "Palo Alto, CA",
       "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5191142007",
       "posted_at": "2026-11-15T23:20:52-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5468901008",
-      "employer_name": "Anthropic",
-      "job_title": "Staff+ Software Engineer, STEM",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5468901008",
-      "posted_at": "2026-11-15T18:34:51-05:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
