@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-11-16T23:38:00.496331+00:00",
+  "generated_at": "2026-11-16T23:59:43.960209+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_anthropic_5477416008",
+      "employer_name": "Anthropic",
+      "job_title": "Research Engineer, AI Monitoring",
+      "location": "London, UK",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5477416008",
+      "posted_at": "2026-11-16T18:53:08-05:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
     {
       "job_id": "ashby_openai_2d1901e0-e5ad-4c2e-88f8-dd9d21257f62",
       "employer_name": "OpenAI",
@@ -2092,16 +2102,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_anthropic_5477416008",
-      "employer_name": "Anthropic",
-      "job_title": "Research Engineer, AI Monitoring",
-      "location": "London, UK",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5477416008",
-      "posted_at": "2026-11-16T16:29:18-05:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_twilio_8131089",
       "employer_name": "Twilio",
       "job_title": "Software Engineer (L2)",
@@ -2279,26 +2279,6 @@
       "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8238679",
       "posted_at": "2026-11-16T13:16:42-05:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8164724",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer, Network On-Ramps",
-      "location": "Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8164724?gh_jid=8164724",
-      "posted_at": "2026-11-16T12:53:18-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_coinbase_8237493",
-      "employer_name": "Coinbase",
-      "job_title": "Senior Software Engineer, Core Reliability",
-      "location": "Remote - USA",
-      "apply_link": "https://www.coinbase.com/careers/positions/8237493?gh_jid=8237493",
-      "posted_at": "2026-11-16T12:42:11-05:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
