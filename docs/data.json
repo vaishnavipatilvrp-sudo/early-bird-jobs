@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T17:25:54.868197+00:00",
+  "generated_at": "2026-11-17T18:58:56.067166+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_1327d083-c932-4aed-aadc-57586521ee60",
@@ -22,6 +22,46 @@
       "source": "ashby"
     },
     {
+      "job_id": "greenhouse_pinterest_7987854",
+      "employer_name": "Pinterest",
+      "job_title": "Software Engineer II, Android",
+      "location": "Toronto, ON, CA",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7987854",
+      "posted_at": "2026-11-17T13:41:25-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_8011547",
+      "employer_name": "Pinterest",
+      "job_title": "Sr. Software Engineer, iOS",
+      "location": "Toronto, ON, CA",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8011547",
+      "posted_at": "2026-11-17T13:41:06-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_pinterest_6922682",
+      "employer_name": "Pinterest",
+      "job_title": "Software Engineer II, iOS",
+      "location": "Toronto, ON, CA",
+      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
+      "posted_at": "2026-11-17T13:40:49-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_block_5485151008",
+      "employer_name": "Block",
+      "job_title": "Sales Compensation Systems & Data Engineer",
+      "location": "Bay Area, CA, United States of America",
+      "apply_link": "http://block.xyz/careers/jobs/5485151008?gh_jid=5485151008",
+      "posted_at": "2026-11-17T12:40:35-05:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
       "job_id": "greenhouse_scaleai_4569678005",
       "employer_name": "Scale AI",
       "job_title": "Staff Software Engineer, Enterprise GenAI",
@@ -39,16 +79,6 @@
       "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5389305008",
       "posted_at": "2026-11-17T11:59:10-05:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5485151008",
-      "employer_name": "Block",
-      "job_title": "Sales Compensation Systems & Data Engineer",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5485151008?gh_jid=5485151008",
-      "posted_at": "2026-11-17T11:31:56-05:00",
-      "category": "Data Engineer",
       "source": "greenhouse"
     },
     {
@@ -102,21 +132,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_7590735",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Forward Deployed AI Engineer",
-      "location": "Ireland",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7590735",
-      "posted_at": "2026-11-17T10:58:30-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_7392902",
       "employer_name": "MongoDB",
       "job_title": "Senior Software Engineer, Forward Deployed AI Engineer",
       "location": "Cork, Ireland; Dublin, Ireland",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7392902",
+      "posted_at": "2026-11-17T10:58:30-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7590735",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Forward Deployed AI Engineer",
+      "location": "Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7590735",
       "posted_at": "2026-11-17T10:58:30-05:00",
       "category": "ML / AI Engineer",
       "source": "greenhouse"
@@ -268,26 +298,6 @@
       "location": "Remote - USA",
       "apply_link": "https://www.coinbase.com/careers/positions/8395582?gh_jid=8395582",
       "posted_at": "2026-11-17T09:59:41-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_7987854",
-      "employer_name": "Pinterest",
-      "job_title": "Software Engineer II, Android",
-      "location": "Toronto, ON, CA",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7987854",
-      "posted_at": "2026-11-17T09:46:50-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8358101",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer (Enterprise Advanced)",
-      "location": "Gurugram",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8358101",
-      "posted_at": "2026-11-17T07:05:12-05:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
