@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-11-17T07:43:55.935797+00:00",
+  "generated_at": "2026-11-17T10:29:06.540684+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_mongodb_8381944",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer",
+      "location": "Dublin, Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8381944",
+      "posted_at": "2026-11-17T05:26:04-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8230296",
+      "employer_name": "Stripe",
+      "job_title": "Data Analyst",
+      "location": "Singapore",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8230296",
+      "posted_at": "2026-11-17T03:23:49-05:00",
+      "category": "Data Analyst",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_waymo_8209835",
       "employer_name": "Waymo",
@@ -59,66 +79,6 @@
       "apply_link": "http://block.xyz/careers/jobs/5477220008?gh_jid=5477220008",
       "posted_at": "2026-11-16T23:31:41-05:00",
       "category": "Data Scientist",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_xai_5297314007",
-      "employer_name": "xAI",
-      "job_title": "Sr. Software Engineer, Safety",
-      "location": "Palo Alto, CA",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5297314007",
-      "posted_at": "2026-11-16T23:05:03-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_xai_5297316007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer, Safety",
-      "location": "Palo Alto, CA",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5297316007",
-      "posted_at": "2026-11-16T23:04:36-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_xai_5297311007",
-      "employer_name": "xAI",
-      "job_title": "Software Engineer, Ads Serving",
-      "location": "Palo Alto, CA",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5297311007",
-      "posted_at": "2026-11-16T22:32:08-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_xai_5297207007",
-      "employer_name": "xAI",
-      "job_title": "Sr. Software Engineer, Ads Serving",
-      "location": "Palo Alto, CA",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5297207007",
-      "posted_at": "2026-11-16T21:54:36-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_anthropic_5484171008",
-      "employer_name": "Anthropic",
-      "job_title": "Software Engineer, Datacenter Server Lifecycle",
-      "location": "Remote-Friendly, United States",
-      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5484171008",
-      "posted_at": "2026-11-16T20:53:14-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_discord_8761356002",
-      "employer_name": "Discord (bonus, not on your original list)",
-      "job_title": "Engineering Manager, Machine Learning - Safety",
-      "location": "San Francisco Bay Area or Remote (U.S.)",
-      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8761356002",
-      "posted_at": "2026-11-16T20:44:31-05:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
