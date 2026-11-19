@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T00:59:38.166766+00:00",
+  "generated_at": "2026-11-19T01:44:58.005659+00:00",
   "jobs": [
     {
       "job_id": "greenhouse_doordashusa_7763162",
@@ -600,16 +600,6 @@
       "posted_at": "2026-11-18T19:40:55-05:00",
       "category": "Software Engineer",
       "source": "greenhouse"
-    },
-    {
-      "job_id": "ashby_replit_fa9ee306-7e2b-4d94-87d1-0db292102f03",
-      "employer_name": "Replit (bonus, not on your original list)",
-      "job_title": "Senior / Staff Software Engineer, Connectors Platform",
-      "location": "Foster City, CA",
-      "apply_link": "https://jobs.ashbyhq.com/replit/fa9ee306-7e2b-4d94-87d1-0db292102f03",
-      "posted_at": "2026-11-18T19:14:36.963+00:00",
-      "category": "Software Engineer",
-      "source": "ashby"
     },
     {
       "job_id": "greenhouse_coinbase_8400323",
@@ -2649,36 +2639,6 @@
       "apply_link": "https://stripe.com/jobs/search?gh_jid=7982720",
       "posted_at": "2026-11-18T15:45:21-05:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8393931",
-      "employer_name": "Twilio",
-      "job_title": "Staff, Fullstack Software Engineer (P4)",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8393931",
-      "posted_at": "2026-11-18T14:42:28-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_7826337",
-      "employer_name": "Airbnb",
-      "job_title": "Machine Learning Engineer, Assistance Engineering",
-      "location": "Remote-USA",
-      "apply_link": "https://careers.airbnb.com/positions/7826337?gh_jid=7826337",
-      "posted_at": "2026-11-18T14:24:14-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8014904",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Machine Learning Engineer, Assistance Engineering",
-      "location": "Remote-USA",
-      "apply_link": "https://careers.airbnb.com/positions/8014904?gh_jid=8014904",
-      "posted_at": "2026-11-18T14:11:07-05:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
