@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-11-19T09:57:01.758551+00:00",
+  "generated_at": "2026-11-19T10:08:09.008786+00:00",
   "jobs": [
-    {
-      "job_id": "greenhouse_mongodb_8397699",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer, Cloud Payments",
-      "location": "Atlanta; Austin; Boston; Chicago; Dallas; Denver; Los Angeles; New York City; Palo Alto; Princeton; San Francisco; Seattle; United States; Washington DC",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8397699",
-      "posted_at": "2026-11-19T04:37:40-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
     {
       "job_id": "greenhouse_mongodb_8397701",
       "employer_name": "MongoDB",
@@ -22,11 +12,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_8348102",
+      "job_id": "greenhouse_mongodb_8397699",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer, Cloud Payments",
+      "location": "Atlanta; Austin; Boston; Chicago; Dallas; Denver; Los Angeles; New York City; Palo Alto; Princeton; San Francisco; Seattle; United States; Washington DC",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8397699",
+      "posted_at": "2026-11-19T04:37:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8366703",
       "employer_name": "MongoDB",
       "job_title": "Software Engineer 3",
       "location": "New York City",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8348102",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8366703",
       "posted_at": "2026-11-19T04:37:39-05:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -42,11 +42,11 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_8366703",
+      "job_id": "greenhouse_mongodb_8348102",
       "employer_name": "MongoDB",
       "job_title": "Software Engineer 3",
       "location": "New York City",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8366703",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8348102",
       "posted_at": "2026-11-19T04:37:39-05:00",
       "category": "Software Engineer",
       "source": "greenhouse"
