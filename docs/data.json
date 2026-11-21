@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-11-21T00:39:30.231807+00:00",
+  "generated_at": "2026-11-21T01:08:00.358097+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_waymo_8407640",
+      "employer_name": "Waymo",
+      "job_title": "Software Engineer ",
+      "location": "PERM - N/A",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8407640",
+      "posted_at": "2026-11-20T19:51:18-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "ashby_openai_019170f9-ae56-49fc-8450-f505d39180bb",
       "employer_name": "OpenAI",
@@ -10,6 +20,16 @@
       "posted_at": "2026-11-20T19:47:11.226+00:00",
       "category": "Data Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_anthropic_5383114008",
+      "employer_name": "Anthropic",
+      "job_title": "Staff+ Software Engineer, Privacy",
+      "location": "London, UK; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+      "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5383114008",
+      "posted_at": "2026-11-20T19:46:42-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_waymo_8407626",
@@ -629,36 +649,6 @@
       "apply_link": "https://careers.airbnb.com/positions/8396777?gh_jid=8396777",
       "posted_at": "2026-11-20T14:21:37-05:00",
       "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8406857",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Ontario",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8406857",
-      "posted_at": "2026-11-20T14:03:03-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8406812",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "United States",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8406812",
-      "posted_at": "2026-11-20T14:03:01-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8261012",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Payments and Risk",
-      "location": "Dublin",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8261012",
-      "posted_at": "2026-11-20T13:41:40-05:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
