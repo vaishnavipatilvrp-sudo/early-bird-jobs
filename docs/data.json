@@ -1,4 +1,75 @@
 {
-  "generated_at": "2026-11-22T14:11:26.982177+00:00",
-  "jobs": []
+  "generated_at": "2026-11-22T17:40:01.640566+00:00",
+  "jobs": [
+    {
+      "job_id": "ashby_openai_6785d983-8831-46d0-9c81-443f83664948",
+      "employer_name": "OpenAI",
+      "job_title": "Research Engineer / Research Scientist, Health",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/6785d983-8831-46d0-9c81-443f83664948",
+      "posted_at": "2026-11-22T17:20:10.700+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "ashby_openai_740b5d1b-f63d-49bb-962d-8e2778e925ef",
+      "employer_name": "OpenAI",
+      "job_title": "Research Engineer / Research Scientist, Human Flourishing",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/740b5d1b-f63d-49bb-962d-8e2778e925ef",
+      "posted_at": "2026-11-22T17:19:07.642+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "ashby_openai_ecfe655c-1369-4bcd-aae0-4a3b75fdf61b",
+      "employer_name": "OpenAI",
+      "job_title": "Research Engineer / Research Scientist - Post Training, Memory",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/ecfe655c-1369-4bcd-aae0-4a3b75fdf61b",
+      "posted_at": "2026-11-22T17:17:35.967+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "ashby_openai_bc85c1a9-0f75-4c3a-807b-6d2bb26c8445",
+      "employer_name": "OpenAI",
+      "job_title": "Research Engineer/Research Scientist- Post Training, Model Experience",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/bc85c1a9-0f75-4c3a-807b-6d2bb26c8445",
+      "posted_at": "2026-11-22T17:14:45.574+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "ashby_openai_d1906ab2-b829-4a13-b1f2-f4af97d699fa",
+      "employer_name": "OpenAI",
+      "job_title": "Research Engineer/Research Scientist-Post Training, Proactivity",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/d1906ab2-b829-4a13-b1f2-f4af97d699fa",
+      "posted_at": "2026-11-22T17:12:41.400+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "ashby_openai_ce15d226-65db-43f1-98ec-078e96a3a281",
+      "employer_name": "OpenAI",
+      "job_title": "Research Engineer / Research Scientist, Post-Training \u2014 Collective Alignment (User Signals)",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/ce15d226-65db-43f1-98ec-078e96a3a281",
+      "posted_at": "2026-11-22T17:08:09.743+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_databricks_8916552002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Forward Deployed Engineer (Full Stack Engineer)",
+      "location": "London, United Kingdom",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8916552002",
+      "posted_at": "2026-11-22T09:11:35-05:00",
+      "category": "Other",
+      "source": "greenhouse"
+    }
+  ]
 }
