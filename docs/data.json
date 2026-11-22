@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T17:40:01.640566+00:00",
+  "generated_at": "2026-11-22T20:54:58.655511+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_6785d983-8831-46d0-9c81-443f83664948",
@@ -62,13 +62,13 @@
       "source": "ashby"
     },
     {
-      "job_id": "greenhouse_databricks_8916552002",
-      "employer_name": "Databricks",
-      "job_title": "Senior Forward Deployed Engineer (Full Stack Engineer)",
-      "location": "London, United Kingdom",
-      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8916552002",
-      "posted_at": "2026-11-22T09:11:35-05:00",
-      "category": "Other",
+      "job_id": "greenhouse_airbnb_8407159",
+      "employer_name": "Airbnb",
+      "job_title": "Senior Staff Data Scientist - Reputation (Inference)",
+      "location": "Remote - USA",
+      "apply_link": "https://careers.airbnb.com/positions/8407159?gh_jid=8407159",
+      "posted_at": "2026-11-22T15:17:01-05:00",
+      "category": "Data Scientist",
       "source": "greenhouse"
     }
   ]
