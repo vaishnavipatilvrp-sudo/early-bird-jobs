@@ -1,4 +1,45 @@
 {
-  "generated_at": "2026-11-23T02:19:28.542355+00:00",
-  "jobs": []
+  "generated_at": "2026-11-23T10:35:30.094308+00:00",
+  "jobs": [
+    {
+      "job_id": "greenhouse_twilio_8240487",
+      "employer_name": "Twilio",
+      "job_title": "Machine Learning Engineer 2",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8240487",
+      "posted_at": "2026-11-23T03:58:24-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8065032",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer (L3)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8065032",
+      "posted_at": "2026-11-23T03:55:42-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8212508",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Early Career \u2014 Immediate Start",
+      "location": "San Francisco, Seattle, New York",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8212508",
+      "posted_at": "2026-11-23T03:26:39-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_scaleai_4660340005",
+      "employer_name": "Scale AI",
+      "job_title": "Machine Learning Fellow - Human Frontier Collective (US, UK, & Canada)",
+      "location": "United States",
+      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4660340005",
+      "posted_at": "2026-11-23T01:07:09-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    }
+  ]
 }
