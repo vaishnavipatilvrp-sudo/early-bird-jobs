@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-11-23T10:35:30.094308+00:00",
+  "generated_at": "2026-11-23T14:05:49.581555+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_cloudflare_8397865",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer (Threat Intelligence), Cloudforce One",
+      "location": "Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8397865?gh_jid=8397865",
+      "posted_at": "2026-11-23T08:11:36-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8403312",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "Cork, Ireland; Dublin, Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8403312",
+      "posted_at": "2026-11-23T06:44:42-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8043052",
+      "employer_name": "Stripe",
+      "job_title": "Data Scientist",
+      "location": "Singapore",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8043052",
+      "posted_at": "2026-11-23T06:29:51-05:00",
+      "category": "Data Scientist",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_twilio_8240487",
       "employer_name": "Twilio",
@@ -29,16 +59,6 @@
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8212508",
       "posted_at": "2026-11-23T03:26:39-05:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_scaleai_4660340005",
-      "employer_name": "Scale AI",
-      "job_title": "Machine Learning Fellow - Human Frontier Collective (US, UK, & Canada)",
-      "location": "United States",
-      "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4660340005",
-      "posted_at": "2026-11-23T01:07:09-05:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
