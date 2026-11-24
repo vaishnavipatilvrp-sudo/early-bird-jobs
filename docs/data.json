@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T01:59:19.703070+00:00",
+  "generated_at": "2026-11-24T02:45:47.959860+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_1af2996f-046c-466f-bf35-4b13da116af4",
@@ -10,6 +10,16 @@
       "posted_at": "2026-11-23T22:27:15.762+00:00",
       "category": "ML / AI Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_airbnb_8274152",
+      "employer_name": "Airbnb",
+      "job_title": "Software Engineer, Payments",
+      "location": "Remote, USA",
+      "apply_link": "https://careers.airbnb.com/positions/8274152?gh_jid=8274152",
+      "posted_at": "2026-11-23T21:25:39-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_pinterest_8244282",
@@ -32,16 +42,6 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_airbnb_8209061",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Software Engineer, Tech Foundations",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/8209061?gh_jid=8209061",
-      "posted_at": "2026-11-23T16:49:58-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_twilio_8056276",
       "employer_name": "Twilio",
       "job_title": "Senior Software Engineer, Identity",
@@ -49,16 +49,6 @@
       "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8056276",
       "posted_at": "2026-11-23T16:21:16-05:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8411254",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Machine Learning Engineer, Assistance Foundations",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/8411254?gh_jid=8411254",
-      "posted_at": "2026-11-23T15:18:00-05:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
