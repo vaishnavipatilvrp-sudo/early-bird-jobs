@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T02:45:47.959860+00:00",
+  "generated_at": "2026-11-24T04:13:07.184641+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_1af2996f-046c-466f-bf35-4b13da116af4",
@@ -7,7 +7,17 @@
       "job_title": "Applied AI Engineer, Mid-Market Enterprise",
       "location": "San Francisco",
       "apply_link": "https://jobs.ashbyhq.com/openai/1af2996f-046c-466f-bf35-4b13da116af4",
-      "posted_at": "2026-11-23T22:27:15.762+00:00",
+      "posted_at": "2026-11-24T03:59:07.806+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "ashby_openai_f568de05-d557-4e70-aa12-256c637c7ef5",
+      "employer_name": "OpenAI",
+      "job_title": "Applied AI Engineer, Mid-Market Enterprise",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/f568de05-d557-4e70-aa12-256c637c7ef5",
+      "posted_at": "2026-11-24T02:55:23.623+00:00",
       "category": "ML / AI Engineer",
       "source": "ashby"
     },
@@ -39,16 +49,6 @@
       "apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4660340005",
       "posted_at": "2026-11-23T19:05:09-05:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8056276",
-      "employer_name": "Twilio",
-      "job_title": "Senior Software Engineer, Identity",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8056276",
-      "posted_at": "2026-11-23T16:21:16-05:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
