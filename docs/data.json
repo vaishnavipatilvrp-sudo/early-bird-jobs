@@ -1,4 +1,205 @@
 {
-  "generated_at": "2026-11-24T14:36:31.847720+00:00",
-  "jobs": []
+  "generated_at": "2026-11-24T20:31:46.607963+00:00",
+  "jobs": [
+    {
+      "job_id": "greenhouse_twilio_8258597",
+      "employer_name": "Twilio",
+      "job_title": "Principal, Machine Learning Engineer (L5)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258597",
+      "posted_at": "2026-11-24T15:10:44-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8258593",
+      "employer_name": "Twilio",
+      "job_title": "Staff Machine Learning Engineer (L4)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258593",
+      "posted_at": "2026-11-24T15:10:41-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8258587",
+      "employer_name": "Twilio",
+      "job_title": "Machine Learning Engineer (L3)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258587",
+      "posted_at": "2026-11-24T15:10:38-05:00",
+      "category": "ML / AI Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8319434",
+      "employer_name": "Twilio",
+      "job_title": "Staff, Software Engineer (L4)",
+      "location": "Remote - India",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8319434",
+      "posted_at": "2026-11-24T15:08:40-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "ashby_openai_07fddd60-30a7-45fb-8564-f0ad1cd75716",
+      "employer_name": "OpenAI",
+      "job_title": "Global Head of Applied AI Engineering, SMB / Mid-Market",
+      "location": "San Francisco",
+      "apply_link": "https://jobs.ashbyhq.com/openai/07fddd60-30a7-45fb-8564-f0ad1cd75716",
+      "posted_at": "2026-11-24T14:55:21.181+00:00",
+      "category": "ML / AI Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_waymo_7932205",
+      "employer_name": "Waymo",
+      "job_title": "Senior Staff Software Engineer, In-Car Experience",
+      "location": "Mountain View, CA, USA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7932205",
+      "posted_at": "2026-11-24T14:35:05-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7913700",
+      "employer_name": "Stripe",
+      "job_title": "Senior Software Engineer",
+      "location": "Canada",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7913700",
+      "posted_at": "2026-11-24T14:27:13-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_7517535",
+      "employer_name": "Stripe",
+      "job_title": "Staff Product Manager, GenAI and Agent Foundations",
+      "location": "Seattle, San Francisco, New York, US - Remote",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=7517535",
+      "posted_at": "2026-11-24T12:53:45-05:00",
+      "category": "Other",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_twilio_8131089",
+      "employer_name": "Twilio",
+      "job_title": "Software Engineer, (P2)",
+      "location": "Remote - US",
+      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8131089",
+      "posted_at": "2026-11-24T12:46:31-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_waymo_8399242",
+      "employer_name": "Waymo",
+      "job_title": "Staff Software Engineer, Trip Platform ",
+      "location": "Mountain view, CA; San Francisco, CA",
+      "apply_link": "https://careers.withwaymo.com/jobs?gh_jid=8399242",
+      "posted_at": "2026-11-24T12:17:12-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_7629141",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer, Frontend (Consumer - Advanced Trading)",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/7629141?gh_jid=7629141",
+      "posted_at": "2026-11-24T12:02:54-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7477633002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer - Storage I/O",
+      "location": "Amsterdam, Netherlands",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7477633002",
+      "posted_at": "2026-11-24T11:58:37-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7984907002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer - Backend",
+      "location": "Berlin, Germany",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7984907002",
+      "posted_at": "2026-11-24T11:36:10-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7642799002",
+      "employer_name": "Databricks",
+      "job_title": "Staff Software Engineer - Backend  ",
+      "location": "Aarhus, Denmark",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7642799002",
+      "posted_at": "2026-11-24T11:33:32-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_stripe_8394936",
+      "employer_name": "Stripe",
+      "job_title": "Software Engineer, Experimental Projects",
+      "location": "New York City ",
+      "apply_link": "https://stripe.com/jobs/search?gh_jid=8394936",
+      "posted_at": "2026-11-24T11:32:21-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7477087002",
+      "employer_name": "Databricks",
+      "job_title": "Senior Software Engineer - Backend",
+      "location": "Berlin, Germany",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7477087002",
+      "posted_at": "2026-11-24T11:06:33-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_doordashusa_8197854",
+      "employer_name": "DoorDash",
+      "job_title": "Software Engineer - Developer Experience, Android",
+      "location": "San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA; New York, NY",
+      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8197854",
+      "posted_at": "2026-11-24T11:00:48-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7643201002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. Software Engineer - Backend",
+      "location": "Aarhus, Denmark",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7643201002",
+      "posted_at": "2026-11-24T10:46:01-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7477627002",
+      "employer_name": "Databricks",
+      "job_title": "Sr. Software Engineer - Storage I/O",
+      "location": "Amsterdam, Netherlands",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7477627002",
+      "posted_at": "2026-11-24T10:43:08-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_databricks_7737233002",
+      "employer_name": "Databricks",
+      "job_title": "Software Engineer - Backend",
+      "location": "Aarhus, Denmark",
+      "apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7737233002",
+      "posted_at": "2026-11-24T10:34:22-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    }
+  ]
 }
