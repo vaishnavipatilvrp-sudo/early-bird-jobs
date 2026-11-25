@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-11-25T21:11:06.523921+00:00",
+  "generated_at": "2026-11-25T23:27:42.893028+00:00",
   "jobs": [
+    {
+      "job_id": "ashby_notion_c777ed1e-e23f-4b76-bc21-039aaf06c1de",
+      "employer_name": "Notion (bonus, not on your original list)",
+      "job_title": "Staff Software Engineer, AI Agents",
+      "location": "San Francisco, California",
+      "apply_link": "https://jobs.ashbyhq.com/notion/c777ed1e-e23f-4b76-bc21-039aaf06c1de",
+      "posted_at": "2026-11-25T21:34:00.621+00:00",
+      "category": "Software Engineer",
+      "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8417630",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer, Native Mobile",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8417630?gh_jid=8417630",
+      "posted_at": "2026-11-25T17:52:58-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8417596",
+      "employer_name": "Coinbase",
+      "job_title": "Staff Software Engineer, Native Mobile",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8417596?gh_jid=8417596",
+      "posted_at": "2026-11-25T17:29:36-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8417588",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Staff Software Engineer, Native Mobile",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8417588?gh_jid=8417588",
+      "posted_at": "2026-11-25T17:24:11-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_7870848",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer",
+      "location": "New York City",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7870848",
+      "posted_at": "2026-11-25T16:36:02-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5308947007",
+      "employer_name": "xAI",
+      "job_title": "Lead Software Engineer, X Chat",
+      "location": "Palo Alto, CA",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5308947007",
+      "posted_at": "2026-11-25T16:23:49-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_xai_5308958007",
+      "employer_name": "xAI",
+      "job_title": "Principal Software Engineer, X Chat",
+      "location": "Palo Alto, CA",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5308958007",
+      "posted_at": "2026-11-25T16:23:39-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_pinterest_8354411",
       "employer_name": "Pinterest",
@@ -192,21 +262,21 @@
       "source": "greenhouse"
     },
     {
-      "job_id": "greenhouse_mongodb_8348102",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "New York City",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8348102",
-      "posted_at": "2026-11-25T12:55:18-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
       "job_id": "greenhouse_mongodb_8406812",
       "employer_name": "MongoDB",
       "job_title": "Software Engineer 3",
       "location": "United States",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8406812",
+      "posted_at": "2026-11-25T12:55:18-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_mongodb_8348102",
+      "employer_name": "MongoDB",
+      "job_title": "Software Engineer 3",
+      "location": "New York City",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8348102",
       "posted_at": "2026-11-25T12:55:18-05:00",
       "category": "Software Engineer",
       "source": "greenhouse"
@@ -228,136 +298,6 @@
       "location": "New York City",
       "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8351199",
       "posted_at": "2026-11-25T12:54:16-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5460772008",
-      "employer_name": "Block",
-      "job_title": "Principal AI Research Engineer, Customer World Model & Proactive Intelligence",
-      "location": "Bay Area, CA, United States of America",
-      "apply_link": "http://block.xyz/careers/jobs/5460772008?gh_jid=5460772008",
-      "posted_at": "2026-11-25T11:33:03-05:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_block_5460774008",
-      "employer_name": "Block",
-      "job_title": "Principal AI Research Engineer, Customer World Model & Proactive Intelligence",
-      "location": "Toronto, Ontario, Canada",
-      "apply_link": "http://block.xyz/careers/jobs/5460774008?gh_jid=5460774008",
-      "posted_at": "2026-11-25T11:31:58-05:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8415333",
-      "employer_name": "Stripe",
-      "job_title": "Analytics Engineer",
-      "location": "New York",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8415333",
-      "posted_at": "2026-11-25T11:15:44-05:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8337438",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3, Kubernetes Platform",
-      "location": "Cork, Ireland; Dublin; Ireland",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8337438",
-      "posted_at": "2026-11-25T11:11:23-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8414057",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Dublin, Ireland",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8414057",
-      "posted_at": "2026-11-25T10:48:46-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8258593",
-      "employer_name": "Twilio",
-      "job_title": "Staff Machine Learning Engineer (L4)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258593",
-      "posted_at": "2026-11-25T10:29:16-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8258589",
-      "employer_name": "Twilio",
-      "job_title": "Staff Machine Learning Engineer",
-      "location": "Remote - Ontario, Canada (DNU)",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258589",
-      "posted_at": "2026-11-25T10:29:11-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8258587",
-      "employer_name": "Twilio",
-      "job_title": "Machine Learning Engineer (L3)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258587",
-      "posted_at": "2026-11-25T10:29:08-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8240288",
-      "employer_name": "Twilio",
-      "job_title": "Staff Software Engineer (L4)",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8240288",
-      "posted_at": "2026-11-25T10:28:54-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8258581",
-      "employer_name": "Twilio",
-      "job_title": "Staff Machine Learning Engineer",
-      "location": "Remote - Ontario, Canada (DNU)",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258581",
-      "posted_at": "2026-11-25T10:28:07-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8319434",
-      "employer_name": "Twilio",
-      "job_title": "Staff, Software Engineer (L4)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8319434",
-      "posted_at": "2026-11-25T10:25:26-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8405809",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L2) Supernetwork",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8405809",
-      "posted_at": "2026-11-25T10:25:08-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8405807",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L2) SuperNetwork",
-      "location": "Remote - Estonia",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8405807",
-      "posted_at": "2026-11-25T10:25:04-05:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
