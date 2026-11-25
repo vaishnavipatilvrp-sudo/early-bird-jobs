@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T23:44:59.397800+00:00",
+  "generated_at": "2026-11-25T00:23:57.954795+00:00",
   "jobs": [
     {
       "job_id": "ashby_openai_e1823ba3-a94c-410f-b064-217a1d71c866",
@@ -50,6 +50,26 @@
       "posted_at": "2026-11-24T20:41:18.018+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_xai_4805874007",
+      "employer_name": "xAI",
+      "job_title": "Sr. Software Engineer, , Voice and Media Infra",
+      "location": "Palo Alto, CA",
+      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4805874007",
+      "posted_at": "2026-11-24T19:01:54-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_coinbase_8304034",
+      "employer_name": "Coinbase",
+      "job_title": "Senior Software Engineer",
+      "location": "Remote - USA",
+      "apply_link": "https://www.coinbase.com/careers/positions/8304034?gh_jid=8304034",
+      "posted_at": "2026-11-24T18:47:00-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_instacart_8415557",
@@ -148,26 +168,6 @@
       "location": "Canada",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=7913700",
       "posted_at": "2026-11-24T14:27:13-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_7517535",
-      "employer_name": "Stripe",
-      "job_title": "Staff Product Manager, GenAI and Agent Foundations",
-      "location": "Seattle, San Francisco, New York, US - Remote",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7517535",
-      "posted_at": "2026-11-24T12:53:45-05:00",
-      "category": "Other",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8131089",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer, (P2)",
-      "location": "Remote - US",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8131089",
-      "posted_at": "2026-11-24T12:46:31-05:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
