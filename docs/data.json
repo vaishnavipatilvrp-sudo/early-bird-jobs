@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T23:27:42.893028+00:00",
+  "generated_at": "2026-11-26T02:04:53.856018+00:00",
   "jobs": [
     {
       "job_id": "ashby_notion_c777ed1e-e23f-4b76-bc21-039aaf06c1de",
@@ -10,6 +10,26 @@
       "posted_at": "2026-11-25T21:34:00.621+00:00",
       "category": "Software Engineer",
       "source": "ashby"
+    },
+    {
+      "job_id": "greenhouse_discord_8942144002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Data Engineer",
+      "location": "San Francisco Bay Area",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8942144002",
+      "posted_at": "2026-11-25T20:13:44-05:00",
+      "category": "Data Engineer",
+      "source": "greenhouse"
+    },
+    {
+      "job_id": "greenhouse_discord_8958889002",
+      "employer_name": "Discord (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer, Enterprise Platform",
+      "location": "San Francisco Bay Area or Remote (West Coast)",
+      "apply_link": "https://job-boards.greenhouse.io/discord/jobs/8958889002",
+      "posted_at": "2026-11-25T19:39:44-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
     },
     {
       "job_id": "greenhouse_coinbase_8417630",
@@ -139,166 +159,6 @@
       "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8238679",
       "posted_at": "2026-11-25T16:04:49-05:00",
       "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_doordashusa_8168866",
-      "employer_name": "DoorDash",
-      "job_title": "Senior Security Data Engineer",
-      "location": "United States - Remote",
-      "apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/8168866",
-      "posted_at": "2026-11-25T14:35:31-05:00",
-      "category": "Data Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_7982720",
-      "employer_name": "Stripe",
-      "job_title": "Software Engineer, Secure Devices",
-      "location": "New York, New York ",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=7982720",
-      "posted_at": "2026-11-25T14:18:42-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8244922",
-      "employer_name": "Pinterest",
-      "job_title": "Machine Learning Intern 2027 (Dublin)",
-      "location": "Dublin, IE",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8244922",
-      "posted_at": "2026-11-25T13:55:46-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8214757",
-      "employer_name": "Pinterest",
-      "job_title": "Machine Learning Intern 2027 (Zurich)",
-      "location": "Zurich, CH",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8214757",
-      "posted_at": "2026-11-25T13:55:46-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8138034",
-      "employer_name": "Pinterest",
-      "job_title": "Software Engineering Intern 2027 (Dublin)",
-      "location": "Dublin, IE",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8138034",
-      "posted_at": "2026-11-25T13:55:46-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8214745",
-      "employer_name": "Pinterest",
-      "job_title": "Software Engineering Intern 2027 (Zurich)",
-      "location": "Zurich, CH",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8214745",
-      "posted_at": "2026-11-25T13:55:46-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_stripe_8417797",
-      "employer_name": "Stripe",
-      "job_title": "Staff Software Engineer, Batch Compute",
-      "location": "Seattle",
-      "apply_link": "https://stripe.com/jobs/search?gh_jid=8417797",
-      "posted_at": "2026-11-25T13:51:00-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_airbnb_8411254",
-      "employer_name": "Airbnb",
-      "job_title": "Senior Machine Learning Engineer, Assistance Foundations",
-      "location": "United States",
-      "apply_link": "https://careers.airbnb.com/positions/8411254?gh_jid=8411254",
-      "posted_at": "2026-11-25T13:28:28-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8381944",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer",
-      "location": "Dublin, Ireland",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8381944",
-      "posted_at": "2026-11-25T13:10:18-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8366703",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "New York City",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8366703",
-      "posted_at": "2026-11-25T12:56:15-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8089859",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3, Atlas Clusters Platform",
-      "location": "New York City",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8089859",
-      "posted_at": "2026-11-25T12:55:56-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8406857",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "Ontario",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8406857",
-      "posted_at": "2026-11-25T12:55:18-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8406812",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "United States",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8406812",
-      "posted_at": "2026-11-25T12:55:18-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8348102",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "New York City",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8348102",
-      "posted_at": "2026-11-25T12:55:18-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8367902",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "New York City",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8367902",
-      "posted_at": "2026-11-25T12:54:50-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8351199",
-      "employer_name": "MongoDB",
-      "job_title": "Software Engineer 3",
-      "location": "New York City",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8351199",
-      "posted_at": "2026-11-25T12:54:16-05:00",
-      "category": "Software Engineer",
       "source": "greenhouse"
     }
   ]
