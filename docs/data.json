@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-11-26T19:26:58.717577+00:00",
+  "generated_at": "2026-11-26T22:50:06.251017+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_cloudflare_8263016",
+      "employer_name": "Cloudflare (bonus, not on your original list)",
+      "job_title": "Senior Software Engineer - Kubernetes Platform",
+      "location": "Distributed; Hybrid",
+      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8263016?gh_jid=8263016",
+      "posted_at": "2026-11-26T15:14:20-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_stripe_8419418",
       "employer_name": "Stripe",
@@ -9,116 +19,6 @@
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8419418",
       "posted_at": "2026-11-26T12:21:42-05:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_cloudflare_8263016",
-      "employer_name": "Cloudflare (bonus, not on your original list)",
-      "job_title": "Senior Software Engineer - Kubernetes platform",
-      "location": "Distributed; Hybrid",
-      "apply_link": "https://boards.greenhouse.io/cloudflare/jobs/8263016?gh_jid=8263016",
-      "posted_at": "2026-11-26T11:44:17-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8258593",
-      "employer_name": "Twilio",
-      "job_title": "Staff Machine Learning Engineer (L4)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258593",
-      "posted_at": "2026-11-26T10:27:36-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8258589",
-      "employer_name": "Twilio",
-      "job_title": "Staff Machine Learning Engineer",
-      "location": "Remote - Ontario, Canada (DNU)",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258589",
-      "posted_at": "2026-11-26T10:27:27-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8258587",
-      "employer_name": "Twilio",
-      "job_title": "Machine Learning Engineer (L3)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258587",
-      "posted_at": "2026-11-26T10:27:22-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8240288",
-      "employer_name": "Twilio",
-      "job_title": "Staff Software Engineer (L4)",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8240288",
-      "posted_at": "2026-11-26T10:27:12-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8258581",
-      "employer_name": "Twilio",
-      "job_title": "Staff Machine Learning Engineer",
-      "location": "Remote - Ontario, Canada (DNU)",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258581",
-      "posted_at": "2026-11-26T10:26:27-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8258573",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8258573",
-      "posted_at": "2026-11-26T10:26:13-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8405809",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L2) Supernetwork",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8405809",
-      "posted_at": "2026-11-26T10:24:10-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8405807",
-      "employer_name": "Twilio",
-      "job_title": "Software Engineer (L2) SuperNetwork",
-      "location": "Remote - Estonia",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8405807",
-      "posted_at": "2026-11-26T10:24:07-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8319434",
-      "employer_name": "Twilio",
-      "job_title": "Staff, Software Engineer (L4)",
-      "location": "Remote - India",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8319434",
-      "posted_at": "2026-11-26T10:23:47-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_twilio_8393933",
-      "employer_name": "Twilio",
-      "job_title": "Staff Data Engineer",
-      "location": "Remote - Ireland",
-      "apply_link": "https://job-boards.greenhouse.io/twilio/jobs/8393933",
-      "posted_at": "2026-11-26T10:22:38-05:00",
-      "category": "Data Engineer",
       "source": "greenhouse"
     }
   ]
