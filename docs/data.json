@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-11-26T02:04:53.856018+00:00",
+  "generated_at": "2026-11-26T03:58:20.214335+00:00",
   "jobs": [
-    {
-      "job_id": "ashby_notion_c777ed1e-e23f-4b76-bc21-039aaf06c1de",
-      "employer_name": "Notion (bonus, not on your original list)",
-      "job_title": "Staff Software Engineer, AI Agents",
-      "location": "San Francisco, California",
-      "apply_link": "https://jobs.ashbyhq.com/notion/c777ed1e-e23f-4b76-bc21-039aaf06c1de",
-      "posted_at": "2026-11-25T21:34:00.621+00:00",
-      "category": "Software Engineer",
-      "source": "ashby"
-    },
     {
       "job_id": "greenhouse_discord_8942144002",
       "employer_name": "Discord (bonus, not on your original list)",
@@ -59,106 +49,6 @@
       "apply_link": "https://www.coinbase.com/careers/positions/8417588?gh_jid=8417588",
       "posted_at": "2026-11-25T17:24:11-05:00",
       "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_7870848",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer",
-      "location": "New York City",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7870848",
-      "posted_at": "2026-11-25T16:36:02-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_xai_5308947007",
-      "employer_name": "xAI",
-      "job_title": "Lead Software Engineer, X Chat",
-      "location": "Palo Alto, CA",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5308947007",
-      "posted_at": "2026-11-25T16:23:49-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_xai_5308958007",
-      "employer_name": "xAI",
-      "job_title": "Principal Software Engineer, X Chat",
-      "location": "Palo Alto, CA",
-      "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5308958007",
-      "posted_at": "2026-11-25T16:23:39-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8354411",
-      "employer_name": "Pinterest",
-      "job_title": "Staff Machine Learning Engineer, Ads Lightweight Ranking ",
-      "location": "San Francisco, CA, US; Remote, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8354411",
-      "posted_at": "2026-11-25T16:07:25-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8262940",
-      "employer_name": "Pinterest",
-      "job_title": "Staff Software Engineer",
-      "location": "San Francisco, CA, US; Los Angeles, CA, US; Seattle, WA, US; New York, NY, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8262940",
-      "posted_at": "2026-11-25T16:07:09-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8234555",
-      "employer_name": "Pinterest",
-      "job_title": "Director, Machine Learning Engineering, Ads Measurement",
-      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8234555",
-      "posted_at": "2026-11-25T16:06:35-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8131793",
-      "employer_name": "Pinterest",
-      "job_title": "Staff Software Engineer, App Promotion ",
-      "location": "San Francisco, CA, US; Seattle, WA, US; Remote, CA, WA, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8131793",
-      "posted_at": "2026-11-25T16:06:23-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8258175",
-      "employer_name": "Pinterest",
-      "job_title": "Director, Machine Learning Engineering, Ads Quality",
-      "location": "Palo Alto, CA, US; San Francisco, CA, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8258175",
-      "posted_at": "2026-11-25T16:06:06-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8049465",
-      "employer_name": "Pinterest",
-      "job_title": "Staff Machine Learning Engineer, Shopping Ads",
-      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8049465",
-      "posted_at": "2026-11-25T16:05:56-05:00",
-      "category": "ML / AI Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_pinterest_8238679",
-      "employer_name": "Pinterest",
-      "job_title": "Staff Machine Learning Engineer, Ads Bidding & Pacing",
-      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
-      "apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=8238679",
-      "posted_at": "2026-11-25T16:04:49-05:00",
-      "category": "ML / AI Engineer",
       "source": "greenhouse"
     }
   ]
