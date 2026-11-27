@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-11-27T17:53:09.200282+00:00",
+  "generated_at": "2026-11-27T19:22:48.499904+00:00",
   "jobs": [
+    {
+      "job_id": "greenhouse_mongodb_8412394",
+      "employer_name": "MongoDB",
+      "job_title": "Senior Software Engineer",
+      "location": "Dublin, Ireland",
+      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8412394",
+      "posted_at": "2026-11-27T12:58:51-05:00",
+      "category": "Software Engineer",
+      "source": "greenhouse"
+    },
     {
       "job_id": "greenhouse_stripe_8421091",
       "employer_name": "Stripe",
