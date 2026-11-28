@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T23:12:28.872105+00:00",
+  "generated_at": "2026-11-28T01:11:52.970948+00:00",
   "jobs": [
     {
       "job_id": "greenhouse_stripe_8421452",
@@ -38,16 +38,6 @@
       "location": "New York, NY",
       "apply_link": "https://stripe.com/jobs/search?gh_jid=8421367",
       "posted_at": "2026-11-27T14:44:36-05:00",
-      "category": "Software Engineer",
-      "source": "greenhouse"
-    },
-    {
-      "job_id": "greenhouse_mongodb_8412394",
-      "employer_name": "MongoDB",
-      "job_title": "Senior Software Engineer",
-      "location": "Dublin, Ireland",
-      "apply_link": "https://www.mongodb.com/careers/job/?gh_jid=8412394",
-      "posted_at": "2026-11-27T12:58:51-05:00",
       "category": "Software Engineer",
       "source": "greenhouse"
     }
